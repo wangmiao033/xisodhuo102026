@@ -13,13 +13,13 @@ The adult protagonist is 25. Gender transformation is explicit in the packaging;
 
 Lin Mo followed his missing sister's voice into a livestream. Now he's the one on camera.
 
-The audience can vote to reshape his bones, change his voice, and turn his twenty-five-year-old body into a woman's. They can even change what he remembers. Refusing an order just gives them something else to vote on.
+Every vote rewrites him. His bones, his voice, his twenty-five-year-old body: the audience is turning it all into a woman's. Next, they want his memories. Saying no just gives them something new to vote on.
 
-A former soldier, Lin Mo has no weapon worth the name and no way to switch off the broadcast. What he does have is a talent for taking instructions literally. If a rule tells him to face a mirror, he'd like to know where it says he has to open his eyes.
+The ex-soldier has no real weapon and no way to kill the stream. What he has is a habit of taking rules literally. Told to face a mirror? Fine. Nothing says his eyes have to be open.
 
 Somewhere in this theater, his sister is still performing. She doesn't recognize him.
 
-He'll play along long enough to find her. The audience is going to regret giving him choices.
+He'll play along until he finds her. The audience is going to regret giving him choices.
 
 ## Chinese description
 
@@ -53,3 +53,9 @@ These are editorial suggestions, not a claim that each is an available Novelpia 
 - Use paragraph changes for speaker or action shifts; avoid turning every sentence into its own paragraph.
 - The abandoned English prototype under drafts/en is not part of the publication sequence.
 - Cover specification from author's supplied experience: 400×600 pixels. Cover has not yet been created.
+
+## Chapter 1 revision check
+
+Current English body: 2006 words, title excluded. English description: 117 words, supplied and approved in wording by the author. Dialogue: 289 words (14.4% of body), using the same curly-quote extraction as the prior 171-word measurement. Narrative single-sentence paragraphs reduced from 67 to 23 under the same heuristic; separate speakers retain separate paragraphs. Word counts treat internal apostrophes and hyphens as part of a word; the platform counter may differ slightly.
+
+The opening uses only the reflection taking hold of the handle again as its asynchronous action. The nurse wording, pocket inventory sentence, and explicit identity-card theme statement were revised. Chinese source dialogue and opening were synchronized.
