@@ -8,7 +8,7 @@ Sun Ning indicated its width with her good hand. “Used to submit shop expenses
 
 “Hospital printed this too?”
 
-“No idea. I could tell it wasn't unfolded.”
+“No idea. I could just tell part of it was still folded under.”
 
 He compared it with the payment record. Only the prefixes matched; the rest differed. He'd almost mistaken them for one account.
 
