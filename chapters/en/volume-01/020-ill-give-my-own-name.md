@@ -118,7 +118,7 @@ Lin Mo put the cooperation page in his basket. Wang Hai moved his water behind h
 
 The shared performance began. A bar stood between their marks. Lin Mo eased his left arm out. Padding made the right sleeve harder; Xiao Lu supported the hem while he withdrew slowly.
 
-He untied the broad strip and placed it in his own basket. Everything in the pockets stayed there, including the shortened wood. He kept its screw clear of the bar.
+He untied the broad strip and placed it in his own basket. He left everything in the jacket pockets, including the shortened wood. He kept its screw clear of the bar.
 
 With the jacket hung up, he stood exposed in the blue top, skirt, and buckled shoes. He was becoming used to the heels, though his knees still tried to brace outward as before.
 
