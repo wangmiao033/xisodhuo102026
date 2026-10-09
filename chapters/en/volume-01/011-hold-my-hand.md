@@ -281,7 +281,7 @@ Wang Hai put the water in his right hand. The bottle was soft enough to hold wit
 
 “My instructor taught me. With these smaller hands, I had to use his strength.”
 
-“Learn something besides hurting people. Your own hand’s nearly finished.”
+“Don’t just practice hurting people. You’re wrecking your own hand.”
 
 Lin Mo glanced at the hand hidden under the man’s arm.
 
