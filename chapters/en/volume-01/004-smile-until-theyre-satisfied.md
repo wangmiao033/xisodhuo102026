@@ -37,7 +37,7 @@ He ignored them and searched the fitting room. Flat shoes on the floor, an unope
 
 The camera was inside, its black lens aimed at the chair. Closing the door wouldn't hide him. He found a small corner out of shot, removed his trousers, and put on the costume.
 
-When the blue cuff brushed his right wrist, he stopped and pulled it wide with his left hand, easing the injured one through. Tighter than the preview suggested. The hem bunched at his waist; shoulder seams pulled toward his neck. His shoulders had already narrowed in the dressing room. The top was still too short across them.
+When the blue cuff brushed his right wrist, he stopped and pulled it wide with his left hand, easing the injured one through. Tighter than the preview suggested. The hem bunched at his waist; shoulder seams pulled toward his neck. His shoulders had already narrowed in the dressing room. The top was still too narrow across the shoulders.
 
 He folded his trousers and took out his keys and wallet. The blue jacket had two real pockets, but they couldn't hold everything. Half a corner of his ID stuck out when he tried it.
 
