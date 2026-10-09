@@ -104,7 +104,7 @@ He raised his face. The front camera drew closer; light caught his hair. Xiao Lu
 
 “How will you get her to recognize you?”
 
-“Talk about before. If she doesn't remember, ask about what she does.”
+“Talk about before. If she doesn't remember, start with what she does remember.”
 
 Her fingers curled against the script.
 
