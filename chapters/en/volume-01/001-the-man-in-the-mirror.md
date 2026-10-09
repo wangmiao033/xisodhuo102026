@@ -2,75 +2,77 @@
 
 Three hours after his sister disappeared, Lin Mo heard her voice on a livestream.
 
-The nurse scrolled through the ward list, her finger resting on the screen. “Nobody by that name in bed six.”
+The nurse stopped scrolling through the ward list.
 
-He spread the hospital receipt on the counter. Rain had softened one corner. Today's date, the ward, the bed number: all correct.
+“There's nobody by that name in bed six.”
 
-The nurse entered the reference number, frowned, and called a colleague over. “Are you sure you're in the right building?”
+He laid his payment receipt on the counter, its corner wet from the rain. Today's date. The right ward and bed number. The nurse entered a string of numbers, studied the screen, then called a colleague over.
+
+“Could you be in the wrong building?”
 
 “I was here this morning.”
 
-An elderly man occupied bed six. His family was adjusting the bed while he complained about his back. His sister's cup and slippers were gone, along with the apple Lin Mo had left half peeled.
+The curtains around bed six stood open. A gray-haired man lay there, asking his family to raise the head of the bed. His sister's cup, her slippers, the apple Lin Mo had left half peeled: all gone.
 
-He called her again. No answer. Her last message was three hours old.
+He called again. No answer. Her last message was three hours old.
 
-*Get something to eat before you come.*
+> Get something to eat before you come.
 
-*Where are you?* he typed.
+He typed, Where are you? The little circle beside his message spun and disappeared. He waited. Seconds later, a link arrived without explanation.
 
-A link arrived a few seconds later. He opened it. A camera looked down on an empty chair, a pale jacket draped over its back. Someone coughed beyond the edge of the frame.
+He opened it. After a moment of black, an empty chair appeared, a pale jacket over its back. The camera was mounted too high, with only half the table in view. Someone offscreen coughed.
 
 “Mo?”
 
-He pressed the phone to his ear. She had to pause for breath after that single word; she'd sounded exactly like that last night.
+He pressed the phone to his ear. That hoarse voice, out of breath after one word. His sister had sounded just like that when he'd stayed with her last night.
 
-“Where are you? What happened to—”
+“Where are you? What's happened to your—”
 
-Nobody answered. The broadcast had one viewer. A message scrolled across the picture.
+His voice carried down the ward corridor. No answer. The picture stayed still. One viewer, the counter said.
 
-*her brother's here*
+> her brother's here
 
-Then another.
+He stopped.
 
-*ward elevator. eighth floor. she's waiting.*
+> take the ward elevator to the eighth floor. she's waiting.
 
-He tried to reply. There was no text box, only a gray exit button.
+He tried to type. No input box, just a gray exit button. Someone pulled the jacket off the chair. His sister coughed again, as though choking.
 
-Someone pulled the jacket off the chair. His sister coughed again, choking this time.
+Any other time, he'd have asked who these people were and why they wanted him watching. But for three hours, all he'd got was “We can't find her.” Whoever was on the other end knew where she was. They knew he was looking.
 
-He'd usually ask who was there, what they wanted, why they were speaking through a broadcast. But he'd just spent three hours asking people questions and getting nowhere. Whoever ran this feed had heard his sister cough. They knew he'd come looking.
+He headed for the elevator. A sheet of paper covered the eighth floor on the directory. He pressed the up button and called her again. He heard the ringback tone in his ear, a phone ringing on the livestream.
 
-Lin Mo headed for the elevator.
+The feed cut out. The elevator doors opened onto an empty car.
 
-White paper covered the eighth-floor entry on the directory. He pressed the call button and dialed her number. The ringing in his ear sounded through the livestream too. The broadcast cut out.
+He stepped inside, pressed eight, and brought up their messages. Her reminder to eat was still there. He deleted Where are you? and typed: Have you eaten?
 
-An empty elevator opened in front of him.
+The elevator stopped. He looked up at the floor indicator. The light buzzed overhead, but the doors wouldn't open. He reached for the button.
 
-He stepped inside, pressed eight, and returned to their messages. Her reminder to eat was still there. He deleted his question and typed the one he'd meant to ask: *Did you eat?*
+His fingers met a metal handle.
 
-The elevator stopped. Its ceiling light buzzed, but the doors stayed shut. He reached for the open button and touched a metal handle.
+A white-painted wooden door stood before him. No elevator doors anywhere. Bulbs burned hot behind his back. He pressed the handle down.
 
-A white wooden door stood in front of him. Hot lights shone at his back. He pushed the handle down.
+His reflection stood opposite, wearing the same black jacket, one shoulder wet. The cut beneath his left eyebrow was there. He'd caught his brow on an open cupboard door that morning while looking for the receipt.
 
-Across the room stood his reflection: wet black jacket, short hair, a cut below the left eyebrow from this morning's encounter with a cupboard door. Lin Mo let go of the handle.
+Lin Mo let go. His reflection raised an arm and took the handle again.
 
-His reflection reached up and took hold of it again.
+He backed into a chair, sending its legs screeching across the floor. The room was cramped, with no windows and only one door. The dressing table faced the door, three bulbs down each side of its mirror. The middle bulb on the left flickered. The others gave off a scorched-dust smell.
 
-He backed into a chair. Its legs scraped the floor.
+He felt for his phone and found the soggy receipt. He searched his other pockets. Nothing.
 
-The room had no window. Six bare bulbs surrounded a dressing-table mirror; one flickered, and the others smelled of burning dust.
+He'd had it when the elevator stopped. Eight above the doors; his question still on the glowing screen. Had he sent it?
 
-He reached into his jacket for the phone and caught the damp edge of his receipt. He tried the other pocket, then the ones in his trousers. No phone.
-
-He'd been holding it in the elevator. Had he sent that last message?
+He couldn't remember. He hadn't seen his sister's face in the stream, either. Only heard her voice.
 
 A speaker crackled above the door.
 
 “Good evening, streamer.”
 
-Beside the grille was a camera the size of his thumb. “Where's my phone?”
+A thumb-sized camera sat beside it.
 
-“Please take your assigned position.”
+“Where's my phone?”
+
+“Please stand on your mark.”
 
 “I asked you a question.”
 
@@ -78,265 +80,260 @@ Beside the grille was a camera the size of his thumb. “Where's my phone?”
 
 “I'm looking for my sister. Put her on.”
 
-“Please take your assigned position.”
+“Please stand on your mark.”
 
 “Is that all you can say?”
 
-The speaker clicked. He waited, watching the camera.
+A click. He watched the camera, waiting.
 
-“Your position is marked on the floor,” she said.
+“Your position is marked on the floor.”
 
-He turned the handle. It spun without catching. Two shoves against the door achieved nothing.
+The handle spun without moving the latch. He shoved twice with his shoulder. The frame didn't budge.
 
-A dirty white-tape X marked the floor beside the dressing table.
+“Your position has been marked for you.”
+
+White tape formed an X before the dressing table. Hair stuck to one peeling end; the other was black with shoe marks. He stood beside it.
 
 “Where am I?”
 
-The mirror darkened. For an instant it reflected him correctly, breathing hard with his keys clenched in his fist.
-
-Text appeared over his face.
+The mirror darkened. Now his reflection was behaving properly: pale, breathing fast, keys clenched in his left hand. White lettering appeared across his face.
 
 > ABYSS THEATER
->
 > Dressing Room 04
->
 > First Appearance
 
-A counter climbed from zero to nineteen, then sixty-three. Messages rose from the bottom.
+The counter climbed. 0. 19. 63.
 
-*another jacket guy*
+> another guy in a jacket
 
-*turn his mic up*
+> turn the sound up
 
-*he can read us lol*
+> he can see us lmao
 
-Lin Mo looked at the camera.
+> what are the opening odds?
 
-“I'm not doing this.”
+He looked at the camera. “I'm not taking part.”
 
-The counter reached 208.
+208 viewers.
 
-“All streamers must complete wardrobe inspection before entering the corridor.” The woman's voice was muffled, pleasantly brisk. “Remove your clothing and place it on the chair.”
+“All streamers must complete a wardrobe inspection before entering the corridor.” A woman's voice, soft at the ends of sentences, muffled by static. She sounded like a shopping mall announcement about coupons. “Remove your clothing and place it on the chair.”
 
 He pocketed his keys. “Open the door.”
 
 “Remove your clothing.”
 
-“You open it. I'll leave.”
+“Open it and I'll leave.”
 
-“Wardrobe inspection must be completed first.”
+“Complete your wardrobe inspection first.”
 
-“Then inspect the clothes I'm wearing.”
+“Then inspect what I'm wearing.”
 
-“Remove them and place them on the chair.”
+“Remove it and place it on the chair.”
 
-“For those people?” He pointed at the counter.
+“For them?” He pointed at the counter.
 
-“Your audience is waiting.”
+“The audience is waiting.”
 
-“They can wait.”
+“Let them.”
 
-“Refusal will be recorded.”
+“Your refusal will be recorded.”
 
-“Record this. No.”
+“Get this down. I'm not stripping.”
 
-His refusal appeared on the mirror, with a little heart beside it. More hearts followed.
+His words appeared on the mirror.
 
-The speaker clicked off. Lin Mo dragged the chair under the camera and climbed onto it. Two screws held the housing to the wall. He gripped it and twisted; the casing was hot.
+> I'm not stripping.
 
-Pain stabbed through his little finger. He let go, expecting blood, but the skin was unbroken. The finger had folded inward at an angle it shouldn't have been able to reach.
+A little heart popped up beside them. Another, then a third. The speaker cut out.
 
-It straightened with a dry click. He stepped off the chair badly and caught the table. His little finger was shorter. He flexed it. It still worked.
+He dragged the chair to the wall and climbed onto it. Two screws held the camera casing. He gripped it and twisted left. The casing was hot against his palm. Pain stabbed his right little finger.
 
-“Wardrobe inspection declined,” the woman said. “Alternative fitting will begin.”
+He let go, expecting a cut. No blood. The finger's middle joint bent toward his palm, farther than it should. Then it straightened itself with a faint sound beneath the skin.
+
+He stumbled off the chair and caught the table. His little finger rested against the next one, visibly shorter. He tried moving it. It moved.
+
+“You have declined wardrobe inspection. Initiating alternative fitting.”
 
 > AUDIENCE VOTE
->
-> A. Bone restructuring
->
-> B. Vocal adjustment
->
-> C. Skin replacement
->
-> Voting closes in 00:20.
+> A: Bone restructuring
+> B: Vocal adjustment
+> C: Skin replacement
+> Voting closes in: 00:20
 
-He searched behind the bulbs and along the mirror frame for wires, a projector, anything he could pull apart.
+He searched under the table, behind the bulbs, between the mirror frame and wall. A projector, wiring. Something he could tear out.
 
-His wrist started aching. “You said twenty seconds.”
+His right wrist began to hurt.
 
-The pain stopped. Nineteen seconds remained.
+“Don't I get twenty seconds?”
 
-*vote A first*
+The pain stopped. Nineteen. He stayed still as the messages scrolled.
 
-*don't waste C on a beginner*
+> A first
 
-*military guy? look at his hair*
+> C's wasted on a newbie
 
-He'd been out for almost a year. The barber downstairs charged fifteen yuan and knew one haircut.
+> buzz cut. ex-army?
 
-Lin Mo swung the chair into the mirror. The impact jarred his arms; a smear of white paint was all it left behind.
+Almost a year out. The barber downstairs charged fifteen yuan and only knew that cut. Lin Mo had never bothered finding another.
 
-Thirteen seconds.
+He swung the chair into the mirror. The impact numbed his arms. A streak of white paint marked the glass. Thirteen seconds. He swung again. A joint split and a back leg broke off.
 
-He hit it again. A joint split, and a rear leg fell off.
+> keep that. you'll need it
 
-*keep that piece*
+> is he gonna stab someone?
 
-*he's gonna stab somebody*
+He picked up the leg. A screw stuck out of the broken end. Nine seconds. He pressed the point into his left palm. A white spot, then pain. He tightened his grip and studied the lock.
 
-He picked up the leg. A screw protruded from the broken end. He pressed its point into his palm until it hurt, then shifted his grip and examined the lock.
+Three seconds. The receipt protruded from his pocket. He tucked it in with his left hand.
 
-Three seconds. The receipt stuck out of his pocket, and he tucked it safely inside.
+> A: Bone restructuring. 81% of votes.
 
-> Bone restructuring: 81%.
+He sat on the floor before it started. Iron bands seemed to tighten around his wrists. His right hand slipped on the chair leg, then caught again. Splinters dug into his palm. He left them there.
 
-Lin Mo sat down before his knees could give way. Pressure closed around his wrists. His grip slipped off the wood; he caught it again, driving a splinter into his palm.
+Next came his jaw. He held his mouth open. A man had bitten his tongue during a seizure in training. Lin Mo didn't know if this would help. It was all he could think of.
 
-Then his jaw hurt. He kept his teeth apart. During training, he'd seen a man bite his tongue in a seizure. He couldn't tell whether this was similar, but keeping his mouth open was something he could do.
+The bulbs hummed. He counted from the left. At four, something shifted deep inside his cheek, forcing a grunt from his throat. The messages sped up.
 
-He counted the bulbs and lost his place at four when something moved deep in his cheek.
-
-The sound he made brought a rush of messages. He lowered his forehead to his knees and waited. Sweat dripped into a seam between the boards.
+He pressed his forehead to his knees. Eventually his wrists hurt less. He kept his head down, waiting for the next wave. Sweat dripped from his nose into the floorboards.
 
 “Initial fitting complete.”
 
-He stayed on the floor.
+He didn't move.
 
-“Check your appearance.”
+“Please inspect your new appearance.”
 
-Lin Mo wiped his mouth on his sleeve and hauled himself up.
+He wiped his mouth on his sleeve and pulled himself up by the table. A young woman's face met him in the mirror.
 
-A young woman looked back from the mirror.
+He touched his jaw. Still aching, but the hard, straight lines had drawn inward. His nose and the cut beneath his eyebrow were unchanged. They looked misplaced.
 
-He touched his jaw. The bone still ached, but its old square outline had narrowed away. His nose and the cut below his eyebrow remained, looking oddly misplaced.
+He turned his head. His reflection turned with him, damp hair stuck to his temple. His face.
 
-He turned his head. Damp hair clung to the woman's temple as she turned hers. It was his face. “That's wrong.”
+“This is wrong.”
 
-His collar rubbed his neck. He pulled at the shoulder of his jacket; there was room beneath it now.
+His collar chafed. He lifted the fabric at his shoulder. The jacket had fitted across his shoulders that morning.
 
-*better*
+> much better
 
-*leave the voice. i wanna hear that face swear*
+> leave his voice alone. i wanna hear that face swear
 
-He faced the camera. “Got a request? Leave an address. I'll tell you in person when I get out.”
+“Got something to say?” He faced the camera. “Leave your address. I'll come talk when I'm out.”
 
-Hearts bubbled up. He put his fist against the glass. “Put it back.”
+Hearts rose. He blocked the comment with his fist.
 
-“Your appearance will continue to develop according to audience preference.”
+“Change it back.”
 
-“My hand. Put my hand back.”
+“Your appearance will continue to be adjusted according to audience preference.”
 
-“An adjustment has already been completed.”
+“My hand. Change it back.”
+
+“This fitting is complete.”
 
 “I can see that. Undo it.”
 
-“Appearance changes are determined by audience preference.”
+“Modifications follow audience preference.”
 
-“Ask them again.”
+“Let them vote again.”
 
-“There is no vote scheduled.”
+“No vote is currently scheduled.”
 
-“Then schedule one. You managed it fast enough the first time.”
+“Then schedule one. You were quick enough before.”
 
-He held his hand up toward the camera, then lowered it. He didn't know who he was showing it to. The messages had names beside them, but they slid past too quickly to catch. He wanted one person to stop typing long enough to answer him.
+He raised his hand to the camera, then lowered it. Names flashed past beside the comments, too fast to catch. He wanted one of them to stop typing and answer him. The speaker gave him only static.
 
-The speaker hissed.
+He laid his hands flat on the table. The scar at the base of his right ring finger was still there, from opening a can. He pressed his thumb to its raised edge.
 
-He spread his fingers on the table. The old scar at the base of his ring finger was still there, raised where a tin lid had cut him. He rubbed it with his thumb.
-
-The door latch clicked.
+The lock clicked. He looked up.
 
 > First appearance complete.
->
 > Proceed to the Mirror Corridor.
->
+
+Smaller letters followed.
+
 > Name: Lin Mo
->
 > Age: 25
->
-> Revision direction: Female
->
-> Physical revision: 6%
->
+> Modification target: Female
+> Physical modification: 6%
 > Cognitive overwrite: 0%
->
 > Beginner protection: Active
 
-His attention caught on *cognitive overwrite*. “My face isn't enough? You're going to change my head too?”
+He stopped at cognitive overwrite.
+
+“My face wasn't enough? You're going to mess with my brain?”
 
 “Proceed to the Mirror Corridor.”
 
-He took out his wallet. His identity card was behind an expired supermarket voucher.
+He opened his wallet. His ID card sat behind an expired supermarket coupon. In the photograph his jaw was broad, his mouth a tight line. The photographer had made him tilt his head right three times. Still wrong.
 
-The photograph showed his old face: broad jaw, mouth set tight. The photographer had kept telling him to tilt his head. He'd done it three times, apparently all wrong.
-
-He held the card beside the mirror. The messages froze halfway up the glass.
+He held the card beside the mirror. The comments froze, the last one stranded halfway up.
 
 “Personal documents are not clothing,” the woman said.
 
-The muffled quality had disappeared. He could hear her breathing.
+Clear now. The muffling was gone. He could even hear her breathe.
 
-The card was warm from his pocket. He kept hold of it a moment longer, his thumb over the edge of the photograph.
+He held the card a moment longer, warm from his pocket, thumb covering the photograph's edge. Then he slipped it into his jacket's inside pocket instead of his wallet.
 
-He slipped the card into his inside pocket, separate from his wallet. “You didn't tell me to put this on the chair.”
+“You didn't tell me to put this on the chair.”
 
-For several seconds she said nothing. Messages suddenly crowded the mirror.
+Silence. Then the comments surged, more crowded than before.
 
-*got her attention*
+> she's nervous now
 
-*who bought his protection?*
+> who bought his protection period?
 
-The second vanished before it reached the top. “Wait.”
+The second vanished before reaching the top. He stepped forward.
+
+“Wait.”
 
 A red notice covered the chat.
 
-> Disclosure restricted.
+> DISCLOSURE PROHIBITED.
 
-Something scraped the wall outside. Lin Mo approached from the hinge side, chair leg in hand. He opened the door a few centimeters.
+He waited. Something scraped outside, as if being dragged along the wall. Gripping the chair leg, he stood on the hinge side and eased the door open a crack.
 
-A corridor stretched both ways. Mirrors filled the spaces between numbered doors. The green carpet was worn white down its center. Water dripped somewhere into a metal container.
+The corridor stretched out of sight both ways. Each door had a number plate, with a mirror beside it. The green carpet was worn white down the middle. Somewhere, water dripped into a metal container.
 
-Nobody was outside. The mirror opposite showed the back of his head.
+Nobody outside. The opposite mirror showed the back of his head. He raised his left hand. The reflected hand stayed down.
 
-He lifted his free hand, then stopped watching and examined a card nailed inside the door. Grease darkened its corners.
+He looked away. A card was nailed inside the door, its corners greasy from handling.
 
-> MIRROR CORRIDOR
->
+> MIRROR CORRIDOR RULES
 > 1. Your destination is Room 09.
-> 2. Keep your assigned name until arrival.
-> 3. If a reflection calls to you, do not answer.
-> 4. At the bell, face the nearest mirror.
+> 2. Safeguard your assigned name until you arrive.
+> 3. If someone in a mirror calls to you, do not answer.
+> 4. When the bell rings, face the nearest mirror.
 
-Someone had scratched a line beneath the print: *Don't give them a name you want to keep.*
+Beneath the print, someone had scratched:
 
-He traced the scratches. Several letters pierced the card. A bell rang, and he faced the mirror opposite.
+> Don't give them a name you can't bear to lose.
 
-His reflection had turned around, holding the broken chair leg in its left hand. He held his in his right. It had his old face again.
+He traced the gouges. An unsteady hand had driven some strokes through the card.
+
+A bell rang. He faced the opposite mirror.
+
+His reflection had turned, standing in the corridor with the chair leg in its left hand. Lin Mo looked down. His was in his right. When he looked up again, the face in the mirror was his old one.
 
 “Mo?”
 
-He bit the inside of his cheek. His sister's voice was hoarse, with the breathlessness she'd had after wearing the oxygen mask.
+He bit his cheek. His sister's voice, hoarse and short of breath the way she'd sounded after being on oxygen.
 
-“Why didn't you answer my message?”
+“Why haven't you answered my messages?”
 
-He tightened his grip.
+He gripped the chair leg harder. His reflection took out a phone. A crack ran through the time display. His phone, dropped outside the hospital pharmacy three weeks ago.
 
-The reflection produced a phone. A crack crossed its time display, exactly where he'd dropped his outside the hospital pharmacy three weeks ago.
+“I asked if you'd eaten.”
 
-“I asked if you ate.”
+Wrong. She'd told him to eat. He'd asked the question.
 
-That was wrong. She'd told him to eat. He'd asked the question.
+He breathed slowly through his nose and kept his mouth shut.
 
-Lin Mo drew a slow breath through his nose and kept his mouth shut.
+The bell stopped. Another figure appeared behind his reflection, too far away to make out a face.
 
-The bell stopped. A second figure rose behind the reflection, too distant to make out.
+“Mo, answer me.”
 
-“Please. Say something.”
+He stepped into the corridor. The door hit his heel. He pulled his foot clear, and it shut behind him with a click of the latch.
 
-He stepped into the corridor. The dressing-room door struck his heel. He pulled his foot clear, and the latch caught behind him.
+The phone in the mirror lit up. One message.
 
-In the mirror, the phone lit up.
+> Don't let them know I'm here.
 
-*Don't let them know I'm here.*
-
-Lin Mo watched until the screen went dark.
+Lin Mo stood without moving until the screen went dark.
