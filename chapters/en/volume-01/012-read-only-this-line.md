@@ -86,7 +86,7 @@ Looking at the confirmed seats, Lin Mo thanked them.
 
 A sound-check requirement appeared: read the illuminated text once to obtain response eligibility.
 
-Lin Mo applied. A white light came on beside the slot, and a small door opened onto a room containing a microphone. Beyond a glass partition, someone was arranging chairs, bracing their legs with a foot to line them up.
+Lin Mo applied. A white light came on beside the slot, and a small door opened onto a room containing a microphone. Beyond a glass partition, someone was lining up chairs, bracing each one with a foot.
 
 Wang Hai set the water beside the console. “Drink first.”
 
@@ -248,7 +248,7 @@ The chosen text appeared.
 
 The microphone turned green.
 
-Lin Mo read it, keeping the respectful form of address. He substituted no name or title.
+Lin Mo read the line exactly as written. He used no name or personal form of address.
 
 Xiao Lu glanced toward the panels.
 
