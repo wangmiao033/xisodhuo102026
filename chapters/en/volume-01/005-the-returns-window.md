@@ -22,7 +22,7 @@ She looked up.
 
 She paused halfway through folding them.
 
-“Come back when you think of it next time.”
+“Come back next time you remember something.”
 
 “The belt.”
 
@@ -98,7 +98,7 @@ He extended the injury through the opening, catching his breath as cloth touched
 
 “Just tell me who sent it.”
 
-“I've seen. Take it back.”
+“I've seen it. Pull your hand back.”
 
 He stepped away. She opened another drawer and tossed him a small roll of clean cloth.
 
