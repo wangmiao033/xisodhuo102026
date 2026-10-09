@@ -200,7 +200,7 @@ Sun Ning passed him water. He fumbled it, brushing the badge with the bottle. Th
 
 Lin Mo didn’t announce that his memory was back. He asked what else Wang Hai remembered from before today.
 
-Wang Hai started describing his factory locker, then stopped at the door. His smile faded.
+Wang Hai started describing his locker at the factory, then broke off when he reached the part about the door. His smile faded.
 
 “Wrong place. That mirror was inside it.”
 
