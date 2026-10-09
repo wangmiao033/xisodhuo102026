@@ -68,7 +68,7 @@ Xiao Lu shook her head. Sun Ning put her notebook away without applying, biting 
 
 The man ticked the register. When Lin Mo refused to sign a blank space, he turned it over and indicated the space after the activity name, adding nothing else.
 
-The scar tightened as Lin Mo gripped the pencil. He switched hands. Half the final character leaned sideways, but he finished the black component at its base.
+The scar tightened as Lin Mo gripped the pencil. He switched hands. Half the final character leaned sideways, but he finished the “black” component.
 
 Wang Hai waited until the paper was clear. “Need a signature for every measurement?”
 
