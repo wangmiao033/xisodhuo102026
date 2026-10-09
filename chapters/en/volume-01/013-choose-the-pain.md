@@ -42,7 +42,7 @@ Her gaze touched his wrapping. He didn’t ask how she knew. He raised the cuff,
 
 He exposed part of the red burn and its lingering swelling. With his other hand he held the jacket closed, keeping the camera out.
 
-Wang Hai bit off his pen cap. Lin Mo waited for pen to touch paper before turning back.
+Wang Hai pulled the pen cap off with his teeth. Lin Mo waited for his pen to touch paper before turning back.
 
 The host announced two minutes. Votes climbed from zero.
 
@@ -184,7 +184,7 @@ Xiao Lu shifted her box before the camera, hiding his bent posture.
 
 She moved it half an inch aside without arguing. Only a ribbon tail remained at the picture’s edge.
 
-Lin Mo clenched a breath between his teeth. Air escaped through his nose. He didn’t want to cry out, but the panels enlarged his tight mouth. Someone suggested choosing crying sounds next time. Another immediately told him to shut up and stop mixing other things into this round.
+Lin Mo held his breath, teeth clenched. Air escaped through his nose. He didn’t want to cry out, but the panels enlarged his tight mouth. Someone suggested choosing crying sounds next time. Another immediately told him to shut up and stop mixing other things into this round.
 
 Lin Mo remembered that second remark.
 
