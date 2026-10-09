@@ -118,7 +118,7 @@ In profile, it resembled his face before he'd arrived: broad jaw, pronounced bro
 
 He raised his right hand. The figure didn't follow. It finished its programmed turn and stood straight.
 
-> Performance appearance shown after fitting.
+> Preview of your appearance after fitting.
 > Actual fitting is subject to the approved result.
 
 He clenched the plastic.
