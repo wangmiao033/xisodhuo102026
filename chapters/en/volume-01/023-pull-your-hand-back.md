@@ -120,7 +120,7 @@ Lin Mo stepped off his mark. His ankle buckled. The onscreen bed was gone, but h
 
 Lin Mo gripped his sleeve, cloth rubbing his injured wrist. Wang Hai lowered his arm and waited until both feet were steady before helping him toward a stool.
 
-Leaving by the other side, Xiao Lu paused with her script.
+Leaving by the other side, Xiao Lu paused.
 
 “Wait outside the yellow line. Even if someone comes out, don't go in.”
 
@@ -176,15 +176,17 @@ Wang Hai put the bottle in his hand, supporting its base.
 
 “My left hand's wrapped like this and you're worrying about the right? I'll watch the time and whether anyone comes out. You ask the questions.”
 
-He unscrewed the cap and handed over the bottle. Water touched Lin Mo's lower lip, but he remembered a straw beside the bed and didn't tilt it. Wang Hai tapped the bottom. He drank, choked, and hunched into his jacket.
+Lin Mo steadied the bottle. Water touched his lower lip, but he remembered a straw beside the bed and didn't tilt it. Wang Hai tapped the bottom. He drank, choked, and hunched into his jacket.
 
-Sun Ning called from the doorway. “You went in standing. Before she mentioned payment, you hadn't sat down either.”
+Sun Ning called from the doorway. “You were standing when you went in. You were still on your feet when she mentioned the payment.”
 
 He returned the bottle and looked over. She stayed seated, left hand on the sealed bag, right arm against her waist.
 
 “I remember.”
 
-“You didn't just now. Waiting to be fed your water.”
+“You didn't just now. You were waiting for someone to tip the bottle for you.”
+
+“Don't look at me,” Wang Hai said. “He drank it himself.”
 
 Wang Hai capped the bottle and tucked it beside his pocket, its base protruding.
 
@@ -234,8 +236,6 @@ Wang Hai set his shoe across the stool's legs.
 
 Lin Mo gripped the seat without following. When the rumbling stopped, he drew his feet away from Wang Hai's shoe.
 
-“That much I can vouch for. I didn't feed you.”
-
 Sun Ning pushed the chair by the doorway inward to clear the passage. Lin Mo started to rise, but Wang Hai touched his shoulder and pointed at the screen.
 
 The hospital identity's results page still showed his current face. Two answers sat together: his about collecting the receipt, hers about nobody asking her to look up. The space for their names was blank.
@@ -244,9 +244,9 @@ The hospital identity's results page still showed his current face. Two answers 
 
 He pushed himself up and approached the screen. Before he could take out the receipt, Wang Hai blocked his pocket.
 
-“Use this.”
+“Use the cooperation form.”
 
-He unfolded their confirmed cooperation form to the signatures and relationship field. Lin Mo held it toward the host's pickup microphone.
+Lin Mo took out their confirmed cooperation form, unfolded it to the signatures and relationship field, and held it toward the host's pickup microphone.
 
 “Two people finished. You've put her answer under mine.”
 
