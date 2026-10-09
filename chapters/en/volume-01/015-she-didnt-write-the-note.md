@@ -36,7 +36,7 @@ He unfolded the handover record. Seven passed its number beneath a narrow lamp, 
 
 Wang Hai held a chair for Sun Ning inside the waiting square. It was too close to the desk for her injured arm. Using his right hand, he turned it so she could sit without squeezing between the armrests.
 
-Seven set down her stamp and opened a folding screen.
+Seven set down her stamp and unfolded a small display.
 
 “One verification per item. The note or the original owner?”
 
@@ -106,9 +106,9 @@ She opened the original instructions. The depositor’s name was still blacked o
 
 His left hand pressed the sleeve. “They knew I’d be injured?”
 
-“We treat injuries if there are any. Inspect regardless. The original instruction didn’t specify your right hand.”
+“If you’re injured, we adjust for it. We inspect either way. The original instruction didn’t specify your right hand.”
 
-He put a nail against at that time. The jacket outside 09 had been looser than his old clothes. How could she have known how narrow his shoulders would become when she left it?
+He pressed his fingernail beneath the words “condition at that time.” The jacket outside 09 had been looser than his old clothes. How could she have known how narrow his shoulders would become when she left it?
 
 Seven enlarged the display. Another instruction had nothing to do with measurements: preserve unregistered personal items in the lining; do not recover the jacket as abandoned clothing.
 
