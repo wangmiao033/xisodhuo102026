@@ -1,4 +1,4 @@
-# Chapter 5: The Returns Window
+# Chapter 5: Who Paid the Price for Me?
 
 The passage behind the cupboard barely held one person. Lin Mo edged sideways, catching the chair leg against a wall. He switched hands, felt the broken end touch his injured wrist, and switched back.
 

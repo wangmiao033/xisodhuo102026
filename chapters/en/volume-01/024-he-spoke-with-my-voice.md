@@ -1,4 +1,4 @@
-# Chapter 24: Look Up
+# Chapter 24: He Spoke with My Voice
 
 “Look up,” Lin Mo said.
 

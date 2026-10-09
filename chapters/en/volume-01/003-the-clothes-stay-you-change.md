@@ -1,4 +1,4 @@
-# Chapter 3: The Needle in the Cuff
+# Chapter 3: The Clothes Stay. You Change.
 
 Lin Mo didn't touch the jacket. He lifted its cuff with the chair leg and held it beneath the cupboard light.
 

@@ -1,4 +1,4 @@
-# Chapter 7: I Won't Sign
+# Chapter 7: Sign Away Your Companion
 
 The back of the application was blank. On the front, a signature line waited at the lower right. Beside it lay a slim pen, pointing toward Lin Mo, thin enough to hold without brushing his injured wrist.
 

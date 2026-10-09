@@ -1,4 +1,4 @@
-# Chapter 22: The One Who Paid
+# Chapter 22: They Say I'm the Patient
 
 “I paid for my sister,” Lin Mo said.
 

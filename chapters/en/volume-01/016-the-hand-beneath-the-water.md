@@ -1,4 +1,4 @@
-# Chapter 16: Wang Hai Signs for His Name
+# Chapter 16: The Hand Beneath the Water
 
 Before Wang Hai’s fingers reached the paper, the water moved.
 

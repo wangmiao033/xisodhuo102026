@@ -1,4 +1,4 @@
-# Chapter 11: Hold My Hand
+# Chapter 11: Confirm It. Then I'll Let Go.
 
 The paddle brushed the patch. The man drew it back.
 

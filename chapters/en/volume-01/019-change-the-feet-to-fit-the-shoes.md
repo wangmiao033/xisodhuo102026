@@ -1,4 +1,4 @@
-# Chapter 19: Walk Across
+# Chapter 19: Change the Feet to Fit the Shoes
 
 The buckled shoes stood at the new program's entrance, toes pointing toward the stage. Lin Mo looked down at them without putting a foot inside.
 
