@@ -48,7 +48,7 @@ The card verified. The screen displayed the number for the still-unsettled welco
 
 “I know. Looking for the time.”
 
-Wang Hai found his mark for the start of feedback. Sun Ning leaned closer, caught her injured arm, then used her left hand to pull closer the support beside the screen.
+Wang Hai found his mark for the start of feedback. Sun Ning leaned closer, jarred her injured arm, then used her left hand to draw the support beside the screen closer.
 
 “Include the time.”
 
@@ -62,7 +62,7 @@ In the reason field he began entering the two options’ vote totals. Pain stabb
 
 “Just say you never said you were happy,” Sun Ning told him. “Don’t explain the whole round for it.”
 
-He deleted the explanation, leaving eight characters:
+He deleted the explanation, leaving only a short request:
 
 > Never expressed satisfaction. Request verification.
 
@@ -110,7 +110,7 @@ The live light turned red. Xiao Lu’s feed cut in. She was still onstage, but d
 
 His application appeared on the transparent panels. Wang Hai tried to move out of shot. Lin Mo had him stand behind him, keeping him out of the staff passage.
 
-The audience’s original summary and his correction reason appeared side by side. Xiao Lu raised a hand, holding the host before the timer began.
+The audience’s original summary and his correction reason appeared side by side. Xiao Lu raised a hand, asking the host to hold the countdown.
 
 She turned her microphone stand slightly. A small sign clipped to it read welcome round. Opening the edit timestamp, she showed its marker after the performance had ended.
 
@@ -185,7 +185,7 @@ Xiao Lu let them argue. When heads turned behind the panels, she uncovered the c
 
 Support stalled at 47%. Wang Hai’s fingers tapped his collar; his badge clicked. He stopped, as if afraid that sound could be cut out too.
 
-Lin Mo didn’t hurry him. The clip played again: female face, skirt, bandaged wrist, all clear. Avoiding the injury close-up, he moved his eight-character correction reason into the center of the picture.
+Lin Mo didn’t hurry him. The clip played again: female face, skirt, bandaged wrist, all clear. Avoiding the injury close-up, he moved his brief correction into the center of the picture.
 
 The music beside Xiao Lu played twice. She didn’t raise her voice over it. At her ten-second call, Lin Mo moved his fingers from the card to the padding inside his cuff.
 
