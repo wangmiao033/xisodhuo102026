@@ -90,7 +90,7 @@ Onscreen, his sister slid the paper onto the bedside cabinet, weighting a corner
 
 “Yes.”
 
-She pulled the sheet back, nearly upsetting the cup, caught it, and read slowly.
+She pulled the sheet back, nearly upsetting the cup, caught it, and read aloud slowly.
 
 > All Existence value at my disposal, transferred in full.
 
