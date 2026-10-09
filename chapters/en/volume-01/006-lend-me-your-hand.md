@@ -111,7 +111,7 @@ Lin Mo reached halfway, then remembered rule two. Did an envelope count as a rec
 
 He withdrew his hand and pointed at the rule.
 
-Wang Hai took his envelope back. His left hand wouldn't open; his right had to hold the paper. Two attempts tore only a corner. It fell to the floor. Lin Mo picked it up and returned it to the tray without touching the seal.
+Wang Hai took his envelope back. His left hand wouldn't open; his right had to hold the paper. After two attempts, he'd only torn the corner. His grip loosened, and the envelope fell to the floor. Lin Mo picked it up and returned it to the tray without touching the seal.
 
 Wang Hai stared at him.
 
@@ -169,7 +169,7 @@ Two options: Lin Mo's name and Wang Hai's number. Lin Mo raised a hand, then sto
 
 Wang Hai pointed to Lin Mo. He folded his record into its envelope and moved to a chair farther from the exit. Lin Mo didn't select anything. Wang Hai pointed again, urging him on.
 
-Lin Mo laid the receipt on his lap, name facing out. He pointed to the door, then to both of them, and held up two fingers.
+Lin Mo laid the receipt on Wang Hai's lap, with the name facing up. He pointed to the door, then to both of them, and held up two fingers.
 
 Wang Hai watched him and shook his head.
 
