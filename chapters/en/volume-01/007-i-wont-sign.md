@@ -31,7 +31,7 @@ The envelope opened farther, revealing a card.
 
 Lin Mo went still. A photograph popped out beside the tabletop. Taken after his discharge: slightly longer hair, a black T-shirt, his arm along the back of his sister's chair. Her face had been cropped away. Only her shoulder remained.
 
-He picked it up. A broad jaw, a straight mouth, no cut beneath the left eyebrow. His sister had said he looked too fierce that day, told him to stop glaring at the camera.
+He picked it up. A broad jaw, lips set in a straight line, no cut beneath the left eyebrow. His sister had said he looked too fierce that day, told him to stop glaring at the camera.
 
 “You'd restore this face?”
 
@@ -172,7 +172,7 @@ Green light passed over the two entries on his application.
 > Both collection statuses verified.
 > Joint settlement approved.
 
-He set down the pen. The monitor changed view as the lock beside Wang Hai released. Wang Hai glanced back at the six empty boxes, then stood with a hand on his chair.
+He set down the pen. The monitor changed view as the lock beside Wang Hai released. Wang Hai glanced back at the six boxes, then stood with a hand on his chair.
 
 Inside, he saw the old application. His face changed. Lin Mo covered it with the joint one.
 
@@ -234,7 +234,7 @@ Lin Mo drew a vertical line between two entries to separate them. Wang Hai leane
 
 “My sister was a patient there. Then she was gone.”
 
-“Her jacket too?”
+“That jacket was hers too?”
 
 “Yes.”
 
