@@ -52,7 +52,7 @@ Water dripped somewhere ahead. The man looked right.
 
 “Mine's gone too.”
 
-He searched his empty pockets. Some of the anger holding his face together drained away.
+He searched his empty pockets. Some of the anger he'd been clinging to drained from his face.
 
 The bell rang as they passed 07. Lin Mo faced the nearest mirror.
 
