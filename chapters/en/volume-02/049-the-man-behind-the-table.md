@@ -110,7 +110,7 @@ It didn't reassure Lin Mo completely. He told Old Chen not to wait for somebody 
 
 Xiao Lu asked whether he wanted her there. He wanted a straight answer about her footage, he said, and wouldn't decide anything else for her. She packed her things and agreed to the water station.
 
-Jiang Jian was gone. A man in a brown waistcoat sat beyond the trough, a flat case on his knees, pencil behind an ear with a piece missing. He pushed out the neighboring stool.
+Jiang Jian was gone. A man in a gray-blue work jacket sat beyond the trough, a flat case on his knees, pencil behind an ear with a piece missing. He pushed out the neighboring stool.
 
 “Sit down, Miss Chen.”
 
