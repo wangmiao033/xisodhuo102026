@@ -31,7 +31,7 @@
 ## 当前进度
 
 - 中文正文与英文文学改写稿均已完成并同步第1—50章；第51—300章尚未写作。
-- 中文第1—36章已由作者确认定稿；第37—50章为双语存稿，待作者审阅。
+- 中文第1—50章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第50章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -87,20 +87,20 @@
 | 34 | [别替我挥手](chapters/zh/volume-02/034-别替我挥手.md) | 3018 | [Don't Wave for Me](chapters/en/volume-02/034-dont-wave-for-me.md) | 2112 | 定稿 |
 | 35 | [先问我一句](chapters/zh/volume-02/035-先问我一句.md) | 3079 | [Ask Me First](chapters/en/volume-02/035-ask-me-first.md) | 1995 | 定稿 |
 | 36 | [等我喘完这口气](chapters/zh/volume-02/036-等我喘完这口气.md) | 3089 | [Let Me Catch My Breath](chapters/en/volume-02/036-let-me-catch-my-breath.md) | 2081 | 定稿 |
-| 37 | [我没来过，却记得这扇门](chapters/zh/volume-02/037-我没来过，却记得这扇门.md) | 3069 | [The Door I Shouldn't Remember](chapters/en/volume-02/037-the-door-i-shouldnt-remember.md) | 2077 | 已交付存稿，待作者审阅 |
-| 38 | [同一段人生，印了两份](chapters/zh/volume-02/038-同一段人生，印了两份.md) | 3100 | [Two Copies of the Same Life](chapters/en/volume-02/038-two-copies-of-the-same-life.md) | 2110 | 已交付存稿，待作者审阅 |
-| 39 | [她记得我教过她](chapters/zh/volume-02/039-她记得我教过她.md) | 3025 | [She Remembers Me Teaching Her](chapters/en/volume-02/039-she-remembers-me-teaching-her.md) | 2114 | 已交付存稿，待作者审阅 |
-| 40 | [王海叫了我三遍](chapters/zh/volume-02/040-王海叫了我三遍.md) | 3063 | [Wang Hai Called Me Three Times](chapters/en/volume-02/040-wang-hai-called-me-three-times.md) | 2005 | 已交付存稿，待作者审阅 |
-| 41 | [她说，叫我老陈](chapters/zh/volume-02/041-她说，叫我老陈.md) | 3036 | [Call Me Old Chen](chapters/en/volume-02/041-call-me-old-chen.md) | 1940 | 已交付存稿，待作者审阅 |
-| 42 | [她的手比记忆更快](chapters/zh/volume-02/042-她的手比记忆更快.md) | 3045 | [Her Hand Moved First](chapters/en/volume-02/042-her-hand-moved-first.md) | 1962 | 已交付存稿，待作者审阅 |
-| 43 | [别停在那一声](chapters/zh/volume-02/043-别停在那一声.md) | 3028 | [Don't Stop at That Word](chapters/en/volume-02/043-dont-stop-at-that-word.md) | 2011 | 已交付存稿，待作者审阅 |
-| 44 | [先让我生你的气](chapters/zh/volume-02/044-先让我生你的气.md) | 3030 | [Let Me Be Angry with You](chapters/en/volume-02/044-let-me-be-angry-with-you.md) | 2090 | 已交付存稿，待作者审阅 |
-| 45 | [喇叭背后的门](chapters/zh/volume-02/045-喇叭背后的门.md) | 3080 | [The Door Behind the Speaker](chapters/en/volume-02/045-the-door-behind-the-speaker.md) | 1821 | 已交付存稿，待作者审阅 |
-| 46 | [剩下的半本](chapters/zh/volume-02/046-剩下的半本.md) | 3095 | [Half a Notebook](chapters/en/volume-02/046-half-a-notebook.md) | 1946 | 已交付存稿，待作者审阅 |
-| 47 | [留在门外的那个人](chapters/zh/volume-02/047-留在门外的那个人.md) | 3090 | [The Man Who Stayed Behind](chapters/en/volume-02/047-the-man-who-stayed-behind.md) | 1917 | 已交付存稿，待作者审阅 |
-| 48 | [空碗也会烫手](chapters/zh/volume-02/048-空碗也会烫手.md) | 3068 | [An Empty Bowl Can Burn](chapters/en/volume-02/048-an-empty-bowl-can-burn.md) | 1959 | 已交付存稿，待作者审阅 |
-| 49 | [从桌后走出来的人](chapters/zh/volume-02/049-从桌后走出来的人.md) | 3077 | [The Man Behind the Table](chapters/en/volume-02/049-the-man-behind-the-table.md) | 1815 | 已交付存稿，待作者审阅 |
-| 50 | [留给她的那张空凳](chapters/zh/volume-02/050-留给她的那张空凳.md) | 3035 | [The Stool Reserved for Her](chapters/en/volume-02/050-the-stool-reserved-for-her.md) | 1991 | 已交付存稿，待作者审阅 |
+| 37 | [我没来过，却记得这扇门](chapters/zh/volume-02/037-我没来过，却记得这扇门.md) | 3069 | [The Door I Shouldn't Remember](chapters/en/volume-02/037-the-door-i-shouldnt-remember.md) | 2077 | 定稿 |
+| 38 | [同一段人生，印了两份](chapters/zh/volume-02/038-同一段人生，印了两份.md) | 3100 | [Two Copies of the Same Life](chapters/en/volume-02/038-two-copies-of-the-same-life.md) | 2110 | 定稿 |
+| 39 | [她记得我教过她](chapters/zh/volume-02/039-她记得我教过她.md) | 3025 | [She Remembers Me Teaching Her](chapters/en/volume-02/039-she-remembers-me-teaching-her.md) | 2114 | 定稿 |
+| 40 | [王海叫了我三遍](chapters/zh/volume-02/040-王海叫了我三遍.md) | 3063 | [Wang Hai Called Me Three Times](chapters/en/volume-02/040-wang-hai-called-me-three-times.md) | 2005 | 定稿 |
+| 41 | [她说，叫我老陈](chapters/zh/volume-02/041-她说，叫我老陈.md) | 3036 | [Call Me Old Chen](chapters/en/volume-02/041-call-me-old-chen.md) | 1940 | 定稿 |
+| 42 | [她的手比记忆更快](chapters/zh/volume-02/042-她的手比记忆更快.md) | 3045 | [Her Hand Moved First](chapters/en/volume-02/042-her-hand-moved-first.md) | 1962 | 定稿 |
+| 43 | [别停在那一声](chapters/zh/volume-02/043-别停在那一声.md) | 3028 | [Don't Stop at That Word](chapters/en/volume-02/043-dont-stop-at-that-word.md) | 2011 | 定稿 |
+| 44 | [先让我生你的气](chapters/zh/volume-02/044-先让我生你的气.md) | 3032 | [Let Me Be Angry with You](chapters/en/volume-02/044-let-me-be-angry-with-you.md) | 2090 | 定稿 |
+| 45 | [喇叭背后的门](chapters/zh/volume-02/045-喇叭背后的门.md) | 3080 | [The Door Behind the Speaker](chapters/en/volume-02/045-the-door-behind-the-speaker.md) | 1821 | 定稿 |
+| 46 | [剩下的半本](chapters/zh/volume-02/046-剩下的半本.md) | 3095 | [Half a Notebook](chapters/en/volume-02/046-half-a-notebook.md) | 1946 | 定稿 |
+| 47 | [留在门外的那个人](chapters/zh/volume-02/047-留在门外的那个人.md) | 3090 | [The Man Who Stayed Behind](chapters/en/volume-02/047-the-man-who-stayed-behind.md) | 1917 | 定稿 |
+| 48 | [空碗也会烫手](chapters/zh/volume-02/048-空碗也会烫手.md) | 3068 | [An Empty Bowl Can Burn](chapters/en/volume-02/048-an-empty-bowl-can-burn.md) | 1959 | 定稿 |
+| 49 | [从桌后走出来的人](chapters/zh/volume-02/049-从桌后走出来的人.md) | 3077 | [The Man Behind the Table](chapters/en/volume-02/049-the-man-behind-the-table.md) | 1819 | 定稿 |
+| 50 | [留给她的那张空凳](chapters/zh/volume-02/050-留给她的那张空凳.md) | 3035 | [The Stool Reserved for Her](chapters/en/volume-02/050-the-stool-reserved-for-her.md) | 1991 | 定稿 |
 
 ## 文件
 
@@ -118,9 +118,9 @@
 
 英文篇幅以译写后的实际词数为准，每章目标1800—2200词；个别章节为保留完整动作与对白略超目标，不靠机械扩句补足。300章预计54万—66万英文正文词。每天两章、150天为作者连载计划，当前未建立自动写作或发布任务。
 
-中文第1—36章已由作者确认定稿。保存不等于在小说平台发布。
+中文第1—50章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：现有50章中英文存稿，其中中文1—36章作者定稿，37—50章待审。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：现有50章中英文存稿，中文第1—50章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
@@ -133,6 +133,8 @@
 第22—30章定稿、定稿库存21→30及核对说明见[2026年10月10日定稿记录](planning/revision-2026-10-10.md)。
 
 第31—36章定稿、定稿库存30→36及核对说明见[2026年10月11日定稿记录](planning/revision-2026-10-11.md)。
+
+第37—50章定稿、定稿库存36→50、第44章视角与背心衣着修订及核对说明见[2026年10月12日定稿记录](planning/revision-2026-10-12.md)。
 
 第35—36章双语交付、实际篇幅及连续性复核见[本轮交付记录](planning/revision-chapters-035-036.md)。
 
