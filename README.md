@@ -31,7 +31,7 @@
 ## 当前进度
 
 - 中文正文与英文文学改写稿均已完成并同步第1—36章；第37—300章尚未写作。
-- 中文第1—30章已由作者确认定稿；第31—36章已交付存稿，待作者审阅。
+- 中文第1—36章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第36章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -81,12 +81,12 @@
 
 | 章 | 中文 | 正文汉字数 | English | Words | 状态 |
 | --- | --- | ---: | --- | ---: | --- |
-| 31 | [别跟着念](chapters/zh/volume-02/031-别跟着念.md) | 3296 | [Don’t Read Along](chapters/en/volume-02/031-dont-read-along.md) | 2110 | 已交付存稿，待作者审阅 |
-| 32 | [纸上那个女人](chapters/zh/volume-02/032-纸上那个女人.md) | 3081 | [The Woman on the Page](chapters/en/volume-02/032-the-woman-on-the-page.md) | 1999 | 已交付存稿，待作者审阅 |
-| 33 | [先把手放下](chapters/zh/volume-02/033-先把手放下.md) | 3039 | [Lower Your Hand First](chapters/en/volume-02/033-lower-your-hand-first.md) | 2092 | 已交付存稿，待作者审阅 |
-| 34 | [别替我挥手](chapters/zh/volume-02/034-别替我挥手.md) | 3018 | [Don't Wave for Me](chapters/en/volume-02/034-dont-wave-for-me.md) | 2112 | 已交付存稿，待作者审阅 |
-| 35 | [先问我一句](chapters/zh/volume-02/035-先问我一句.md) | 3079 | [Ask Me First](chapters/en/volume-02/035-ask-me-first.md) | 1995 | 已交付存稿，待作者审阅 |
-| 36 | [等我喘完这口气](chapters/zh/volume-02/036-等我喘完这口气.md) | 3089 | [Let Me Catch My Breath](chapters/en/volume-02/036-let-me-catch-my-breath.md) | 2081 | 已交付存稿，待作者审阅 |
+| 31 | [别跟着念](chapters/zh/volume-02/031-别跟着念.md) | 3296 | [Don’t Read Along](chapters/en/volume-02/031-dont-read-along.md) | 2110 | 定稿 |
+| 32 | [纸上那个女人](chapters/zh/volume-02/032-纸上那个女人.md) | 3081 | [The Woman on the Page](chapters/en/volume-02/032-the-woman-on-the-page.md) | 1999 | 定稿 |
+| 33 | [先把手放下](chapters/zh/volume-02/033-先把手放下.md) | 3039 | [Lower Your Hand First](chapters/en/volume-02/033-lower-your-hand-first.md) | 2092 | 定稿 |
+| 34 | [别替我挥手](chapters/zh/volume-02/034-别替我挥手.md) | 3018 | [Don't Wave for Me](chapters/en/volume-02/034-dont-wave-for-me.md) | 2112 | 定稿 |
+| 35 | [先问我一句](chapters/zh/volume-02/035-先问我一句.md) | 3079 | [Ask Me First](chapters/en/volume-02/035-ask-me-first.md) | 1995 | 定稿 |
+| 36 | [等我喘完这口气](chapters/zh/volume-02/036-等我喘完这口气.md) | 3089 | [Let Me Catch My Breath](chapters/en/volume-02/036-let-me-catch-my-breath.md) | 2081 | 定稿 |
 
 ## 文件
 
@@ -104,7 +104,7 @@
 
 英文篇幅以译写后的实际词数为准，每章目标1800—2200词；个别章节为保留完整动作与对白略超目标，不靠机械扩句补足。300章预计54万—66万英文正文词。每天两章、150天为作者连载计划，当前未建立自动写作或发布任务。
 
-中文第1—30章已由作者确认定稿。保存不等于在小说平台发布。
+中文第1—36章已由作者确认定稿。保存不等于在小说平台发布。
 
 开更准备：现有36章中英文存稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
@@ -117,5 +117,7 @@
 第21—24章交付、实际汉字数及独家申请准备情况见[2026年10月9日交付记录](planning/revision-2026-10-09.md)。
 
 第22—30章定稿、定稿库存21→30及核对说明见[2026年10月10日定稿记录](planning/revision-2026-10-10.md)。
+
+第31—36章定稿、定稿库存30→36及核对说明见[2026年10月11日定稿记录](planning/revision-2026-10-11.md)。
 
 第35—36章双语交付、实际篇幅及连续性复核见[本轮交付记录](planning/revision-chapters-035-036.md)。
