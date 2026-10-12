@@ -30,8 +30,7 @@
 
 ## 当前进度
 
-- 中文正文与英文文学改写稿均已完成并同步第1—60章；第51—60章为已复核存稿、待作者审阅，第61—300章尚未写作。
-- 中文第1—50章已由作者确认定稿。
+- 中文正文与英文文学改写稿均已完成并同步第1—60章；中文第1—60章已由作者确认定稿，第61—300章尚未写作。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -107,16 +106,16 @@
 
 | 章 | 中文 | 正文汉字数 | English | Words | 状态 |
 | --- | --- | ---: | --- | ---: | --- |
-| 51 | [没喝完的那口水](chapters/zh/volume-02/051-没喝完的那口水.md) | 3043 | [The Unfinished Drink](chapters/en/volume-02/051-the-unfinished-drink.md) | 2028 | 已复核，待作者审阅 |
-| 52 | [答话之前的断口](chapters/zh/volume-02/052-答话之前的断口.md) | 3087 | [Where the Answer Should Be](chapters/en/volume-02/052-where-the-answer-should-be.md) | 1984 | 已复核，待作者审阅 |
-| 53 | [先把书包放下来](chapters/zh/volume-02/053-先把书包放下来.md) | 3123 | [The Bag on Her Back](chapters/en/volume-02/053-the-bag-on-her-back.md) | 1937 | 已复核，待作者审阅 |
-| 54 | [站着听的道歉](chapters/zh/volume-02/054-站着听的道歉.md) | 3161 | [The Apology Beyond the Glass](chapters/en/volume-02/054-the-apology-beyond-the-glass.md) | 1991 | 已复核，待作者审阅 |
-| 55 | [朝里抬的挡片](chapters/zh/volume-02/055-朝里抬的挡片.md) | 3044 | [The Guard Turned Inward](chapters/en/volume-02/055-the-guard-turned-inward.md) | 2038 | 已复核，待作者审阅 |
-| 56 | [十万张不能攒的票](chapters/zh/volume-02/056-十万张不能攒的票.md) | 3177 | [A Hundred Thousand, All at Once](chapters/en/volume-02/056-a-hundred-thousand-all-at-once.md) | 2084 | 已复核，待作者审阅 |
-| 57 | [手心里剩下的重量](chapters/zh/volume-02/057-手心里剩下的重量.md) | 3103 | [The Weight Left in His Hand](chapters/en/volume-02/057-the-weight-left-in-his-hand.md) | 2017 | 已复核，待作者审阅 |
-| 58 | [杯子还占着地方](chapters/zh/volume-02/058-杯子还占着地方.md) | 3208 | [The Cup Kept Its Place](chapters/en/volume-02/058-the-cup-kept-its-place.md) | 2145 | 已复核，待作者审阅 |
-| 59 | [零票也得让人看见](chapters/zh/volume-02/059-零票也得让人看见.md) | 3205 | [Let Them See Zero](chapters/en/volume-02/059-let-them-see-zero.md) | 2092 | 已复核，待作者审阅 |
-| 60 | [白线后面没有担保](chapters/zh/volume-02/060-白线后面没有担保.md) | 3056 | [No Guarantee Beyond the White Line](chapters/en/volume-02/060-no-guarantee-beyond-the-white-line.md) | 2062 | 已复核，待作者审阅 |
+| 51 | [没喝完的那口水](chapters/zh/volume-02/051-没喝完的那口水.md) | 3043 | [The Unfinished Drink](chapters/en/volume-02/051-the-unfinished-drink.md) | 2028 | 定稿 |
+| 52 | [答话之前的断口](chapters/zh/volume-02/052-答话之前的断口.md) | 3087 | [Where the Answer Should Be](chapters/en/volume-02/052-where-the-answer-should-be.md) | 1984 | 定稿 |
+| 53 | [先把书包放下来](chapters/zh/volume-02/053-先把书包放下来.md) | 3123 | [The Bag on Her Back](chapters/en/volume-02/053-the-bag-on-her-back.md) | 1937 | 定稿 |
+| 54 | [站着听的道歉](chapters/zh/volume-02/054-站着听的道歉.md) | 3161 | [The Apology Beyond the Glass](chapters/en/volume-02/054-the-apology-beyond-the-glass.md) | 1991 | 定稿 |
+| 55 | [朝里抬的挡片](chapters/zh/volume-02/055-朝里抬的挡片.md) | 3044 | [The Guard Turned Inward](chapters/en/volume-02/055-the-guard-turned-inward.md) | 2038 | 定稿 |
+| 56 | [十万张不能攒的票](chapters/zh/volume-02/056-十万张不能攒的票.md) | 3177 | [A Hundred Thousand, All at Once](chapters/en/volume-02/056-a-hundred-thousand-all-at-once.md) | 2084 | 定稿 |
+| 57 | [手心里剩下的重量](chapters/zh/volume-02/057-手心里剩下的重量.md) | 3103 | [The Weight Left in His Hand](chapters/en/volume-02/057-the-weight-left-in-his-hand.md) | 2017 | 定稿 |
+| 58 | [杯子还占着地方](chapters/zh/volume-02/058-杯子还占着地方.md) | 3208 | [The Cup Kept Its Place](chapters/en/volume-02/058-the-cup-kept-its-place.md) | 2145 | 定稿 |
+| 59 | [零票也得让人看见](chapters/zh/volume-02/059-零票也得让人看见.md) | 3205 | [Let Them See Zero](chapters/en/volume-02/059-let-them-see-zero.md) | 2092 | 定稿 |
+| 60 | [白线后面没有担保](chapters/zh/volume-02/060-白线后面没有担保.md) | 3056 | [No Guarantee Beyond the White Line](chapters/en/volume-02/060-no-guarantee-beyond-the-white-line.md) | 2062 | 定稿 |
 
 ## 文件
 
@@ -134,9 +133,9 @@
 
 英文篇幅以译写后的实际词数为准，每章目标1800—2200词；个别章节为保留完整动作与对白略超目标，不靠机械扩句补足。300章预计54万—66万英文正文词。每天两章、150天为作者连载计划，当前未建立自动写作或发布任务。
 
-中文第1—50章已由作者确认定稿。保存不等于在小说平台发布。
+中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：现有60章中英文存稿，中文第1—50章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：现有60章中英文存稿，中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
@@ -151,6 +150,8 @@
 第31—36章定稿、定稿库存30→36及核对说明见[2026年10月11日定稿记录](planning/revision-2026-10-11.md)。
 
 第37—50章定稿、定稿库存36→50、第44章视角与背心衣着修订及核对说明见[2026年10月12日定稿记录](planning/revision-2026-10-12.md)。
+
+第51—60章定稿、定稿库存50→60及核对说明见[2026年10月12日第51—60章定稿记录](planning/revision-2026-10-12-51-60.md)。
 
 第35—36章双语交付、实际篇幅及连续性复核见[本轮交付记录](planning/revision-chapters-035-036.md)。
 
