@@ -30,10 +30,10 @@
 
 ## 当前进度
 
-- 中文正文与英文文学改写稿均已完成并同步第1—56章；第51—56章为已复核存稿、待作者审阅，第57—300章尚未写作。
+- 中文正文与英文文学改写稿均已完成并同步第1—58章；第51—58章为已复核存稿、待作者审阅，第59—300章尚未写作。
 - 中文第1—50章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
-- 第一卷推进表保留第30章结局；连续性记录接至第56章，第二卷推进表保留卷次边界。
+- 第一卷推进表保留第30章结局；连续性记录接至第58章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
 - GitHub使用作者指定仓库 `wangmiao033/xisodhuo102026`。
 
@@ -113,14 +113,16 @@
 | 54 | [站着听的道歉](chapters/zh/volume-02/054-站着听的道歉.md) | 3161 | [The Apology Beyond the Glass](chapters/en/volume-02/054-the-apology-beyond-the-glass.md) | 1991 | 已复核，待作者审阅 |
 | 55 | [朝里抬的挡片](chapters/zh/volume-02/055-朝里抬的挡片.md) | 3044 | [The Guard Turned Inward](chapters/en/volume-02/055-the-guard-turned-inward.md) | 2038 | 已复核，待作者审阅 |
 | 56 | [十万张不能攒的票](chapters/zh/volume-02/056-十万张不能攒的票.md) | 3177 | [A Hundred Thousand, All at Once](chapters/en/volume-02/056-a-hundred-thousand-all-at-once.md) | 2084 | 已复核，待作者审阅 |
+| 57 | [手心里剩下的重量](chapters/zh/volume-02/057-手心里剩下的重量.md) | 3103 | [The Weight Left in His Hand](chapters/en/volume-02/057-the-weight-left-in-his-hand.md) | 2017 | 已复核，待作者审阅 |
+| 58 | [杯子还占着地方](chapters/zh/volume-02/058-杯子还占着地方.md) | 3208 | [The Cup Kept Its Place](chapters/en/volume-02/058-the-cup-kept-its-place.md) | 2145 | 已复核，待作者审阅 |
 
 ## 文件
 
 - `chapters/zh/volume-01/`：中文正文，第1—30章。
-- `chapters/zh/volume-02/`：第二卷中文正文，现有第31—56章。
+- `chapters/zh/volume-02/`：第二卷中文正文，现有第31—58章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—56章；第31—56章位于 `volume-02/`。
+- `chapters/en/`：英文文学改写稿，第1—58章；第31—58章位于 `volume-02/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -132,7 +134,7 @@
 
 中文第1—50章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：现有56章中英文存稿，中文第1—50章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：现有58章中英文存稿，中文第1—50章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
@@ -171,3 +173,5 @@
 第53—54章双语续写存稿、实测篇幅与连续性复核见[交付记录](planning/revision-chapters-053-054.md)。
 
 第55—56章双语续写存稿、实测篇幅与连续性复核见[交付记录](planning/revision-chapters-055-056.md)。
+
+第57—58章双语续写存稿、实测篇幅与连续性复核见[交付记录](planning/revision-chapters-057-058.md)。
