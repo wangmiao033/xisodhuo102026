@@ -146,3 +146,42 @@ Keep the published English titles and narrative decisions consistent:
 The fate-mark test **does not** scan Adrian's body or mind, consume the Temple's original contract, or independently prove that a past romance existed. It consumes the finite residue of an authenticated transfer medium and magical energy from Cecilia; blank and known-date controls are documented. The dual date marks may refer to different archival events or calendar systems, and *Cycle Seven Hundred Twenty-One* cannot presently be converted reliably to a modern year. Chapter 36 should examine which parts of the oversight restrictions are justified confidentiality and which might obstruct the participants' access to records about themselves.
 
 Elena remains proactive about pursuing Adrian after Chapter 30; don't reset her to silent denial. Cecilia is not automatically in love with Adrian by virtue of the historical record, and she values charitable medical work and her religious principles independently of the romance plot. Adrian continues exercising real autonomy in consent, investigation, and personal scheduling.
+
+
+## Volume Two: Chapters 36–40 (October 16–20)
+
+- **Chapter 36:** Temple Internal Oversight restricts public circulation of speculative findings concerning R-074's dual-date anomaly. It has **not** canceled Cecilia's independent investigation authority. Both confidentiality for sensitive originals and participant access rights matter. Cecilia's junior attendant **Mira Finch (22)** goes to verify medicine receipts and bed-number correction procedures at Mercy Clinic; she does not return to the guesthouse as planned.
+- **Chapter 37:** Hale, Elena, Adrian, and Cecilia trace Mira's recorded route through an amended Temple guesthouse entry, an unsigned temporary rerouting slip, and an independently witnessed medicine wagon transfer. **Toby**, a coachman, saw her near the vehicle but not necessarily boarding it. A note in the chestnut seller's custody asks investigators to check who really received the medicine. Missing status does not alone prove abduction.
+- **Chapter 38:** At Mercy Clinic, Dr. **Grace Winter** prioritizes clinical care and verifying donated medicine before allowing it into the dispensary. Cecilia participates as a charity volunteer rather than claiming automatic medical authority as a saint. Jonah's mother cannot find her son after bed reassignment; another patient, **Elliot Morris**, says the Temple staff have called him Jonah. An anomalous medicine transfer and patient-reference trail lead to **Graybell Relief Station**.
+- **Chapter 39:** With narrow patient consents and municipal medical supervision, they establish that **C-19 originally belonged to Jonah Payne** and **C-91 to Elliot Morris**, but an amended Temple register swapped the identifiers. An administrative report says a blessing for C-19 was completed when Elliot occupied the mislabeled bed; this does **not** show that prayer replaced clinical treatment, that a prognosis was scientifically true/false, or that a person recovered from illness. A letter possibly from Mira identifies Graybell's east sickroom; its writer is not independently authenticated yet.
+- **Chapter 40:** Authorized municipal medical inspectors enter Graybell. Jonah is alive but requires ongoing physician-supervised care, and the clinic corrects his identity and care transfer. Mira is found alive behind a door bolted from the outside, and says she refused to sign a false completion record and was not allowed to leave. Authorities independently record her statement, the absence of a valid detention order, and the paper trail without attributing guilt to an entire institution. Elena organizes care and lawful inspections; Cecilia safeguards records and volunteers. The Temple subsequently accuses Cecilia of leaking a restricted divine prognosis, setting up Chapter 41.
+- **Relationships:** Elena and Adrian have already voluntarily begun courtship; do not reset them to denial. Cecilia is compassionate, direct, and committed to her vocation, and her interest in Adrian remains exploratory. Adrian can make choices without being a prize to be allocated between women.
+
+### Additional canonical English terms
+
+| Chinese | English |
+|---|---|
+| 米拉·芬奇 | Mira Finch |
+| 乔纳·佩恩 | Jonah Payne |
+| 埃利奥特·莫里斯 | Elliot Morris |
+| 格蕾丝·温特医生 | Dr. Grace Winter |
+| 艾达（护士） | Ada |
+| 托比（车夫） | Toby |
+| 仁慈诊所 | Mercy Clinic |
+| 灰钟救助站 | Graybell Relief Station |
+| 下城区 | lower district |
+| 药品分拨站 | medicine distribution depot |
+| 行政值班室 | Administrative Duty Office |
+| 圣堂内部监察部门 | Temple Internal Oversight |
+| 预示病患名录 | patient prognosis register |
+| 圣谕 | divine prognosis / Temple oracle (context dependent) |
+| C-19 / C-91 | C-19 / C-91 (preserve exact identifiers) |
+| 限制披露 | restricted circulation / limited disclosure |
+| 伪造祈福完成报告 | false blessing-completion record |
+| 医疗监督员 | municipal medical inspector |
+
+### Dramatic and epistemic guardrails
+
+The clinic storyline must **not** imply that a clerical correction instantly heals patients. The betrayal is the substitution of identifiers and attempts to present the stable Elliot as evidence of an oracle's success while Jonah still needs care. The existence of a fraudulent administrative report does not settle whether all religious prophecy is false. Handle medical privacy, treatment, and welfare with independent clinicians and authorized inspection. Mira has her own motives and relationships: she draws suns for children and makes red thread bracelets, and her refusal to sign is an independent ethical choice. Temple charges against Cecilia should arise from a concrete procedural accusation, not the automatic assumption that the entire religious hierarchy already knows and directed the cover-up.
+
+Avoid literal calques such as "fated patient was exchanged" when an idiomatic sentence like "the patients' identities were switched in the records" is more accurate. Keep the old legal and religious systems distinct.
