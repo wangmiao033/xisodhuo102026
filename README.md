@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 仓库现有第1—60章及第71—80章中英文正文；中文第1—60章已由作者确认定稿。第61—70章尚未提交至本仓库。
+- 仓库现有第1—80章中英文正文；中文第1—60章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -102,7 +102,7 @@
 | 50 | [留给她的那张空凳](chapters/zh/volume-02/050-留给她的那张空凳.md) | 3035 | [The Stool Reserved for Her](chapters/en/volume-02/050-the-stool-reserved-for-her.md) | 1991 | 定稿 |
 
 
-### 第51—70章续写存稿（已完成部分）
+### 第51—70章续写存稿
 
 | 章 | 中文 | 正文汉字数 | English | Words | 状态 |
 | --- | --- | ---: | --- | ---: | --- |
@@ -116,10 +116,18 @@
 | 58 | [杯子还占着地方](chapters/zh/volume-02/058-杯子还占着地方.md) | 3208 | [The Cup Kept Its Place](chapters/en/volume-02/058-the-cup-kept-its-place.md) | 2145 | 定稿 |
 | 59 | [零票也得让人看见](chapters/zh/volume-02/059-零票也得让人看见.md) | 3205 | [Let Them See Zero](chapters/en/volume-02/059-let-them-see-zero.md) | 2092 | 定稿 |
 | 60 | [白线后面没有担保](chapters/zh/volume-02/060-白线后面没有担保.md) | 3056 | [No Guarantee Beyond the White Line](chapters/en/volume-02/060-no-guarantee-beyond-the-white-line.md) | 2062 | 定稿 |
+| 61 | [先看镜子背面](chapters/zh/volume-03/061-先看镜子背面.md) | 3123 | [The Back of the Mirror](chapters/en/volume-03/061-the-back-of-the-mirror.md) | 1996 | 存稿 |
+| 62 | [笑完别把票收回](chapters/zh/volume-03/062-笑完别把票收回.md) | 3053 | [Laugh, but Don't Take Back Your Vote](chapters/en/volume-03/062-laugh-but-dont-take-back-your-vote.md) | 2033 | 存稿 |
+| 63 | [两碗没动过的面](chapters/zh/volume-03/063-两碗没动过的面.md) | 3116 | [Two Untouched Bowls](chapters/en/volume-03/063-two-untouched-bowls.md) | 2021 | 存稿 |
+| 64 | [她先吃的那一口](chapters/zh/volume-03/064-她先吃的那一口.md) | 3087 | [She Ate First](chapters/en/volume-03/064-she-ate-first.md) | 2006 | 存稿 |
+| 65 | [替他点头的人](chapters/zh/volume-03/065-替他点头的人.md) | 3161 | [Someone to Say Yes](chapters/en/volume-03/065-someone-to-say-yes.md) | 1982 | 存稿 |
+| 66 | [那声等一下是她的](chapters/zh/volume-03/066-那声等一下是她的.md) | 3077 | [The One Who Said Wait](chapters/en/volume-03/066-the-one-who-said-wait.md) | 1899 | 存稿 |
+| 67 | [哥，我认得你了](chapters/zh/volume-03/067-哥，我认得你了.md) | 3150 | [I Know You Now](chapters/en/volume-03/067-i-know-you-now.md) | 1897 | 存稿 |
+| 68 | [后悔也坐在这里](chapters/zh/volume-03/068-后悔也坐在这里.md) | 3055 | [Regret Can Sit Here Too](chapters/en/volume-03/068-regret-can-sit-here-too.md) | 1839 | 存稿 |
+| 69 | [让他用新声音说完](chapters/zh/volume-03/069-让他用新声音说完.md) | 3026 | [Let Him Finish in His New Voice](chapters/en/volume-03/069-let-him-finish-in-his-new-voice.md) | 1849 | 存稿 |
+| 70 | [空架先被推了进来](chapters/zh/volume-03/070-空架先被推了进来.md) | 3053 | [The Empty Frame Came First](chapters/en/volume-03/070-the-empty-frame-came-first.md) | 1829 | 存稿 |
 
 ### 第71—80章中英文存稿
-
-第61—70章尚未提交至本仓库，本节目录从第71章开始。
 
 | 章 | 中文 | 正文汉字数 | English | Words |
 | --- | --- | ---: | --- | ---: |
@@ -140,10 +148,10 @@
 
 - `chapters/zh/volume-01/`：中文正文，第1—30章。
 - `chapters/zh/volume-02/`：第二卷中文正文，现有第31—60章。
-- `chapters/zh/volume-03/`：第三卷中文正文，现有第71—80章。
+- `chapters/zh/volume-03/`：第三卷中文正文，现有第61—80章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—60章及第71—80章；第31—60章位于 `volume-02/`，第71—80章位于 `volume-03/`。
+- `chapters/en/`：英文文学改写稿，第1—80章；第31—60章位于 `volume-02/`，第61—80章位于 `volume-03/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -155,7 +163,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：本仓库现有70章中英文存稿（第1—60章及第71—80章），第61—70章尚未提交；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有80章中英文存稿（第1—80章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
