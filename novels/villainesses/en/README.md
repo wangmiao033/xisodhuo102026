@@ -2,9 +2,9 @@
 
 **Volume One: A Betrothal Written in Blood — complete (Chapters 1–30)**
 
-**Volume Two: The Saint Won't Let Me Get Married — in progress (Chapters 31–35)**
+**Volume Two: The Saint Won't Let Me Get Married — in progress (Chapters 31–40)**
 
-All **35 completed Chinese chapters** have been adapted into full English prose and committed separately in this folder. Volume One contains 30 chapters, and Volume Two currently has 5 chapters. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
+All **40 completed Chinese chapters** have been adapted into full English prose and committed separately in this folder. Volume One contains 30 chapters, and Volume Two currently has 10 chapters. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
 
 ## English reading order
 
@@ -47,9 +47,15 @@ All **35 completed Chinese chapters** have been adapted into full English prose 
 | 34 | [The Saint Calls It a Small Test](./chapter-34.md) | 2,013 |
 | 35 | [One Betrothal, Two Dates](./chapter-35.md) | 2,057 |
 
-**Total, Chapters 1–35: 75,445 English words.**
+| 36 | [The Temple Says Nobody May Talk About It](./chapter-36.md) | 1,980 |
+| 37 | [The Saint's Attendant Never Came Back](./chapter-37.md) | 2,033 |
+| 38 | [The Patient Matters More Than the Prophecy](./chapter-38.md) | 2,152 |
+| 39 | [The Patient in the Prophecy Was Someone Else](./chapter-39.md) | 2,034 |
+| 40 | [The Villainess and the Saint Join Forces](./chapter-40.md) | 2,121 |
 
-**Volume One: 65,266 words. Volume Two, Chapters 31–35: 10,179 words.**
+**Total, Chapters 1–40: 85,765 English words.**
+
+**Volume One: 65,266 words. Volume Two, Chapters 31–40: 20,499 words.**
 
 Word counts are derived from the English files, including chapter headings, and may vary slightly by the word-counting method used by a publishing platform.
 
@@ -73,10 +79,19 @@ Word counts are derived from the English files, including chapter headings, and 
 - **October 15 — Chapter 35:** One date field matches a judicial transfer seven years ago; the other uses the unconverted cycle notation "Cycle Seven Hundred Twenty-One, Ninth Month, Seventeenth Day." This is **not proof of time travel**. Temple oversight then imposes a limited disclosure notice, setting up Chapter 36.
 - **Relationship:** Elena has already openly said she intends to pursue Adrian. Adrian reciprocates interest, but neither has agreed to marriage. Cecilia is a principled investigator with her own work and obligations, not a person claiming ownership through an old document.
 
+## Volume Two: medical records and Temple secrecy (Chapters 36–40)
+
+- **October 16 — Chapter 36:** Temple oversight limits publication of unverified R-074 findings without revoking Cecilia's right to investigate. She assigns her junior attendant **Mira Finch** to verify ordinary medicine receipts at Mercy Clinic. Mira does not return as agreed.
+- **October 17 — Chapter 37:** Municipal patrol and witnesses trace an altered route and unusual medicine transfer toward Mercy Clinic. Mira is listed as missing, but abduction is not yet established.
+- **October 18 — Chapter 38:** The team helps Grace Winter's clinic maintain ordinary patient care and identifies contradictory medicine, bed, and patient-number records. Jonah Payne and Elliot Morris appear under overlapping identities.
+- **October 19 — Chapter 39:** Authorized patient identity records establish that **C-19** originally referred to Jonah Payne and **C-91** to Elliot Morris; the Temple's corrected register swapped the references. A blessing-completed report is not proof of medical recovery or of a divine prediction. They seek lawful welfare inspection of Graybell Relief Station.
+- **October 20 — Chapter 40:** Municipal health inspectors find Jonah and Mira at Graybell. Jonah returns to clinical care; Mira, who says she was prevented from leaving, is recovered safely. Elena and Cecilia cooperate through medical, legal, and charitable channels. Temple Internal Oversight then accuses Cecilia of unauthorized disclosure of restricted divine prognosis.
+- **Relationship continuity:** Elena and Adrian openly like each other and are dating voluntarily. Cecilia is a principled independent investigator, not someone legally entitled to Adrian under an old record. All three retain separate choices and duties; Mira and the patients are people, not disposable evidence props.
+
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–35](../READING_INDEX_01_35.md)
+- [Complete Chinese reading directory, Chapters 1–40](../READING_INDEX_01_40.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volume One is complete in both Chinese and English (Chapters 1–30).** Volume Two Chapters 31–35 are also complete in both languages; Chapters 36 onward remain in outline form.
+**Volume One is complete in both Chinese and English (Chapters 1–30).** Volume Two Chapters 31–40 are also complete in both languages; Chapters 41 onward remain in outline form.
