@@ -87,3 +87,27 @@ Maintain continuity in later translations with the latest Chinese manuscript, no
 - Chapter 24's dance is willingly initiated by Adrian and completed without another accidental kiss.
 - Chapter 25: Matthew is found by lawful municipal inspection, retains control of his original notebook, and provides verifiable copies through an independent notary.
 - Chapter 26: the prince's meeting proposal is not accepted; the stamped document names Evelyn Vale as a verification contact, not conclusive proof she authorized the scheme.
+
+
+## Volume One finale: Chapters 27–30
+
+- **Chapter 27 (October 7):** Elena's rehearsed thanks to Viscount Harding are mistaken for a romantic declaration. Adrian confesses jealousy and admits he hopes Elena likes him, but they do not yet formally confess. The independent hearing moves from October 12 to October 9, with additional record verification on October 8.
+- **Chapter 28 (October 8):** Physical contact with the worn brass railing in the sealed western courtroom prompts a fragmented recollection of Adrian on an earlier execution platform. A golden-haired woman appears in the witness box, but neither her identity nor her words are established. The vision has no standing as judicial evidence. Authorized clerks verify an incomplete R-074 handover record and a historical seal issue entry dated September 17 referencing Evidence Item 714. They must still authenticate who actually borrowed and used the seal.
+- **Chapter 29 (October 9):** Following documentary and physical verification, the Crown formally withdraws the treason case against Elena, and the court terminates the prosecution. This does not convict Edwin Clay, Evelyn Vale, Prince Leon, or the entire Temple. Investigation of evidence tampering proceeds independently. Evelyn's office has been cleared, but nobody has established that she fled to evade justice.
+- **Chapter 30 (October 10):** Elena explicitly confesses romantic interest and intends to pursue Adrian by choice. Adrian admits reciprocal feelings but requests a slower, serious courtship. Their working relationship remains under independent employment assessment; no engagement or marriage is formed. Cecilia Saintclair **first appears in person** after being mentioned in Chapter 16, corrects misleading wording from Felix Horn's prior report, and presents a certified facsimile of a historical betrothal record naming Adrian Reed and Cecilia Saintclair. Both reject any current legal obligation; authenticity, signatory identity, and date conversion remain unverified.
+
+### Additional canonical English terms
+
+| Chinese | English |
+|---|---|
+| 哈丁子爵 | Viscount Harding |
+| 独立复审庭 | independent review court |
+| 证物七一四 | Evidence Item 714 |
+| 旧印领用本 | historical seal issue register |
+| 过渡交接联 | temporary handover copy |
+| 暂存待核验 | temporarily held, pending verification |
+| 已完整收讫 | receipt complete |
+| 旧制婚约登记 | historical betrothal registration |
+| 圣堂独立复核委员会 | Temple independent review committee |
+
+The core emotional milestone must carry over into Volume Two: **Elena has already expressed romantic interest openly**; do not reset her to denying that she likes Adrian merely because Cecilia has appeared. Cecilia's curiosity about the prior record is not proof she has already fallen in love with Adrian. The file's names do not establish consensual present-day commitment.
