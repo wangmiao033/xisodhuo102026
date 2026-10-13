@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 中文正文与英文文学改写稿均已完成并同步第1—60章；中文第1—60章已由作者确认定稿，第61—300章尚未写作。
+- 仓库现有第1—60章及第71—80章中英文正文；中文第1—60章已由作者确认定稿。第61—70章尚未提交至本仓库。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -117,13 +117,33 @@
 | 59 | [零票也得让人看见](chapters/zh/volume-02/059-零票也得让人看见.md) | 3205 | [Let Them See Zero](chapters/en/volume-02/059-let-them-see-zero.md) | 2092 | 定稿 |
 | 60 | [白线后面没有担保](chapters/zh/volume-02/060-白线后面没有担保.md) | 3056 | [No Guarantee Beyond the White Line](chapters/en/volume-02/060-no-guarantee-beyond-the-white-line.md) | 2062 | 定稿 |
 
+### 第71—80章中英文存稿
+
+第61—70章尚未提交至本仓库，本节目录从第71章开始。
+
+| 章 | 中文 | 正文汉字数 | English | Words |
+| --- | --- | ---: | --- | ---: |
+| 71 | [不许空着的两个方框](chapters/zh/volume-03/071-不许空着的两个方框.md) | 3051 | [Neither Box Says Let Him Go](chapters/en/volume-03/071-neither-box-says-let-him-go.md) | 1827 |
+| 72 | [门槛只认一个人](chapters/zh/volume-03/072-门槛只认一个人.md) | 3063 | [The Threshold Admits One](chapters/en/volume-03/072-the-threshold-admits-one.md) | 1882 |
+| 73 | [他放下手，镜里还举着](chapters/zh/volume-03/073-他放下手镜里还举着.md) | 3070 | [His Reflection Kept Its Hand Raised](chapters/en/volume-03/073-his-reflection-kept-its-hand-raised.md) | 1892 |
+| 74 | [注销后留下的那张回执](chapters/zh/volume-03/074-注销后留下的那张回执.md) | 3114 | [The Receipt That Was Still Hers](chapters/en/volume-03/074-the-receipt-that-was-still-hers.md) | 1875 |
+| 75 | [被剪掉的三个字](chapters/zh/volume-03/075-被剪掉的三个字.md) | 3111 | [The Words They Cut Away](chapters/en/volume-03/075-the-words-they-cut-away.md) | 1838 |
+| 76 | [关掉的那一页](chapters/zh/volume-03/076-关掉的那一页.md) | 3135 | [The Page She Closed](chapters/en/volume-03/076-the-page-she-closed.md) | 1981 |
+| 77 | [他把木头从光里拔出来](chapters/zh/volume-03/077-他把木头从光里拔出来.md) | 3141 | [The Light Wouldn't Hold His Weight](chapters/en/volume-03/077-the-light-wouldnt-hold-his-weight.md) | 1932 |
+| 78 | [镜头前的这个人](chapters/zh/volume-03/078-镜头前的这个人.md) | 3150 | [The Person Before the Camera](chapters/en/volume-03/078-the-person-before-the-camera.md) | 1921 |
+| 79 | [纸收起来以后](chapters/zh/volume-03/079-纸收起来以后.md) | 3070 | [After She Put the Paper Away](chapters/en/volume-03/079-after-she-put-the-paper-away.md) | 1854 |
+| 80 | [镜子里的人没有坐下](chapters/zh/volume-03/080-镜子里的人没有坐下.md) | 3106 | [The Figure in the Mirror Didn't Sit Down](chapters/en/volume-03/080-the-figure-in-the-mirror-didnt-sit-down.md) | 1870 |
+
+合计：中文31011个汉字；英文18872词。
+
 ## 文件
 
 - `chapters/zh/volume-01/`：中文正文，第1—30章。
 - `chapters/zh/volume-02/`：第二卷中文正文，现有第31—60章。
+- `chapters/zh/volume-03/`：第三卷中文正文，现有第71—80章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—60章；第31—60章位于 `volume-02/`。
+- `chapters/en/`：英文文学改写稿，第1—60章及第71—80章；第31—60章位于 `volume-02/`，第71—80章位于 `volume-03/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -135,7 +155,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：现有60章中英文存稿，中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有70章中英文存稿（第1—60章及第71—80章），第61—70章尚未提交；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
