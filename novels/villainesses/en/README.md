@@ -2,26 +2,57 @@
 
 **Volume One: A Betrothal Written in Blood**
 
-The English edition is an **idiomatic fiction adaptation**, translated chapter by chapter from the original Chinese manuscripts. It preserves the story's clues and chronology while rewriting dialogue, humor, and pacing for natural English-language reading. The Chinese originals remain unchanged.
+All **26 currently written Chinese chapters** have been adapted into complete English prose and committed separately in this folder. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
 
-## Chapters available in English
+## English reading order
 
-| Chapter | Title | English words | Read |
-|---|---|---:|---|
-| 01 | My Lady, Your Engagement Is a Sham | 3,085 | [Read Chapter 1](./chapter-01.md) |
-| 02 | That's a Bow Tie, Not a Noose | 2,341 | [Read Chapter 2](./chapter-02.md) |
-| 03 | Why Does the Prince Know My Name? | 2,506 | [Read Chapter 3](./chapter-03.md) |
-| 04 | That Kiss Was an Accident. I Swear. | 2,304 | [Read Chapter 4](./chapter-04.md) |
-| 05 | The Trap Behind the Broken Engagement | 2,455 | [Read Chapter 5](./chapter-05.md) |
+| Chapter | Title / Read Online | English words |
+|---|---|---:|
+| 01 | [My Lady, Your Engagement Is a Sham](./chapter-01.md) | 3,085 |
+| 02 | [That's a Bow Tie, Not a Noose](./chapter-02.md) | 2,341 |
+| 03 | [Why Does the Prince Know My Name?](./chapter-03.md) | 2,506 |
+| 04 | [That Kiss Was an Accident. I Swear.](./chapter-04.md) | 2,304 |
+| 05 | [The Trap Behind the Broken Engagement](./chapter-05.md) | 2,455 |
+| 06 | [The Worst Scandal in the Capital](./chapter-06.md) | 2,105 |
+| 07 | [Lady Elena Would Never Fall for Me](./chapter-07.md) | 2,418 |
+| 08 | [The Missing Deputy Steward](./chapter-08.md) | 2,064 |
+| 09 | [Let Me Bandage That for You](./chapter-09.md) | 2,098 |
+| 10 | [She Lived Past Her Execution](./chapter-10.md) | 2,123 |
+| 11 | [An Extra Chair at Breakfast](./chapter-11.md) | 2,253 |
+| 12 | [Are You Jealous, My Lady?](./chapter-12.md) | 2,085 |
+| 13 | [That's Not How You Deny a Rumor](./chapter-13.md) | 2,224 |
+| 14 | [Hands Off the Archives](./chapter-14.md) | 2,100 |
+| 15 | [Have We Met Before?](./chapter-15.md) | 2,154 |
+| 16 | [An Invitation from the Temple of Fate](./chapter-16.md) | 2,002 |
+| 17 | [Why Is My Lady Practicing Her Smile?](./chapter-17.md) | 2,139 |
+| 18 | [I'm Not Your Property](./chapter-18.md) | 2,023 |
+| 19 | [A Research Trip for Two](./chapter-19.md) | 1,938 |
+| 20 | [The Thank-You She Couldn't Say](./chapter-20.md) | 2,069 |
+| 21 | [The New Death List](./chapter-21.md) | 1,820 |
+| 22 | [No More Playing the Hero Alone](./chapter-22.md) | 1,952 |
+| 23 | [I Only Asked You Two to Check the Records](./chapter-23.md) | 1,877 |
+| 24 | [This Is Not a Date. Really.](./chapter-24.md) | 2,028 |
+| 25 | [I Want to Stay by Your Side](./chapter-25.md) | 2,015 |
+| 26 | [The Prince's Second Move](./chapter-26.md) | 2,322 |
 
-**Total translated so far: 12,691 English words.**
+**Total, Chapters 1–26: 56,500 English words.**
 
-Chapters 06–26 currently exist in Chinese and are **not yet available in English**.
+**Newly translated Chapters 6–26: 43,809 English words.**
 
-## Source and continuity
+Word counts are derived from the English files, including chapter headings, and may vary slightly by the word-counting method used by a publishing platform.
 
-- [Chinese chapter directory](../READING_INDEX_01_26.md)
-- [Story bible](../STORY_BIBLE_V1.md)
-- [English localization style guide](./LOCALIZATION_GUIDE.md)
+## Continuity and publication notes
 
-The royal ball and confrontation occur on September 17; the emergency hearing is scheduled for September 19, and Elena's originally foretold execution is dated September 20. Elena and Adrian are not engaged. The Chapter 4 kiss is accidental.
+- September 17: royal ball, accidental kiss, forged treason accusation, and a dated discrepancy in the chain of custody of **Evidence Item 714**.
+- September 19–20: court proceedings halt Elena's immediate punishment, but the full treason case is not yet dismissed.
+- September 21–28: Adrian becomes a paid administrative aide, investigates the seven-year-old **R-074** record, and retains the right to consent to Temple examination. Cecilia Saintclair is mentioned in correspondence only.
+- September 29–October 6: Adrian and Elena follow the **Fate Maintenance Fee**, reference **B-17**, toward the royal reserve and Temple records office. Matthew Holt provides testimony and documentary leads; **Evelyn Vale** appears as a named records contact, not a proven conspirator.
+- Elena and Adrian are not presently engaged or married. The Chapter 4 kiss is an accident. Chapter 24 is a separate dance Adrian chooses to initiate.
+
+## Editorial references
+
+- [Chinese source reading directory, Chapters 1–26](../READING_INDEX_01_26.md)
+- [Story bible and plot rules](../STORY_BIBLE_V1.md)
+- [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
+
+Chapters 27 onward have not yet been authored as final Chinese prose and are not included here.
