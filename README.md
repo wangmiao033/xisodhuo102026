@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 仓库现有第1—80章中英文正文；中文第1—60章已由作者确认定稿。
+- 仓库现有第1—95章中英文正文；中文第1—60章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -144,14 +144,37 @@
 
 合计：中文31011个汉字；英文18872词。
 
+### 第81—95章中英文存稿
+
+| 章 | 中文 | 正文汉字数 | English | Words |
+| --- | --- | ---: | --- | ---: |
+| 81 | [手指越过玻璃](chapters/zh/volume-03/081-手指越过玻璃.md) | 3069 | [A Finger Through the Glass](chapters/en/volume-03/081-a-finger-through-the-glass.md) | 1879 |
+| 82 | [先让它压错地方](chapters/zh/volume-03/082-先让它压错地方.md) | 3170 | [Make It Strike the Wrong Place](chapters/en/volume-03/082-make-it-strike-the-wrong-place.md) | 1972 |
+| 83 | [让巨手压住自己的框](chapters/zh/volume-03/083-让巨手压住自己的框.md) | 3185 | [Make the Hand Bear on Its Own Frame](chapters/en/volume-03/083-make-the-hand-bear-on-its-own-frame.md) | 1822 |
+| 84 | [脚下换了位置](chapters/zh/volume-03/084-脚下换了位置.md) | 3090 | [The Floor Had Shifted Beneath Him](chapters/en/volume-03/084-the-floor-had-shifted-beneath-him.md) | 1955 |
+| 85 | [铁条只撑住这一边](chapters/zh/volume-03/085-铁条只撑住这一边.md) | 3123 | [The Strip Only Held This Side](chapters/en/volume-03/085-the-strip-only-held-this-side.md) | 1890 |
+| 86 | [门后仍是剧场](chapters/zh/volume-03/086-门后仍是剧场.md) | 3099 | [Still Inside the Theater](chapters/en/volume-03/086-still-inside-the-theater.md) | 1932 |
+| 87 | [第十万个还在这里的人](chapters/zh/volume-03/087-第十万个还在这里的人.md) | 3068 | [The Hundred Thousandth Person Still Here](chapters/en/volume-03/087-the-hundred-thousandth-person-still-here.md) | 1846 |
+| 88 | [你先把手放在这里](chapters/zh/volume-03/088-你先把手放在这里.md) | 3125 | [Put Your Hand Here First](chapters/en/volume-03/088-put-your-hand-here-first.md) | 1926 |
+| 89 | [她还没有说完](chapters/zh/volume-03/089-她还没有说完.md) | 3108 | [She Hadn't Finished Speaking](chapters/en/volume-03/089-she-hadnt-finished-speaking.md) | 1827 |
+| 90 | [还没到家](chapters/zh/volume-03/090-还没到家.md) | 3080 | [Not Home Yet](chapters/en/volume-03/090-not-home-yet.md) | 1926 |
+| 91 | [楼梯上有人](chapters/zh/volume-04/091-楼梯上有人.md) | 3130 | [Someone on the Stairs](chapters/en/volume-04/091-someone-on-the-stairs.md) | 1855 |
+| 92 | [那道笔痕还在](chapters/zh/volume-04/092-那道笔痕还在.md) | 3104 | [The Ink Mark Was Still There](chapters/en/volume-04/092-the-ink-mark-was-still-there.md) | 1962 |
+| 93 | [旧纸上的女字](chapters/zh/volume-04/093-旧纸上的女字.md) | 3015 | [Female, in Old Ink](chapters/en/volume-04/093-female-in-old-ink.md) | 1842 |
+| 94 | [照片背面的称呼](chapters/zh/volume-04/094-照片背面的称呼.md) | 3046 | [The Word on the Back](chapters/en/volume-04/094-the-word-on-the-back.md) | 1999 |
+| 95 | [他亲手填过的那一栏](chapters/zh/volume-04/095-他亲手填过的那一栏.md) | 3043 | [The Box He Had Filled In Himself](chapters/en/volume-04/095-the-box-he-had-filled-in-himself.md) | 1867 |
+
+合计：中文46455个汉字；英文28500词。
+
 ## 文件
 
 - `chapters/zh/volume-01/`：中文正文，第1—30章。
 - `chapters/zh/volume-02/`：第二卷中文正文，现有第31—60章。
-- `chapters/zh/volume-03/`：第三卷中文正文，现有第61—80章。
+- `chapters/zh/volume-03/`：第三卷中文正文，现有第61—90章。
+- `chapters/zh/volume-04/`：第四卷中文正文，现有第91—95章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—80章；第31—60章位于 `volume-02/`，第61—80章位于 `volume-03/`。
+- `chapters/en/`：英文文学改写稿，第1—95章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—95章位于 `volume-04/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -163,7 +186,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：本仓库现有80章中英文存稿（第1—80章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有95章中英文存稿（第1—95章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
