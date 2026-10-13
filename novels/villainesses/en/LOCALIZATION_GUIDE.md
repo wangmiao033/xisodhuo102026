@@ -52,3 +52,38 @@ Adrian addresses Elena as **my lady** in service scenes; other characters may us
 - Chapter 30: Elena may state she intends to pursue Adrian; no current valid marriage or new engagement is created.
 
 Maintain continuity in later translations with the latest Chinese manuscript, not only the short plot outline.
+
+
+## Established names and terminology in Chapters 6–26
+
+| Chinese source | Canonical English |
+|---|---|
+| 海尔律师 | Mr. Hale / Hale (lawyer) |
+| 诺拉·贝尔 | Nora Bell |
+| 奥古斯特·温恩 | Augustus Wynn |
+| 费恩馆长 | Mr. Fenn / chief archivist |
+| 费利克斯·霍恩 | Felix Horn |
+| 马修·霍尔特 | Matthew Holt |
+| 伊芙琳·维尔 | Evelyn Vale |
+| 亨利（副管事） | Henry / Deputy Steward Henry |
+| 旧王都审判庭 | Old Capital Court / the old courthouse |
+| 旧制文书养护处 | Old Records Preservation Office |
+| 命运维护费 | Fate Maintenance Fee |
+| 王室秘密专项基金 | Royal Confidential Special Reserve |
+| 命运圣堂 | Temple of Fate / the Temple |
+| 旧契约记录处 | Old Contract Records Office |
+| 替代者 | Substitute |
+| 替代风险承担顺位 | Substitute Risk-Bearing Order |
+| 已废止案号 R-074 | discontinued case R-074 |
+| 转付编号 B-17 | clearing reference B-17 |
+| 马修的三联移交单 | three-copy transfer forms / third handover acknowledgment |
+
+### Additional translation guardrails
+
+- The Temple's death registration in Chapter 18 is an archival status, *not* independent proof of Adrian's literal death seven years ago.
+- Chapters 19–26 connect recurring payments and record transfers without proving the private guilt of Prince Leon or Evelyn Vale. Keep the lawyers' and witnesses' explicit uncertainty in the narrative.
+- Adrian's feelings are progressively more openly expressed in Chapters 19, 24, and 25; there is no current engagement or lifelong contract.
+- Nora is a professional archivist with her own investigative objective (including understanding Augustus Wynn's accident), not merely a romantic obstacle.
+- Chapter 24's dance is willingly initiated by Adrian and completed without another accidental kiss.
+- Chapter 25: Matthew is found by lawful municipal inspection, retains control of his original notebook, and provides verifiable copies through an independent notary.
+- Chapter 26: the prince's meeting proposal is not accepted; the stamped document names Evelyn Vale as a verification contact, not conclusive proof she authorized the scheme.
