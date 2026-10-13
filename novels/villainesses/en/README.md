@@ -2,7 +2,7 @@
 
 **Volume One: A Betrothal Written in Blood**
 
-All **26 currently written Chinese chapters** have been adapted into complete English prose and committed separately in this folder. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
+All **30 chapters in the completed first Chinese volume** have been adapted into complete English prose and committed separately in this folder. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
 
 ## English reading order
 
@@ -34,10 +34,14 @@ All **26 currently written Chinese chapters** have been adapted into complete En
 | 24 | [This Is Not a Date. Really.](./chapter-24.md) | 2,028 |
 | 25 | [I Want to Stay by Your Side](./chapter-25.md) | 2,015 |
 | 26 | [The Prince's Second Move](./chapter-26.md) | 2,322 |
+| 27 | [How My Lady Rehearses a Confession](./chapter-27.md) | 2,164 |
+| 28 | [The Crescent Scar in the Old Courtroom](./chapter-28.md) | 2,141 |
+| 29 | [No Engagement Required](./chapter-29.md) | 2,161 |
+| 30 | [The Villainess Says She's Going to Pursue Me](./chapter-30.md) | 2,300 |
 
-**Total, Chapters 1–26: 56,500 English words.**
+**Total, Chapters 1–30: 65,266 English words.**
 
-**Newly translated Chapters 6–26: 43,809 English words.**
+**New Chapters 27–30: 8,766 English words.**
 
 Word counts are derived from the English files, including chapter headings, and may vary slightly by the word-counting method used by a publishing platform.
 
@@ -47,12 +51,15 @@ Word counts are derived from the English files, including chapter headings, and 
 - September 19–20: court proceedings halt Elena's immediate punishment, but the full treason case is not yet dismissed.
 - September 21–28: Adrian becomes a paid administrative aide, investigates the seven-year-old **R-074** record, and retains the right to consent to Temple examination. Cecilia Saintclair is mentioned in correspondence only.
 - September 29–October 6: Adrian and Elena follow the **Fate Maintenance Fee**, reference **B-17**, toward the royal reserve and Temple records office. Matthew Holt provides testimony and documentary leads; **Evelyn Vale** appears as a named records contact, not a proven conspirator.
-- Elena and Adrian are not presently engaged or married. The Chapter 4 kiss is an accident. Chapter 24 is a separate dance Adrian chooses to initiate.
+- October 7–8: a misheard thank-you speech is resolved openly; the sealed western courtroom yields an incomplete R-074 handover record, a traceable historical seal loan for Evidence Item 714, and a fragmentary recollection Adrian does not treat as verified evidence.
+- October 9: the Crown formally withdraws the treason prosecution against Elena following an independent evidence review; the evidence-tampering investigation continues, and Evelyn Vale's whereabouts remain unverified.
+- October 10: Elena states her intention to pursue Adrian; he reciprocates his attraction but wants to get to know her properly. Cecilia Saintclair first appears in person with a disputed historical betrothal facsimile showing both their names. **The document has no current legal effect.**
+- Elena and Adrian are not presently engaged or married. The Chapter 4 kiss was accidental; their Chapter 24 dance was initiated voluntarily.
 
 ## Editorial references
 
-- [Chinese source reading directory, Chapters 1–26](../READING_INDEX_01_26.md)
+- [Complete Chinese Volume One reading directory, Chapters 1–30](../READING_INDEX_01_30.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-Chapters 27 onward have not yet been authored as final Chinese prose and are not included here.
+**Volume One is complete in both Chinese and English (Chapters 1–30).** Chapters 31 onward remain in outline form.
