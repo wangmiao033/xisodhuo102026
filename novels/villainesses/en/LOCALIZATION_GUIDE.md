@@ -111,3 +111,38 @@ Maintain continuity in later translations with the latest Chinese manuscript, no
 | 圣堂独立复核委员会 | Temple independent review committee |
 
 The core emotional milestone must carry over into Volume Two: **Elena has already expressed romantic interest openly**; do not reset her to denying that she likes Adrian merely because Cecilia has appeared. Cecilia's curiosity about the prior record is not proof she has already fallen in love with Adrian. The file's names do not establish consensual present-day commitment.
+
+
+## Volume Two: Chapters 31–35 (October 11–15)
+
+Keep the published English titles and narrative decisions consistent:
+
+| Chapter | English title | Core continuity |
+|---|---|---|
+| 31 | The Saint Says This Isn't a Proposal | Cecilia is an interested party and independently authorized investigator; historic agreement not currently binding |
+| 32 | The Temple Doesn't Get to Answer for Me | Administrative summons cannot replace Adrian's informed consent; neutral academy review only |
+| 33 | Why Is My Signature Older Than I Am? | Maeve Carter's handwriting comparison suggests possible common reproduction template, not proven forgery |
+| 34 | The Saint Calls It a Small Test | Noninvasive document-only resonance has blank and positive controls, limited medium and a real magical cost |
+| 35 | One Betrothal, Two Dates | Two date fields from different registration layers cannot yet be reconciled; oversight issues limited-circulation notice |
+
+### New and clarified canonical terminology
+
+| Chinese | English |
+|---|---|
+| 第二卷《圣女不允许我结婚》 | Volume Two: The Saint Won't Let Me Get Married |
+| 梅芙·卡特女士 | Ms. Maeve Carter |
+| 文书修复室 | document restoration room |
+| 旧式灾厄协助类 | historical Calamity Assistance category |
+| 印记回响法 | archival resonance / fate-record resonance test |
+| 认证转写介质 | certified archival transfer medium |
+| 非侵入式 | noninvasive |
+| 见证官印 | witness seal |
+| 原始转存日期 | archival transfer date |
+| 第七百二十一周期·九月十七日 | Cycle Seven Hundred Twenty-One, Ninth Month, Seventeenth Day |
+| 限制传播范围 | restricted circulation / limited disclosure |
+
+### Evidence, magic, and relationships
+
+The fate-mark test **does not** scan Adrian's body or mind, consume the Temple's original contract, or independently prove that a past romance existed. It consumes the finite residue of an authenticated transfer medium and magical energy from Cecilia; blank and known-date controls are documented. The dual date marks may refer to different archival events or calendar systems, and *Cycle Seven Hundred Twenty-One* cannot presently be converted reliably to a modern year. Chapter 36 should examine which parts of the oversight restrictions are justified confidentiality and which might obstruct the participants' access to records about themselves.
+
+Elena remains proactive about pursuing Adrian after Chapter 30; don't reset her to silent denial. Cecilia is not automatically in love with Adrian by virtue of the historical record, and she values charitable medical work and her religious principles independently of the romance plot. Adrian continues exercising real autonomy in consent, investigation, and personal scheduling.
