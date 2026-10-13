@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 仓库现有第1—100章中英文正文；中文第1—60章已由作者确认定稿。
+- 仓库现有第1—105章中英文正文；中文第1—60章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -171,15 +171,27 @@
 
 合计：中文61959个汉字；英文38040词。
 
+### 第101—105章中英文存稿
+
+| 章 | 中文 | 正文汉字数 | English | Words |
+| --- | --- | ---: | --- | ---: |
+| 101 | [请在黄线内等候](chapters/zh/volume-04/101-请在黄线内等候.md) | 3043 | [Wait Inside the Yellow Line](chapters/en/volume-04/101-wait-inside-the-yellow-line.md) | 1887 |
+| 102 | [还剩一张号](chapters/zh/volume-04/102-还剩一张号.md) | 3117 | [One Ticket Left](chapters/en/volume-04/102-one-ticket-left.md) | 1929 |
+| 103 | [暂停受理](chapters/zh/volume-04/103-暂停受理.md) | 3085 | [Service Suspended](chapters/en/volume-04/103-service-suspended.md) | 2006 |
+| 104 | [没有叫完](chapters/zh/volume-04/104-没有叫完.md) | 3138 | [The Calling Wasn't Over](chapters/en/volume-04/104-the-calling-wasnt-over.md) | 2048 |
+| 105 | [先别把它搬走](chapters/zh/volume-04/105-先别把它搬走.md) | 3061 | [Don't Move It Yet](chapters/en/volume-04/105-dont-move-it-yet.md) | 1943 |
+
+合计：中文15444个汉字；英文9813词。
+
 ## 文件
 
 - `chapters/zh/volume-01/`：中文正文，第1—30章。
 - `chapters/zh/volume-02/`：第二卷中文正文，现有第31—60章。
 - `chapters/zh/volume-03/`：第三卷中文正文，现有第61—90章。
-- `chapters/zh/volume-04/`：第四卷中文正文，现有第91—100章。
+- `chapters/zh/volume-04/`：第四卷中文正文，现有第91—105章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—100章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—100章位于 `volume-04/`。
+- `chapters/en/`：英文文学改写稿，第1—105章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—105章位于 `volume-04/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -191,7 +203,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：本仓库现有100章中英文存稿（第1—100章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有105章中英文存稿（第1—105章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
