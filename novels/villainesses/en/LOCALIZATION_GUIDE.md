@@ -185,3 +185,37 @@ Elena remains proactive about pursuing Adrian after Chapter 30; don't reset her 
 The clinic storyline must **not** imply that a clerical correction instantly heals patients. The betrayal is the substitution of identifiers and attempts to present the stable Elliot as evidence of an oracle's success while Jonah still needs care. The existence of a fraudulent administrative report does not settle whether all religious prophecy is false. Handle medical privacy, treatment, and welfare with independent clinicians and authorized inspection. Mira has her own motives and relationships: she draws suns for children and makes red thread bracelets, and her refusal to sign is an independent ethical choice. Temple charges against Cecilia should arise from a concrete procedural accusation, not the automatic assumption that the entire religious hierarchy already knows and directed the cover-up.
 
 Avoid literal calques such as "fated patient was exchanged" when an idiomatic sentence like "the patients' identities were switched in the records" is more accurate. Keep the old legal and religious systems distinct.
+
+
+## Volume Two: Chapters 41–45 (October 21–25)
+
+- **Chapter 41 — The Saint Is Accused of Leaking an Oracle:** Cecilia receives three disciplinary allegations from Temple Internal Oversight: disclosing a restricted C-19 prognosis, revealing a blessing conclusion to municipal doctors, and reputational harm. The first two must be compared with the exact materials shared; she does **not** deny informing physicians of conflicting patient identifiers. The hearing is formally scheduled for **October 26**. The suspension of restricted database access is temporary, not a guilty verdict; it does not automatically strip her independent civil identity-access rights. Mira identifies an earlier revision trail linked to subsidy claims.
+- **Chapter 42 — The Line Someone Crossed Out of a Prophecy:** Municipal archivist **Orin** maintains legitimately held versions of an expenditure claim, not the protected original oracle. Revision One requires continued clinical observation; later revisions add a completed blessing and remove much of the care requirement. A possible exceptional waiver of the clinic's confirmation appears. This establishes documentary editing and a contested approval path; no named forger, malign motive, or supernatural mechanism is yet proved. Certified redacted copies remain with legitimate external custody.
+- **Chapter 43 — The Saint Refuses to Sign a Confession:** Internal Oversight offers a prewritten settlement admitting Cecilia leaked restricted material due to personal affection. She refuses to make a false admission but accepts scrutiny of what she did disclose and requests evidence inventory. Mira gives narrow testimony, explicitly correcting any claim she saw the person who locked the door. Cecilia's first conspicuous blush at Adrian's appreciation should signal emotional awareness, **not** instant confirmed love or a valid engagement. Her respect for faith and charitable service remains serious.
+- **Chapter 44 — A Lawyer Isn't an Engagement Gift:** Elena offers optional legal aid through a neutral account, with no control over representation or privileged material. Cecilia chooses experienced independent lawyer **Vera Ash**, defines terms she will not trade away, and remains the client directing her case. Elena and Adrian keep their voluntary bookshop date; the old betrothal cannot dictate anybody's relationship. Temple notice sets an archive fire-safety closure for the afternoon of October 25.
+- **Chapter 45 — The Archive Was Locked the Night Before the Hearing:** Actual maintenance workers and a checkable fire-safety schedule coexist with an additional oversight order and incomplete custody records. **Vault B** is listed for R-074; C-19 draft materials were scheduled to transfer from **Vault A** to B, but completion remains unverified. Notaries verify only entrance seals, **not** the condition of every item inside. A handwritten location note refers to **"after the fifth evening bell"**, with no date. At **8:17 p.m. October 25**, Adrian hears a possibly unusual bell and records it for later verification. The sound is **not established as magical, a temporal loop, or a source of proven custody time**. Chapter 46 can examine the ritual clock and duty logs.
+
+### New canonical English names and terms
+
+| Chinese | English |
+|---|---|
+| 维拉·艾什 | Vera Ash |
+| 奥琳（补助档案记录员） | Orin |
+| 王都法律公会 | Capital Bar Association |
+| 圣堂纪律听证 | Temple disciplinary hearing |
+| 圣堂监察署 | Temple Internal Oversight |
+| 独立法律援助账户 | neutral legal-aid account |
+| 提前拟定的认罪说明 | prewritten confession / proposed admission |
+| 医药补助办公室 | municipal medical subsidy office |
+| 祈福完成补助 | blessing completion subsidy |
+| 旧契约记录库 | Old Contract Records Archive |
+| 地下甲库 | Vault A |
+| 地下乙库 | Vault B |
+| 第五晚钟后 | after the fifth evening bell |
+| 消防设施核查 | fire-safety inspection |
+| 过期改动表 | revision manuscript / annotated draft |
+| 医师持续观察 | continued clinical monitoring |
+
+### Forward continuity
+
+The next plot hinge is **Cecilia's hearing on October 26**, the continuing restricted custody of historical Temple records, and Adrian's attempt to independently authenticate bell-timing evidence. Do not produce a sudden verdict without giving Cecilia a fair chance to address the evidence. Nor should Adrian acquire new magical abilities from the crescent scar: it remains a physical memory anchor, and fragmentary memories are never court-admissible proof by themselves. Cecilia's prosecution must be connected to documentary accusations with identifiable procedures and meaningful consequences; retain room for ordinary Temple employees and sincere believers to make their own choices.
