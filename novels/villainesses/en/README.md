@@ -2,9 +2,9 @@
 
 **Volume One: A Betrothal Written in Blood — complete (Chapters 1–30)**
 
-**Volume Two: The Saint Won't Let Me Get Married — in progress (Chapters 31–40)**
+**Volume Two: The Saint Won't Let Me Get Married — in progress (Chapters 31–45)**
 
-All **40 completed Chinese chapters** have been adapted into full English prose and committed separately in this folder. Volume One contains 30 chapters, and Volume Two currently has 10 chapters. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
+All **45 completed Chinese chapters** have been adapted into full English prose and committed separately in this folder. Volume One contains 30 chapters, and Volume Two currently has 15 chapters. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
 
 ## English reading order
 
@@ -53,9 +53,15 @@ All **40 completed Chinese chapters** have been adapted into full English prose 
 | 39 | [The Patient in the Prophecy Was Someone Else](./chapter-39.md) | 2,034 |
 | 40 | [The Villainess and the Saint Join Forces](./chapter-40.md) | 2,121 |
 
-**Total, Chapters 1–40: 85,765 English words.**
+| 41 | [The Saint Is Accused of Leaking an Oracle](./chapter-41.md) | 2,054 |
+| 42 | [The Line Someone Crossed Out of a Prophecy](./chapter-42.md) | 2,078 |
+| 43 | [The Saint Refuses to Sign a Confession](./chapter-43.md) | 2,043 |
+| 44 | [A Lawyer Isn't an Engagement Gift](./chapter-44.md) | 1,988 |
+| 45 | [The Archive Was Locked the Night Before the Hearing](./chapter-45.md) | 2,183 |
 
-**Volume One: 65,266 words. Volume Two, Chapters 31–40: 20,499 words.**
+**Total, Chapters 1–45: 96,111 English words.**
+
+**Volume One: 65,266 words. Volume Two, Chapters 31–45: 30,845 words.**
 
 Word counts are derived from the English files, including chapter headings, and may vary slightly by the word-counting method used by a publishing platform.
 
@@ -88,10 +94,19 @@ Word counts are derived from the English files, including chapter headings, and 
 - **October 20 — Chapter 40:** Municipal health inspectors find Jonah and Mira at Graybell. Jonah returns to clinical care; Mira, who says she was prevented from leaving, is recovered safely. Elena and Cecilia cooperate through medical, legal, and charitable channels. Temple Internal Oversight then accuses Cecilia of unauthorized disclosure of restricted divine prognosis.
 - **Relationship continuity:** Elena and Adrian openly like each other and are dating voluntarily. Cecilia is a principled independent investigator, not someone legally entitled to Adrian under an old record. All three retain separate choices and duties; Mira and the patients are people, not disposable evidence props.
 
+## Volume Two: disciplinary proceedings and sealed archives (Chapters 41–45)
+
+- **October 21 — Chapter 41:** Cecilia receives a disciplinary charge for allegedly disclosing a restricted oracle, with the hearing set for October 26. Medical identifier corrections and protected prognostic originals remain distinct. Mira identifies the prospect of earlier municipal subsidy revisions.
+- **October 22 — Chapter 42:** A municipal grants repository yields authenticated, redacted images of three subsidy application versions and an annotated draft. Wording changes from continued clinical monitoring to stability following a blessing; this establishes a revision trail, **not** a proven author, universal failure of prophecy, or culpability of the entire Temple.
+- **October 23 — Chapter 43:** Cecilia refuses to sign a prewritten confession of an unauthorized disclosure she disputes and files a specific response. Her religious vocation and respect for genuine aid remain intact. Mira likewise prepares independent testimony limited to what she actually observed.
+- **October 24 — Chapter 44:** Elena offers properly segregated legal-aid funding; Cecilia chooses **Vera Ash** as independent counsel, retaining full decision-making authority. They request preservation of the relevant originals. The Temple announces a fire-safety closure of historical archive access starting October 25.
+- **October 25 — Chapter 45:** Genuine maintenance activity coexists with an additional oversight custody order; independent witnesses verify corridor seals but cannot inspect the originals inside Vault B. A custody extract bears the ambiguous notation **"after the fifth evening bell."** Adrian independently records a possibly extra bell at **8:17 p.m.** The bell's source and timing must be checked, not treated as an instant supernatural proof.
+- **October 26 ahead:** Cecilia's internal disciplinary hearing; no verdict yet. Chapter 46 begins examining the operational or ritual bell schedule and the transfer record's chronology.
+
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–40](../READING_INDEX_01_40.md)
+- [Complete Chinese reading directory, Chapters 1–45](../READING_INDEX_01_45.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volume One is complete in both Chinese and English (Chapters 1–30).** Volume Two Chapters 31–40 are also complete in both languages; Chapters 41 onward remain in outline form.
+**Volume One is complete in both Chinese and English (Chapters 1–30).** Volume Two Chapters 31–45 are also complete in both languages; Chapters 46 onward remain in outline form.
