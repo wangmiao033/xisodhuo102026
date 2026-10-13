@@ -120,6 +120,28 @@ He'd hoped for a definite answer.
 
 Instead, he'd learned that the alleged signatures from seven years ago couldn't safely be treated as two independent handwritten acts.
 
+
+
+Carter brought over a sheet of ordinary stationery and asked Adrian to sign his name while it rested on a soft pad. Then she asked him to write it again with the paper placed directly against the stone table.
+
+He did.
+
+"Same hand," she said. "Different pressure. See how this downstroke bites into the first sheet? On the stone, your pen skates across the surface instead. A photograph can preserve the visible line, but it can't tell us everything about the impression underneath."
+
+Adrian ran a fingertip over the back of his own paper.
+
+"So if the original contract has no impressions where the signature should have been written—"
+
+"That would be interesting," Carter said, "but not final. Some writing instruments leave very little indentation. The age and treatment of the paper also matter."
+
+"Everything requires another test," he muttered.
+
+"Good investigations are full of disappointingly ordinary answers."
+
+Nora smiled. "That's why we keep records."
+
+Adrian looked from his newly signed sheets to the historical copies. For the first time, the absence of a dramatic answer felt like progress. Someone had shown him precisely what remained unknown—and a method of finding out.
+
 Carter asked them not to focus solely on the little hook.
 
 "Handwriting also involves spacing, stroke sequence, the angle of entry, and how often the pen leaves the page," she explained. "The relative positions of Adrian's letters move naturally. On the historical images, even a spot of what appears to be stray pigment is repeated."
