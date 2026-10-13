@@ -1,8 +1,10 @@
 # Why Do All the Villainesses Want to Marry Me? — English Edition
 
-**Volume One: A Betrothal Written in Blood**
+**Volume One: A Betrothal Written in Blood — complete (Chapters 1–30)**
 
-All **30 chapters in the completed first Chinese volume** have been adapted into complete English prose and committed separately in this folder. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
+**Volume Two: The Saint Won't Let Me Get Married — in progress (Chapters 31–35)**
+
+All **35 completed Chinese chapters** have been adapted into full English prose and committed separately in this folder. Volume One contains 30 chapters, and Volume Two currently has 5 chapters. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
 
 ## English reading order
 
@@ -39,9 +41,15 @@ All **30 chapters in the completed first Chinese volume** have been adapted into
 | 29 | [No Engagement Required](./chapter-29.md) | 2,161 |
 | 30 | [The Villainess Says She's Going to Pursue Me](./chapter-30.md) | 2,300 |
 
-**Total, Chapters 1–30: 65,266 English words.**
+| 31 | [The Saint Says This Isn't a Proposal](./chapter-31.md) | 2,128 |
+| 32 | [The Temple Doesn't Get to Answer for Me](./chapter-32.md) | 1,970 |
+| 33 | [Why Is My Signature Older Than I Am?](./chapter-33.md) | 2,011 |
+| 34 | [The Saint Calls It a Small Test](./chapter-34.md) | 2,013 |
+| 35 | [One Betrothal, Two Dates](./chapter-35.md) | 2,057 |
 
-**New Chapters 27–30: 8,766 English words.**
+**Total, Chapters 1–35: 75,445 English words.**
+
+**Volume One: 65,266 words. Volume Two, Chapters 31–35: 10,179 words.**
 
 Word counts are derived from the English files, including chapter headings, and may vary slightly by the word-counting method used by a publishing platform.
 
@@ -56,10 +64,19 @@ Word counts are derived from the English files, including chapter headings, and 
 - October 10: Elena states her intention to pursue Adrian; he reciprocates his attraction but wants to get to know her properly. Cecilia Saintclair first appears in person with a disputed historical betrothal facsimile showing both their names. **The document has no current legal effect.**
 - Elena and Adrian are not presently engaged or married. The Chapter 4 kiss was accidental; their Chapter 24 dance was initiated voluntarily.
 
+## Volume Two continuity (Chapters 31–35)
+
+- **October 11 — Chapter 31:** Cecilia pursues limited independent verification of the historical R-074 betrothal. Neither the record nor its names create a current engagement, and her interest in Adrian is not yet a confirmed romance.
+- **October 12 — Chapter 32:** The Temple's administrative duty office attempts to summon Adrian under obsolete procedures. He chooses a limited documentary meeting at Saint Rose Academy, preserving his bodily consent and privacy.
+- **October 13 — Chapter 33:** Independent handwriting analysis finds possible reuse of a signature image, but the physical original has not been examined, so forgery and identity remain unresolved.
+- **October 14 — Chapter 34:** The noninvasive fate-record resonance test examines an authenticated transfer medium, not Adrian's body. Controls and equipment limits are recorded; two date-bearing traces appear.
+- **October 15 — Chapter 35:** One date field matches a judicial transfer seven years ago; the other uses the unconverted cycle notation "Cycle Seven Hundred Twenty-One, Ninth Month, Seventeenth Day." This is **not proof of time travel**. Temple oversight then imposes a limited disclosure notice, setting up Chapter 36.
+- **Relationship:** Elena has already openly said she intends to pursue Adrian. Adrian reciprocates interest, but neither has agreed to marriage. Cecilia is a principled investigator with her own work and obligations, not a person claiming ownership through an old document.
+
 ## Editorial references
 
-- [Complete Chinese Volume One reading directory, Chapters 1–30](../READING_INDEX_01_30.md)
+- [Complete Chinese reading directory, Chapters 1–35](../READING_INDEX_01_35.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volume One is complete in both Chinese and English (Chapters 1–30).** Chapters 31 onward remain in outline form.
+**Volume One is complete in both Chinese and English (Chapters 1–30).** Volume Two Chapters 31–35 are also complete in both languages; Chapters 36 onward remain in outline form.
