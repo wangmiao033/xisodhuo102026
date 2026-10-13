@@ -1,6 +1,6 @@
 # Why Do All the Villainesses Want to Marry Me?
 ## Volume One: A Betrothal Written in Blood
-### Chapter 23: I Only Asked You to Research Together
+### Chapter 23: I Only Asked You Two to Check the Records
 
 At breakfast on October third, Elena proposed a perfectly reasonable division of labor.
 
