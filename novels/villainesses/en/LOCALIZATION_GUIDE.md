@@ -267,3 +267,31 @@ The complete editorial changes for earlier Chinese paragraph ordering and the li
 - Chapters 61–62, November 10–11: the journey takes two days. Viola Blackwood retains scoped provisional patrol duties while allegations remain unproved. Her safety plans are earnest, not an instant declaration of love. The supply wagon's damaged axle and weight discrepancy justify a witnessed limited inspection. Sound food still reaches the military depot. A Rosenberg transfer mark prompts suspicion but proves neither ownership at the relevant time nor guilt. The full grain-ledger issue is not solved prematurely.
 
 No new current engagement or marriage is created. Do not reveal the full Crown of Destiny mechanism, grant new powers to Adrian's scar, reinstate expired betrothal duties, or treat a favorable urgent hearing as blanket institutional exoneration or conviction.
+
+
+## Chapters 63–72: grain records, evacuation, and the honor review
+
+### New supporting names
+
+| Chinese | English | Role |
+|---|---|---|
+| 加里克·沃斯少校 | Major Garrick Voss | Greymarch garrison commander; Viola's superior |
+| 托宾·奎尔 | Tobin Quill | Municipal transport clerk recovering from a hand injury |
+| 艾达·芬奇 | Ada Finch | Town magistrate |
+| 米里亚姆·肖医生 | Dr. Miriam Shaw | Town physician leading medical treatment |
+| 埃利斯 | Ellis | Wounded adult raid participant; name and account require verification |
+| 海伦·沃德上校 | Colonel Helen Ward | Independent regional officer chairing the honor review |
+| 北道货运 | Northroad Freight | Civilian transport contractor under investigation |
+| 西坡军仓 | West Slope Depot | Military supply destination |
+
+### Continuity
+
+- November11–13 (63–65): the Rosenberg mark belongs to an earlier commercial handling of reused packaging. It does not identify the later filler. Consignment WF-18 contains twelve fifty-pound sacks, six hundred pounds total; two summary entries must not be counted as two separate missing consignments. This quantity is distinct from the earlier wagon's excess weight. Viola challenges a dangerous route with specific facts. Civilian evacuation preparations and a message to the original issuing office precede the raid.
+- November14 (66–67): attackers display foreign colors. Local patrols protect civilians withdrawing by the lower river road rather than crossing the damaged bridge. Viola receives a genuine return-to-town instruction after the evacuation has begun; she sends four riders back with the messenger, signs the receipt explaining her delay, and stays to escort the last wounded-person wagon. The last wagon reaches town before dusk. People are brought to safety, but injuries, destroyed homes, and continuing care remain.
+- November15 (68): Elena investigates commercial spear and cloth purchases and discloses a relevant flaw in her own house's shipping controls. Northroad Freight becomes an evidence-based lead, not a convicted mastermind. No royal arsenal marking or full supply chain is established.
+- November16 (69): Cecilia arrives after departing the capital on November14 with relief staff. Her office has been handed over responsibly. Dr. Shaw directs treatment; Cecilia assists. Ellis receives care before any voluntary statement, and his account remains subject to verification. The dinner-escort misunderstanding is resolved rather than recycled.
+- November17 (70): Voss's genuine order removes Viola's remaining provisional patrol command. She deposits her weapon and accepts the handover; no final conviction or automatic imprisonment is created.
+- November18 (71): original issuing-office records, an authenticated issuer reply, the returned delivery acknowledgment, and the local text establish that the November4 annex was replaced. Paper and sewing-hole differences corroborate the record comparison; neither is a magical shortcut. The original left twelve sacks in Willowford and avoided the damaged bridge. The identity of the person who substituted the annex remains unknown. The genuine November17 suspension is still in force.
+- November19 (72): the honor review begins under Colonel Ward, who travels from a regional fort. The duplicated total and forged annex receive specific limited treatment; the full allegations, later command decisions, and procurement/raid organization remain unresolved. Viola owns her evacuation decision rather than attributing it to Adrian.
+
+Elena's hand burn and Adrian's smoke-exposure recovery remain relevant to what they physically do. No new engagement, magical scar ability, confirmed national responsibility for the raid, or premature resolution of Chapters73–90 is added. See `../CONTINUITY_NOTES_63_72.md` for the three distinct orders and the current end state.

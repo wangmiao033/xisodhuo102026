@@ -4,9 +4,9 @@
 
 **Volume Two: The Saint Won't Let Me Get Married — complete (Chapters 31–60)**
 
-**Volume Three: The Knight Says She's Responsible for Me — in progress (Chapters 61–62)**
+**Volume Three: The Knight Says She's Responsible for Me — in progress (Chapters 61–72)**
 
-All **62 completed Chinese chapters** have full English editions. Volumes One and Two contain thirty chapters each; Volume Three has begun. This update adds ten new bilingual story chapters (53–62) and catches up seven earlier English chapters (46–52). Chinese Chapters 1–52 remain unchanged; the unfinished Chapter 53 source is preserved separately before completion. The adaptations retain complete scenes, chronology, evidence, humor, and relationship choices in idiomatic English.
+All **72 completed Chinese chapters** have full English editions. Volumes One and Two contain thirty chapters each; Volume Three now contains twelve chapters. This update adds ten complete bilingual story chapters (63–72). All earlier chapter bodies remain unchanged. The adaptations retain complete scenes, chronology, evidence, humor, and relationship choices in idiomatic English.
 
 ## English reading order
 
@@ -42,25 +42,21 @@ All **62 completed Chinese chapters** have full English editions. Volumes One an
 | 28 | [The Crescent Scar in the Old Courtroom](./chapter-28.md) | 2,141 |
 | 29 | [No Engagement Required](./chapter-29.md) | 2,161 |
 | 30 | [The Villainess Says She's Going to Pursue Me](./chapter-30.md) | 2,300 |
-
 | 31 | [The Saint Says This Isn't a Proposal](./chapter-31.md) | 2,128 |
 | 32 | [The Temple Doesn't Get to Answer for Me](./chapter-32.md) | 1,970 |
 | 33 | [Why Is My Signature Older Than I Am?](./chapter-33.md) | 2,011 |
 | 34 | [The Saint Calls It a Small Test](./chapter-34.md) | 2,013 |
 | 35 | [One Betrothal, Two Dates](./chapter-35.md) | 2,057 |
-
 | 36 | [The Temple Says Nobody May Talk About It](./chapter-36.md) | 1,980 |
 | 37 | [The Saint's Attendant Never Came Back](./chapter-37.md) | 2,033 |
 | 38 | [The Patient Matters More Than the Prophecy](./chapter-38.md) | 2,152 |
 | 39 | [The Patient in the Prophecy Was Someone Else](./chapter-39.md) | 2,034 |
 | 40 | [The Villainess and the Saint Join Forces](./chapter-40.md) | 2,121 |
-
 | 41 | [The Saint Is Accused of Leaking an Oracle](./chapter-41.md) | 2,054 |
 | 42 | [The Line Someone Crossed Out of a Prophecy](./chapter-42.md) | 2,078 |
 | 43 | [The Saint Refuses to Sign a Confession](./chapter-43.md) | 2,043 |
 | 44 | [A Lawyer Isn't an Engagement Gift](./chapter-44.md) | 1,988 |
 | 45 | [The Archive Was Locked the Night Before the Hearing](./chapter-45.md) | 2,183 |
-
 | 46 | [The Fifth Evening Bell Isn't an Oracle](./chapter-46.md) | 2,023 |
 | 47 | [The Altered Prophecy Comes to Light](./chapter-47.md) | 2,032 |
 | 48 | [Being a Saint Isn't a Favor](./chapter-48.md) | 1,987 |
@@ -78,12 +74,22 @@ All **62 completed Chinese chapters** have full English editions. Volumes One an
 | 60 | [This Time, Let's Save Goodbye for Next Time](./chapter-60.md) | 2,193 |
 | 61 | [Her Date Route Has Three Evacuation Points](./chapter-61.md) | 2,021 |
 | 62 | [The Wagon That Refused to Admit It Was Overweight](./chapter-62.md) | 1,999 |
+| 63 | [Why Does the Spy's Notebook Mention Apple Pastry?](./chapter-63.md) | 2,119 |
+| 64 | [Why Must These Twelve Sacks Go Missing Twice?](./chapter-64.md) | 2,200 |
+| 65 | [Captain, Your Protection Plan Has No Off-Duty Hours](./chapter-65.md) | 2,253 |
+| 66 | [Her Sword Didn't Follow the Flag](./chapter-66.md) | 2,235 |
+| 67 | [No One Was an Extra Passenger](./chapter-67.md) | 2,239 |
+| 68 | [The Page Lady Elena Chose to Hand Over](./chapter-68.md) | 2,222 |
+| 69 | [The Saint Reached for the Bandages First](./chapter-69.md) | 2,255 |
+| 70 | [Without Her Sword, She Didn't Know Where to Put Her Hands](./chapter-70.md) | 2,361 |
+| 71 | [The Twelve Sacks Stolen from an Order](./chapter-71.md) | 2,243 |
+| 72 | [The Knight Asks for a Place at Dinner](./chapter-72.md) | 2,304 |
 
-**Total, Chapters 1–62: 131,348 English words.**
+**Total, Chapters 1–72: 153,779 English words.**
 
-**Volume One: 65,266 words. Volume Two: 62,062 words. Volume Three so far: 4,020 words.**
+**Volume One: 65,266 words. Volume Two: 62,062 words. Volume Three so far: 26,451 words.**
 
-Counts include headings. Chapters 46–62 were counted by whitespace-delimited words; Chapters 1–45 retain the previously recorded counts. Publishing-platform counts may differ.
+Counts include headings. Chapters 46–72 were counted by whitespace-delimited words; Chapters 1–45 retain the previously recorded counts. Publishing-platform counts may differ.
 
 ## Continuity and publication notes
 
@@ -125,11 +131,13 @@ Counts include headings. Chapters 46–62 were counted by whitespace-delimited w
 
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–62](../READING_INDEX_01_62.md)
+- [Complete Chinese reading directory, Chapters 1–72](../READING_INDEX_01_72.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volumes One and Two are complete in both Chinese and English (Chapters 1–60). Volume Three Chapters 61–62 are also complete. Chapters 63–300 remain planned.**
+**Volumes One and Two are complete in both Chinese and English (Chapters 1–60). Volume Three Chapters 61–72 are also complete. Chapters 73–300 remain planned.**
 
 [Editorial corrections and continuity notes for Chapters 46–62](../CONTINUITY_NOTES_46_62.md)
 
+
+[Border-arc continuity notes for Chapters 63–72](../CONTINUITY_NOTES_63_72.md)
