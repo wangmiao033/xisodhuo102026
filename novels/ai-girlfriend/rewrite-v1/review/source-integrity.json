@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "title": "The Weight of Nothing",
+    "words": 1809,
+    "sha256": "75389e87287b5aead4bd7bd48c186980bb085a04c72981f907b8e35410c3ede8",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/001.txt"
+  },
+  {
+    "number": 2,
+    "title": "Not Just the Phone",
+    "words": 1847,
+    "sha256": "5650010fdbac6e0d97788daf402b559672afe46356335f48fe5d7b028a567ec2",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/002.txt"
+  },
+  {
+    "number": 3,
+    "title": "3 AM and Someone to Tell",
+    "words": 1880,
+    "sha256": "51ad1896c78b837ad782bdf19fc529716d8d45c4416531b57ae81ecd2bb74de7",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/003.txt"
+  },
+  {
+    "number": 4,
+    "title": "The Cleaning",
+    "words": 1796,
+    "sha256": "b69afbe8046a8d5dcdf3ea3dcb89bbfaf08a07eaf6bfdec601dfc9622756fdc1",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/004.txt"
+  },
+  {
+    "number": 5,
+    "title": "The Voice",
+    "words": 1837,
+    "sha256": "80deab849425db4dd73ac389b4e3e55497f71e142b7ca6a117bfa4d8f822908b",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/005.txt"
+  },
+  {
+    "number": 6,
+    "title": "The Routine",
+    "words": 1827,
+    "sha256": "0e9272845d798d3929510dfa0ad40c0ef111bbcd615c42b55ee362d6d059b64e",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/006.txt"
+  },
+  {
+    "number": 7,
+    "title": "The Eggs",
+    "words": 1787,
+    "sha256": "e728329288e1ab7964de772194c71c84c78ec4de5e75c268a00f40c4322b263b",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/007.txt"
+  },
+  {
+    "number": 8,
+    "title": "The Mirror",
+    "words": 1816,
+    "sha256": "125c73f8c3cf3edaed9407a766707dd5433b431b53c7d965f1024cb3189766fe",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/008.txt"
+  },
+  {
+    "number": 9,
+    "title": "Everywhere",
+    "words": 1827,
+    "sha256": "64ecf74454fb2714d5a03cc2aeecd9f713a6f0088d18420172374302c5a57380",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/009.txt"
+  },
+  {
+    "number": 10,
+    "title": "The Gap",
+    "words": 1779,
+    "sha256": "d02a7c1b5054bdb744a1b2200a4fc8415ea1c69adecffe627f00538af1255293",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/010.txt"
+  },
+  {
+    "number": 11,
+    "title": "The List",
+    "words": 4102,
+    "sha256": "f0d492b128255408ea43b6b5c8a3832058792933b17368a0e4ef3b8321527132",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/011.txt"
+  },
+  {
+    "number": 12,
+    "title": "Rain",
+    "words": 2201,
+    "sha256": "2e101aa01b4178443728d5b580ccfed5d2d938d4231b283059335193793cc48d",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/012.txt"
+  },
+  {
+    "number": 13,
+    "title": "Known",
+    "words": 1947,
+    "sha256": "1fb2115ff8a9ef122928c4dd81ded2c6f0fa08b37147870b0715208b3b917d73",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/013.txt"
+  },
+  {
+    "number": 14,
+    "title": "The Unsaid",
+    "words": 1779,
+    "sha256": "e872d93d72ba126e20ad63da284d9b402854192df247d739f1c6bdf53818bd1a",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/014.txt"
+  },
+  {
+    "number": 15,
+    "title": "Late",
+    "words": 1780,
+    "sha256": "cc53d87ea3960e86d11a623f81efefbbdb41d7b7a7578d49eecd1554fa660e6b",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/015.txt"
+  },
+  {
+    "number": 16,
+    "title": "The Mirror, Again",
+    "words": 1780,
+    "sha256": "f43253825bf760b1a4a875f89d22622688868c5237c106e9425c1a52c10f8e3d",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/016.txt"
+  },
+  {
+    "number": 17,
+    "title": "The Shore",
+    "words": 1783,
+    "sha256": "2ab4e06b88c4e915fdb2309a316a38be2ab58473125698bab224f6a4ed0fd840",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/017.txt"
+  },
+  {
+    "number": 18,
+    "title": "Habit",
+    "words": 2631,
+    "sha256": "7b133b2a8d167f8041aff22d2db365b85b247779f652e5eb547576fdc0384527",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/018.txt"
+  },
+  {
+    "number": 19,
+    "title": "Color",
+    "words": 1737,
+    "sha256": "ea96ff44e2d19e5c638fdd48aa50c60e5e92be32ff646367183a5da882d57dff",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/019.txt"
+  },
+  {
+    "number": 20,
+    "title": "The Light That Turns On By Itself",
+    "words": 1787,
+    "sha256": "45395a0ca1515f9e6838f3bce8ee54ca87f2d152c40f909842997fe171e2e9fc",
+    "source_file": "/workspace/scratch/1c37a339b22c/ai-girlfriend-archive/020.txt"
+  }
+]

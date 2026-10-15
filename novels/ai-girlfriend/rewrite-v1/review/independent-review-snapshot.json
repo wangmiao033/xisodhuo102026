@@ -1,0 +1,74 @@
+{
+  "reviewed_at_utc": "2026-10-15T16:35:06.060171+00:00",
+  "complete_chapters_read": 10,
+  "review_status": "passed_after_minimal_continuity_repairs",
+  "chapter_snapshot": [
+    {
+      "file": "chapters-cn/001.md",
+      "body_han": 3063,
+      "body_english_words": 4,
+      "sha256": "8f13132906d7f73d64dc9207518482ff7f8adf4cee6c9fe5e8c78c833d0d6542"
+    },
+    {
+      "file": "chapters-cn/002.md",
+      "body_han": 3022,
+      "body_english_words": 1,
+      "sha256": "ed084774ab64d2b9ffd949f56855fead1302e12d33e5d278d5f0e1b6c7c6ba09"
+    },
+    {
+      "file": "chapters-cn/003.md",
+      "body_han": 3008,
+      "body_english_words": 0,
+      "sha256": "a2b986a2bf3d911f7ff2bbc4f94db68a2cc24f4dcd44a04179c57d2e306cf56b"
+    },
+    {
+      "file": "chapters-cn/004.md",
+      "body_han": 3008,
+      "body_english_words": 0,
+      "sha256": "5a5ef46c6e4b1201c04d0c825b1d2e271b09e4d22407704a6d03e6d8e8faca3d"
+    },
+    {
+      "file": "chapters-cn/005.md",
+      "body_han": 3131,
+      "body_english_words": 2,
+      "sha256": "3e1980748ba5587595a706bb9f4dbfb8cc273ceb556f784526f60061a117f0b6"
+    },
+    {
+      "file": "chapters-en/001.md",
+      "body_han": 0,
+      "body_english_words": 2448,
+      "sha256": "377036a8adb0ba5326a63b5e794948b854b4e6e30684401951ab84b0b18982f7"
+    },
+    {
+      "file": "chapters-en/002.md",
+      "body_han": 0,
+      "body_english_words": 2292,
+      "sha256": "e15dc8d2c6f3e4a72c9f51cc9d8097319609297d5ef50c0a48fdb1e91288224d"
+    },
+    {
+      "file": "chapters-en/003.md",
+      "body_han": 0,
+      "body_english_words": 2441,
+      "sha256": "e92a6a65a0c6dbdb4a5a3412995452e185bc913e28acd12b3de08882eb8976b2"
+    },
+    {
+      "file": "chapters-en/004.md",
+      "body_han": 0,
+      "body_english_words": 2414,
+      "sha256": "23aa9fe6ed5645eecec1d9ed56fcd264317ab14dc5518c61fdfbd41c31b485f9"
+    },
+    {
+      "file": "chapters-en/005.md",
+      "body_han": 0,
+      "body_english_words": 2551,
+      "sha256": "7dad16fd545ec1b17466186139164c13790e710ab9e89d2375b05c4094b46f86"
+    }
+  ],
+  "original_archive_hash_matches": 20,
+  "original_archive_expected_files": 20,
+  "final_source_correction": "CN001 replaces morning with after waking; EN001 already says after waking.",
+  "changes_since_previous_snapshot": [
+    "chapters-cn/001.md"
+  ],
+  "migration_scope_check": "Pass: rewritten 1–5 cannot continue old 6–20 or be numbered old 21–25; 21–40 remains a proposed second arc after completion of rewritten 1–20."
+}
