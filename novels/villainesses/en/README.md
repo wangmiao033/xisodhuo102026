@@ -2,9 +2,11 @@
 
 **Volume One: A Betrothal Written in Blood — complete (Chapters 1–30)**
 
-**Volume Two: The Saint Won't Let Me Get Married — in progress (Chapters 31–45)**
+**Volume Two: The Saint Won't Let Me Get Married — complete (Chapters 31–60)**
 
-All **45 completed Chinese chapters** have been adapted into full English prose and committed separately in this folder. Volume One contains 30 chapters, and Volume Two currently has 15 chapters. The adaptations preserve the established chronology, evidence, character knowledge, humor, and relationship development, while recasting dialogue and prose into idiomatic English rather than following Chinese syntax word for word. The Chinese manuscripts remain unchanged.
+**Volume Three: The Knight Says She's Responsible for Me — in progress (Chapters 61–62)**
+
+All **62 completed Chinese chapters** have full English editions. Volumes One and Two contain thirty chapters each; Volume Three has begun. This update adds ten new bilingual story chapters (53–62) and catches up seven earlier English chapters (46–52). Chinese Chapters 1–52 remain unchanged; the unfinished Chapter 53 source is preserved separately before completion. The adaptations retain complete scenes, chronology, evidence, humor, and relationship choices in idiomatic English.
 
 ## English reading order
 
@@ -59,11 +61,29 @@ All **45 completed Chinese chapters** have been adapted into full English prose 
 | 44 | [A Lawyer Isn't an Engagement Gift](./chapter-44.md) | 1,988 |
 | 45 | [The Archive Was Locked the Night Before the Hearing](./chapter-45.md) | 2,183 |
 
-**Total, Chapters 1–45: 96,111 English words.**
+| 46 | [The Fifth Evening Bell Isn't an Oracle](./chapter-46.md) | 2,023 |
+| 47 | [The Altered Prophecy Comes to Light](./chapter-47.md) | 2,032 |
+| 48 | [Being a Saint Isn't a Favor](./chapter-48.md) | 1,987 |
+| 49 | [The Saint's Death Is Marked on the Calendar](./chapter-49.md) | 1,936 |
+| 50 | [Nobody Gets to Decide the Saint Should Hide](./chapter-50.md) | 2,142 |
+| 51 | [The Saint Says She's Seen Me in Her Dreams](./chapter-51.md) | 2,098 |
+| 52 | [The Betrothal Had Already Lapsed Seven Years Ago](./chapter-52.md) | 2,043 |
+| 53 | [The New Inspector Didn't Bring Flowers](./chapter-53.md) | 2,148 |
+| 54 | [Please Don't Pair Us Off](./chapter-54.md) | 2,145 |
+| 55 | [The Saint Isn't Choosing a Fated Husband](./chapter-55.md) | 2,234 |
+| 56 | [Why Does a Miracle Need the Door Shut?](./chapter-56.md) | 2,004 |
+| 57 | [Get Them Out First](./chapter-57.md) | 2,050 |
+| 58 | [The Saint Won't Die for Turning Out a Lamp](./chapter-58.md) | 1,969 |
+| 59 | [The Saint Decides to Buy a Table First](./chapter-59.md) | 2,213 |
+| 60 | [This Time, Let's Save Goodbye for Next Time](./chapter-60.md) | 2,193 |
+| 61 | [Her Date Route Has Three Evacuation Points](./chapter-61.md) | 2,021 |
+| 62 | [The Wagon That Refused to Admit It Was Overweight](./chapter-62.md) | 1,999 |
 
-**Volume One: 65,266 words. Volume Two, Chapters 31–45: 30,845 words.**
+**Total, Chapters 1–62: 131,348 English words.**
 
-Word counts are derived from the English files, including chapter headings, and may vary slightly by the word-counting method used by a publishing platform.
+**Volume One: 65,266 words. Volume Two: 62,062 words. Volume Three so far: 4,020 words.**
+
+Counts include headings. Chapters 46–62 were counted by whitespace-delimited words; Chapters 1–45 retain the previously recorded counts. Publishing-platform counts may differ.
 
 ## Continuity and publication notes
 
@@ -101,12 +121,15 @@ Word counts are derived from the English files, including chapter headings, and 
 - **October 23 — Chapter 43:** Cecilia refuses to sign a prewritten confession of an unauthorized disclosure she disputes and files a specific response. Her religious vocation and respect for genuine aid remain intact. Mira likewise prepares independent testimony limited to what she actually observed.
 - **October 24 — Chapter 44:** Elena offers properly segregated legal-aid funding; Cecilia chooses **Vera Ash** as independent counsel, retaining full decision-making authority. They request preservation of the relevant originals. The Temple announces a fire-safety closure of historical archive access starting October 25.
 - **October 25 — Chapter 45:** Genuine maintenance activity coexists with an additional oversight custody order; independent witnesses verify corridor seals but cannot inspect the originals inside Vault B. A custody extract bears the ambiguous notation **"after the fifth evening bell."** Adrian independently records a possibly extra bell at **8:17 p.m.** The bell's source and timing must be checked, not treated as an instant supernatural proof.
-- **October 26 ahead:** Cecilia's internal disciplinary hearing; no verdict yet. Chapter 46 begins examining the operational or ritual bell schedule and the transfer record's chronology.
+- **Next event at the end of Chapter 45 — October 26:** Cecilia's internal disciplinary hearing; no verdict yet. Chapter 46 begins examining the operational or ritual bell schedule and the transfer record's chronology.
 
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–45](../READING_INDEX_01_45.md)
+- [Complete Chinese reading directory, Chapters 1–62](../READING_INDEX_01_62.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volume One is complete in both Chinese and English (Chapters 1–30).** Volume Two Chapters 31–45 are also complete in both languages; Chapters 46 onward remain in outline form.
+**Volumes One and Two are complete in both Chinese and English (Chapters 1–60). Volume Three Chapters 61–62 are also complete. Chapters 63–300 remain planned.**
+
+[Editorial corrections and continuity notes for Chapters 46–62](../CONTINUITY_NOTES_46_62.md)
+

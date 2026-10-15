@@ -219,3 +219,51 @@ Avoid literal calques such as "fated patient was exchanged" when an idiomatic se
 ### Forward continuity
 
 The next plot hinge is **Cecilia's hearing on October 26**, the continuing restricted custody of historical Temple records, and Adrian's attempt to independently authenticate bell-timing evidence. Do not produce a sudden verdict without giving Cecilia a fair chance to address the evidence. Nor should Adrian acquire new magical abilities from the crescent scar: it remains a physical memory anchor, and fragmentary memories are never court-admissible proof by themselves. Cecilia's prosecution must be connected to documentary accusations with identifiable procedures and meaningful consequences; retain room for ordinary Temple employees and sincere believers to make their own choices.
+
+
+
+## Chapters 46–62: Volume Two resolution and border opening
+
+The complete editorial changes for earlier Chinese paragraph ordering and the limited date/attribution corrections in English are documented in `../CONTINUITY_NOTES_46_62.md`. Chinese Chapters 1–52 are unchanged. The unfinished Chapter 53 is archived separately before its completion.
+
+### Canonical names introduced
+
+| Chinese | English | Role |
+|---|---|---|
+| 罗文 | Rowan | Bell-tower custodian |
+| 安娜修女 | Sister Anna | Independent disciplinary hearing chair |
+| 萨宾·罗 | Sabine Rowe | Honest external independent inspector |
+| 伊沃·肯特 | Ivo Kent | Licensed artificer |
+| 多里安·默瑟 | Dorian Mercer | Local Temple oversight investigator for ritual and relief programs |
+| 贝丝·沃德 | Bess Ward | Municipal safety inspector |
+| 拉菲·科尔 | Rafe Cole | Lamp operator |
+| 内尔·派克 | Nell Pike | Records clerk |
+| 梅里特夫人 | Mrs. Merritt | Clinic patient |
+| 欧文·哈特下士 | Corporal Owen Hart | Border messenger and patrol member |
+| 拉斯克中尉 | Lieutenant Rusk | Acting quartermaster |
+| 露丝·芬 | Ruth Fen | Municipal weighmaster |
+| 灰垒镇 | Greymarch | Border town |
+| 柳渡村 | Willowford | Village whose winter grain is disputed |
+| 北廊救助礼堂 | North Cloister relief hall | Venue of the staged lamp demonstration |
+
+### Terminology
+
+- 旧式关联印记转接环: historical linked-mark transfer ring; shorten to transfer ring after introduction.
+- 特殊契约风险观察清单: Special Contract Risk Observation List.
+- 高风险临界日: high-risk threshold date; an archival warning, not an inevitable death.
+- 维护与结算协调组: Maintenance and Settlement Coordination Group.
+- 灾厄追思与祝福更新礼: Calamity Remembrance and Renewal of Blessings.
+- 第三卷《女骑士说要对我负责》: Volume Three: The Knight Says She's Responsible for Me.
+
+### Continuity milestones
+
+- Chapters 46–48, October 26–28: authenticated documentary differences undermine Cecilia's disclosure accusations; her saintly standing is retained, while particular archive permissions remain separately controlled.
+- Chapters 49–51, October 29–31: ordinary memorial and charitable work continue, but the risky linked-mark demonstration is suspended. Cecilia's historical dream diaries are real pre-acquaintance documents, not proof that dream events truly occurred.
+- Chapter 52, November 1: R-074's historical registration is shown to have lapsed even under its original system, apart from already having no current marriage effect. Its continuing use in risk indexes remains unexplained.
+- Chapters 53–55, November 2–4: Sabine reviews both favorable and unfavorable evidence; Ivo tests only artificially marked inert specimens with finite stored energy. The results do not establish a human death-transfer mechanism. A restricted family donation began as legitimate relief provision; later payments and changed uses require independent examination. Cecilia chooses to testify and develops present-day attraction through ordinary work with Adrian.
+- Chapters 56–57, November 5: Bess clears the hall only after remediation and before admission. Mercer later violates lighting, ventilation and exit conditions. An optical/oil-lamp rig, not the sealed historical transfer ring, causes the emergency. Professionals and the protagonists rescue six trapped people; medical care and observation continue.
+- Chapter 58, November 6: the capital-penalty referral against Cecilia is withdrawn and rejected as a basis for prosecution. This is an urgent limited review, not the completion of Mercer's criminal trial. His role in the unauthorized C-19 supplement has specific documentary support but is separately investigated.
+- Chapters 59–60, November 7–8: Cecilia establishes a modest, bounded patient-record assistance office and stays in the capital by choice. Her Chapter 55 lunch invitation continues, with no romantic commitment inferred from accepting a meal. Elena expresses jealousy without using employment or funding to control either person. Adrian and Elena depart with a verified limited border invitation.
+- Chapters 61–62, November 10–11: the journey takes two days. Viola Blackwood retains scoped provisional patrol duties while allegations remain unproved. Her safety plans are earnest, not an instant declaration of love. The supply wagon's damaged axle and weight discrepancy justify a witnessed limited inspection. Sound food still reaches the military depot. A Rosenberg transfer mark prompts suspicion but proves neither ownership at the relevant time nor guilt. The full grain-ledger issue is not solved prematurely.
+
+No new current engagement or marriage is created. Do not reveal the full Crown of Destiny mechanism, grant new powers to Adrian's scar, reinstate expired betrothal duties, or treat a favorable urgent hearing as blanket institutional exoneration or conviction.
