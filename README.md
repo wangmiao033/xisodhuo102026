@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 仓库现有第1—105章中英文正文；中文第1—60章已由作者确认定稿。
+- 仓库现有第1—115章中英文正文；中文第1—60章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -203,7 +203,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：本仓库现有105章中英文存稿（第1—105章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有115章中英文存稿（第1—115章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
@@ -248,3 +248,21 @@
 第57—58章双语续写存稿、实测篇幅与连续性复核见[交付记录](planning/revision-chapters-057-058.md)。
 
 第59—60章双语续写存稿、实测篇幅与连续性复核见[交付记录](planning/revision-chapters-059-060.md)。
+
+
+### 第106—115章中英文续写存稿（2026年10月16日）
+
+| 章 | 中文 | 正文汉字数 | English | Words |
+| --- | --- | ---: | --- | ---: |
+| 106 | [剪断绳子的人](chapters/zh/volume-04/106-剪断绳子的人.md) | 3051 | [The Man Who Cut the Cord](chapters/en/volume-04/106-the-man-who-cut-the-cord.md) | 1894 |
+| 107 | [白纸没有还清](chapters/zh/volume-04/107-白纸没有还清.md) | 3012 | [White Paper Doesn't Settle the Debt](chapters/en/volume-04/107-white-paper-doesnt-settle-the-debt.md) | 2023 |
+| 108 | [先松开那只袖子](chapters/zh/volume-04/108-先松开那只袖子.md) | 3043 | [Free the Sleeve First](chapters/en/volume-04/108-free-the-sleeve-first.md) | 1922 |
+| 109 | [把会立起来的压下去](chapters/zh/volume-04/109-把会立起来的压下去.md) | 3011 | [Pin Down What Can Rise](chapters/en/volume-04/109-pin-down-what-can-rise.md) | 1944 |
+| 110 | [纸背朝着他](chapters/zh/volume-04/110-纸背朝着他.md) | 3020 | [The Back of the Paper](chapters/en/volume-04/110-the-back-of-the-paper.md) | 1975 |
+| 111 | [那半句还等着人](chapters/zh/volume-04/111-那半句还等着人.md) | 3030 | [Still Waiting for an Answer](chapters/en/volume-04/111-still-waiting-for-an-answer.md) | 1853 |
+| 112 | [先问他要找什么](chapters/zh/volume-04/112-先问他要找什么.md) | 3048 | [Ask What He's Looking For](chapters/en/volume-04/112-ask-what-hes-looking-for.md) | 1932 |
+| 113 | [后来压上的字](chapters/zh/volume-04/113-后来压上的字.md) | 3034 | [The Words Added Later](chapters/en/volume-04/113-the-words-added-later.md) | 1987 |
+| 114 | [从第一位对起](chapters/zh/volume-04/114-从第一位对起.md) | 3019 | [Start with the First Digit](chapters/en/volume-04/114-start-with-the-first-digit.md) | 1976 |
+| 115 | [锁定的去处](chapters/zh/volume-04/115-锁定的去处.md) | 3006 | [The Locked Destination](chapters/en/volume-04/115-the-locked-destination.md) | 1972 |
+
+本批新增10章，每章均含完整中文及对应英文，共中文30,274正文汉字、英文19,478词。已完成独立逐章双语复核及修订。写作入库不自动扩大平台发布批准范围。相对时间线、人物伤势、两处黑纸、残识与转存记录边界见[本批连续性及交付记录](planning/revision-chapters-106-115.md)。
