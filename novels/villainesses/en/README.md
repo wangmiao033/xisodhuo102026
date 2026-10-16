@@ -4,9 +4,9 @@
 
 **Volume Two: The Saint Won't Let Me Get Married — complete (Chapters 31–60)**
 
-**Volume Three: The Knight Says She's Responsible for Me — in progress (Chapters 61–72)**
+**Volume Three: The Knight Says She's Responsible for Me — in progress (Chapters 61–82)**
 
-All **72 completed Chinese chapters** have full English editions. Volumes One and Two contain thirty chapters each; Volume Three now contains twelve chapters. This update adds ten complete bilingual story chapters (63–72). All earlier chapter bodies remain unchanged. The adaptations retain complete scenes, chronology, evidence, humor, and relationship choices in idiomatic English.
+All **82 completed Chinese chapters** have full English editions. Volumes One and Two contain thirty chapters each; Volume Three now contains twenty-two chapters. This update adds ten complete bilingual story chapters (73–82). All earlier chapter bodies remain unchanged. The adaptations retain complete scenes, chronology, evidence, humor, and relationship choices in idiomatic English.
 
 ## English reading order
 
@@ -84,12 +84,24 @@ All **72 completed Chinese chapters** have full English editions. Volumes One an
 | 70 | [Without Her Sword, She Didn't Know Where to Put Her Hands](./chapter-70.md) | 2,361 |
 | 71 | [The Twelve Sacks Stolen from an Order](./chapter-71.md) | 2,243 |
 | 72 | [The Knight Asks for a Place at Dinner](./chapter-72.md) | 2,304 |
+| 73 | [She Left the Signature Line Blank](./chapter-73.md) | 2,432 |
+| 74 | [This Time, Bring the Permit First](./chapter-74.md) | 2,467 |
+| 75 | [A Crown Can't Testify for Anyone](./chapter-75.md) | 2,360 |
+| 76 | [He Sent the Rope to the Window](./chapter-76.md) | 2,335 |
+| 77 | [She Wanted to Sign for Them All](./chapter-77.md) | 2,434 |
+| 78 | [Lady Elena Doesn't Get to Choose His Answers](./chapter-78.md) | 2,184 |
+| 79 | [The Saint Finds No Answers in the Light](./chapter-79.md) | 2,112 |
+| 80 | [Bowing Her Head Won't Bring the Books Back](./chapter-80.md) | 2,120 |
+| 81 | [The Saint First Asks Whether It's a Proposal](./chapter-81.md) | 2,214 |
+| 82 | [The Knight Asks If He'll Come Along](./chapter-82.md) | 2,211 |
 
-**Total, Chapters 1–72: 153,779 English words.**
+**Historical count, Chapters 1–72: 153,779 English words (prior mixed counting conventions).**
 
-**Volume One: 65,266 words. Volume Two: 62,062 words. Volume Three so far: 26,451 words.**
+**New Chapters 73–82: 22,869 English body words, excluding headings.**
 
-Counts include headings. Chapters 46–72 were counted by whitespace-delimited words; Chapters 1–45 retain the previously recorded counts. Publishing-platform counts may differ.
+**Volume One: 65,266 words. Volume Two: 62,062 words. Volume Three through Chapter 72: 26,451 words under the prior convention.**
+
+Historical counts through Chapter 72 include headings; Chapters 46–72 use whitespace-delimited words and Chapters 1–45 retain their prior records. New Chapters 73–82 use whitespace-delimited BODY words with all Markdown headings excluded. The two totals are kept separate to avoid implying a single uniform count. Publishing-platform counts may differ.
 
 ## Continuity and publication notes
 
@@ -131,13 +143,17 @@ Counts include headings. Chapters 46–72 were counted by whitespace-delimited w
 
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–72](../READING_INDEX_01_72.md)
+- [Complete Chinese reading directory, Chapters 1–82](../READING_INDEX_01_82.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volumes One and Two are complete in both Chinese and English (Chapters 1–60). Volume Three Chapters 61–72 are also complete. Chapters 73–300 remain planned.**
+**Volumes One and Two are complete in both Chinese and English (Chapters 1–60). Volume Three Chapters 61–82 are also complete. Chapters 83–300 remain planned.**
 
 [Editorial corrections and continuity notes for Chapters 46–62](../CONTINUITY_NOTES_46_62.md)
 
 
 [Border-arc continuity notes for Chapters 63–72](../CONTINUITY_NOTES_63_72.md)
+
+
+
+[Border investigation and hearing continuity, Chapters 73–82](../CONTINUITY_NOTES_73_82.md)
