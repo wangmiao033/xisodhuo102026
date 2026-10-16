@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 仓库现有第1—115章中英文正文；中文第1—60章已由作者确认定稿。
+- 仓库现有第1—125章中英文正文；中文第1—60章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -188,10 +188,11 @@
 - `chapters/zh/volume-01/`：中文正文，第1—30章。
 - `chapters/zh/volume-02/`：第二卷中文正文，现有第31—60章。
 - `chapters/zh/volume-03/`：第三卷中文正文，现有第61—90章。
-- `chapters/zh/volume-04/`：第四卷中文正文，现有第91—105章。
+- `chapters/zh/volume-04/`：第四卷中文正文，第91—120章。
+- `chapters/zh/volume-05/`：第五卷中文正文，现有第121—125章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—105章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—105章位于 `volume-04/`。
+- `chapters/en/`：英文文学改写稿，第1—125章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—120章位于 `volume-04/`，第121—125章位于 `volume-05/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -203,7 +204,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：本仓库现有115章中英文存稿（第1—115章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有125章中英文存稿（第1—125章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
@@ -266,3 +267,22 @@
 | 115 | [锁定的去处](chapters/zh/volume-04/115-锁定的去处.md) | 3006 | [The Locked Destination](chapters/en/volume-04/115-the-locked-destination.md) | 1972 |
 
 本批新增10章，每章均含完整中文及对应英文，共中文30,274正文汉字、英文19,478词。已完成独立逐章双语复核及修订。写作入库不自动扩大平台发布批准范围。相对时间线、人物伤势、两处黑纸、残识与转存记录边界见[本批连续性及交付记录](planning/revision-chapters-106-115.md)。
+
+### 第116—125章作者追加续写存稿（2026年10月16日）
+
+| 章 | 中文 | 正文汉字数 | English | Words |
+| --- | --- | ---: | --- | ---: |
+| 116 | [回去的地址](chapters/zh/volume-04/116-回去的地址.md) | 3030 | [An Address to Return To](chapters/en/volume-04/116-an-address-to-return-to.md) | 1994 |
+| 117 | [今天还下不去](chapters/zh/volume-04/117-今天还下不去.md) | 3058 | [Not Down the Stairs Yet](chapters/en/volume-04/117-not-down-the-stairs-yet.md) | 2089 |
+| 118 | [有人把他送下去](chapters/zh/volume-04/118-有人把他送下去.md) | 3028 | [They Took Him Downstairs](chapters/en/volume-04/118-they-took-him-downstairs.md) | 1962 |
+| 119 | [墙后还有走廊](chapters/zh/volume-04/119-墙后还有走廊.md) | 3010 | [The Corridor Behind the Wall](chapters/en/volume-04/119-the-corridor-behind-the-wall.md) | 1911 |
+| 120 | [到这里就放手](chapters/zh/volume-04/120-到这里就放手.md) | 3036 | [Let Go Here](chapters/en/volume-04/120-let-go-here.md) | 1920 |
+| 121 | [把手松开以后](chapters/zh/volume-05/121-把手松开以后.md) | 3381 | [After They Let Go](chapters/en/volume-05/121-after-they-let-go.md) | 1874 |
+| 122 | [那块布原来有用](chapters/zh/volume-05/122-那块布原来有用.md) | 3156 | [What the Canvas Was For](chapters/en/volume-05/122-what-the-canvas-was-for.md) | 1880 |
+| 123 | [瓶盖留在谁手里](chapters/zh/volume-05/123-瓶盖留在谁手里.md) | 3078 | [Who Holds the Cap](chapters/en/volume-05/123-who-holds-the-cap.md) | 1919 |
+| 124 | [他看错了那根梁](chapters/zh/volume-05/124-他看错了那根梁.md) | 3294 | [What He Thought Was a Beam](chapters/en/volume-05/124-what-he-thought-was-a-beam.md) | 2049 |
+| 125 | [红字落在地上](chapters/zh/volume-05/125-红字落在地上.md) | 3078 | [The Red Words Near the Floor](chapters/en/volume-05/125-the-red-words-near-the-floor.md) | 1938 |
+
+本批额外新增10章，每章均有完整中文及对应英文，共中文31,149正文汉字、英文19,536词。中英同章只计一章；加上当天先完成的106—115章，2026年10月16日实际新增20章双语存稿。已完成逐章双语独立复核与修订。写作存档不扩大平台发布批准范围。
+
+相对时间、入口与轮椅行动、幸存者物资和红字身份核验边界见[本批连续性记录](planning/revision-chapters-116-125.md)。
