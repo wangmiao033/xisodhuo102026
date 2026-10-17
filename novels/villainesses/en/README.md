@@ -4,9 +4,11 @@
 
 **Volume Two: The Saint Won't Let Me Get Married — complete (Chapters 31–60)**
 
-**Volume Three: The Knight Says She's Responsible for Me — in progress (Chapters 61–82)**
+**Volume Three: The Knight Says She's Responsible for Me — complete (Chapters 61–90)**
 
-All **82 completed Chinese chapters** have full English editions. Volumes One and Two contain thirty chapters each; Volume Three now contains twenty-two chapters. This update adds ten complete bilingual story chapters (73–82). All earlier chapter bodies remain unchanged. The adaptations retain complete scenes, chronology, evidence, humor, and relationship choices in idiomatic English.
+**Volume Four: The Witch Wants to Study My Betrothal — in progress (Chapters 91–92)**
+
+All **92 completed Chinese chapters** have full English editions. Volumes One, Two and Three contain thirty chapters each; Volume Four now contains two chapters. This update adds ten complete bilingual story chapters (83–92). Earlier chapter bodies remain unchanged. Full scenes, dialogue, chronology, emotional choices and evidence limits are retained in natural English.
 
 ## English reading order
 
@@ -94,14 +96,26 @@ All **82 completed Chinese chapters** have full English editions. Volumes One an
 | 80 | [Bowing Her Head Won't Bring the Books Back](./chapter-80.md) | 2,120 |
 | 81 | [The Saint First Asks Whether It's a Proposal](./chapter-81.md) | 2,214 |
 | 82 | [The Knight Asks If He'll Come Along](./chapter-82.md) | 2,211 |
+| 83 | [That Carriage Wasn't Here to Collect a Patient](./chapter-83.md) | 2,585 |
+| 84 | [Drawing Swords Won't Tell Them Who the Enemy Is](./chapter-84.md) | 2,458 |
+| 85 | [She Held the Bridge, and Remembered to Come Back](./chapter-85.md) | 2,598 |
+| 86 | [The Princess's Envoy Asks Her to Sit Down](./chapter-86.md) | 2,357 |
+| 87 | [Her Name, Without the Word Traitor](./chapter-87.md) | 2,323 |
+| 88 | [This Time, She Chooses to Come Along](./chapter-88.md) | 2,401 |
+| 89 | [Today, the Knight Just Wants to Win a Wooden Bird](./chapter-89.md) | 2,650 |
+| 90 | [The Witch's Name Wasn't on the Stone](./chapter-90.md) | 2,352 |
+| 91 | [The Witch Says You Can Blame the Stairs](./chapter-91.md) | 2,314 |
+| 92 | [The Witch Wants to Know What's Under the Glove](./chapter-92.md) | 2,232 |
 
 **Historical count, Chapters 1–72: 153,779 English words (prior mixed counting conventions).**
 
-**New Chapters 73–82: 22,869 English body words, excluding headings.**
+**Chapters 73–82: 22,869 English body words, excluding headings.**
+
+**New Chapters 83–92: 24,270 English body words, excluding headings.**
 
 **Volume One: 65,266 words. Volume Two: 62,062 words. Volume Three through Chapter 72: 26,451 words under the prior convention.**
 
-Historical counts through Chapter 72 include headings; Chapters 46–72 use whitespace-delimited words and Chapters 1–45 retain their prior records. New Chapters 73–82 use whitespace-delimited BODY words with all Markdown headings excluded. The two totals are kept separate to avoid implying a single uniform count. Publishing-platform counts may differ.
+Historical counts through Chapter 72 include headings; Chapters 46–72 use whitespace-delimited words and Chapters 1–45 retain their prior records. Chapters 73–92 use whitespace-delimited BODY words with all Markdown headings excluded. The totals are kept separate to avoid implying a single uniform count. Publishing-platform counts may differ.
 
 ## Continuity and publication notes
 
@@ -143,11 +157,11 @@ Historical counts through Chapter 72 include headings; Chapters 46–72 use whit
 
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–82](../READING_INDEX_01_82.md)
+- [Complete Chinese reading directory, Chapters 1–92](../READING_INDEX_01_92.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volumes One and Two are complete in both Chinese and English (Chapters 1–60). Volume Three Chapters 61–82 are also complete. Chapters 83–300 remain planned.**
+**Volumes One through Three are complete in both Chinese and English (Chapters 1–90). Volume Four Chapters 91–92 are also complete. Chapters 93–300 remain planned.**
 
 [Editorial corrections and continuity notes for Chapters 46–62](../CONTINUITY_NOTES_46_62.md)
 
@@ -157,3 +171,6 @@ Historical counts through Chapter 72 include headings; Chapters 46–72 use whit
 
 
 [Border investigation and hearing continuity, Chapters 73–82](../CONTINUITY_NOTES_73_82.md)
+
+
+[Border resolution and research-tower continuity, Chapters 83–92](../CONTINUITY_NOTES_83_92.md)

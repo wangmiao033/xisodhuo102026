@@ -307,3 +307,30 @@ Elena's hand burn and Adrian's smoke-exposure recovery remain relevant to what t
 - November26 (81): independent records establish a bounded N26 shipment chain; Martin's thumbprint receipt is subject to confirmation, not infallible biometric proof. Missing or burned originals are not resurrected by obtaining separate counterpart documents. WF-18 remains the same six hundred pounds, not two consignments.
 - November27 (82): garrison custody is declined; Viola may preregister daytime civilian travel within listed southern near-town areas, returning and reporting the same day. Her issued sword and command remain suspended; treason and the November14 command dispute remain undecided. Chapter83's further danger has not already occurred.
 - Adrian's smoke recovery, Elena's healing hand, and Viola's minor left-forearm wound limit exertion. Relationships remain voluntary and gradual, with no new engagement or marriage.
+
+
+## Chapters 83–92: border resolution and the research tower
+
+### New canonical names
+
+| Chinese | English | Role |
+|---|---|---|
+| 塞德里克·莫罗上尉 | Captain Cedric Morrow | Supply officer under investigation; distinct from the established lawyer Mr. Hale |
+| 艾丽丝·芬威克 | Alice Fenwick | Royal envoy heading the cross-jurisdiction investigation |
+| 南桥 | South Bridge | Southern civilian crossing and checkpoint outside Greymarch |
+| 东岭 | East Ridge | Location of the research tower |
+| 禁术研究塔 | Forbidden Arts Research Tower | Regionally supervised research institution for disused devices and dangerous historical arts |
+| 第四卷《魔女想研究我的婚约》 | Volume Four: The Witch Wants to Study My Betrothal | Chapters 91–120 |
+
+### Chronology and evidence
+
+- November 28 (83): the false medical transfer is stopped at the clinic; an altered genuine empty-wagon pass, the vehicle's contents, routing, rental records and payments supply distinct leads. Cecilia is an actual witness to the clinic events; Elena arrives afterward and cannot become an eyewitness. Morrow denies knowing the pass was repurposed. No instant confession or whole-garrison guilt.
+- November 29 (84–85): an omitted second page of the preservation order fuels the split among knights. Ward and Voss clarify its limited scope. Their written South Bridge assignment grants Viola bounded emergency command and nighttime access, with a deputy for work her injured left arm cannot do. The borrowed short sword is returned when relief takes over; her original sword remains deposited. Adrian works inside the sheltered station shed, not in combat. Morrow and the bag are secured with documented custody.
+- December 1–2 (86): Alice Fenwick arrives under a commission approved November 25, after departing November 27 and meeting regional auditors. Isabella's role is offstage; she does not appear personally before Volume Five. Independent carrier-held records are distinct from the burned Alder Watch originals. Objections, examination and supplementary questions precede the ruling.
+- December 3 (87): the authorized committee formally withdraws the treason allegations, ends Viola's case-related restrictions and restores rank and good standing. The November 14 recall remains genuine: she promptly signed and sent a reasoned delay acknowledgment, returned four riders ahead and escorted the final wagon. The ruling finds necessity and imposes no disciplinary sanction; never invent an omitted report. Adrian's Chapter 80 testimony records his choice to allocate the long rope to rescue; Viola's own role was helping determine the rescue route and assisting the withdrawal. Other suspects' criminal proceedings continue separately.
+- December 4 (88): Viola chooses fourteen days of convalescent leave and traveling companionship, with alternative life choices and future duty decisions intact. No immediate return to old command, permanent resignation, life debt or betrothal.
+- December 5–6 (89–90): winter festivities coexist with reconstruction. Drain repair exposes a reused contract-registration stone. Municipal records authenticate its old use; a professional supplement and Ivo's November 24-related reply identify Luna independently. Her name is not carved into the ancient stone. The Chapter 82 mill walk was postponed because Adrian was tired, not because travel to the mill was forbidden. Elena's promised evening reading time is kept. Restricted originals remain with their custodians; authorized drawings and ordinary introductions travel ahead.
+- December 7–8 (91): a two-day carriage journey and actual rest precede the first consultation. Luna's stored-energy lift brake has a finite recharge and scheduling cost. The visible right-finger pulse apparatus is voluntary, limited to half a minute, has no recording paper and cannot read thoughts or establish attraction. The left-hand scar is only noticed during handwashing.
+- December 9 (92): Luna proposes scar observation and possible later testing through an isolation medium. No scar examination, exposure, signed agreement, or time-residue result occurs. The proposed open-ended additional-procedures clause remains to be discussed. Preserve Chapter 93's refusal of unconditional experimentation, Chapter 94's informed agreement and Chapter 95's limited result as future events.
+
+Romance stays gradual and voluntary. Elena and Adrian remain the central established courtship; the consented cheek kiss in Chapter 85 is not another accidental kiss. Cecilia and Viola keep independent responsibilities and choices. Luna is curious and professionally capable but has unresolved habits around the scope of research; do not erase her development by making her flawlessly considerate immediately. No new current betrothal, marriage, scar power or complete fate mechanism is established. Chinese chapters83–92 and the full continuity note govern precise scene details.
