@@ -30,7 +30,7 @@
 
 ## 当前进度
 
-- 仓库现有第1—125章中英文正文；中文第1—60章已由作者确认定稿。
+- 仓库现有第1—135章中英文正文；中文第1—60章已由作者确认定稿。
 - 英文章节均已完成双语复核。各章实际篇幅见下表；完成存稿不等于已经在 Novelpia 发布或获准独家。
 - 第一卷推进表保留第30章结局；连续性记录接至第60章，第二卷推进表保留卷次边界。
 - `drafts/en/` 的英文旧稿为弃用参考，不用于发布。
@@ -189,10 +189,10 @@
 - `chapters/zh/volume-02/`：第二卷中文正文，现有第31—60章。
 - `chapters/zh/volume-03/`：第三卷中文正文，现有第61—90章。
 - `chapters/zh/volume-04/`：第四卷中文正文，第91—120章。
-- `chapters/zh/volume-05/`：第五卷中文正文，现有第121—125章。
+- `chapters/zh/volume-05/`：第五卷中文正文，现有第121—135章。
 - `planning/volume-01-beats.md`：第一卷推进表。
 - `planning/volume-02-beats.md`：第二卷推进表。
-- `chapters/en/`：英文文学改写稿，第1—125章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—120章位于 `volume-04/`，第121—125章位于 `volume-05/`。
+- `chapters/en/`：英文文学改写稿，第1—135章；第31—60章位于 `volume-02/`，第61—90章位于 `volume-03/`，第91—120章位于 `volume-04/`，第121—135章位于 `volume-05/`。
 - `publication/novelpia-upload-kit.md`：本次选定的英文书名、简介与标签。
 - `publication/metadata.md`：保留的历史出版资料，未随本轮更新。
 - `publication/blurb-en.md`：历史英文简介；当前选用版本见发布资料包。
@@ -204,7 +204,7 @@
 
 中文第1—60章已由作者确认定稿。保存不等于在小说平台发布。
 
-开更准备：本仓库现有125章中英文存稿（第1—125章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
+开更准备：本仓库现有135章中英文存稿（第1—135章）；中文第1—60章作者定稿。平台发布、独家申请与存稿完成分别记录；平台上传及申请结果待核实。
 
 本轮修订：第一章只保留章节标题及正文；第3—5章补至3042／3017／3023个汉字；第1—7章轻度合段；所有中文章节统一阿拉伯数字章号、中文引号及【】屏幕文字格式。第8—10章仅调整格式。各章字数及复查清单见[本轮修订记录](planning/revision-2026-10-05.md)。
 
@@ -286,3 +286,22 @@
 本批额外新增10章，每章均有完整中文及对应英文，共中文31,149正文汉字、英文19,536词。中英同章只计一章；加上当天先完成的106—115章，2026年10月16日实际新增20章双语存稿。已完成逐章双语独立复核与修订。写作存档不扩大平台发布批准范围。
 
 相对时间、入口与轮椅行动、幸存者物资和红字身份核验边界见[本批连续性记录](planning/revision-chapters-116-125.md)。
+
+### 第126—135章中英文续写存稿（2026年10月17日）
+
+| 章 | 中文 | 正文汉字数 | English | Words |
+| --- | --- | ---: | --- | ---: |
+| 126 | [门后的敲击](chapters/zh/volume-05/126-门后的敲击.md) | 3084 | [The Knocking Behind the Door](chapters/en/volume-05/126-the-knocking-behind-the-door.md) | 2042 |
+| 127 | [灰衣服带回来了](chapters/zh/volume-05/127-灰衣服带回来了.md) | 3040 | [The Gray Jacket Came Back](chapters/en/volume-05/127-the-gray-jacket-came-back.md) | 2105 |
+| 128 | [床下面的水](chapters/zh/volume-05/128-床下面的水.md) | 3040 | [The Water Under the Beds](chapters/en/volume-05/128-the-water-under-the-beds.md) | 2007 |
+| 129 | [空座位还认得他](chapters/zh/volume-05/129-空座位还认得他.md) | 3055 | [The Empty Seat Knew Him](chapters/en/volume-05/129-the-empty-seat-knew-him.md) | 1954 |
+| 130 | [干地方只够歇一会儿](chapters/zh/volume-05/130-干地方只够歇一会儿.md) | 3049 | [Somewhere Dry for a While](chapters/en/volume-05/130-somewhere-dry-for-a-while.md) | 2020 |
+| 131 | [他被分到右边](chapters/zh/volume-05/131-他被分到右边.md) | 3008 | [Assigned to the Right](chapters/en/volume-05/131-assigned-to-the-right.md) | 1876 |
+| 132 | [不用肩膀顶的路](chapters/zh/volume-05/132-不用肩膀顶的路.md) | 3043 | [A Way That Spared the Shoulders](chapters/en/volume-05/132-a-way-that-spared-the-shoulders.md) | 1968 |
+| 133 | [把他的肩膀留出来](chapters/zh/volume-05/133-把他的肩膀留出来.md) | 3019 | [Room for His Shoulders](chapters/en/volume-05/133-room-for-his-shoulders.md) | 1898 |
+| 134 | [纸不在那只旧袋里](chapters/zh/volume-05/134-纸不在那只旧袋里.md) | 3039 | [Another Set of Pages](chapters/en/volume-05/134-another-set-of-pages.md) | 1845 |
+| 135 | [没有替他填上答案](chapters/zh/volume-05/135-没有替他填上答案.md) | 3018 | [He Left the Answer Blank](chapters/en/volume-05/135-he-left-the-answer-blank.md) | 1962 |
+
+本批新增10章完整双语存稿，共中文30,395正文汉字、英文19,677词。中英同章计一章；本日目标10章已完成。逐章双语审读已修正衣物取放、门缝可通行宽度、照片保存位置、屏幕与拍摄逻辑、足跟检查动作过渡及补衣四/丙架七码证据对应。写作存档不扩大平台发布批准范围。
+
+时间、人员伤情、水量、局部锁止机制与维修抄页归属边界见[本批连续性记录](planning/revision-chapters-126-135.md)。
