@@ -1,0 +1,47 @@
+{
+  "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
+  "release_chapters": [
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "files": [
+    {
+      "chapter": 31,
+      "file": "031_The_Habit.md",
+      "source_sha256": "5ed4a66b823b8c8ab3adc2b9a1511c36dfbc432c141f5fe231f709d5d5550f06",
+      "reviewed_sha256": "5ed4a66b823b8c8ab3adc2b9a1511c36dfbc432c141f5fe231f709d5d5550f06",
+      "words_including_heading": 1265
+    },
+    {
+      "chapter": 32,
+      "file": "032_Move.md",
+      "source_sha256": "bc6733a9c5d619da79e1ba371c32c6a75023fbf18fe6a574b05a215f0a3fe3e5",
+      "reviewed_sha256": "843d0e3c0c4d80000dd4146af8a33d58f5820624cf5cec65c7cd4cd0acb34e92",
+      "words_including_heading": 1274
+    },
+    {
+      "chapter": 33,
+      "file": "033_North.md",
+      "source_sha256": "a1aad1f8e5770be497e1231491cf1b36e242a03b53a225dfc48416ef7d9b3a05",
+      "reviewed_sha256": "a1aad1f8e5770be497e1231491cf1b36e242a03b53a225dfc48416ef7d9b3a05",
+      "words_including_heading": 999
+    },
+    {
+      "chapter": 34,
+      "file": "034_The_Body.md",
+      "source_sha256": "c4c3db3e5dc3da6a2ffd318662b32b91d061dc7c607789d56daeda5c43aa0d85",
+      "reviewed_sha256": "264ab47d3f1109eab6314f8454543687b277537e9c5bea1de59343394df75735",
+      "words_including_heading": 1407
+    },
+    {
+      "chapter": 35,
+      "file": "035_Thank_You.md",
+      "source_sha256": "14ad7889d6f92e2c93dabfce529e252bb6d461044e49adbe5d200ceeb69be57e",
+      "reviewed_sha256": "ba52b916278da50ae3938966083f8b8d20e5a88c3fd431fef6145897d9ed0837",
+      "words_including_heading": 1383
+    }
+  ]
+}

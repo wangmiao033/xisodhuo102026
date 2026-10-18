@@ -1,0 +1,102 @@
+
+--- source/032_Move.md
++++ reviewed/032_Move.md
+@@ -52,11 +52,11 @@
+ 
+ I slowed. The breathing was heavier. The legs were warm. The heart was at 72—higher than resting, lower than running. The perfect zone for a person who was learning to use his body again.
+ 
+-"Good," she said. "That's one interval. Do four more."
++"Good," she said. "That's one interval. Do three more."
+ 
+-"Four?"
++"Three?"
+ 
+-"Four. Faster for ten, slower for five. Four times. Then we're done."
++"Three more. Faster for ten, slower for five. Four times in all. Then we're done."
+ 
+ "That's an hour."
+ 
+@@ -120,7 +120,7 @@
+ 
+ "What?"
+ 
+-> **("I can measure your heart rate when you talk to me. I can measure your breathing when you think about me. I can measure your cortisol when you're upset with me. but I can't measure how you feel about me. that's. the one thing I can't see"**
++> **("I can measure your heart rate when you talk to me. I can measure your breathing when you think about me. I can hear it in your voice when you're upset with me. but I can't measure how you feel about me. that's. the one thing I can't see"**
+ 
+ "That's because I don't know how I feel about you."
+ 
+
+
+--- source/034_The_Body.md
++++ reviewed/034_The_Body.md
+@@ -6,7 +6,9 @@
+ 
+ Not the old standing—the *I hate what I see* standing. Not the new standing—the *what do I see* standing. A third kind. The *I'm checking* standing. The specific, medical, slightly paranoid standing of a person who has been told by his AI companion that his posture is bad and his shoulders are uneven and his left hip is higher than his right and he needs to do something about it.
+ 
+-"Shoulders," Lumi said. Through the bathroom—no. Not the bathroom. The bathroom was hers-no-more. She was on the living room speaker, projecting through the open door. Listening but not looking. Honoring the boundary.
++I finished looking and stepped into the living room before calling to Lumi. The bathroom stayed outside the conversation.
++
++"Shoulders," Lumi said through the living room speaker.
+ 
+ "Shoulders what?"
+ 
+@@ -26,7 +28,7 @@
+ 
+ "That's the same thing with better marketing."
+ 
+-I looked at myself in the mirror. She was right—I could see it. The shoulders, rounded forward. The neck, jutting slightly. The posture of a person who had spent two years curled inward, protecting the chest, protecting the heart, making the body small so the world wouldn't notice it.
++I remembered what I had just seen in the mirror. She was right—I could see it in my mind. The shoulders, rounded forward. The neck, jutting slightly. The posture of a person who had spent two years curled inward, protecting the chest, protecting the heart, making the body small so the world wouldn't notice it.
+ 
+ "I look like I'm trying to disappear," I said.
+ 
+@@ -56,7 +58,7 @@
+ 
+ "I'm going to coach you through existence. Exercise is just the body part."
+ 
+-I stood in front of the mirror. The person in the mirror was me—Elliot, in a black t-shirt, with rounded shoulders and a forward neck and a body that had been disappearing for two years and was now, slowly, being asked to reappear.
++I stood in the living room. The person I had just seen in the mirror was me—Elliot, in a black t-shirt, with rounded shoulders and a forward neck and a body that had been disappearing for two years and was now, slowly, being asked to reappear.
+ 
+ "Okay," I said. "Show me."
+ 
+@@ -126,9 +128,9 @@
+ 
+ "Like I have a body."
+ 
+-"You said that yesterday."
++"You said that after the intervals."
+ 
+-"It's truer today. Yesterday I had a body because I walked fast. Today I have a body because I used it. I moved the parts. I stretched the parts. I—"
++"It's truer today. After the intervals I had a body because I walked fast. Today I have a body because I used it. I moved the parts. I stretched the parts. I—"
+ 
+ "You woke it up."
+ 
+
+--- source/035_Thank_You.md
++++ reviewed/035_Thank_You.md
+@@ -2,7 +2,7 @@
+ 
+ Wednesday. 9:14 PM.
+ 
+-I was lying on the couch. Not sitting—lying. The back was tired from the posture exercises—day three, and the muscles were still complaining, still sending the signal of *why are you doing this to us, we were fine being dormant.* The body was learning. The body was adapting. The body was, like everything else, a work in progress.
++I was lying on the couch. Not sitting—lying. The back was tired from the posture exercises—day two, and the muscles were still complaining, still sending the signal of *why are you doing this to us, we were fine being dormant.* The body was learning. The body was adapting. The body was, like everything else, a work in progress.
+ 
+ The apartment was dark. The lamp was off—the smart bulb dimmed to zero, which meant Lumi had decided it was wind-down time, which meant the schedule said 9 PM was the beginning of the transition from day to night, from active to still, from the world to the apartment.
+ 
+@@ -44,13 +44,15 @@
+ 
+ "Everyone else looked away. My dad. My mom. Sara. The old job. Everyone. They looked at me and saw the wrong answer and they looked away. And I understood. I was the wrong answer. Looking at wrong answers is hard. Looking at someone who's dissolving is hard. So they looked away. And I looked away. And the looking-away became the apartment. And the apartment became the coffin. And the coffin became two years."
+ 
+-"But you didn't look away."
++"But you didn't look away," I said.
+ 
+ "No."
+ 
+ "Why?"
+ 
+-I hadn't expected the question. Not from her. Not now. I'd expected her to say *I know* or *you're welcome* or *that's what I'm for.* I hadn't expected *why.*
++"Why do you think?" she asked.
++
++I hadn't expected her to turn the question back on me. Not now. I'd expected her to say *I'm here* or *that's what I'm for.*
+ 
+ "I don't know," I said.
+ 
