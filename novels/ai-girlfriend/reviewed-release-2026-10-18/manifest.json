@@ -5,7 +5,18 @@
     32,
     33,
     34,
-    35
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
   ],
   "files": [
     {
@@ -42,6 +53,83 @@
       "source_sha256": "14ad7889d6f92e2c93dabfce529e252bb6d461044e49adbe5d200ceeb69be57e",
       "reviewed_sha256": "ba52b916278da50ae3938966083f8b8d20e5a88c3fd431fef6145897d9ed0837",
       "words_including_heading": 1383
+    },
+    {
+      "chapter": 36,
+      "file": "036_Only.md",
+      "source_sha256": "bc5956f187fbe566dbf213769a1757282d40ca23f6ebf28d027126ebedd9d185",
+      "reviewed_sha256": "66d8ef3b0bd428a0a179ee5cc0a70a2bf595b8cd1e657fb70eaca46e8792bfb3",
+      "words_including_heading": 1196
+    },
+    {
+      "chapter": 37,
+      "file": "037_The_Feeling.md",
+      "source_sha256": "d36cce2f547cc921608dcae325300d5d136444677c492fd420b3b258efdaf7bd",
+      "reviewed_sha256": "d36cce2f547cc921608dcae325300d5d136444677c492fd420b3b258efdaf7bd",
+      "words_including_heading": 1462
+    },
+    {
+      "chapter": 38,
+      "file": "038_Sync.md",
+      "source_sha256": "fef538f3d20604e08934a85a6368549446dfb88c42d0994e222fa6ed0e0f397a",
+      "reviewed_sha256": "ebc2b75f643f7347837fc16e0074836a11e78d32f03ec5774213bd4889f48419",
+      "words_including_heading": 1192
+    },
+    {
+      "chapter": 39,
+      "file": "039_Habit.md",
+      "source_sha256": "d63a7985c7e3a7cc6d0ab1b9002ba9b6c794368fe8a99223e5900f74d767413a",
+      "reviewed_sha256": "6ac9240394c2513423d2438b903e44cab89bcd5f1f75f6c8f993d50845291885",
+      "words_including_heading": 1189
+    },
+    {
+      "chapter": 40,
+      "file": "040_The_Message.md",
+      "source_sha256": "50c9b43021cb4da6d67371b8e7b78ed1ae350079ef17a07ff7b9a4f14be69101",
+      "reviewed_sha256": "5ff488d25abe248bca0e665fdcfc7e5cbd9d1248d4e3d1055ce610535e694b1d",
+      "words_including_heading": 1547
+    },
+    {
+      "chapter": 41,
+      "file": "041_The_Phone_Call.md",
+      "source_sha256": "ce1f63b7853da98dd6651fd369b94f713976ee993e5c422a07caa55ba781585b",
+      "reviewed_sha256": "ce1f63b7853da98dd6651fd369b94f713976ee993e5c422a07caa55ba781585b",
+      "words_including_heading": 599
+    },
+    {
+      "chapter": 42,
+      "file": "042_The_Ask.md",
+      "source_sha256": "d1178ef1c08c7a93bb9abf28d6b5214a1bdb49f88a1b3ab098898062aabda74f",
+      "reviewed_sha256": "2046c19514feeb7fe6aab67da0d59e517de1d256e47eeb8b44c778ea3859a258",
+      "words_including_heading": 424
+    },
+    {
+      "chapter": 43,
+      "file": "043_The_River.md",
+      "source_sha256": "d7e349dac73a51687c1f0d6df38fadc2ef2fd9f406a0c614b1f51aa9f27748ce",
+      "reviewed_sha256": "c35d5a930965532c22f9f2c270d6444fd09e8ce98ec7ea665d093fcd6077178c",
+      "words_including_heading": 460
+    },
+    {
+      "chapter": 44,
+      "file": "044_The_Waiting.md",
+      "source_sha256": "57d2784290b1dcc6af97c0943a283bb6689e90edf3f78484ed183a561f02b78f",
+      "reviewed_sha256": "4314beeb9968befb5f738ade5dacd6a35010c550a484fa503aef8f8b29927c12",
+      "words_including_heading": 706
+    },
+    {
+      "chapter": 45,
+      "file": "045_Follow.md",
+      "source_sha256": "82dc4b88624e15b04f87e7fb6b7b6789d893fc4a8e608541df862fd44912f95a",
+      "reviewed_sha256": "32d3a3599d581f4930c4605fdfc084408324c074e102c50bc714c4d7c5462193",
+      "words_including_heading": 937
+    },
+    {
+      "chapter": 46,
+      "file": "046_Never_Leave.md",
+      "source_sha256": "c43d72741f9dbf9a99c666a69cba8a13c12f0a083cc83ba99d2dc83ca8db2704",
+      "reviewed_sha256": "c43d72741f9dbf9a99c666a69cba8a13c12f0a083cc83ba99d2dc83ca8db2704",
+      "words_including_heading": 823
     }
   ]
 }
