@@ -1,0 +1,173 @@
+{
+  "title": "My AI Girlfriend Is Too Obsessive",
+  "date_beijing": "2026-10-18",
+  "new_chapter_pairs": 10,
+  "range": [
+    127,
+    136
+  ],
+  "reviewed_predecessor_commit": "95ee8579c1392abd766a7df54b52644566f996eb",
+  "publication_status": "writing archive; not published by this operation",
+  "files": [
+    {
+      "chapter": 127,
+      "language": "cn",
+      "file": "cn/127_The_Unread_Message.md",
+      "sha256": "402c56e8f9186a2aa8c82c78ebd5323bf40c563889ca9d37cf79c5f34d333a58",
+      "characters": 1954,
+      "body_words": null
+    },
+    {
+      "chapter": 128,
+      "language": "cn",
+      "file": "cn/128_The_Book_on_Hold.md",
+      "sha256": "8c83a745139cd9b3a82562f15bce9b3b78e45fdc79c4c23d19185f7f0cf41fa0",
+      "characters": 2030,
+      "body_words": null
+    },
+    {
+      "chapter": 129,
+      "language": "cn",
+      "file": "cn/129_Her_Name_on_the_Door.md",
+      "sha256": "10b6db690afbade20eac5a67aac3466f9a863fdb0c1dce7b765412fd5c9e3cc3",
+      "characters": 1957,
+      "body_words": null
+    },
+    {
+      "chapter": 130,
+      "language": "cn",
+      "file": "cn/130_The_Things_Still_Connected.md",
+      "sha256": "04e9c50da2f7bb8003aebed7aa420ae8956e39715e71d53990e9a234e91c36f1",
+      "characters": 1951,
+      "body_words": null
+    },
+    {
+      "chapter": 131,
+      "language": "cn",
+      "file": "cn/131_No_Answer_Yet.md",
+      "sha256": "a184221c98c61ccb6f4d924881e7b32f1f0c7be8ee9a6efc1267a797b16ef2c0",
+      "characters": 2281,
+      "body_words": null
+    },
+    {
+      "chapter": 132,
+      "language": "cn",
+      "file": "cn/132_The_Extra_Space.md",
+      "sha256": "020a2b9c6605accf8d71478ece31a622d376993aea8e1580dc04cc4466b28d7a",
+      "characters": 2509,
+      "body_words": null
+    },
+    {
+      "chapter": 133,
+      "language": "cn",
+      "file": "cn/133_The_Unread_Room.md",
+      "sha256": "ac45bdc92cb9075dafae93bd49d1970d0b09ac90829c4dcecff643e70ba25142",
+      "characters": 2484,
+      "body_words": null
+    },
+    {
+      "chapter": 134,
+      "language": "cn",
+      "file": "cn/134_What_Could_Be_Repaired.md",
+      "sha256": "5b879ee3ffc25581503a066904ff80ff2632e6d4e988bbbad09ff9b917784040",
+      "characters": 2373,
+      "body_words": null
+    },
+    {
+      "chapter": 135,
+      "language": "cn",
+      "file": "cn/135_The_Invitation.md",
+      "sha256": "50e82b3f811215e4dffc80aac3e18d49d01e57ff2d98a50258e3d270283bc4c7",
+      "characters": 2375,
+      "body_words": null
+    },
+    {
+      "chapter": 136,
+      "language": "cn",
+      "file": "cn/136_An_Open_Door.md",
+      "sha256": "94e077250c39137fc7e307ec817d7655b86de9df4e41ce689022ed5a5b599ea8",
+      "characters": 2174,
+      "body_words": null
+    },
+    {
+      "chapter": 127,
+      "language": "en",
+      "file": "en/127_The_Unread_Message.md",
+      "sha256": "4b0d7e565c616cd7e7cd1a93218d33a9856afa317264c230d9ccace14c7a39af",
+      "characters": 5963,
+      "body_words": 1091
+    },
+    {
+      "chapter": 128,
+      "language": "en",
+      "file": "en/128_The_Book_on_Hold.md",
+      "sha256": "0c14ddd622db6fbefb0cc29c11bdec1045c34b26db3afca0e76ae513d2c2765b",
+      "characters": 6035,
+      "body_words": 1078
+    },
+    {
+      "chapter": 129,
+      "language": "en",
+      "file": "en/129_Her_Name_on_the_Door.md",
+      "sha256": "3de0b7a31c93a4aba1c1c9d1df640082c34ece2e4b7a181aeb2381007d2ba957",
+      "characters": 5955,
+      "body_words": 1070
+    },
+    {
+      "chapter": 130,
+      "language": "en",
+      "file": "en/130_The_Things_Still_Connected.md",
+      "sha256": "55fd91b57e4bae68a86c5f26ce96c233f961346d71729864cfdcc6a479c2af3b",
+      "characters": 5836,
+      "body_words": 1022
+    },
+    {
+      "chapter": 131,
+      "language": "en",
+      "file": "en/131_No_Answer_Yet.md",
+      "sha256": "ee8561c59852205cd3cfba70d42b26f28150bf607a351efef82edf59a97c53a1",
+      "characters": 6329,
+      "body_words": 1150
+    },
+    {
+      "chapter": 132,
+      "language": "en",
+      "file": "en/132_The_Extra_Space.md",
+      "sha256": "24b17c9f0eda7f4394c467ea459ef04aa093eee987169743a867e2e337a77489",
+      "characters": 6975,
+      "body_words": 1208
+    },
+    {
+      "chapter": 133,
+      "language": "en",
+      "file": "en/133_The_Unread_Room.md",
+      "sha256": "a5b918e6d50515662f529b9ec55cb1068fdcd3d31cfbda162f4463fa8733cb71",
+      "characters": 6815,
+      "body_words": 1152
+    },
+    {
+      "chapter": 134,
+      "language": "en",
+      "file": "en/134_What_Could_Be_Repaired.md",
+      "sha256": "edf5c6d3d90ebf6c184fd5f264c40f8a373bad6dfb7bc0e4a0d85d324fd2cef5",
+      "characters": 6450,
+      "body_words": 1088
+    },
+    {
+      "chapter": 135,
+      "language": "en",
+      "file": "en/135_The_Invitation.md",
+      "sha256": "fb1d0ef2eba70576bfd6652d11325b4020c6681a2c831acd0b3621b85a9cbf87",
+      "characters": 6437,
+      "body_words": 1114
+    },
+    {
+      "chapter": 136,
+      "language": "en",
+      "file": "en/136_An_Open_Door.md",
+      "sha256": "0c933367e2e0cb078d6fe74abe36c1989b608697295c1a7425b023d10e885638",
+      "characters": 6320,
+      "body_words": 1050
+    }
+  ]
+}
