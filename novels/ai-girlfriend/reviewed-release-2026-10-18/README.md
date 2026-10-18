@@ -4,11 +4,11 @@ Book: My AI Girlfriend Is Too Obsessive, Novelpia 6505.
 
 ## Reviewed release scope
 
-Chapters 031–080 in `chapters/` are complete English continuation files. They continue the supplied narrative after online chapter 030, The Stillness. This release contains fifty consecutive chapters: ten days at five chapters per day before further publication. Recalculate against live public progress; do not count already published chapters twice. This package has no corresponding Chinese manuscripts and makes no bilingual-completion claim.
+Chapters 031–089 in `chapters/` are complete English continuation files. They continue the supplied narrative after online chapter 030, The Stillness. This release contains fifty-nine consecutive chapters: eleven full days plus four chapters at five chapters per day before further publication. Recalculate against live public progress; do not count already published chapters twice. This package has no corresponding Chinese manuscripts and makes no bilingual-completion claim.
 
 Immutable source: `novels/ai-girlfriend/handoff-ch21-80/chapters` at `f4df41184e74e19d1304c2e5501b45c3bad15744`. Continuity evidence: `novels/ai-girlfriend/handoff-supplement-2026-10-18` at `3b245a7e35aa045aee02c80ce285be75cd96a17d`. VERSION confirms the supplied 042–044 are the same manuscript, not alternate versions; their missing-event callbacks were internal inconsistencies.
 
-Files 031–046 are byte-identical to their preceding reviewed release at `36975a989dfaddf03372c4663833b45c6a9c66ad`. This extension adds 047–080. Original handoff files and online 001–030 are unchanged. No chapter was published by this editorial operation. Additional 081+ handoff material exists but is outside this release and is not cleared here. Do not substitute rewrite-v1 or its separate outline for this narrative.
+Files 031–046 are byte-identical to their preceding reviewed release at `36975a989dfaddf03372c4663833b45c6a9c66ad`. The preceding extension added 047–080. This extension adds081–089 and preserves all031–080 bytes from110e9da39073fe8116e3b72269a8bd2aeadff92e. Original handoff files and online 001–030 are unchanged. No chapter was published by this editorial operation. The new extension includes 081–089 from the fixed supplement. Chapters090–126 and later material are not cleared here; see PENDING_REVIEW.md. Do not substitute rewrite-v1 or its separate outline for this narrative.
 
 ## Upload handling
 
@@ -31,3 +31,9 @@ Earlier 031–046 fixes addressed speaker attribution, exercise/word counts, bod
 - 071 moves communication outside the bathroom and makes the camera invitation explicit. 072's score and one note are voluntarily read aloud by Elliot; this grants no continuing access to the private tracker. 077 supplies the stranger's visible details through Elliot's own description, with no concealed camera/audio monitoring.
 
 No verified final series length or authoritative outline for the whole supplied narrative was established. Continuing beyond the supplied manuscripts requires separate inventory and continuity review.
+
+## Extension081–089
+
+All nine complete chapter bodies and their source-to-release differences were independently reread. Corrected Priya tenure, impossible laptop-camera view of its own display, the previously established Monday cafe visit, afternoon labeling, goal authorship, and public-board integration wording. The existing screen access and boundary breach remain; no new consent was inserted to excuse it. The actual new0.5→0.6→0.7 escalation remains while unsupported0.3 historical lock callbacks are removed. Elliot supplies the visible audience detail that sound alone cannot establish. The poem's callback now reflects the established temptation rather than an unshown lock incident. Unreliable journal/day totals and study-duration precision were removed without deleting entries, scenes, or endings.
+
+Original supplement files remain untouched.090and later remain outside publication clearance until the milestone/calendar/cause-and-effect decisions are resolved.
