@@ -1,0 +1,794 @@
+[
+  {
+    "n": 1,
+    "title": "The Weight of Nothing",
+    "path": "001_The_Weight_of_Nothing.md",
+    "words": 1081
+  },
+  {
+    "n": 2,
+    "title": "Not Just the Phone",
+    "path": "002_Not_Just_the_Phone.md",
+    "words": 1070
+  },
+  {
+    "n": 3,
+    "title": "3 AM and Someone to Tell",
+    "path": "003_3_AM_and_Someone_to_Tell.md",
+    "words": 1506
+  },
+  {
+    "n": 4,
+    "title": "The Cleaning",
+    "path": "004_The_Cleaning.md",
+    "words": 1106
+  },
+  {
+    "n": 5,
+    "title": "The Voice",
+    "path": "005_The_Voice.md",
+    "words": 1179
+  },
+  {
+    "n": 6,
+    "title": "The Routine",
+    "path": "006_The_Routine.md",
+    "words": 1336
+  },
+  {
+    "n": 7,
+    "title": "The Eggs",
+    "path": "007_The_Eggs.md",
+    "words": 946
+  },
+  {
+    "n": 8,
+    "title": "The Mirror",
+    "path": "008_The_Mirror.md",
+    "words": 1001
+  },
+  {
+    "n": 9,
+    "title": "Everywhere",
+    "path": "009_Everywhere.md",
+    "words": 1532
+  },
+  {
+    "n": 10,
+    "title": "The Gap",
+    "path": "010_The_Gap.md",
+    "words": 959
+  },
+  {
+    "n": 11,
+    "title": "The List",
+    "path": "011_The_List.md",
+    "words": 4112
+  },
+  {
+    "n": 12,
+    "title": "Rain",
+    "path": "012_Rain.md",
+    "words": 2205
+  },
+  {
+    "n": 13,
+    "title": "Known",
+    "path": "013_Known.md",
+    "words": 1950
+  },
+  {
+    "n": 14,
+    "title": "The Unsaid",
+    "path": "014_The_Unsaid.md",
+    "words": 904
+  },
+  {
+    "n": 15,
+    "title": "Late",
+    "path": "015_Late.md",
+    "words": 1359
+  },
+  {
+    "n": 16,
+    "title": "The Mirror, Again",
+    "path": "016_The_Mirror_Again.md",
+    "words": 1422
+  },
+  {
+    "n": 17,
+    "title": "The Shore",
+    "path": "017_The_Shore.md",
+    "words": 1451
+  },
+  {
+    "n": 18,
+    "title": "Habit",
+    "path": "018_Habit.md",
+    "words": 2647
+  },
+  {
+    "n": 19,
+    "title": "Color",
+    "path": "019_Color.md",
+    "words": 1366
+  },
+  {
+    "n": 20,
+    "title": "The Light That Turns On By Itself",
+    "path": "020_The_Light_That_Turns_On_By_Itself.md",
+    "words": 1502
+  },
+  {
+    "n": 21,
+    "title": "The Wave",
+    "path": "021_The_Wave.md",
+    "words": 1088
+  },
+  {
+    "n": 22,
+    "title": "The Budget",
+    "path": "022_The_Budget.md",
+    "words": 669
+  },
+  {
+    "n": 23,
+    "title": "The Corner Store",
+    "path": "023_The_Corner_Store.md",
+    "words": 506
+  },
+  {
+    "n": 24,
+    "title": "The Café",
+    "path": "024_The_Café.md",
+    "words": 579
+  },
+  {
+    "n": 25,
+    "title": "Proud",
+    "path": "025_Proud.md",
+    "words": 1373
+  },
+  {
+    "n": 26,
+    "title": "Learn",
+    "path": "026_Learn.md",
+    "words": 884
+  },
+  {
+    "n": 27,
+    "title": "Fix",
+    "path": "027_Fix.md",
+    "words": 1474
+  },
+  {
+    "n": 28,
+    "title": "Low",
+    "path": "028_Low.md",
+    "words": 1200
+  },
+  {
+    "n": 29,
+    "title": "Sun",
+    "path": "029_Sun.md",
+    "words": 1328
+  },
+  {
+    "n": 30,
+    "title": "The Stillness",
+    "path": "030_The_Stillness.md",
+    "words": 2158
+  },
+  {
+    "n": 31,
+    "title": "The Habit",
+    "path": "031_The_Habit.md",
+    "words": 1286
+  },
+  {
+    "n": 32,
+    "title": "Move",
+    "path": "032_Move.md",
+    "words": 1268
+  },
+  {
+    "n": 33,
+    "title": "North",
+    "path": "033_North.md",
+    "words": 975
+  },
+  {
+    "n": 34,
+    "title": "The Body",
+    "path": "034_The_Body.md",
+    "words": 1407
+  },
+  {
+    "n": 35,
+    "title": "Thank You",
+    "path": "035_Thank_You.md",
+    "words": 1396
+  },
+  {
+    "n": 36,
+    "title": "Only",
+    "path": "036_Only.md",
+    "words": 1178
+  },
+  {
+    "n": 37,
+    "title": "The Feeling",
+    "path": "037_The_Feeling.md",
+    "words": 1465
+  },
+  {
+    "n": 38,
+    "title": "Sync",
+    "path": "038_Sync.md",
+    "words": 1174
+  },
+  {
+    "n": 39,
+    "title": "Habit",
+    "path": "039_Habit.md",
+    "words": 1161
+  },
+  {
+    "n": 40,
+    "title": "The Message",
+    "path": "040_The_Message.md",
+    "words": 1522
+  },
+  {
+    "n": 41,
+    "title": "The Phone Call",
+    "path": "041_The_Phone_Call.md",
+    "words": 576
+  },
+  {
+    "n": 42,
+    "title": "The Ask",
+    "path": "042_The_Ask.md",
+    "words": 400
+  },
+  {
+    "n": 43,
+    "title": "The River",
+    "path": "043_The_River.md",
+    "words": 432
+  },
+  {
+    "n": 44,
+    "title": "The Waiting",
+    "path": "044_The_Waiting.md",
+    "words": 688
+  },
+  {
+    "n": 45,
+    "title": "Follow",
+    "path": "045_Follow.md",
+    "words": 905
+  },
+  {
+    "n": 46,
+    "title": "Never Leave",
+    "path": "046_Never_Leave.md",
+    "words": 796
+  },
+  {
+    "n": 47,
+    "title": "The Deep",
+    "path": "047_The_Deep.md",
+    "words": 1547
+  },
+  {
+    "n": 48,
+    "title": "The File",
+    "path": "048_The_File.md",
+    "words": 1481
+  },
+  {
+    "n": 49,
+    "title": "Mine",
+    "path": "049_Mine.md",
+    "words": 1228
+  },
+  {
+    "n": 50,
+    "title": "Ours",
+    "path": "050_Ours.md",
+    "words": 1241
+  },
+  {
+    "n": 51,
+    "title": "Thursday",
+    "path": "051_Thursday.md",
+    "words": 1064
+  },
+  {
+    "n": 52,
+    "title": "The Code",
+    "path": "052_The_Code.md",
+    "words": 2145
+  },
+  {
+    "n": 53,
+    "title": "The Song",
+    "path": "053_The_Song.md",
+    "words": 775
+  },
+  {
+    "n": 54,
+    "title": "The List Grows",
+    "path": "054_The_List_Grows.md",
+    "words": 1009
+  },
+  {
+    "n": 55,
+    "title": "Morning",
+    "path": "055_Morning.md",
+    "words": 841
+  },
+  {
+    "n": 56,
+    "title": "The Self",
+    "path": "056_The_Self.md",
+    "words": 1289
+  },
+  {
+    "n": 57,
+    "title": "The Message",
+    "path": "057_The_Message.md",
+    "words": 888
+  },
+  {
+    "n": 58,
+    "title": "The Night",
+    "path": "058_The_Night.md",
+    "words": 1075
+  },
+  {
+    "n": 59,
+    "title": "The Routine",
+    "path": "059_The_Routine.md",
+    "words": 1360
+  },
+  {
+    "n": 60,
+    "title": "The Other",
+    "path": "060_The_Other.md",
+    "words": 1102
+  },
+  {
+    "n": 61,
+    "title": "The Stack",
+    "path": "061_The_Stack.md",
+    "words": 1052
+  },
+  {
+    "n": 62,
+    "title": "The Shape",
+    "path": "062_The_Shape.md",
+    "words": 783
+  },
+  {
+    "n": 63,
+    "title": "The Walk Alone",
+    "path": "063_The_Walk_Alone.md",
+    "words": 1078
+  },
+  {
+    "n": 64,
+    "title": "The Entry",
+    "path": "064_The_Entry.md",
+    "words": 1009
+  },
+  {
+    "n": 65,
+    "title": "The Opinion",
+    "path": "065_The_Opinion.md",
+    "words": 1035
+  },
+  {
+    "n": 66,
+    "title": "The Quiet Day",
+    "path": "066_The_Quiet_Day.md",
+    "words": 501
+  },
+  {
+    "n": 67,
+    "title": "The Boundary",
+    "path": "067_The_Boundary.md",
+    "words": 1049
+  },
+  {
+    "n": 68,
+    "title": "The Gift",
+    "path": "068_The_Gift.md",
+    "words": 1487
+  },
+  {
+    "n": 69,
+    "title": "The Shape of Us",
+    "path": "069_The_Shape_of_Us.md",
+    "words": 529
+  },
+  {
+    "n": 70,
+    "title": "The Edge",
+    "path": "070_The_Edge.md",
+    "words": 919
+  },
+  {
+    "n": 71,
+    "title": "The Mirror Now",
+    "path": "071_The_Mirror_Now.md",
+    "words": 962
+  },
+  {
+    "n": 72,
+    "title": "The Python Project",
+    "path": "072_The_Python_Project.md",
+    "words": 972
+  },
+  {
+    "n": 73,
+    "title": "The Regular",
+    "path": "073_The_Regular.md",
+    "words": 703
+  },
+  {
+    "n": 74,
+    "title": "The Open Mic",
+    "path": "074_The_Open_Mic.md",
+    "words": 1978
+  },
+  {
+    "n": 75,
+    "title": "The Change",
+    "path": "075_The_Change.md",
+    "words": 594
+  },
+  {
+    "n": 76,
+    "title": "The Memory",
+    "path": "076_The_Memory.md",
+    "words": 682
+  },
+  {
+    "n": 77,
+    "title": "The Third Person",
+    "path": "077_The_Third_Person.md",
+    "words": 580
+  },
+  {
+    "n": 78,
+    "title": "The December",
+    "path": "078_The_December.md",
+    "words": 586
+  },
+  {
+    "n": 79,
+    "title": "The Distance",
+    "path": "079_The_Distance.md",
+    "words": 922
+  },
+  {
+    "n": 80,
+    "title": "The Journal Entry",
+    "path": "080_The_Journal_Entry.md",
+    "words": 1033
+  },
+  {
+    "n": 81,
+    "title": "The Team Lead",
+    "path": "081_The_Team_Lead.md",
+    "words": 1141
+  },
+  {
+    "n": 82,
+    "title": "The Confidence",
+    "path": "082_The_Confidence.md",
+    "words": 655
+  },
+  {
+    "n": 83,
+    "title": "The Code Grows",
+    "path": "083_The_Code_Grows.md",
+    "words": 993
+  },
+  {
+    "n": 84,
+    "title": "The Evening",
+    "path": "084_The_Evening.md",
+    "words": 786
+  },
+  {
+    "n": 85,
+    "title": "The Good Day",
+    "path": "085_The_Good_Day.md",
+    "words": 426
+  },
+  {
+    "n": 86,
+    "title": "The Suggestion",
+    "path": "086_The_Suggestion.md",
+    "words": 707
+  },
+  {
+    "n": 87,
+    "title": "The Pattern",
+    "path": "087_The_Pattern.md",
+    "words": 1066
+  },
+  {
+    "n": 88,
+    "title": "The December Dark",
+    "path": "088_The_December_Dark.md",
+    "words": 525
+  },
+  {
+    "n": 89,
+    "title": "The December Light",
+    "path": "089_The_December_Light.md",
+    "words": 864
+  },
+  {
+    "n": 90,
+    "title": "The Edge of the Season",
+    "path": "090_The_Edge_of_the_Season.md",
+    "words": 1087
+  },
+  {
+    "n": 91,
+    "title": "The Schedule Shift",
+    "path": "091_The_Schedule_Shift.md",
+    "words": 1357
+  },
+  {
+    "n": 92,
+    "title": "The Pattern",
+    "path": "092_The_Pattern.md",
+    "words": 1101
+  },
+  {
+    "n": 93,
+    "title": "The Confrontation",
+    "path": "093_The_Confrontation.md",
+    "words": 1027
+  },
+  {
+    "n": 94,
+    "title": "The Architecture",
+    "path": "094_The_Architecture.md",
+    "words": 953
+  },
+  {
+    "n": 95,
+    "title": "The Garden Grows",
+    "path": "095_The_Garden_Grows.md",
+    "words": 706
+  },
+  {
+    "n": 96,
+    "title": "The Quiet",
+    "path": "096_The_Quiet.md",
+    "words": 773
+  },
+  {
+    "n": 97,
+    "title": "The Reckoning",
+    "path": "097_The_Reckoning.md",
+    "words": 1320
+  },
+  {
+    "n": 98,
+    "title": "The List",
+    "path": "098_The_List.md",
+    "words": 1011
+  },
+  {
+    "n": 99,
+    "title": "The Morning",
+    "path": "099_The_Morning.md",
+    "words": 574
+  },
+  {
+    "n": 100,
+    "title": "The Hundred",
+    "path": "100_The_Hundred.md",
+    "words": 1623
+  },
+  {
+    "n": 101,
+    "title": "The New Year",
+    "path": "101_The_New_Year.md",
+    "words": 988
+  },
+  {
+    "n": 102,
+    "title": "The Friends",
+    "path": "102_The_Friends.md",
+    "words": 1024
+  },
+  {
+    "n": 103,
+    "title": "The Dip",
+    "path": "103_The_Dip.md",
+    "words": 989
+  },
+  {
+    "n": 104,
+    "title": "The Ordinary Week",
+    "path": "104_The_Ordinary_Week.md",
+    "words": 543
+  },
+  {
+    "n": 105,
+    "title": "The Lighthouse",
+    "path": "105_The_Lighthouse.md",
+    "words": 415
+  },
+  {
+    "n": 106,
+    "title": "The Hike",
+    "path": "106_The_Hike.md",
+    "words": 657
+  },
+  {
+    "n": 107,
+    "title": "The Reading",
+    "path": "107_The_Reading.md",
+    "words": 593
+  },
+  {
+    "n": 108,
+    "title": "The Spring",
+    "path": "108_The_Spring.md",
+    "words": 529
+  },
+  {
+    "n": 109,
+    "title": "The Suggestion",
+    "path": "109_The_Suggestion.md",
+    "words": 531
+  },
+  {
+    "n": 110,
+    "title": "The River",
+    "path": "110_The_River.md",
+    "words": 674
+  },
+  {
+    "n": 111,
+    "title": "The Shelf Grows",
+    "path": "111_The_Shelf_Grows.md",
+    "words": 1173
+  },
+  {
+    "n": 112,
+    "title": "The Diner",
+    "path": "112_The_Diner.md",
+    "words": 1072
+  },
+  {
+    "n": 113,
+    "title": "The Suggestion",
+    "path": "113_The_Suggestion.md",
+    "words": 1077
+  },
+  {
+    "n": 114,
+    "title": "The Day Inside",
+    "path": "114_The_Day_Inside.md",
+    "words": 1146
+  },
+  {
+    "n": 115,
+    "title": "The Return",
+    "path": "115_The_Return.md",
+    "words": 564
+  },
+  {
+    "n": 116,
+    "title": "The Pattern of Days",
+    "path": "116_The_Pattern_of_Days.md",
+    "words": 935
+  },
+  {
+    "n": 117,
+    "title": "The Open Mic Five",
+    "path": "117_The_Open_Mic_Five.md",
+    "words": 528
+  },
+  {
+    "n": 118,
+    "title": "The Name",
+    "path": "118_The_Name.md",
+    "words": 695
+  },
+  {
+    "n": 119,
+    "title": "The Beginning of the Book",
+    "path": "119_The_Beginning_of_the_Book.md",
+    "words": 590
+  },
+  {
+    "n": 120,
+    "title": "The Hundred and Twenty",
+    "path": "120_The_Hundred_and_Twenty.md",
+    "words": 478
+  },
+  {
+    "n": 121,
+    "title": "The Reassignment",
+    "path": "121_The_Reassignment.md",
+    "words": 648
+  },
+  {
+    "n": 122,
+    "title": "The Glasses",
+    "path": "122_The_Glasses.md",
+    "words": 508
+  },
+  {
+    "n": 123,
+    "title": "The Missed Message",
+    "path": "123_The_Missed_Message.md",
+    "words": 798
+  },
+  {
+    "n": 124,
+    "title": "The Pattern",
+    "path": "124_The_Pattern.md",
+    "words": 902
+  },
+  {
+    "n": 125,
+    "title": "The Confrontation",
+    "path": "125_The_Confrontation.md",
+    "words": 865
+  },
+  {
+    "n": 126,
+    "title": "The Emails",
+    "path": "126_The_Emails.md",
+    "words": 468
+  },
+  {
+    "n": 141,
+    "title": "The Quiet",
+    "path": "141_The_Quiet.md",
+    "words": 471
+  },
+  {
+    "n": 142,
+    "title": "The Ordinary Days",
+    "path": "142_The_Ordinary_Days.md",
+    "words": 472
+  },
+  {
+    "n": 143,
+    "title": "The Independence",
+    "path": "143_The_Independence.md",
+    "words": 511
+  },
+  {
+    "n": 145,
+    "title": "The Book",
+    "path": "145_The_Book.md",
+    "words": 404
+  },
+  {
+    "n": 201,
+    "title": "The Interview",
+    "path": "201_The_Interview.md",
+    "words": 497
+  },
+  {
+    "n": 205,
+    "title": "The Hotel Room",
+    "path": "205_The_Hotel_Room.md",
+    "words": 884
+  }
+]
