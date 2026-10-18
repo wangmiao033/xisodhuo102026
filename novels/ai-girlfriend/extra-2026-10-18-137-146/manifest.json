@@ -1,0 +1,216 @@
+{
+  "title": "My AI Girlfriend Is Too Obsessive",
+  "batch": "single extra batch requested on 2026-10-18 evening Asia/Shanghai",
+  "chapter_range": [
+    137,
+    146
+  ],
+  "new_chapter_pairs": 10,
+  "next_mainline_chapter": 147,
+  "immediate_predecessor_commit": "d357dac033b6495646332d50071100e422f8f450",
+  "earlier_reviewed_commit": "95ee8579c1392abd766a7df54b52644566f996eb",
+  "publication_status": "writing archive only; no platform publication",
+  "review": "Two writers cross-read all five pairs authored by the other; whole-batch continuity checked by the batch editor.",
+  "files": [
+    {
+      "chapter": 137,
+      "language": "cn",
+      "file": "cn/137_The_Page_Marker.md",
+      "bytes": 6085,
+      "body_characters_including_punctuation_and_linebreaks": 2124,
+      "body_han_characters": 1647,
+      "body_words": null,
+      "sha256": "12c643126e8ec90988e489a218f79c0aa377f7dd52c6b945d83ef7c500a2ce25"
+    },
+    {
+      "chapter": 138,
+      "language": "cn",
+      "file": "cn/138_The_Door_Still_Caught.md",
+      "bytes": 6541,
+      "body_characters_including_punctuation_and_linebreaks": 2266,
+      "body_han_characters": 1823,
+      "body_words": null,
+      "sha256": "06ac22d313b2ea3e8b3997e147781c4000ee4734da3a97900e3ae929e14237cf"
+    },
+    {
+      "chapter": 139,
+      "language": "cn",
+      "file": "cn/139_The_Repair_Counter.md",
+      "bytes": 7046,
+      "body_characters_including_punctuation_and_linebreaks": 2449,
+      "body_han_characters": 1914,
+      "body_words": null,
+      "sha256": "8a26e81d7dae0a067d3d79b0056ed5c768249da6e59d41b07c1bfa008fb1b9f1"
+    },
+    {
+      "chapter": 140,
+      "language": "cn",
+      "file": "cn/140_The_Wrong_Bulb.md",
+      "bytes": 6968,
+      "body_characters_including_punctuation_and_linebreaks": 2440,
+      "body_han_characters": 1866,
+      "body_words": null,
+      "sha256": "480a474eddd2f6356b4d2381e92f6269ea7557d85557f1a4c5dd719072a75e2d"
+    },
+    {
+      "chapter": 141,
+      "language": "cn",
+      "file": "cn/141_The_Rectangle_of_Dust.md",
+      "bytes": 6913,
+      "body_characters_including_punctuation_and_linebreaks": 2406,
+      "body_han_characters": 1876,
+      "body_words": null,
+      "sha256": "48eae5c476c375be1d0c9e4f39663c8962bac53cb1ffc52aaa3b0b5a2ceb865b"
+    },
+    {
+      "chapter": 142,
+      "language": "cn",
+      "file": "cn/142_The_Parts_We_Could_Keep.md",
+      "bytes": 6458,
+      "body_characters_including_punctuation_and_linebreaks": 2237,
+      "body_han_characters": 1787,
+      "body_words": null,
+      "sha256": "e602c98f53f3697cdeac2bba2703befbeb094aeb10388e69e198d54b47e7bf2b"
+    },
+    {
+      "chapter": 143,
+      "language": "cn",
+      "file": "cn/143_The_Message_That_Was_Hers.md",
+      "bytes": 6474,
+      "body_characters_including_punctuation_and_linebreaks": 2253,
+      "body_han_characters": 1770,
+      "body_words": null,
+      "sha256": "9c7ce2ad14b8a2c856c572d0e4ec7718d3d53e317f8de01fe2409888f3a40bc3"
+    },
+    {
+      "chapter": 144,
+      "language": "cn",
+      "file": "cn/144_An_Uncomfortable_Line.md",
+      "bytes": 5883,
+      "body_characters_including_punctuation_and_linebreaks": 2089,
+      "body_han_characters": 1541,
+      "body_words": null,
+      "sha256": "c7b120a5ae88595b94e48357fc69e118936bc181da8fa1bd3d4d708df57fe7a9"
+    },
+    {
+      "chapter": 145,
+      "language": "cn",
+      "file": "cn/145_Before_The_Last_Chairs_Went_Up.md",
+      "bytes": 6194,
+      "body_characters_including_punctuation_and_linebreaks": 2136,
+      "body_han_characters": 1719,
+      "body_words": null,
+      "sha256": "64be14b4e482289c54b51df637aa494ebf47482c0508dd30e9b83c5677ac006e"
+    },
+    {
+      "chapter": 146,
+      "language": "cn",
+      "file": "cn/146_Two_Pages_On_The_Table.md",
+      "bytes": 5931,
+      "body_characters_including_punctuation_and_linebreaks": 2081,
+      "body_han_characters": 1568,
+      "body_words": null,
+      "sha256": "674d18e8287a9dd2bb03ae018f31573c1fb55d997483144bf895081ecded1ce0"
+    },
+    {
+      "chapter": 137,
+      "language": "en",
+      "file": "en/137_The_Page_Marker.md",
+      "bytes": 6778,
+      "body_characters_including_punctuation_and_linebreaks": 6525,
+      "body_han_characters": null,
+      "body_words": 1159,
+      "sha256": "568f14004bd74f4a16b35b463d54c21b18d4e1abc414bb4bfa1be896369a1231"
+    },
+    {
+      "chapter": 138,
+      "language": "en",
+      "file": "en/138_The_Door_Still_Caught.md",
+      "bytes": 7152,
+      "body_characters_including_punctuation_and_linebreaks": 6965,
+      "body_han_characters": null,
+      "body_words": 1203,
+      "sha256": "96f401a9ddf42be50161b5e888a54095c8cca0cd618d0571d9920d782668e5d5"
+    },
+    {
+      "chapter": 139,
+      "language": "en",
+      "file": "en/139_The_Repair_Counter.md",
+      "bytes": 7662,
+      "body_characters_including_punctuation_and_linebreaks": 7380,
+      "body_han_characters": null,
+      "body_words": 1273,
+      "sha256": "5f4b6a9267f935436ee8ae9b9dee6ad98bd2f57c32af712d2da8acfcf3663882"
+    },
+    {
+      "chapter": 140,
+      "language": "en",
+      "file": "en/140_The_Wrong_Bulb.md",
+      "bytes": 7385,
+      "body_characters_including_punctuation_and_linebreaks": 7097,
+      "body_han_characters": null,
+      "body_words": 1265,
+      "sha256": "a47491f9325defa012b02c76809c200ad2f290416fe7e922303f1166c20b0e9b"
+    },
+    {
+      "chapter": 141,
+      "language": "en",
+      "file": "en/141_The_Rectangle_of_Dust.md",
+      "bytes": 7396,
+      "body_characters_including_punctuation_and_linebreaks": 7137,
+      "body_han_characters": null,
+      "body_words": 1243,
+      "sha256": "15c6d765e3415e68a181228d1f48b58297c76fbc535d04358b53ce64166e7c09"
+    },
+    {
+      "chapter": 142,
+      "language": "en",
+      "file": "en/142_The_Parts_We_Could_Keep.md",
+      "bytes": 6547,
+      "body_characters_including_punctuation_and_linebreaks": 6326,
+      "body_han_characters": null,
+      "body_words": 1103,
+      "sha256": "b8e6ff0ed83cfdf93c3fd2b6aa4e318fb664f4b607fb9100f689dc855f5ded5e"
+    },
+    {
+      "chapter": 143,
+      "language": "en",
+      "file": "en/143_The_Message_That_Was_Hers.md",
+      "bytes": 6581,
+      "body_characters_including_punctuation_and_linebreaks": 6368,
+      "body_han_characters": null,
+      "body_words": 1136,
+      "sha256": "fe87c359955f83ced328d0fe494bd7d9de50dd19bd87806ff87f25cd0a0a7986"
+    },
+    {
+      "chapter": 144,
+      "language": "en",
+      "file": "en/144_An_Uncomfortable_Line.md",
+      "bytes": 6270,
+      "body_characters_including_punctuation_and_linebreaks": 6001,
+      "body_han_characters": null,
+      "body_words": 1080,
+      "sha256": "83afe04272ab67eb3991b4b4a1a60e480dd0465a07236a0779b21c04541a6b44"
+    },
+    {
+      "chapter": 145,
+      "language": "en",
+      "file": "en/145_Before_The_Last_Chairs_Went_Up.md",
+      "bytes": 6468,
+      "body_characters_including_punctuation_and_linebreaks": 6308,
+      "body_han_characters": null,
+      "body_words": 1118,
+      "sha256": "e22966adf9126f2d9ba5d36a1b69e57aa2a095c3afe7adac89bddff42b23ae38"
+    },
+    {
+      "chapter": 146,
+      "language": "en",
+      "file": "en/146_Two_Pages_On_The_Table.md",
+      "bytes": 6150,
+      "body_characters_including_punctuation_and_linebreaks": 5879,
+      "body_han_characters": null,
+      "body_words": 1038,
+      "sha256": "ad9ed4fec4ebbcbe619276fe8340c37e8400281b5f7007c55c49ab998cacc3c0"
+    }
+  ]
+}
