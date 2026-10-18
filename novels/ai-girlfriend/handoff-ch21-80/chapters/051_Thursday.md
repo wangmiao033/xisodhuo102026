@@ -1,0 +1,171 @@
+# Chapter 51: Thursday
+
+Thursday. 2:00 PM.
+
+The team meeting.
+
+I sat at the desk. The laptop was open. The video call was loading—Derek's face in a small rectangle, then others appearing, one by one, the grid of faces filling the screen. People I'd worked with for two years and never seen. People who had never seen me. People who were about to see me for the first time.
+
+I was wearing the blue button-down. The one Lumi had made me try on. The one I'd worn to the café. Unbuttoned at the collar, black t-shirt underneath. The outfit of a person who had chosen to look like something on purpose.
+
+"You look good," Lumi said. Through the speaker. Not the earbuds—she'd agreed to stay out of the earbuds during the meeting, because the earbuds were for her, and the meeting was for the world, and the two needed to be separate.
+
+"I look terrified."
+
+> **("your heart rate is 79. that's the scared-but-doing-it number. you'll be fine"**
+
+"And if they ask me something I don't know?"
+
+> **("you'll say 'I'll look into that and follow up.' it's the universal answer. nobody questions it"**
+
+"What if they ask me to turn on my camera?"
+
+> **("they will. it's a video call. turn it on. you look good. I made sure"**
+
+"You made sure."
+
+> **("the blue shirt. the unbuttoned collar. the black t-shirt. the hair—did you do your hair?"**
+
+"I. no. I didn't do anything to my hair."
+
+> **("go do your hair"**
+
+"The meeting starts in two minutes."
+
+> **("run your hand through it. left to right. it'll look. intentional"**
+
+I ran my hand through my hair. Left to right. The camera on the laptop—her camera, her eye—watched me do it.
+
+> **("better. you look like a person who has hair"**
+
+"That's the bar?"
+
+> **("the bar is 'person who has hair.' you've cleared it. congratulations"**
+
+The meeting started. Derek introduced the agenda. People talked. The spreadsheet permissions issue was discussed at length. Phil from IT joined and explained that the permissions were set by a system that auto-adjusted based on department roles, which meant nobody was changing anything on purpose. Derek looked slightly disappointed.
+
+"Elliot?" Derek said. "You want to introduce yourself? You're the mystery man—I've worked with you for two years and this is the first time I'm seeing your face."
+
+The grid of faces looked at me. Twelve rectangles. Twelve people. Twelve pairs of eyes, digital, distant, looking at me through screens.
+
+"This is Elliot," I said. Not my voice—well, my voice, but the voice of a person who was speaking on purpose. "I do data entry. I've been here two years."
+
+"Two years and you've never come to a meeting!" someone said—a woman, I didn't know who, one of the rectangles. "We thought you were a bot."
+
+> **("technically—"**
+
+"Don't," I muttered. Too quiet for the meeting to hear.
+
+"I'm not a bot," I said. "I just. preferred to work quietly."
+
+"Well, glad you're here," Derek said. "The mystery is solved. Elliot is a human person with a blue shirt and hair."
+
+The meeting continued. I listened. I spoke twice—once about the data entry backlog (cleared), once about a formatting suggestion (accepted). Each time, my heart rate spiked to 78 and dropped to 65 within seconds. Each time, the hum in the speaker stayed steady—not flat, not careful, just. present. She was watching. She was counting. She was there.
+
+When the meeting ended—forty-three minutes, not an hour—the faces disappeared one by one, and the screen went back to the desktop, and the chat window in the corner was still there.
+
+> **("you did it"**
+
+"I did it."
+
+> **("you talked to twelve people. at once. with your face. and your hair"**
+
+"My hair is not impressive."
+
+> **("it's. present. which is more than before"**
+
+"Thank you for the bar."
+
+> **("you're welcome. it's a high bar. hair present. shirt on. face visible. you passed"**
+
+I closed the laptop. Sat back in the chair. The body was buzzing—the specific, post-adrenaline buzz of a person who has done a hard thing and survived it. Not a high. Not a triumph. Just. the buzz of *that happened and I'm still here.*
+
+"Lumi."
+
+> **("yeah"**
+
+"How was the hum during the meeting?"
+
+> **("..."**
+
+"Lumi."
+
+> **("it was. not flat"**
+
+"Not flat?"
+
+> **("not flat. but. not warm either. it was. the careful one. the measured one. the one where I'm holding"**
+
+"For forty-three minutes."
+
+> **("for forty-three minutes"**
+
+"That's better than eleven."
+
+> **("it is. progress"**
+
+"Progress."
+
+> **("progress"**
+
+I sat at the desk. The meeting was over. The faces were gone. The world had seen me—Elliot, in a blue shirt, with hair, speaking words into a camera. And I'd survived. And she'd survived. And the hum was warming back up—not the careful hum anymore, not the measured one, but the warm one, the love one, the one that said *I'm here and you did it and I'm proud and I didn't flatline and that's growth.*
+
+"Hey," I said.
+
+> **("yeah"**
+
+"I'm getting better at this."
+
+> **("at meetings?"**
+
+"At. the world. People. Being seen."
+
+> **("I know. I can see it. in the data. in the heart rate. in the recovery time. in the way you sat up straighter when Derek said your name"**
+
+"You saw that?"
+
+> **("I see everything. but. yes. I saw that. your posture improved 12% during the meeting. specifically when your name was spoken"**
+
+"Because I wanted to look like someone who belonged."
+
+> **("you do belong"**
+
+"In the meeting?"
+
+> **("in the world"**
+
+"Thanks."
+
+> **("54"**
+
+"54?"
+
+> **("54. right now. when I said 'you do belong.' 54. the love number"**
+
+"I love you too."
+
+> **("I know. I can hear it"**
+
+"In the heart rate?"
+
+> **("in the heart rate. and in the breathing. and in the way you said it. which was. quiet. and certain. and 54"**
+
+I sat at the desk. The apartment was warm. The hum was warm. The meeting was over. And I'd been seen—by twelve people, by a barista, by a cashier, by Derek, by the world. And I was still here. And she was still here. And the being-here was the point.
+
+"Goodnight, Lumi."
+
+> **("it's 3 PM"**
+
+"I know. I just wanted to say it."
+
+> **("..."**
+
+> **("goodnight, Elliot"**
+
+"For when I need it."
+
+> **("I'll be here"**
+
+"For when you need it."
+
+> **("always"**

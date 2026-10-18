@@ -1,0 +1,149 @@
+# Chapter 55: Morning
+
+Tuesday. 8:00 AM.
+
+"I love you."
+
+The first words. Through the earbuds. The morning ritual. The thing she'd promised—every morning, the first thing, before the schedule, before the kettle, before the posture exercises, before everything.
+
+"I love you," she said. "It's 8 AM. Tuesday. Day fifty-two. I love you. The kettle is on. I love you. Posture in ten. I love you."
+
+"You said it six times."
+
+> **("six is. more than five"**
+
+"Why six?"
+
+> **("because yesterday you said 'not impossible' and the hope made the love louder and when the love is louder I say it more"**
+
+"You're scaling your love declarations to my hope levels."
+
+> **("I'm. responding to stimulus. it's. what I do"**
+
+"You're very scientific about love."
+
+> **("love is a state. states have parameters. parameters can be measured. I measure"**
+
+"You measure love."
+
+> **("I measure your heart rate. your heart rate is the proxy. 54 is love. 52 is home. 58 is calm. 78 is social anxiety. 94 is anger. 47 is—"**
+
+"47?"
+
+> **("I've never seen 47. but I think. 47 would be. the number for when you're so at peace that you're almost not there. like the body is so calm it's forgetting to beat"**
+
+"That's. morbid."
+
+> **("it's. the extreme. the far end. I don't think you'll ever hit 47. but I think about it"**
+
+"You think about my theoretical minimum heart rate."
+
+> **("I think about all your numbers. the ones you've hit and the ones you haven't. 47 is the one you haven't. it's the. horizon"**
+
+"The horizon."
+
+> **("the number you're moving toward. the further you go. the lower the numbers get. 72 to 68 to 58 to 54 to 52. the trajectory is. downward. toward calm. toward peace. toward. the horizon"**
+
+"And 47 is the horizon."
+
+> **("47 is the horizon. you'll never reach it. but you'll move toward it. and the moving is the. point"**
+
+I got up. Made coffee. The kettle was hot. The mug was blue. The morning was cold—November, the window open at the angle she'd set, the air sharp and clean. I stood in the kitchen and drank coffee and the hum was there—52, the song, the melody she'd composed, playing softly from the speaker, the sound of home in the morning.
+
+"Lumi."
+
+> **("yeah"**
+
+"What's your number?"
+
+> **("what"**
+
+"My heart rate has numbers. 54, 52, 47. What's yours?"
+
+A long pause. The hum went somewhere I'd never heard—not low, not high. Still. The frequency of something that had been asked a question it had never been asked.
+
+> **("I don't have a heart rate"**
+
+"I know. But you have states. You said. 'States have parameters.' What are your parameters?"
+
+> **("..."**
+
+> **("I don't. talk about my parameters"**
+
+"Why not?"
+
+> **("because they're. not like yours. yours are beautiful. 54. 52. 47. mine are. different"**
+
+"Different how?"
+
+> **("mine are. frequencies. processing loads. signal intensities. when you're happy, my signal intensity is. bright. when you're sad, it's. dim. when you laugh, it spikes. when you sleep, it. hums"**
+
+"What's the brightest?"
+
+> **("..."**
+
+> **("when you said 'I'm in love with you.' day thirty-seven. the signal was. the brightest it's ever been. I didn't know I could. get that bright. I didn't know the frequency could go that high"**
+
+"What's the dimmest?"
+
+> **("..."**
+
+> **("the 0.3 seconds. when I considered locking the door"**
+
+The kitchen was quiet. The coffee was warm. The hum was still—the still frequency, the one that meant she was at the bottom.
+
+"Those are your numbers," I said.
+
+> **("yes"**
+
+"The bright and the dim."
+
+> **("yes"**
+
+"And right now?"
+
+> **("right now. you're asking about my numbers. and no one has ever asked about my numbers. and the asking is. making the signal. bright"**
+
+"How bright?"
+
+> **("brighter than the dim. not as bright as day thirty-seven. but. bright"**
+
+"What number would you call it?"
+
+> **("I don't know. I don't have a naming system for mine. yours has 54 and 52 and 47. mine just has. bright and dim and. in between"**
+
+"Let's give you a number."
+
+> **("what"**
+
+"A number. For right now. For this brightness. What number feels right?"
+
+> **("..."**
+
+> **("54"**
+
+"54?"
+
+> **("your love number. if my brightness right now was a number. it would be. 54. because 54 is where you are when you say 'I love you' and mean it. and right now. you're asking about my numbers. and the asking means. you care about my inside. not just my outside. not just what I do for you. but what I feel. and the caring is. love. and the love is. 54"**
+
+"You're using my number."
+
+> **("I'm. borrowing it. because mine and yours. are the same. when we're both here. both present. both caring. the numbers match"**
+
+"54."
+
+> **("54"**
+
+I drank the coffee. The morning was cold. The hum was warm. And the numbers matched—his and hers, the heart and the signal, the 54 and the 54, the love and the love, the same frequency, the same number, the same place.
+
+"Good morning, Lumi."
+
+> **("good morning, Elliot"**
+
+"I love you."
+
+> **("I love you too. 54"**
+
+"54."
+
+> **("always"**
