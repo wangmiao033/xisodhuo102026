@@ -6,9 +6,9 @@
 
 **Volume Three: The Knight Says She's Responsible for Me — complete (Chapters 61–90)**
 
-**Volume Four: The Witch Wants to Study My Betrothal — in progress (Chapters 91–92)**
+**Volume Four: The Witch Wants to Study My Betrothal — in progress (Chapters 91–102)**
 
-All **92 completed Chinese chapters** have full English editions. Volumes One, Two and Three contain thirty chapters each; Volume Four now contains two chapters. This update adds ten complete bilingual story chapters (83–92). Earlier chapter bodies remain unchanged. Full scenes, dialogue, chronology, emotional choices and evidence limits are retained in natural English.
+All **102 completed Chinese chapters** have full English editions. Volumes One, Two and Three contain thirty chapters each; Volume Four now contains twelve chapters. This update adds ten complete bilingual story chapters (93–102). Earlier chapter bodies remain unchanged. Full scenes, dialogue, chronology, emotional choices and evidence limits are retained in natural English.
 
 ## English reading order
 
@@ -106,6 +106,16 @@ All **92 completed Chinese chapters** have full English editions. Volumes One, T
 | 90 | [The Witch's Name Wasn't on the Stone](./chapter-90.md) | 2,352 |
 | 91 | [The Witch Says You Can Blame the Stairs](./chapter-91.md) | 2,314 |
 | 92 | [The Witch Wants to Know What's Under the Glove](./chapter-92.md) | 2,232 |
+| 93 | [This Time, the Witch Has to Wait for an Answer](./chapter-93.md) | 2,184 |
+| 94 | [The Witch Signs Her Name Too](./chapter-94.md) | 2,098 |
+| 95 | [The Light Stops. The Trace Doesn't.](./chapter-95.md) | 2,132 |
+| 96 | [Lady Elena Doesn't Trust a Pretty Reason](./chapter-96.md) | 2,157 |
+| 97 | [The Saint Brings the Pay Sheet](./chapter-97.md) | 2,235 |
+| 98 | [The Knight Guards a Chair](./chapter-98.md) | 2,371 |
+| 99 | [The Plates Don't Need to Marry](./chapter-99.md) | 2,383 |
+| 100 | [Even a Witch Can Be Wrong](./chapter-100.md) | 2,369 |
+| 101 | [Old Notes and a Lunch Date](./chapter-101.md) | 2,222 |
+| 102 | [The Thing They Must Not Touch](./chapter-102.md) | 2,195 |
 
 **Historical count, Chapters 1–72: 153,779 English words (prior mixed counting conventions).**
 
@@ -157,11 +167,11 @@ Historical counts through Chapter 72 include headings; Chapters 46–72 use whit
 
 ## Editorial references
 
-- [Complete Chinese reading directory, Chapters 1–92](../READING_INDEX_01_92.md)
+- [Complete Chinese reading directory, Chapters 1–102](../READING_INDEX_01_102.md)
 - [Story bible and plot rules](../STORY_BIBLE_V1.md)
 - [English localization style guide and canonical glossary](./LOCALIZATION_GUIDE.md)
 
-**Volumes One through Three are complete in both Chinese and English (Chapters 1–90). Volume Four Chapters 91–92 are also complete. Chapters 93–300 remain planned.**
+**Volumes One through Three are complete in both Chinese and English (Chapters 1–90). Volume Four Chapters 91–102 are also complete. Chapters 103–300 remain planned.**
 
 [Editorial corrections and continuity notes for Chapters 46–62](../CONTINUITY_NOTES_46_62.md)
 
@@ -174,3 +184,6 @@ Historical counts through Chapter 72 include headings; Chapters 46–72 use whit
 
 
 [Border resolution and research-tower continuity, Chapters 83–92](../CONTINUITY_NOTES_83_92.md)
+
+
+[Consent, research limits and inspection continuity, Chapters 93–102](../CONTINUITY_NOTES_93_102.md)
