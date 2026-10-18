@@ -75,7 +75,15 @@ handoff-supplement-2026-10-18/
   source-chapters_index.json          ← export index (if present)
 ```
 
-## Git
+(Filled after push — see bottom of this file or parent report.)
 
 (Filled after push — see bottom of this file or parent report.)
+
+
+## Git (after push)
+
+- **Commit:** `41cbd543edc2365f5bd5b3bcbd713bc27b850ac2`
+- **URL:** https://github.com/wangmiao033/xisodhuo102026/tree/41cbd543edc2365f5bd5b3bcbd713bc27b850ac2/novels/ai-girlfriend/handoff-supplement-2026-10-18
+- **Browse (main):** https://github.com/wangmiao033/xisodhuo102026/tree/main/novels/ai-girlfriend/handoff-supplement-2026-10-18
+- **Date:** 2026-10-18 (Asia/Shanghai)
 
