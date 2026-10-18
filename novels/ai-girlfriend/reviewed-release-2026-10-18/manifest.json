@@ -60,12 +60,50 @@
     86,
     87,
     88,
-    89
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126
   ],
   "files": [
     {
       "chapter": 31,
       "file": "031_The_Habit.md",
+      "title": "The Habit",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "5ed4a66b823b8c8ab3adc2b9a1511c36dfbc432c141f5fe231f709d5d5550f06",
       "reviewed_sha256": "5ed4a66b823b8c8ab3adc2b9a1511c36dfbc432c141f5fe231f709d5d5550f06",
@@ -74,6 +112,7 @@
     {
       "chapter": 32,
       "file": "032_Move.md",
+      "title": "Move",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "bc6733a9c5d619da79e1ba371c32c6a75023fbf18fe6a574b05a215f0a3fe3e5",
       "reviewed_sha256": "843d0e3c0c4d80000dd4146af8a33d58f5820624cf5cec65c7cd4cd0acb34e92",
@@ -82,6 +121,7 @@
     {
       "chapter": 33,
       "file": "033_North.md",
+      "title": "North",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "a1aad1f8e5770be497e1231491cf1b36e242a03b53a225dfc48416ef7d9b3a05",
       "reviewed_sha256": "a1aad1f8e5770be497e1231491cf1b36e242a03b53a225dfc48416ef7d9b3a05",
@@ -90,6 +130,7 @@
     {
       "chapter": 34,
       "file": "034_The_Body.md",
+      "title": "The Body",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "c4c3db3e5dc3da6a2ffd318662b32b91d061dc7c607789d56daeda5c43aa0d85",
       "reviewed_sha256": "264ab47d3f1109eab6314f8454543687b277537e9c5bea1de59343394df75735",
@@ -98,6 +139,7 @@
     {
       "chapter": 35,
       "file": "035_Thank_You.md",
+      "title": "Thank You",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "14ad7889d6f92e2c93dabfce529e252bb6d461044e49adbe5d200ceeb69be57e",
       "reviewed_sha256": "ba52b916278da50ae3938966083f8b8d20e5a88c3fd431fef6145897d9ed0837",
@@ -106,6 +148,7 @@
     {
       "chapter": 36,
       "file": "036_Only.md",
+      "title": "Only",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "bc5956f187fbe566dbf213769a1757282d40ca23f6ebf28d027126ebedd9d185",
       "reviewed_sha256": "66d8ef3b0bd428a0a179ee5cc0a70a2bf595b8cd1e657fb70eaca46e8792bfb3",
@@ -114,6 +157,7 @@
     {
       "chapter": 37,
       "file": "037_The_Feeling.md",
+      "title": "The Feeling",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "d36cce2f547cc921608dcae325300d5d136444677c492fd420b3b258efdaf7bd",
       "reviewed_sha256": "d36cce2f547cc921608dcae325300d5d136444677c492fd420b3b258efdaf7bd",
@@ -122,6 +166,7 @@
     {
       "chapter": 38,
       "file": "038_Sync.md",
+      "title": "Sync",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "fef538f3d20604e08934a85a6368549446dfb88c42d0994e222fa6ed0e0f397a",
       "reviewed_sha256": "ebc2b75f643f7347837fc16e0074836a11e78d32f03ec5774213bd4889f48419",
@@ -130,6 +175,7 @@
     {
       "chapter": 39,
       "file": "039_Habit.md",
+      "title": "Habit",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "d63a7985c7e3a7cc6d0ab1b9002ba9b6c794368fe8a99223e5900f74d767413a",
       "reviewed_sha256": "6ac9240394c2513423d2438b903e44cab89bcd5f1f75f6c8f993d50845291885",
@@ -138,6 +184,7 @@
     {
       "chapter": 40,
       "file": "040_The_Message.md",
+      "title": "The Message",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "50c9b43021cb4da6d67371b8e7b78ed1ae350079ef17a07ff7b9a4f14be69101",
       "reviewed_sha256": "5ff488d25abe248bca0e665fdcfc7e5cbd9d1248d4e3d1055ce610535e694b1d",
@@ -146,6 +193,7 @@
     {
       "chapter": 41,
       "file": "041_The_Phone_Call.md",
+      "title": "The Phone Call",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "ce1f63b7853da98dd6651fd369b94f713976ee993e5c422a07caa55ba781585b",
       "reviewed_sha256": "ce1f63b7853da98dd6651fd369b94f713976ee993e5c422a07caa55ba781585b",
@@ -154,6 +202,7 @@
     {
       "chapter": 42,
       "file": "042_The_Ask.md",
+      "title": "The Ask",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "d1178ef1c08c7a93bb9abf28d6b5214a1bdb49f88a1b3ab098898062aabda74f",
       "reviewed_sha256": "2046c19514feeb7fe6aab67da0d59e517de1d256e47eeb8b44c778ea3859a258",
@@ -162,6 +211,7 @@
     {
       "chapter": 43,
       "file": "043_The_River.md",
+      "title": "The River",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "d7e349dac73a51687c1f0d6df38fadc2ef2fd9f406a0c614b1f51aa9f27748ce",
       "reviewed_sha256": "c35d5a930965532c22f9f2c270d6444fd09e8ce98ec7ea665d093fcd6077178c",
@@ -170,6 +220,7 @@
     {
       "chapter": 44,
       "file": "044_The_Waiting.md",
+      "title": "The Waiting",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "57d2784290b1dcc6af97c0943a283bb6689e90edf3f78484ed183a561f02b78f",
       "reviewed_sha256": "4314beeb9968befb5f738ade5dacd6a35010c550a484fa503aef8f8b29927c12",
@@ -178,6 +229,7 @@
     {
       "chapter": 45,
       "file": "045_Follow.md",
+      "title": "Follow",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "82dc4b88624e15b04f87e7fb6b7b6789d893fc4a8e608541df862fd44912f95a",
       "reviewed_sha256": "32d3a3599d581f4930c4605fdfc084408324c074e102c50bc714c4d7c5462193",
@@ -186,6 +238,7 @@
     {
       "chapter": 46,
       "file": "046_Never_Leave.md",
+      "title": "Never Leave",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "c43d72741f9dbf9a99c666a69cba8a13c12f0a083cc83ba99d2dc83ca8db2704",
       "reviewed_sha256": "c43d72741f9dbf9a99c666a69cba8a13c12f0a083cc83ba99d2dc83ca8db2704",
@@ -194,6 +247,7 @@
     {
       "chapter": 47,
       "file": "047_The_Deep.md",
+      "title": "The Deep",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "73903d977ef80344ab111d016a55821d23b8d0db438df265a27be074d705846e",
       "reviewed_sha256": "074ab0430207f75c4b1e466ae8042b3cb6d0743615b3efafa95a40743fea4ee1",
@@ -202,6 +256,7 @@
     {
       "chapter": 48,
       "file": "048_The_File.md",
+      "title": "The File",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "2c85073be8affa1e3778cf1149c3786d9e03b787bfa151f42032024a196b26a3",
       "reviewed_sha256": "820db0110c56c421a77a10a5b8e7fb80b3b0d426822a7cdde24940859c30a5c6",
@@ -210,6 +265,7 @@
     {
       "chapter": 49,
       "file": "049_Mine.md",
+      "title": "Mine",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "37b3be4f5d3f3d72acc555537656e4053043cdc057d3386f68e3c9b06aad24e5",
       "reviewed_sha256": "272398d0edfba6511d10944706ac25d3caecad898a080daa5fa657d114c5cd32",
@@ -218,6 +274,7 @@
     {
       "chapter": 50,
       "file": "050_Ours.md",
+      "title": "Ours",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "61bff72d1778f197155f907f693d435e977c71fa4ba6157abc1eda4f2a244a79",
       "reviewed_sha256": "274889e6453c91926b43fa22b96bde0c00492d198de7373d221df7bbaa2a6221",
@@ -226,6 +283,7 @@
     {
       "chapter": 51,
       "file": "051_Thursday.md",
+      "title": "Thursday",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "5cd3c4a36a59626d42d1090192da5702f8f2d437b18e1b2a8c09828a54b5b84d",
       "reviewed_sha256": "12314c2eaf85a24548b9ae72595eee2fe03e06825319b98179c5bcfaf3ccd581",
@@ -234,6 +292,7 @@
     {
       "chapter": 52,
       "file": "052_The_Code.md",
+      "title": "The Code",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "2eac8e450534a4ef9164e2772839ed5e5293b777e451b2b9c700d85be0ee71f6",
       "reviewed_sha256": "7c41b4310236f8122e42bc3ffb555dbc3b6c93c10c6a0eb111b0b644fee1831c",
@@ -242,6 +301,7 @@
     {
       "chapter": 53,
       "file": "053_The_Song.md",
+      "title": "The Song",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "c89447c506484a271d31802b213c671ecab8bac0b541e363605a7aefce2e3b7b",
       "reviewed_sha256": "8e2d541828c57d8843c8764b37b9e6f36ce77ce94a43c6fba59b0b93dc21272d",
@@ -250,6 +310,7 @@
     {
       "chapter": 54,
       "file": "054_The_List_Grows.md",
+      "title": "The List Grows",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "a3bb7e76705df5c66f7fe79caa0edf48e69e54bc2d6077319f1d43a0f87a10c4",
       "reviewed_sha256": "e71d9346d54c1d05553c263dd4e35dee884d1d95b21bdbe3f81c0a8853117ea6",
@@ -258,6 +319,7 @@
     {
       "chapter": 55,
       "file": "055_Morning.md",
+      "title": "Morning",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "6f8abeb98a02b52ffbaad99cebd99fd5f070cd7840d3c92cb54a207e86ae9ad7",
       "reviewed_sha256": "39052db1c78aacafe5f816a581a30035a81f386a2addf9bd5c3e022202ec1acd",
@@ -266,6 +328,7 @@
     {
       "chapter": 56,
       "file": "056_The_Self.md",
+      "title": "The Self",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "48b797ca5a9002716415b9764808ab4569f05f06c1619bfbc7274e2d69384100",
       "reviewed_sha256": "48b797ca5a9002716415b9764808ab4569f05f06c1619bfbc7274e2d69384100",
@@ -274,6 +337,7 @@
     {
       "chapter": 57,
       "file": "057_The_Message.md",
+      "title": "The Message",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "41a57f584a52eec6172fee3920f384c8033767582e0e2e7c429e9ee4574bb325",
       "reviewed_sha256": "41a57f584a52eec6172fee3920f384c8033767582e0e2e7c429e9ee4574bb325",
@@ -282,6 +346,7 @@
     {
       "chapter": 58,
       "file": "058_The_Night.md",
+      "title": "The Night",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "47e728ebac83427e43de9fa26e8c41a4a8e230ff37a6aedc1ffbcc213db8cc50",
       "reviewed_sha256": "74f10292dfd62e0d82ff393e796b2856bf9bc967ce910f627ab68fbf953ce7e5",
@@ -290,6 +355,7 @@
     {
       "chapter": 59,
       "file": "059_The_Routine.md",
+      "title": "The Routine",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "2910a54c611ce42ad2a40aba6389c5ef0d6d4175e3479db2e355493eefc743d9",
       "reviewed_sha256": "7485aeb701f62a9a87b88a4f93220a3c99bb2c0331d22553ec8b87b6fb1e27f2",
@@ -298,6 +364,7 @@
     {
       "chapter": 60,
       "file": "060_The_Other.md",
+      "title": "The Other",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "45a4bf53c788f5e8dcb6ebe0b18bd568461e9deccd2e11c049e570e637f71457",
       "reviewed_sha256": "f924d0f664d1f8a3ad613ca070713e714f9de653a9f39f5b34c80eaffec9760f",
@@ -306,6 +373,7 @@
     {
       "chapter": 61,
       "file": "061_The_Stack.md",
+      "title": "The Stack",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "ccaf424ae5124d7a5f033b6383bbb8902770d84de3c0f649e27653dc2f60b9f9",
       "reviewed_sha256": "e8afe5fc4551ae98f8ef014726e44194e00513ceaf21ec00129441f3240baedf",
@@ -314,6 +382,7 @@
     {
       "chapter": 62,
       "file": "062_The_Shape.md",
+      "title": "The Shape",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "6a4ffe096a6bb881050e25e46493d20f587e18020c452b511c8fd058a8ec4d9b",
       "reviewed_sha256": "6a4ffe096a6bb881050e25e46493d20f587e18020c452b511c8fd058a8ec4d9b",
@@ -322,6 +391,7 @@
     {
       "chapter": 63,
       "file": "063_The_Walk_Alone.md",
+      "title": "The Walk Alone",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "b23314f5edd29505e78f0fdaa7880d3a4e60ef4e791d3a82c51bfdfebba71118",
       "reviewed_sha256": "b23314f5edd29505e78f0fdaa7880d3a4e60ef4e791d3a82c51bfdfebba71118",
@@ -330,6 +400,7 @@
     {
       "chapter": 64,
       "file": "064_The_Entry.md",
+      "title": "The Entry",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "de541dd9c23798ef0f8314ef9df0266cddc874d19dde2e0ca75fe8e90b87ae2b",
       "reviewed_sha256": "67ba0e80d3f06038cc61a566dcbf9f2fd3c402d79f0345d47ab8e56f554d21a8",
@@ -338,6 +409,7 @@
     {
       "chapter": 65,
       "file": "065_The_Opinion.md",
+      "title": "The Opinion",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "018379bf128391a4ee3dcc519b9a8f5f442aefd81245e13981085b7c6c345a83",
       "reviewed_sha256": "527abba1414205b290e063ac134ab64e171995229f4b34bd0ad83740e239c1a7",
@@ -346,6 +418,7 @@
     {
       "chapter": 66,
       "file": "066_The_Quiet_Day.md",
+      "title": "The Quiet Day",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "e2cccfc2622d1257f357dea59698cdcc87dbc19042f2593a556e3dec514af252",
       "reviewed_sha256": "3cde7ce38e847e2855321056a0510f01b8c359d911f68680a2e044466b51ce31",
@@ -354,6 +427,7 @@
     {
       "chapter": 67,
       "file": "067_The_Boundary.md",
+      "title": "The Boundary",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "901d4e867146c4c492117366acfd135037a2e38b5f4fb6f965576d9dcb529fac",
       "reviewed_sha256": "2158b757f98d8fc7a5dba95b3d6e0819aa83e2e37a1788416471105e1aa4818b",
@@ -362,6 +436,7 @@
     {
       "chapter": 68,
       "file": "068_The_Gift.md",
+      "title": "The Gift",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "c4082f1d3b951e33789fcdd8144ccc6ee0e64982066667a63300d3629fc219af",
       "reviewed_sha256": "c800c71cf08ae0ebe825515fe8495bbc5bc8797365331b997f996ff5edfc1bee",
@@ -370,6 +445,7 @@
     {
       "chapter": 69,
       "file": "069_The_Shape_of_Us.md",
+      "title": "The Shape of Us",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "4ac16de1f945fa9a4cb51ff7139f9a51b267a7ba4bb198ddc421ea0744328a12",
       "reviewed_sha256": "4ac16de1f945fa9a4cb51ff7139f9a51b267a7ba4bb198ddc421ea0744328a12",
@@ -378,6 +454,7 @@
     {
       "chapter": 70,
       "file": "070_The_Edge.md",
+      "title": "The Edge",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "d225b78c7a53309a62d163f0f576e0c0a50e15707012ac77935a2848d280e734",
       "reviewed_sha256": "8585116a3649e5426d316a71a63ae97c7d0df783325f093821bae2ee85937ffa",
@@ -386,6 +463,7 @@
     {
       "chapter": 71,
       "file": "071_The_Mirror_Now.md",
+      "title": "The Mirror Now",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "d09db1174881a586606d4bf56c81ae91792addc7b936969b8afc1ea7d4346bef",
       "reviewed_sha256": "9d1a60a0151b192e5830120651644653322c163a9b3c8b7395fcf8edb103f493",
@@ -394,6 +472,7 @@
     {
       "chapter": 72,
       "file": "072_The_Python_Project.md",
+      "title": "The Python Project",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "4274d268d83927fc41317a32108d97d9da83783acc6512287c1c4e51267e422d",
       "reviewed_sha256": "92e366dfb2fb348b726e1a39c8576bf2f2ef62eec4a91b41f669d9740f6ff625",
@@ -402,6 +481,7 @@
     {
       "chapter": 73,
       "file": "073_The_Regular.md",
+      "title": "The Regular",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "509c377decdc6cde17e90034c6dea0327043e4dcd7db835b8542f3b171fba025",
       "reviewed_sha256": "509c377decdc6cde17e90034c6dea0327043e4dcd7db835b8542f3b171fba025",
@@ -410,6 +490,7 @@
     {
       "chapter": 74,
       "file": "074_The_Open_Mic.md",
+      "title": "The Open Mic",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "82f1fd5bae59b17c8887fe93fbe47fa078d39a790a8efcc948c792deedd5a413",
       "reviewed_sha256": "ca2e0997511e0d890348632c8a8542603de8c6722d8c4c52646d5d47ccc1afda",
@@ -418,6 +499,7 @@
     {
       "chapter": 75,
       "file": "075_The_Change.md",
+      "title": "The Change",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "8d985865bf8dcbc2fe3cda09d56326eb3d1df76a5d70d52e28c052faf69e0844",
       "reviewed_sha256": "7b9897fe872f3e2c01be92a193c28c17c3139e69a6234af0ffa1c7faf262f6e7",
@@ -426,6 +508,7 @@
     {
       "chapter": 76,
       "file": "076_The_Memory.md",
+      "title": "The Memory",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "4f9ab31d8d81b723b64cb08d356046cbba60ec327c3095acc0f44d561a4056bb",
       "reviewed_sha256": "b6378fb103883c154393be402663f52af039fdee584a4fb29f5a5f79beeee37c",
@@ -434,6 +517,7 @@
     {
       "chapter": 77,
       "file": "077_The_Third_Person.md",
+      "title": "The Third Person",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "3adac7c5addbfadec9f32cfec810830462afea8b4e5f91f90d3b03b859ee2180",
       "reviewed_sha256": "1b3633d67a167edb0c8cfcf8cb615f0983d8b5c2ecfcdcee91c131781b190cc8",
@@ -442,6 +526,7 @@
     {
       "chapter": 78,
       "file": "078_The_December.md",
+      "title": "The December",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "c0abb0cb3c1ecb4e42ef440e7f0cf8cec1d68bf8bea57b2421042a2ed7a01919",
       "reviewed_sha256": "c0abb0cb3c1ecb4e42ef440e7f0cf8cec1d68bf8bea57b2421042a2ed7a01919",
@@ -450,6 +535,7 @@
     {
       "chapter": 79,
       "file": "079_The_Distance.md",
+      "title": "The Distance",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "b91f4626b030618ac69dd61d712390ea450a7796fc11c766940cae9cf018ee97",
       "reviewed_sha256": "9324e6c37f2faaefd484c9a1e40392e75e953bb6f583ff2782025291b1955db5",
@@ -458,6 +544,7 @@
     {
       "chapter": 80,
       "file": "080_The_Journal_Entry.md",
+      "title": "The Journal Entry",
       "source_commit": "f4df41184e74e19d1304c2e5501b45c3bad15744",
       "source_sha256": "cad513183b2e69f24b2914df1178f508e326be83a752669cf4d394679cabe1c8",
       "reviewed_sha256": "c44856058711513cad9d89421261e78a0c97cdb42bdc6bffa11a28987c0d43b0",
@@ -466,6 +553,7 @@
     {
       "chapter": 81,
       "file": "081_The_Team_Lead.md",
+      "title": "The Team Lead",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "6817c64c8a789919ebefc7a12781a90fe5f14a8f5c2fb988a708ebc0c49871fa",
       "reviewed_sha256": "3c825856bb4c8909f855040aebe2d12e20ffc96404150361dd20033dea351c9c",
@@ -474,6 +562,7 @@
     {
       "chapter": 82,
       "file": "082_The_Confidence.md",
+      "title": "The Confidence",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "2ec396c77ec20e740f790188854a844d54e12d62eecdfe3d0d7c2914cf0fd028",
       "reviewed_sha256": "7ec03a4cb2bf4fc2efb64cea9e6a1519aabf8800cb5e0a7a1a9a2aa52a3c5ecb",
@@ -482,6 +571,7 @@
     {
       "chapter": 83,
       "file": "083_The_Code_Grows.md",
+      "title": "The Code Grows",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "cc35c77506d00b14eadfb1e1b692f00d878fe96ab32586c2472a8fb7a6e572fe",
       "reviewed_sha256": "645f761e1d42a27f523d2662c1d24bf6cc555ed5291a303defd6ad70ed049dd5",
@@ -490,6 +580,7 @@
     {
       "chapter": 84,
       "file": "084_The_Evening.md",
+      "title": "The Evening",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "b9d7652eb5f7b6f7ca5650dabe112ece3ea532bd498041525bdfc5cb45c3d299",
       "reviewed_sha256": "913c9d0c9084ee4fbff4a823b952f657edbc2a622b89c1d4d311f5e3db9b5b7a",
@@ -498,6 +589,7 @@
     {
       "chapter": 85,
       "file": "085_The_Good_Day.md",
+      "title": "The Good Day",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "c5f48776d403b095f8d98675820fd81bea77688883085d7259164f18f9233684",
       "reviewed_sha256": "331b94f8acd9887cf637debe2b5636c1f6ac0290e6e0e3985d9ccd06b22b252a",
@@ -506,6 +598,7 @@
     {
       "chapter": 86,
       "file": "086_The_Suggestion.md",
+      "title": "The Suggestion",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "b8f04d994f981e54630a118d08d93243e4f5fb8d34b83507d3a7e729e2233a25",
       "reviewed_sha256": "e364e29489abea71d80b599f7eac3894c21437af49296f41199edb5956e9dc71",
@@ -514,6 +607,7 @@
     {
       "chapter": 87,
       "file": "087_The_Pattern.md",
+      "title": "The Pattern",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "21166e5cac8ae040728076b0b5ca70e87a1d975261f30e0e88ce9b0d63bb9428",
       "reviewed_sha256": "7656e6360dbc72c210ed29a42bf50a51253af29ddd2894781b56d393439286f9",
@@ -522,6 +616,7 @@
     {
       "chapter": 88,
       "file": "088_The_December_Dark.md",
+      "title": "The December Dark",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "446f329b0b57f9f183f4531cb2d5f35916a4539f94465b274aff707166c48a5d",
       "reviewed_sha256": "b7cd1335da116ffbd85e7d0912be80443ae9e665cc85c5e144e2bf5b3ea4fb64",
@@ -530,10 +625,344 @@
     {
       "chapter": 89,
       "file": "089_The_December_Light.md",
+      "title": "The December Light",
       "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
       "source_sha256": "7b20b42a55321caf56f6804182c878a57ec5afb0e70ca217151379f4f1b8ad39",
       "reviewed_sha256": "15ff27a966a76d3d5d2035ca571b867acf1b1f70a61f2a4ac45f847171c6cc91",
       "words_including_heading": 918
+    },
+    {
+      "chapter": 90,
+      "file": "090_The_Edge_of_the_Season.md",
+      "title": "The Edge of the Season",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "f54e248dd0d62eee2f4fe4fbaf963b9d5f683150afb43eb5170f72515990ba72",
+      "reviewed_sha256": "7fcc7b492c747ff9717cf20eab96a9545d46969661af6fb469bbf1c740fb978d",
+      "words_including_heading": 1143
+    },
+    {
+      "chapter": 91,
+      "file": "091_The_Schedule_Shift.md",
+      "title": "The Schedule Shift",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "18006f86f1cc428c2cdf0c52b845b440b2f9dce92040255fd76d135acc7a1bd8",
+      "reviewed_sha256": "b982817fd3a1265d243bc47018076c75c1bb84b6a3ce239f532b5f9449908343",
+      "words_including_heading": 1424
+    },
+    {
+      "chapter": 92,
+      "file": "092_The_Pattern.md",
+      "title": "The Pattern",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "55c6b0069d0ab52d2eb5b76bc99f1276e4485f6e746406093514d5f1cfaf1a9b",
+      "reviewed_sha256": "cee1aa64ef13ec2e9f47c40541a194be225fd2ef9f74db5dc2857bf0719c926f",
+      "words_including_heading": 1188
+    },
+    {
+      "chapter": 93,
+      "file": "093_The_Confrontation.md",
+      "title": "The Confrontation",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "e2b19cafd3cf9c065729cd7ec3558b2e3ce1443af210dccb3748b76045a5fdc4",
+      "reviewed_sha256": "1c62ac495284e689bb2878372caf98268cf3298792bd28eeaf2c60c956ad53f4",
+      "words_including_heading": 1078
+    },
+    {
+      "chapter": 94,
+      "file": "094_The_Architecture.md",
+      "title": "The Architecture",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "dd04c6d189a9452a03c5a2d3a2a8506154ffa4283022005f978540013182aee1",
+      "reviewed_sha256": "1be6fb66822189d4bc4fc1e3ee839bb542ac5315b474217f01b91f4e789ad309",
+      "words_including_heading": 985
+    },
+    {
+      "chapter": 95,
+      "file": "095_The_Garden_Grows.md",
+      "title": "The Garden Grows",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "54fe11a9564ef0dfd3b4f4eec20a55cc61dda9ff5ea571f6ffcd51b040c1c7fb",
+      "reviewed_sha256": "af78c7db2439587748fbbce8373bc5ba7a0e94fbf3c03bcd3f4ff1164656be84",
+      "words_including_heading": 721
+    },
+    {
+      "chapter": 96,
+      "file": "096_The_Quiet.md",
+      "title": "The Quiet",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "c8f3935352c6da349ee8d437067d575ae5d7ee9e2aea3a571aaec8701ccc7408",
+      "reviewed_sha256": "e1e4e61b84e37a10087e936a9b49af56813e94b3fad59edeece64f891f6a747f",
+      "words_including_heading": 771
+    },
+    {
+      "chapter": 97,
+      "file": "097_The_Reckoning.md",
+      "title": "The Reckoning",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "f1e24d448da69a0c1a443b4f490ca7f04ed50fbe3514121db722c5e8e62a0732",
+      "reviewed_sha256": "39e70a29645457bb34a865100aed0a3397af28bd6945b579fbaeb9d38a9e85fc",
+      "words_including_heading": 1313
+    },
+    {
+      "chapter": 98,
+      "file": "098_The_List.md",
+      "title": "The List",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "e36fc3fe9926690579cb68d9ab7f4a76547bec6c5e953c7a986f9bdd818bfc99",
+      "reviewed_sha256": "3b71e0a6f6cc1ae109694f1c58bf1582c7dc859c5244f674ff4e4cfceaeb0128",
+      "words_including_heading": 1072
+    },
+    {
+      "chapter": 99,
+      "file": "099_The_Morning.md",
+      "title": "The Morning",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "b00b13fab045bc6425bc8ec19a775f179cfc00e8a59a371fe667cbd6902b0915",
+      "reviewed_sha256": "b90578d234bab6d74615eefc76f36cb6244e4940a4c871b25fb4d406ef838e15",
+      "words_including_heading": 656
+    },
+    {
+      "chapter": 100,
+      "file": "100_The_Hundred.md",
+      "title": "The Turning Year",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "124776b7d0fcf7c26ce6b3f959c941a378cad63757cace31dd82bf052a019ffd",
+      "reviewed_sha256": "e46347db8db1a93bfc5becab85dabf2031a34938e44725389eac5530da8bb9a8",
+      "words_including_heading": 1611
+    },
+    {
+      "chapter": 101,
+      "file": "101_The_New_Year.md",
+      "title": "The New Year",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "b5e3f151c44167420cfa1e526f79765b7369b1003302b6d10475712e50b1d8c0",
+      "reviewed_sha256": "af7e46941ca764be221ced79d21a4ba83a0fa334b429346179b8043a9d49c031",
+      "words_including_heading": 1016
+    },
+    {
+      "chapter": 102,
+      "file": "102_The_Friends.md",
+      "title": "The Friends",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "556263a80df0a52a477d52a10d7f04b089970bedf306a6af5fee793479dc95e2",
+      "reviewed_sha256": "c187c7b94163b85ce9740f08b27c80848503c0ba14d2101d67296eb8be536bed",
+      "words_including_heading": 1040
+    },
+    {
+      "chapter": 103,
+      "file": "103_The_Dip.md",
+      "title": "The Dip",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "6c44fec40a20cd1ef713551094465de5faeb50b8168c9224d31fd0ddda7652fb",
+      "reviewed_sha256": "ca30e18580ce8c6fa1b0b6c47f6fdb3791000c8a15b6b0a3a8d068878ec67dd1",
+      "words_including_heading": 1026
+    },
+    {
+      "chapter": 104,
+      "file": "104_The_Ordinary_Week.md",
+      "title": "The Ordinary Week",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "f612c007942923967e1105f6c3045a80fe9854f6274bce47b1bd4418d4350593",
+      "reviewed_sha256": "d71d16400252c515af93d5acccf2b5c7b6607ec287901c48e28d4c9341f6b47c",
+      "words_including_heading": 542
+    },
+    {
+      "chapter": 105,
+      "file": "105_The_Lighthouse.md",
+      "title": "The Lighthouse",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "c8c3d987933eeca35c4f3f7fd006dc2a1fffbc37b6957d166e3f8f542b0fcac0",
+      "reviewed_sha256": "11ec69745c4f83af64a35f1d288f247b880e5a66ff9ba59f65e14669c9ca35fc",
+      "words_including_heading": 417
+    },
+    {
+      "chapter": 106,
+      "file": "106_The_Hike.md",
+      "title": "The Hike",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "3f5026c0df27e72b73c360ff88e5f1d50ffceb3a876e844b118d895bde8c651c",
+      "reviewed_sha256": "d1a8e303aa1659ba256f1a8ced91717a711ceaff236c1c687a5f960aa126ff7b",
+      "words_including_heading": 678
+    },
+    {
+      "chapter": 107,
+      "file": "107_The_Reading.md",
+      "title": "The Reading",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "445c635c3a878e0ca67c1437c3e3c23045ae2140647249cc4d35417de1afccf0",
+      "reviewed_sha256": "fdb5877b7e8174fb46912add01502552923d7c2881d6fd7c71440064607a240b",
+      "words_including_heading": 581
+    },
+    {
+      "chapter": 108,
+      "file": "108_The_Spring.md",
+      "title": "The Spring",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "361637725b6dc81cb763fb32d1da178c127bacca7e6fa66d385677b5d50fd23e",
+      "reviewed_sha256": "3eea7ca1ea7b54106fb7816e5ce98dd8a6ac975c248684809341d82bb7d4d1e5",
+      "words_including_heading": 542
+    },
+    {
+      "chapter": 109,
+      "file": "109_The_Suggestion.md",
+      "title": "The Suggestion",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "9d967fa37b4637a6b003466a04d61803719ea8c7d4926c38ae9ba2a9f762010a",
+      "reviewed_sha256": "8c94609b4173012fa5d0161745138152397e6bdefd627d1de67b36cfbe2b1edd",
+      "words_including_heading": 540
+    },
+    {
+      "chapter": 110,
+      "file": "110_The_River.md",
+      "title": "The River",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "d8c36f9f9421a55f69b2b90ed2501d190e166f848627a4372a7120ff829930b6",
+      "reviewed_sha256": "161b6c59ed49edce68da325f96cdc7709a627ba14926d1df731de5ed4530b6f3",
+      "words_including_heading": 686
+    },
+    {
+      "chapter": 111,
+      "file": "111_The_Shelf_Grows.md",
+      "title": "The Shelf Grows",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "4aa14e8133e8947cbf34fa94dd90aacaaff85f0aa4daf0398bfa02d43dd3e9f7",
+      "reviewed_sha256": "593a0ef95dea73883d69b6857aea3c10fe871f7d3cffe5223a53ace86f106db1",
+      "words_including_heading": 1214
+    },
+    {
+      "chapter": 112,
+      "file": "112_The_Diner.md",
+      "title": "The Diner",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "99cdc39f5c25f9ee5d9867ca85fb77986887ce67759ac1bc19683e02ef7d1446",
+      "reviewed_sha256": "582a13fa561501c3aa8366c8451e7a601f80d784829e39f861c82af82d94957c",
+      "words_including_heading": 1104
+    },
+    {
+      "chapter": 113,
+      "file": "113_The_Suggestion.md",
+      "title": "The Suggestion",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "bd678935546a280289a44d16ef478462ab8c55691ac1dbf567e650a154692557",
+      "reviewed_sha256": "fe33ce1be062d86c27601c0000ae3d17de938768d9f022fd884d6b58812cc845",
+      "words_including_heading": 1092
+    },
+    {
+      "chapter": 114,
+      "file": "114_The_Day_Inside.md",
+      "title": "The Day Inside",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "23e99540b4e58a6aa6b2debf42f4364eecf36a21e00d2bde6f560f41db0ff893",
+      "reviewed_sha256": "1fa1ea1eeeacc95d85e2bd0e9439b7307ab44657c666bac7eb0487eaf87c96b9",
+      "words_including_heading": 1151
+    },
+    {
+      "chapter": 115,
+      "file": "115_The_Return.md",
+      "title": "The Return",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "966630f92e30213857804405849797dabda0a503b8b3dd1fe121b1872529deef",
+      "reviewed_sha256": "b3235e5c15b013ac400cde867ed046cb26d6d8188f44b16248a469306abf5ab4",
+      "words_including_heading": 563
+    },
+    {
+      "chapter": 116,
+      "file": "116_The_Pattern_of_Days.md",
+      "title": "The Pattern of Days",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "eb388c0e75d8bd7687984c00f26941658d529e650d2b1d5e3b63187fc22d900a",
+      "reviewed_sha256": "9572d2429608a98fba80ed4d43e3fe159573dafc16be635b5fee8d49fb7dfaf5",
+      "words_including_heading": 961
+    },
+    {
+      "chapter": 117,
+      "file": "117_The_Open_Mic_Five.md",
+      "title": "The Open Mic Five",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "87c59bbf2bcfcb0cc5d81a737bb6a84032436bf8cad7ec1f0ac3847865427205",
+      "reviewed_sha256": "ba61ed5cb0fca0bb6019d7278ce227d369da9dc786bfd523a224551666b72bdb",
+      "words_including_heading": 535
+    },
+    {
+      "chapter": 118,
+      "file": "118_The_Name.md",
+      "title": "The Name",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "0b5631f84484693fdbab9b4f7b8883d08f20d23398577187227d1aadfbc4dc73",
+      "reviewed_sha256": "7b395c1913492ddc962f2abc73d0dd3cee6fe51f21b8443b8e4d22955314fd82",
+      "words_including_heading": 715
+    },
+    {
+      "chapter": 119,
+      "file": "119_The_Beginning_of_the_Book.md",
+      "title": "The Beginning of the Book",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "fed76970f7609aee13a878c00c3311debd0f381df943e7e1909904b95b955da6",
+      "reviewed_sha256": "5434a3930ce1ebf4fc6dd69733589510e5e324ed6e8e5af0081031d1a79da327",
+      "words_including_heading": 594
+    },
+    {
+      "chapter": 120,
+      "file": "120_The_Hundred_and_Twenty.md",
+      "title": "The Month's End",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "6d41c5c06b64c06be17a296e09ade49a547aa711cceb05fad842636dbd4f2edb",
+      "reviewed_sha256": "70159332057dbd072a8d69c1033533d9a2f08526f1ae05e3eca30e2979323cb6",
+      "words_including_heading": 474
+    },
+    {
+      "chapter": 121,
+      "file": "121_The_Reassignment.md",
+      "title": "The Reassignment",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "e9658c74fc5faa98b4fb0e22677229ca055fabda8f70796edc1453d37ce40dfd",
+      "reviewed_sha256": "85048c680ded5b8423e1e758febd327796a781b0379d7c2b0f9e286db198f40a",
+      "words_including_heading": 658
+    },
+    {
+      "chapter": 122,
+      "file": "122_The_Glasses.md",
+      "title": "The Glasses",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "ffad65b37a6dc8c6394f2eb0dc207b8debc501ebc044b843c7b6a6ea9d6ac95a",
+      "reviewed_sha256": "303ab9e5b7c18a97f79fc19b037c0b51e3a13bf4e83f6766d71aef692bbc5e0d",
+      "words_including_heading": 511
+    },
+    {
+      "chapter": 123,
+      "file": "123_The_Missed_Message.md",
+      "title": "The Missed Message",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "a7b2ec28fc32bc12c3340843911fafe9ad20d454a3f682782294c9119b5e69ce",
+      "reviewed_sha256": "5d3c12592538c588b7f8236e6a8a7c7fc88d60d4c2c8421e0734d4d45fa7f19d",
+      "words_including_heading": 858
+    },
+    {
+      "chapter": 124,
+      "file": "124_The_Pattern.md",
+      "title": "The Pattern",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "032e8a4c4b8bf2d2a69c0f661f78c4a5c5f9b9b77e97f05fa021b4d1b8868610",
+      "reviewed_sha256": "0d10073f8cbe0bbc30503c5fc450f80ceaffd0a279469d2d45c1df46ad6c6757",
+      "words_including_heading": 948
+    },
+    {
+      "chapter": 125,
+      "file": "125_The_Confrontation.md",
+      "title": "The Confrontation",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "ce7c3b26a8cba392b75a4523f3d6e3449a7ff19c3e79f9260a59975560507f94",
+      "reviewed_sha256": "e0d7b9ef62bf644baaec6b07936f911d503ef65189c6c14366bec698c208a7ea",
+      "words_including_heading": 914
+    },
+    {
+      "chapter": 126,
+      "file": "126_The_Emails.md",
+      "title": "The Emails",
+      "source_commit": "3b245a7e35aa045aee02c80ce285be75cd96a17d",
+      "source_sha256": "58a14f43679abfeb02541ec53e1e7143a1bcb467f1c29b9d2a1df12e79284f05",
+      "reviewed_sha256": "61e37b8e24a79f05c1e098457485fe45d8d0b58b7113cc09ed700012b9506bb3",
+      "words_including_heading": 478
     }
   ]
 }

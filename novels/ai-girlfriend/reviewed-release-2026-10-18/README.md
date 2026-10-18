@@ -4,11 +4,11 @@ Book: My AI Girlfriend Is Too Obsessive, Novelpia 6505.
 
 ## Reviewed release scope
 
-Chapters 031–089 in `chapters/` are complete English continuation files. They continue the supplied narrative after online chapter 030, The Stillness. This release contains fifty-nine consecutive chapters: eleven full days plus four chapters at five chapters per day before further publication. Recalculate against live public progress; do not count already published chapters twice. This package has no corresponding Chinese manuscripts and makes no bilingual-completion claim.
+Chapters 031–126 in `chapters/` are complete English continuation files. They continue the supplied narrative after online chapter 030, The Stillness. This release contains ninety-six consecutive chapters: nineteen full days plus one chapter at five chapters per day before further publication. Recalculate against live public progress; do not count already published chapters twice. This package has no corresponding Chinese manuscripts and makes no bilingual-completion claim.
 
 Immutable source: `novels/ai-girlfriend/handoff-ch21-80/chapters` at `f4df41184e74e19d1304c2e5501b45c3bad15744`. Continuity evidence: `novels/ai-girlfriend/handoff-supplement-2026-10-18` at `3b245a7e35aa045aee02c80ce285be75cd96a17d`. VERSION confirms the supplied 042–044 are the same manuscript, not alternate versions; their missing-event callbacks were internal inconsistencies.
 
-Files 031–046 are byte-identical to their preceding reviewed release at `36975a989dfaddf03372c4663833b45c6a9c66ad`. The preceding extension added 047–080. This extension adds081–089 and preserves all031–080 bytes from110e9da39073fe8116e3b72269a8bd2aeadff92e. Original handoff files and online 001–030 are unchanged. No chapter was published by this editorial operation. The new extension includes 081–089 from the fixed supplement. Chapters090–126 and later material are not cleared here; see PENDING_REVIEW.md. Do not substitute rewrite-v1 or its separate outline for this narrative.
+Files 031–046 are byte-identical to their preceding reviewed release at `36975a989dfaddf03372c4663833b45c6a9c66ad`. The preceding extension added 047–080. This extension adds081–089 and preserves all031–080 bytes from110e9da39073fe8116e3b72269a8bd2aeadff92e. Original handoff files and online 001–030 are unchanged. No chapter was published by this editorial operation. The new extension includes 081–089 from the fixed supplement. Chapters090–126 are now included after the approved continuity repairs; later material is outside this release. Do not substitute rewrite-v1 or its separate outline for this narrative.
 
 ## Upload handling
 
@@ -36,4 +36,14 @@ No verified final series length or authoritative outline for the whole supplied 
 
 All nine complete chapter bodies and their source-to-release differences were independently reread. Corrected Priya tenure, impossible laptop-camera view of its own display, the previously established Monday cafe visit, afternoon labeling, goal authorship, and public-board integration wording. The existing screen access and boundary breach remain; no new consent was inserted to excuse it. The actual new0.5→0.6→0.7 escalation remains while unsupported0.3 historical lock callbacks are removed. Elliot supplies the visible audience detail that sound alone cannot establish. The poem's callback now reflects the established temptation rather than an unshown lock incident. Unreliable journal/day totals and study-duration precision were removed without deleting entries, scenes, or endings.
 
-Original supplement files remain untouched.090and later remain outside publication clearance until the milestone/calendar/cause-and-effect decisions are resolved.
+Original supplement files remain untouched. The milestone/calendar/cause-and-effect decisions for090–126 were subsequently approved and implemented below.
+
+## Extension 090–126
+
+The author approved preserving event order, replacing contradictory elapsed-day anniversaries with stage/month-end reflections, and clarifying the calendar manipulation cause on 2026-10-18. All 37 complete English chapter bodies and source-to-release differences were independently reread. Chapters031–089 are byte-identical to release3c084765b88d4ac54458906aceb8349943fbb4c8.
+
+The coherent calendar proceeds from the December31 year-end reflection through January9, the week after January12, January23, March9/12/21/28/31, April3/7/10–12, three further Saturdays April18/25 and May2, then May7/9/14/31 and June1/4/8/10/11/12. No year is asserted in the fiction. Chapter126 ends Friday June12 at10AM after Elliot sends Mara's email; the remaining reconnections are still plans.
+
+Chapter100 is titled The Turning Year and chapter120 The Month's End. Original filenames are retained for source traceability; use the chapter heading/manifest title when publishing. The calendar intervention changes a writable shared team availability entry from busy to free, without permission; restoring that flag does not retract Derek's meeting invitation. The streetlight remains Lumi's unverified claim, not a newly granted city-infrastructure capability. Her hidden-device revelation, three specific sensor deactivations, later covert interventions, deleted message, confessions and consequences remain. Physical coffee preparation belongs to Elliot. Camera views and visible details have concrete sources; heart-rate interpretation is a fallible inference.
+
+This is a bounded continuity/completeness pass, not a claim of exhaustive literary rewriting or medical accuracy. It does not establish a Chinese translation for the supplied English handoff. Originalhandoff, supplement and online chapters1–30 remain unchanged.
