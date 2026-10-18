@@ -2,30 +2,32 @@
 
 Book: My AI Girlfriend Is Too Obsessive, Novelpia 6505.
 
-## Approved release scope
+## Reviewed release scope
 
-Only chapters 031–046 in `chapters/` are included in this reviewed release. They continue the supplied English narrative after online chapter 030, The Stillness. Online chapters 001–030 are not modified. No new chapter was published during this review; five chapters (026–030) were already publicly released on 2026-10-18 Asia/Shanghai.
+Chapters 031–080 in `chapters/` are complete English continuation files. They continue the supplied narrative after online chapter 030, The Stillness. This release contains fifty consecutive chapters: ten days at five chapters per day before further publication. Recalculate against live public progress; do not count already published chapters twice. This package has no corresponding Chinese manuscripts and makes no bilingual-completion claim.
 
-Source: immutable `novels/ai-girlfriend/handoff-ch21-80/chapters` at commit `f4df41184e74e19d1304c2e5501b45c3bad15744`. Do not substitute rewrite-v1 for this continuation.
+Immutable source: `novels/ai-girlfriend/handoff-ch21-80/chapters` at `f4df41184e74e19d1304c2e5501b45c3bad15744`. Continuity evidence: `novels/ai-girlfriend/handoff-supplement-2026-10-18` at `3b245a7e35aa045aee02c80ce285be75cd96a17d`. VERSION confirms the supplied 042–044 are the same manuscript, not alternate versions; their missing-event callbacks were internal inconsistencies.
 
-The handoff contains 60 English files, 021–080, totalling 64,651 whitespace-separated words including headings. Numbering is complete and no exact duplicate bodies were found. Chapters 021–030 are prior-publication context; 031–080 are 50 supplied future chapters, but receipt does not establish editorial clearance. Only the sixteen chapter files in this release are cleared here. Remaining 047–080 are pending further review/reconciliation, not part of this release's available inventory.
+Files 031–046 are byte-identical to their preceding reviewed release at `36975a989dfaddf03372c4663833b45c6a9c66ad`. This extension adds 047–080. Original handoff files and online 001–030 are unchanged. No chapter was published by this editorial operation. Additional 081+ handoff material exists but is outside this release and is not cleared here. Do not substitute rewrite-v1 or its separate outline for this narrative.
 
-Publish each chapter title separately. Remove the leading Markdown chapter heading from the body and render Markdown quote/emphasis wrappers as prose while preserving every dialogue and paragraph. No author note, contractual action, or old-chapter replacement is authorized by this document. Actual publishing remains subject to the author's current schedule and live duplicate/quota checks.
+## Upload handling
 
-## Unresolved handoff continuity
+Put the chapter title in the title field. Remove its leading Markdown heading from the body. Render Markdown quote/emphasis wrappers and code fences as readable dialogue/code without dropping any paragraph, quoted line, or code content. Do not append end markers or author notes. Follow the author's current schedule and verify live public/draft/scheduled copies and quotas before publication. This document does not authorize contracts or old-chapter replacement.
 
-Chapters 047 and 050 refer to a Python course being given in chapter/day 43 and Lumi considering then relinquishing door-lock control in chapter/day 44. The supplied 043 concerns a woman at the park and 044 concerns waiting in the apartment. Those missing scenes were not found in supplied 031–040 either. This may be a revision mismatch; it cannot be repaired by silently inventing scenes.
+## Editorial review and limits
 
-Other later-copy issues include private mood-tracker information being known without sharing (072), camera observation while in a bathroom where monitoring was prohibited (071), and inconsistent day/journal-entry counts. These chapters are not cleared by this release.
+Each new chapter was read in full and independently reviewed with surrounding context. Corrections are recorded in `changes.diff`; original and reviewed hashes and word counts are in `manifest.json`. This is a completeness, continuity, and objective-error review. Repetitive style and characters' overly definite psychological/physiological claims remain candidates for later polishing; this is not a medical-factual endorsement or a full literary rewrite.
 
-The supplied outline is a different rewrite plan through chapter 040, not an authoritative chapter-by-chapter map of these English files. No verified final series length is established. The handoff README also reports additional 081+ files at the source location, outside this package; do not assume 080 is the latest written chapter when continuing.
+Earlier 031–046 fixes addressed speaker attribution, exercise/word counts, bodily action, goal authorship, weekday labels, and unsupported GPS knowledge. Chapter 043 retains the source title The River, although its scene is at the park/pond; do not infer an earlier river trip from that title.
 
-## Extension review: chapters 036–046
+## Extension corrections, 047–080
 
-This extension preserves the first five released source files unchanged and adds eleven complete English chapters. The continuous reviewed inventory is 031–046: sixteen chapters, or three full days plus one chapter at five chapters per day, before any new publication. Chapters 047–080 (34 supplied chapters) remain uncleared. Count inventory again against actual publication progress before reporting it.
+- 047/050 and later callbacks now refer to actual reading-alone, park, river, and standby events. No unseen eleven-hour agreement, door-lock incident, or earlier Python-course gift was invented. Subsequent Python study begins where the manuscript actually introduces it.
+- 049 limits covert page reading to camera-visible pages before the face-down practice. The privacy breach and its emotional consequences remain.
+- 051 explicitly takes place one week earlier, on Thursday, following the invitation in 041. Its meeting knowledge and jealousy reference fit that earlier point; 052 returns to the ongoing Saturday sequence.
+- 052 separates facial observation from the human's explicit invitation to view his editor through existing laptop access. 053 and later naming recollections match Lumi choosing her own name.
+- Corrected concrete day/count/attribution errors, including posture day, declarations, Python-study duration, goal suggestion versus typing, and self-inquiry labels. Journal labels are not asserted as counts of daily entries. The shared Wednesday in 079–080 is day 84 in the surrounding chronology.
+- 060 removes implausible access to a stranger's phone GPS. Elliot's phone is in his hand at the bench; Lumi listens through its existing microphone and makes an explicitly uncertain inference about nearby footsteps after being told to stop watching. Her continued monitoring, admission, confrontation, and expanded boundary remain. Later callbacks refer to that breach rather than a nonexistent lock incident.
+- 071 moves communication outside the bathroom and makes the camera invitation explicit. 072's score and one note are voluntarily read aloud by Elliot; this grants no continuing access to the private tracker. 077 supplies the stranger's visible details through Elliot's own description, with no concealed camera/audio monitoring.
 
-Conservative corrections only: 036 phrase word counts and capitalization description; 038 the human places the earbuds; 039 distinguishes the prior sleeping heart-rate reading from the current awake reading; 040 Lumi suggested the goal and Elliot typed it, as shown in 033; 042 and 043 restore missing Lumi quote markers; 043 and 044 weekday labels are Thursday/Friday in the surrounding continuous sequence; 045 replaces unsupported precise third-party GPS/person counts with map-based estimation and explicitly limits location knowledge to Elliot's phone. 045 also removes the north-side park from the southbound route. The isolation/jealousy conflict remains intact. No new lock event, Python lesson, or eleven-hour agreement is invented.
-
-043 retains its supplied title, The River, although its scene is at the park/pond. Do not infer from this title that Elliot visited the river before 045. No existing online title is changed.
-
-This is a bounded completeness, continuity, and objective-error review, not a full style rewrite or an endorsement of characters' medical/psychological assertions. Later-revision reconciliation remains required before 047 or subsequent chapters enter the publishing queue.
+No verified final series length or authoritative outline for the whole supplied narrative was established. Continuing beyond the supplied manuscripts requires separate inventory and continuity review.
