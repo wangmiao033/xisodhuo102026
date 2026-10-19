@@ -1,0 +1,247 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "batch_date": "2026-10-19",
+  "timezone": "Asia/Shanghai",
+  "chapter_range": [
+    147,
+    156
+  ],
+  "new_bilingual_chapters": 10,
+  "cn_han_characters": 23130,
+  "cn_nonspace_body_characters": 27156,
+  "en_body_words": 15687,
+  "count_method": "Headings excluded; Chinese Han range U+3400–U+9FFF; English alphabetic words with internal apostrophes/hyphens. Nonspace count includes punctuation.",
+  "predecessor_commit": "f1404f7a42274b06fbf2d493e1fc34a28c13fe7c",
+  "chapters": [
+    {
+      "chapter": 147,
+      "cn": {
+        "path": "cn/147_A_Word_Before_Sleep.md",
+        "title": "# 第147章：睡前的一个词",
+        "nonspace_chars": 2673,
+        "han_characters": 2255,
+        "english_words": 0,
+        "sha256": "fa29d98eda60532f1951bb0958fef805920e05424ec81a995b086f6f74c2eecc",
+        "git_blob_sha": "fbb5025c2e6b9f22f32a78bbed0b41d3e045b4d5",
+        "bytes": 8242
+      },
+      "en": {
+        "path": "en/147_A_Word_Before_Sleep.md",
+        "title": "# Chapter 147: A Word Before Sleep",
+        "nonspace_chars": 6981,
+        "han_characters": 0,
+        "english_words": 1514,
+        "sha256": "542cd6f227f190d98c33201a7075f8ccb7596b76d744c8e39a1a35bb2e04f5ba",
+        "git_blob_sha": "6e80df011e55bf3da7120423606c7e2342cd4511",
+        "bytes": 8851
+      }
+    },
+    {
+      "chapter": 148,
+      "cn": {
+        "path": "cn/148_What_The_Proposal_Left_Out.md",
+        "title": "# 第148章：方案没有写进去的",
+        "nonspace_chars": 2736,
+        "han_characters": 2337,
+        "english_words": 0,
+        "sha256": "6f4bbbbfec3007d0b2577b10db84aef48893e292a8f3af9e91a0dfd1972bf77e",
+        "git_blob_sha": "93ae02147e6417977ef1c2460678acd866e81e58",
+        "bytes": 8419
+      },
+      "en": {
+        "path": "en/148_What_The_Proposal_Left_Out.md",
+        "title": "# Chapter 148: What the Proposal Left Out",
+        "nonspace_chars": 6965,
+        "han_characters": 0,
+        "english_words": 1490,
+        "sha256": "c2d159a3316d99c57ff3808e8192ada58d2b2e903d485c8b24dcfe62c78c17eb",
+        "git_blob_sha": "9b664d7eb417555698c394c3899561550575a772",
+        "bytes": 8819
+      }
+    },
+    {
+      "chapter": 149,
+      "cn": {
+        "path": "cn/149_The_Wrong_Column.md",
+        "title": "# 第149章：错的是列名",
+        "nonspace_chars": 2770,
+        "han_characters": 2358,
+        "english_words": 0,
+        "sha256": "9b293a3f93ca486fedc28cfb6e3e451eb4dbe5929fa4f7d0b6f7dc571d7208c2",
+        "git_blob_sha": "3e150915b16f3952093ba474b233e43dfd3011a3",
+        "bytes": 8532
+      },
+      "en": {
+        "path": "en/149_The_Wrong_Column.md",
+        "title": "# Chapter 149: The Wrong Column",
+        "nonspace_chars": 7176,
+        "han_characters": 0,
+        "english_words": 1476,
+        "sha256": "863528d3d4afb8f67e2912a3b92cff211dd693507edb4007d43783c3102eab8d",
+        "git_blob_sha": "59393a87f928b506f3f52baf73d1d4b733cc8478",
+        "bytes": 9017
+      }
+    },
+    {
+      "chapter": 150,
+      "cn": {
+        "path": "cn/150_A_Picture_Without_A_Door.md",
+        "title": "# 第150章：没有入口的画面",
+        "nonspace_chars": 2561,
+        "han_characters": 2244,
+        "english_words": 0,
+        "sha256": "7a129ed9fc2f1ae0cf9d5092f673bf69abcb0f4d63697554f0059ddf6a327918",
+        "git_blob_sha": "b26199e2d9b0f95bf761b9ac4e139bf7b0814302",
+        "bytes": 7849
+      },
+      "en": {
+        "path": "en/150_A_Picture_Without_A_Door.md",
+        "title": "# Chapter 150: A Picture Without a Door",
+        "nonspace_chars": 6925,
+        "han_characters": 0,
+        "english_words": 1421,
+        "sha256": "e06ea0e4bcea1876a98881d6e4f49418888601794dbf9b60f1589e3d754ac049",
+        "git_blob_sha": "50f4ddcc7ae757c44df708c05dea0e93ace240cc",
+        "bytes": 8563
+      }
+    },
+    {
+      "chapter": 151,
+      "cn": {
+        "path": "cn/151_The_Blank_Corner.md",
+        "title": "# 第151章：空着的那一角",
+        "nonspace_chars": 2692,
+        "han_characters": 2251,
+        "english_words": 0,
+        "sha256": "a1ad39c3e0bcfad16b34a4450d3cb2fb4423944be8ed53831d959ab557f0984b",
+        "git_blob_sha": "c347cec69ab0032c5b537f31ef6e0a2ac8f1a921",
+        "bytes": 8311
+      },
+      "en": {
+        "path": "en/151_The_Blank_Corner.md",
+        "title": "# Chapter 151: The Blank Corner",
+        "nonspace_chars": 7078,
+        "han_characters": 0,
+        "english_words": 1579,
+        "sha256": "42effb79a894bc51532158c8eb400cc33e7b3b67f5b18f1f66c0fd1f550fcc28",
+        "git_blob_sha": "f82c2a6e73776bbc91b2781083c05bbc89d697be",
+        "bytes": 9074
+      }
+    },
+    {
+      "chapter": 152,
+      "cn": {
+        "path": "cn/152_The_Blue_Bench.md",
+        "title": "# 第152章：蓝色的长椅",
+        "nonspace_chars": 2799,
+        "han_characters": 2352,
+        "english_words": 0,
+        "sha256": "51ffad2321e4756a4d7212510b8cdb6e65920801abf056b0929669f8a852c4e5",
+        "git_blob_sha": "c4b2e10dc858129307225f1f65a1070408f92d11",
+        "bytes": 8625
+      },
+      "en": {
+        "path": "en/152_The_Blue_Bench.md",
+        "title": "# Chapter 152: The Blue Bench",
+        "nonspace_chars": 7124,
+        "han_characters": 0,
+        "english_words": 1608,
+        "sha256": "776e3c64dcf5e20e91eeb5fcd339a901bbeda834b64f253f69b440f439084676",
+        "git_blob_sha": "ff70e02b43b502822d00eb9f4d4b76a2ecf064ef",
+        "bytes": 9148
+      }
+    },
+    {
+      "chapter": 153,
+      "cn": {
+        "path": "cn/153_The_Card_I_Chose.md",
+        "title": "# 第153章：我挑的卡片",
+        "nonspace_chars": 2753,
+        "han_characters": 2339,
+        "english_words": 0,
+        "sha256": "5ad70de450192ab40ea5c1f60231ca8fa73634d52d5020191ab8cf97db6c7d24",
+        "git_blob_sha": "64be9a18feee885fc961e18e8f84acd560272971",
+        "bytes": 8479
+      },
+      "en": {
+        "path": "en/153_The_Card_I_Chose.md",
+        "title": "# Chapter 153: The Card I Chose",
+        "nonspace_chars": 7313,
+        "han_characters": 0,
+        "english_words": 1657,
+        "sha256": "8f643d8e1722a328e6677b958fc3e094fda158688ce13e39f2568ecc97ddb838",
+        "git_blob_sha": "1e9138ca7b9fdd682274006280ed35f0bda31a46",
+        "bytes": 9300
+      }
+    },
+    {
+      "chapter": 154,
+      "cn": {
+        "path": "cn/154_The_Wet_Edge.md",
+        "title": "# 第154章：湿掉的边缘",
+        "nonspace_chars": 2590,
+        "han_characters": 2216,
+        "english_words": 0,
+        "sha256": "b4d1c5672e123f854b62868110c57c28aa30257b885ed6a1fbe4734facfb6ee1",
+        "git_blob_sha": "ccf0b524bb14121291e25fd660ed06feee6233f8",
+        "bytes": 7964
+      },
+      "en": {
+        "path": "en/154_The_Wet_Edge.md",
+        "title": "# Chapter 154: The Wet Edge",
+        "nonspace_chars": 7186,
+        "han_characters": 0,
+        "english_words": 1634,
+        "sha256": "939582fb61b768e3abf9e3c6e71e0190d7578201b6473d9c7aa6d1186dd23b03",
+        "git_blob_sha": "7a1c9975a015aaab57eb70327f82685d3b77a02e",
+        "bytes": 9108
+      }
+    },
+    {
+      "chapter": 155,
+      "cn": {
+        "path": "cn/155_The_Version_She_Offered.md",
+        "title": "# 第155章：她给出的版本",
+        "nonspace_chars": 2756,
+        "han_characters": 2351,
+        "english_words": 0,
+        "sha256": "ef28a992afa7bf4f0e82382a8fee9d3774950a0c22e3071083b80634df710f16",
+        "git_blob_sha": "3e6e99d0fc0d888b3a93046a519bbe86d705472d",
+        "bytes": 8483
+      },
+      "en": {
+        "path": "en/155_The_Version_She_Offered.md",
+        "title": "# Chapter 155: The Version She Offered",
+        "nonspace_chars": 7481,
+        "han_characters": 0,
+        "english_words": 1613,
+        "sha256": "9ac6d112d87025519e0bafd4025d3104351545027e67fe70965d5c61846dd22f",
+        "git_blob_sha": "40daa32deeab39f6307de151d2f176e98e411dfe",
+        "bytes": 9454
+      }
+    },
+    {
+      "chapter": 156,
+      "cn": {
+        "path": "cn/156_Where_The_Path_Stops.md",
+        "title": "# 第156章：小路停下的地方",
+        "nonspace_chars": 2826,
+        "han_characters": 2427,
+        "english_words": 0,
+        "sha256": "9287d518f388c412a7495d770b88d4f5ea99082fc1d0830028f5f56357a89553",
+        "git_blob_sha": "cced26b96a7411a07740c906d55ece0875819ee9",
+        "bytes": 8692
+      },
+      "en": {
+        "path": "en/156_Where_The_Path_Stops.md",
+        "title": "# Chapter 156: Where the Path Stops",
+        "nonspace_chars": 7769,
+        "han_characters": 0,
+        "english_words": 1695,
+        "sha256": "e93b17747d4c01bc0e957443204b96ef808726dc4d894aac6233d7c3a8b81de2",
+        "git_blob_sha": "d5f98f8abaacbad6644155fb820876be79828c9b",
+        "bytes": 9799
+      }
+    }
+  ]
+}
