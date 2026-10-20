@@ -1,0 +1,248 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "batch_date": "2026-10-20",
+  "timezone": "Asia/Shanghai",
+  "chapter_range": [
+    157,
+    166
+  ],
+  "new_bilingual_chapters": 10,
+  "cn_han_characters": 23266,
+  "cn_nonspace_body_characters": 27382,
+  "en_body_words": 16619,
+  "count_method": "Headings excluded. Chinese Han range U+3400–U+9FFF. English alphabetic words with internal apostrophes/hyphens. Nonspace includes punctuation.",
+  "initial_audited_main": "02e918bfafb68ff1cf76fc4e927182f769cff108",
+  "chapters": [
+    {
+      "chapter": 157,
+      "cn": {
+        "path": "cn/157_The_Box_On_The_Shelf.md",
+        "title": "# 第157章：架子上的盒子",
+        "nonspace_chars": 2667,
+        "han_characters": 2279,
+        "english_words": 0,
+        "sha256": "345095aa8850430742c4c8ed16d713f24179dbef65fd6baa280887a3c44f2490",
+        "git_blob_sha": "fdb72330ac93f4300ea0288d437bf2a69f86e86b",
+        "bytes": 8214
+      },
+      "en": {
+        "path": "en/157_The_Box_On_The_Shelf.md",
+        "title": "# Chapter 157: The Box on the Shelf",
+        "nonspace_chars": 7160,
+        "han_characters": 0,
+        "english_words": 1558,
+        "sha256": "1d371051eed728f3a709204b22d6eb215580ad205fbea2aba13bd44ab0275c9b",
+        "git_blob_sha": "fd65e1823206e8604252bd76fc7a637ecedd89ed",
+        "bytes": 9083
+      }
+    },
+    {
+      "chapter": 158,
+      "cn": {
+        "path": "cn/158_The_Gap_At_The_Frame.md",
+        "title": "# 第158章：窗框旁的缝",
+        "nonspace_chars": 2651,
+        "han_characters": 2293,
+        "english_words": 0,
+        "sha256": "a11bdf8816ddc14a1340b6ed9bbbdc95b17c4494ee82d4b891d54dc631e1ef97",
+        "git_blob_sha": "6a5cfa73c8301483474fee5dc6669997a55a76b4",
+        "bytes": 8145
+      },
+      "en": {
+        "path": "en/158_The_Gap_At_The_Frame.md",
+        "title": "# Chapter 158: The Gap at the Frame",
+        "nonspace_chars": 7492,
+        "han_characters": 0,
+        "english_words": 1648,
+        "sha256": "77d2dce0e3b848b1d8f8d65a6df2f2cddbd62c4bf8c8fa62999f5a062ebf4e8a",
+        "git_blob_sha": "5b34a1a1abbde5c5685c199f061f3ee368cd6026",
+        "bytes": 9427
+      }
+    },
+    {
+      "chapter": 159,
+      "cn": {
+        "path": "cn/159_The_Question_On_The_Back.md",
+        "title": "# 第159章：纸背面的那个问题",
+        "nonspace_chars": 2761,
+        "han_characters": 2377,
+        "english_words": 0,
+        "sha256": "3a042e2564c9375c05be983c1f7cf29c5099292395c74d8aa5e0a62d25b89027",
+        "git_blob_sha": "347610dcacf1a22a339d7ca95b158d9e03114108",
+        "bytes": 8488
+      },
+      "en": {
+        "path": "en/159_The_Question_On_The_Back.md",
+        "title": "# Chapter 159: The Question on the Back",
+        "nonspace_chars": 7544,
+        "han_characters": 0,
+        "english_words": 1678,
+        "sha256": "2adb51c66e84331fb6b36ab61b4ab7b3f3f621c0c9d4e807015debcb0545d8c2",
+        "git_blob_sha": "90b6e03112f4de2df3bd8dbad10a02958c04aff6",
+        "bytes": 9495
+      }
+    },
+    {
+      "chapter": 160,
+      "cn": {
+        "path": "cn/160_The_Receipt_Without_A_Result.md",
+        "title": "# 第160章：还没有结果的收据",
+        "nonspace_chars": 2731,
+        "han_characters": 2375,
+        "english_words": 0,
+        "sha256": "a4291e9997b4a08f4edb93bf5716e9a0afdb7fee248062cc568c298cf6ecefce",
+        "git_blob_sha": "5d31d9322e0e13a03edc403b1320b971dd206fe2",
+        "bytes": 8384
+      },
+      "en": {
+        "path": "en/160_The_Receipt_Without_A_Result.md",
+        "title": "# Chapter 160: The Receipt Without a Result",
+        "nonspace_chars": 7660,
+        "han_characters": 0,
+        "english_words": 1653,
+        "sha256": "ca8728806b9bab720150aa83b5b79067150b92f09aa991b5ac80055f5ef11bff",
+        "git_blob_sha": "0909d974300b488ff057ca5ddeaadf9c6510953b",
+        "bytes": 9578
+      }
+    },
+    {
+      "chapter": 161,
+      "cn": {
+        "path": "cn/161_Only_This_Part.md",
+        "title": "# 第161章：只读这一段",
+        "nonspace_chars": 2947,
+        "han_characters": 2479,
+        "english_words": 0,
+        "sha256": "2e7f6a3dae4fad7f51ebcfbe6e94ce769011c4d8f64281f4176fabe23f8756b4",
+        "git_blob_sha": "c2c05d06f4d0a4a8e7974274b2ec010d8000a4df",
+        "bytes": 9103
+      },
+      "en": {
+        "path": "en/161_Only_This_Part.md",
+        "title": "# Chapter 161: Only This Part",
+        "nonspace_chars": 8154,
+        "han_characters": 0,
+        "english_words": 1836,
+        "sha256": "6188a9e3b777e6a79b6e01fec313c55c4eb3ee11c952681e41ffd0c6b034f9b3",
+        "git_blob_sha": "49f9e05685bc843a2954230339eb865d94cb8bf2",
+        "bytes": 10431
+      }
+    },
+    {
+      "chapter": 162,
+      "cn": {
+        "path": "cn/162_The_Reader_In_The_Way.md",
+        "title": "# 第162章：挡在中间的读者",
+        "nonspace_chars": 2763,
+        "han_characters": 2299,
+        "english_words": 0,
+        "sha256": "9d2efdb44669d3846a727e79296c11e10d26ba85a0333304d37ca43d0209c589",
+        "git_blob_sha": "6d924bf4d9df714f6f274bc08529cdaf9277adcd",
+        "bytes": 8541
+      },
+      "en": {
+        "path": "en/162_The_Reader_In_The_Way.md",
+        "title": "# Chapter 162: The Reader in the Way",
+        "nonspace_chars": 7210,
+        "han_characters": 0,
+        "english_words": 1618,
+        "sha256": "36e2e71b9ee2bacd389cdd0120aac2e54828cdb241d44e934665871aea27e426",
+        "git_blob_sha": "5e2a19e57184d5a99578349fb6b91c10324025b6",
+        "bytes": 9281
+      }
+    },
+    {
+      "chapter": 163,
+      "cn": {
+        "path": "cn/163_A_Chair_After_Closing.md",
+        "title": "# 第163章：打烊后的一把椅子",
+        "nonspace_chars": 2772,
+        "han_characters": 2326,
+        "english_words": 0,
+        "sha256": "08ddfa966667a39b812ed9d050800954388f5b1c45e2b4e7ef285d8ec8d10761",
+        "git_blob_sha": "f1d0205a78c95e0e0ed6053037b9220a4fff8d5d",
+        "bytes": 8565
+      },
+      "en": {
+        "path": "en/163_A_Chair_After_Closing.md",
+        "title": "# Chapter 163: A Chair After Closing",
+        "nonspace_chars": 7242,
+        "han_characters": 0,
+        "english_words": 1611,
+        "sha256": "1ae3ad31413953d06cc1a67f617778a0fc6e96dd1216c23a529b2c90c88d5ce1",
+        "git_blob_sha": "04a8d3fa8471f52c3f8a62ec60da6ac2a061a3e6",
+        "bytes": 9282
+      }
+    },
+    {
+      "chapter": 164,
+      "cn": {
+        "path": "cn/164_The_Second_Pair_Of_Eyes.md",
+        "title": "# 第164章：第二双眼睛",
+        "nonspace_chars": 2603,
+        "han_characters": 2242,
+        "english_words": 0,
+        "sha256": "dba226f4bbe21ad2b189901ac372bce3d1f0ee65037b9cf8571fdb810d819583",
+        "git_blob_sha": "38c3b4c23e5af97b2327aeface40b55a42c7cb29",
+        "bytes": 8003
+      },
+      "en": {
+        "path": "en/164_The_Second_Pair_Of_Eyes.md",
+        "title": "# Chapter 164: The Second Pair of Eyes",
+        "nonspace_chars": 7250,
+        "han_characters": 0,
+        "english_words": 1588,
+        "sha256": "faa867c27d46cfb38a83552709d1464982100b0db5d9fc4104c86d4ba2966c5c",
+        "git_blob_sha": "31f0d49938f19188ae0518aebffada215e4517ca",
+        "bytes": 9145
+      }
+    },
+    {
+      "chapter": 165,
+      "cn": {
+        "path": "cn/165_One_Plate.md",
+        "title": "# 第165章：一只盘子",
+        "nonspace_chars": 2724,
+        "han_characters": 2264,
+        "english_words": 0,
+        "sha256": "4517c4b59c4baae8c213e96636d27e5de569bbbba68a860f4b36c20d8e9fad4c",
+        "git_blob_sha": "5d529608b1255a18992d4f5fc5e7af1c5d6af38f",
+        "bytes": 8407
+      },
+      "en": {
+        "path": "en/165_One_Plate.md",
+        "title": "# Chapter 165: One Plate",
+        "nonspace_chars": 7532,
+        "han_characters": 0,
+        "english_words": 1681,
+        "sha256": "626f654f080b7cce5b0c2064511041a6282bab87c7ee1542392a83ddcb5bfa5d",
+        "git_blob_sha": "2a6552aff0677879cd6bd2d5282fe7084015a826",
+        "bytes": 9636
+      }
+    },
+    {
+      "chapter": 166,
+      "cn": {
+        "path": "cn/166_The_Rain_Stayed_Outside.md",
+        "title": "# 第166章：雨还在外面",
+        "nonspace_chars": 2763,
+        "han_characters": 2332,
+        "english_words": 0,
+        "sha256": "81e92f7d6f8074288fa2f58af72400c7650f4fe15e24c6d030c8cc9875a20867",
+        "git_blob_sha": "bd84e0d2f0f67017785153071e533b4483d0c9b5",
+        "bytes": 8505
+      },
+      "en": {
+        "path": "en/166_The_Rain_Stayed_Outside.md",
+        "title": "# Chapter 166: The Rain Stayed Outside",
+        "nonspace_chars": 7862,
+        "han_characters": 0,
+        "english_words": 1748,
+        "sha256": "678a6dd888af9bab675ddf173c706622cb51b7808f5e56f2c2c1fcb231a876cd",
+        "git_blob_sha": "4e86b48e3ed6250fc6f679054a54e9b41af3418a",
+        "bytes": 9976
+      }
+    }
+  ],
+  "publication_status": "Storage only. Does not expand the separately approved fixed platform release source31–126."
+}
