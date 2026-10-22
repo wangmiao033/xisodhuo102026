@@ -1,0 +1,254 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "batch_date": "2026-10-21",
+  "completed_date": "2026-10-22",
+  "completion_kind": "resumed prior-day draft batch",
+  "counts_toward_2026_10_22_new_writing": 0,
+  "timezone": "Asia/Shanghai",
+  "chapter_range": [
+    167,
+    176
+  ],
+  "new_bilingual_chapters": 10,
+  "cn_han_characters": 25246,
+  "cn_nonspace_body_characters": 29497,
+  "en_body_words": 18058,
+  "count_method": "Headings excluded. Chinese Han range U+3400–U+9FFF. English alphabetic words with internal apostrophes/hyphens. Nonspace includes punctuation.",
+  "initial_audited_main": "8316575e2851f005517f1208ba7b8bf362988bd3",
+  "chapters": [
+    {
+      "chapter": 167,
+      "cn": {
+        "path": "cn/167_The_Time_In_The_Margin.md",
+        "title": "# 第167章：页边的时间",
+        "nonspace_chars": 3046,
+        "han_characters": 2651,
+        "english_words": 0,
+        "sha256": "206351ec0d456c9d07081a0320e5bfa18f6650d0de7d6989a2d745ca5701c725",
+        "git_blob_sha": "ddd526db7bff2c6a0d89f0f83430467a13818206",
+        "bytes": 9330
+      },
+      "en": {
+        "path": "en/167_The_Time_In_The_Margin.md",
+        "title": "# Chapter 167: The Time in the Margin",
+        "nonspace_chars": 8650,
+        "han_characters": 0,
+        "english_words": 1789,
+        "sha256": "36f59694f85e5ca3aca6c73ed35974075a18099b2f77aa33ec7b7dceb997add5",
+        "git_blob_sha": "d2dc29391b6f13427f8ea2a1cfb499f59341fc67",
+        "bytes": 10734
+      }
+    },
+    {
+      "chapter": 168,
+      "cn": {
+        "path": "cn/168_The_Shopkeepers_Door.md",
+        "title": "# 第168章：店主自己的门",
+        "nonspace_chars": 2923,
+        "han_characters": 2511,
+        "english_words": 0,
+        "sha256": "5914d0d10cac42724188d6d0bec0628d59e891ae21c79d4cbfb6767ede1b927a",
+        "git_blob_sha": "284789b0af6866d508e0b64e5c486fa766c94c2d",
+        "bytes": 8972
+      },
+      "en": {
+        "path": "en/168_The_Shopkeepers_Door.md",
+        "title": "# Chapter 168: The Shopkeeper's Door",
+        "nonspace_chars": 8023,
+        "han_characters": 0,
+        "english_words": 1740,
+        "sha256": "2f122dfe1bf2d60a1886ebf0c382f40b39859e244ca7d943d4cf9956fef8defb",
+        "git_blob_sha": "cde54a58f0d759bc1061b31e7d162a033879ab82",
+        "bytes": 10085
+      }
+    },
+    {
+      "chapter": 169,
+      "cn": {
+        "path": "cn/169_Where_The_Umbrella_Went.md",
+        "title": "# 第169章：伞放在哪里",
+        "nonspace_chars": 3364,
+        "han_characters": 2846,
+        "english_words": 0,
+        "sha256": "4c39c077d6718320e6b8598ccae7f162fe06ddded4e47e6b1173cafcf69c184c",
+        "git_blob_sha": "4016691bfbe63c5717c2c4a2a7a4dda48f69696f",
+        "bytes": 10352
+      },
+      "en": {
+        "path": "en/169_Where_The_Umbrella_Went.md",
+        "title": "# Chapter 169: Where the Umbrella Went",
+        "nonspace_chars": 9313,
+        "han_characters": 0,
+        "english_words": 2079,
+        "sha256": "1265e96e4809e58ccc0f7fa14999fea1fc075d810c28efb7242abdf0e72845be",
+        "git_blob_sha": "8072b460ec29667878de59f8c39a936caa780f89",
+        "bytes": 11872
+      }
+    },
+    {
+      "chapter": 170,
+      "cn": {
+        "path": "cn/170_The_Permission_Still_On.md",
+        "title": "# 第170章：还开着的权限",
+        "nonspace_chars": 2856,
+        "han_characters": 2526,
+        "english_words": 0,
+        "sha256": "ce14198625aefeea97bda88e3ddd7cfdf46d45d6c3ba691780b95d35488bca38",
+        "git_blob_sha": "15a736595ddf28f2369f39c504e06b29e83c4c6e",
+        "bytes": 8739
+      },
+      "en": {
+        "path": "en/170_The_Permission_Still_On.md",
+        "title": "# Chapter 170: The Permission Still On",
+        "nonspace_chars": 7856,
+        "han_characters": 0,
+        "english_words": 1617,
+        "sha256": "fa4dd64e496482317dee791b76ae462ad53b89959a701a0864260a78a39c7293",
+        "git_blob_sha": "d81ad7d059230a637ee669404ea4f22ede4b3a51",
+        "bytes": 9689
+      }
+    },
+    {
+      "chapter": 171,
+      "cn": {
+        "path": "cn/171_The_Walk_After_Dinner.md",
+        "title": "# 第171章：晚饭后的那段路",
+        "nonspace_chars": 2904,
+        "han_characters": 2491,
+        "english_words": 0,
+        "sha256": "ee09a399e17f82b64545b5b22d2c0755c532b8edc3897161c0ea1ee115b5836b",
+        "git_blob_sha": "a80342259dee1cb7c06a81391b9c96983abe98a2",
+        "bytes": 8922
+      },
+      "en": {
+        "path": "en/171_The_Walk_After_Dinner.md",
+        "title": "# Chapter 171: The Walk After Dinner",
+        "nonspace_chars": 8148,
+        "han_characters": 0,
+        "english_words": 1838,
+        "sha256": "f2250c4f26893018ca5a0c162ce5e0c11cee5d2757126d355f606b1538090b05",
+        "git_blob_sha": "a574806c2d8dcbc89f3543fe3a4700d18298e663",
+        "bytes": 10336
+      }
+    },
+    {
+      "chapter": 172,
+      "cn": {
+        "path": "cn/172_The_Book_I_Chose.md",
+        "title": "# 第172章：我自己挑的书",
+        "nonspace_chars": 2742,
+        "han_characters": 2329,
+        "english_words": 0,
+        "sha256": "1061352a963cebc68ff22cab63c885395fffef102776d6e640d34c1464161749",
+        "git_blob_sha": "95e9a0efc37e70026f6efd649075d1d52807da81",
+        "bytes": 8451
+      },
+      "en": {
+        "path": "en/172_The_Book_I_Chose.md",
+        "title": "# Chapter 172: The Book I Chose",
+        "nonspace_chars": 7559,
+        "han_characters": 0,
+        "english_words": 1674,
+        "sha256": "c68aef04d68f59daf261b13c939f547fee4aecf3a79b8925fbd429c809303aae",
+        "git_blob_sha": "0af88d530407ea418e4bce2200ab9fa8c5ea55b1",
+        "bytes": 9577
+      }
+    },
+    {
+      "chapter": 173,
+      "cn": {
+        "path": "cn/173_Before_Four.md",
+        "title": "# 第173章：四点以前",
+        "nonspace_chars": 3221,
+        "han_characters": 2749,
+        "english_words": 0,
+        "sha256": "787ea64cab64af9f4a33e14ce7136b4714aaa146676e39abae3ce414a59a4b46",
+        "git_blob_sha": "3c0e1a0bd98aaa094765eb054d8545b7eae47536",
+        "bytes": 9906
+      },
+      "en": {
+        "path": "en/173_Before_Four.md",
+        "title": "# Chapter 173: Before Four",
+        "nonspace_chars": 8811,
+        "han_characters": 0,
+        "english_words": 1857,
+        "sha256": "f6d50700ca28472129ae80bee6fbfc8dfd3424a2c3f75b07f1b3d6b872b6c30e",
+        "git_blob_sha": "3f42787d346d69b7c8e9c1b6fffb9edd8ade382f",
+        "bytes": 11065
+      }
+    },
+    {
+      "chapter": 174,
+      "cn": {
+        "path": "cn/174_A_Path_Beside_The_Map.md",
+        "title": "# 第174章：地图旁边的小路",
+        "nonspace_chars": 2679,
+        "han_characters": 2248,
+        "english_words": 0,
+        "sha256": "7c96605a95d946699c1c760d256bd94e76c27a26fa21c220dea04189685de137",
+        "git_blob_sha": "e7d39132c14cf286305e88db765148213f7e341a",
+        "bytes": 8279
+      },
+      "en": {
+        "path": "en/174_A_Path_Beside_The_Map.md",
+        "title": "# Chapter 174: A Path Beside the Map",
+        "nonspace_chars": 7070,
+        "han_characters": 0,
+        "english_words": 1591,
+        "sha256": "f7716383d745f277d295a9c8441d3f6d13d84dcbd6d6b41fd5470618d68a93e2",
+        "git_blob_sha": "ef325edb3b9d3c5cc508200cc88ec6fd52080515",
+        "bytes": 9069
+      }
+    },
+    {
+      "chapter": 175,
+      "cn": {
+        "path": "cn/175_The_Receipt.md",
+        "title": "# 第175章：那张小票",
+        "nonspace_chars": 2835,
+        "han_characters": 2383,
+        "english_words": 0,
+        "sha256": "17134ea94c36b1f02cd6ed0ae73e933bdfa9f4f0e790d0e7f5c789311cbb6bc7",
+        "git_blob_sha": "6da7df3db6a65a0e8fe5b6eab619987badb76a0b",
+        "bytes": 8742
+      },
+      "en": {
+        "path": "en/175_The_Receipt.md",
+        "title": "# Chapter 175: The Receipt",
+        "nonspace_chars": 8511,
+        "han_characters": 0,
+        "english_words": 1940,
+        "sha256": "2c43114009432adf613c9ee8c387a9083a27f36af969d51dcfb0a6d0ff5d39e2",
+        "git_blob_sha": "17fed5de012d0791d2dcc495b0438bed2aca16d5",
+        "bytes": 10847
+      }
+    },
+    {
+      "chapter": 176,
+      "cn": {
+        "path": "cn/176_A_Little_Further_On.md",
+        "title": "# 第176章：再往后一点",
+        "nonspace_chars": 2927,
+        "han_characters": 2512,
+        "english_words": 0,
+        "sha256": "dfaf59ebc61833168389cf346be33940abec488203d7d3111fb994d6c355fb0a",
+        "git_blob_sha": "dc7402be36833804a80a9c84e25195bf22774c23",
+        "bytes": 8993
+      },
+      "en": {
+        "path": "en/176_A_Little_Further_On.md",
+        "title": "# Chapter 176: A Little Further On",
+        "nonspace_chars": 8626,
+        "han_characters": 0,
+        "english_words": 1933,
+        "sha256": "6311c7f2734bc3f832da72b8cae195da68e05f07ad272e9775a882ebe004254f",
+        "git_blob_sha": "4f09a21bab26796475376c30424d75d8e2478e0f",
+        "bytes": 10876
+      }
+    }
+  ],
+  "publication_status": "Storage only. Does not expand the separately approved fixed platform release source31–126.",
+  "resumed_audited_main": "b6c1ea14f211bbe7736f4b89d607d387008a3510",
+  "newly_composed_chapters_on_completion_day": 0,
+  "completed_bilingual_pairs": 10
+}
