@@ -1,0 +1,259 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "platform_book_id": "6505",
+  "batch_date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "chapter_range": [
+    177,
+    186
+  ],
+  "new_bilingual_chapters": 10,
+  "daily_new_chapter_target": 10,
+  "prior_batch_completion_excluded": {
+    "chapter_range": [
+      167,
+      176
+    ],
+    "bilingual_pairs": 10,
+    "commit": "a5931c5027a60a60de11c5285d65aef7cf604b70",
+    "counts_toward_this_day_new_writing": 0
+  },
+  "initial_audited_main": "b6c1ea14f211bbe7736f4b89d607d387008a3510",
+  "verified_predecessor_commit": "a5931c5027a60a60de11c5285d65aef7cf604b70",
+  "cn_han_characters": 23775,
+  "en_body_words": 17245,
+  "count_method": "Headings excluded. Chinese Han U+3400–U+9FFF; English alphabetic words with internal apostrophes/hyphens. Complete narrative takes priority over artificial padding.",
+  "chapters": [
+    {
+      "chapter": 177,
+      "cn": {
+        "path": "cn/177_Room_In_The_Bag.md",
+        "title": "# 第177章：包里留出的地方",
+        "bytes": 8454,
+        "han_characters": 2378,
+        "english_words": 0,
+        "nonspace_body_characters": 2752,
+        "sha256": "2da01e5ce00cf1c64e267fccbe88de8f8d502fa65603717f87684cab131c4d74",
+        "git_blob_sha": "4d32fe4d2e82b6ed16ba91c9e090ac660b50800f"
+      },
+      "en": {
+        "path": "en/177_Room_In_The_Bag.md",
+        "title": "# Chapter 177: Room in the Bag",
+        "bytes": 9485,
+        "han_characters": 0,
+        "english_words": 1617,
+        "nonspace_body_characters": 7583,
+        "sha256": "7108e3bd7daff58d545eec414f472306bbf0b9887b169e7c4336436d11e06a93",
+        "git_blob_sha": "e09a41bb594d94e28fc3e2d9271c84b5c9da21d8"
+      }
+    },
+    {
+      "chapter": 178,
+      "cn": {
+        "path": "cn/178_Five_Minutes_On_Thursday.md",
+        "title": "# 第178章：星期四的五分钟",
+        "bytes": 9265,
+        "han_characters": 2532,
+        "english_words": 0,
+        "nonspace_body_characters": 3003,
+        "sha256": "167e344c2da50132bed8b74acbcb3993a3c284f4fda67c417857105b8f71363e",
+        "git_blob_sha": "9184ef95db17386fcdc8ab44b653c76a69ca35a5"
+      },
+      "en": {
+        "path": "en/178_Five_Minutes_On_Thursday.md",
+        "title": "# Chapter 178: Five Minutes on Thursday",
+        "bytes": 10389,
+        "han_characters": 0,
+        "english_words": 1800,
+        "nonspace_body_characters": 8153,
+        "sha256": "6f169bbf78198808eaa0be00a707766826d9e85becccf3770329ac1d5b30c8e8",
+        "git_blob_sha": "3c0e05d63c960248902efcdb68f4f31e8ebab14e"
+      }
+    },
+    {
+      "chapter": 179,
+      "cn": {
+        "path": "cn/179_The_Name_Before_The_Page.md",
+        "title": "# 第179章：念正文以前",
+        "bytes": 8533,
+        "han_characters": 2315,
+        "english_words": 1,
+        "nonspace_body_characters": 2767,
+        "sha256": "8f91387959b32aaf53d94c6caf00df6766ce121b426d9378794b4d915ce84cb3",
+        "git_blob_sha": "e0fa5d3fb4bf7c0e32e9e90999316606538057d9"
+      },
+      "en": {
+        "path": "en/179_The_Name_Before_The_Page.md",
+        "title": "# Chapter 179: The Name Before the Page",
+        "bytes": 9835,
+        "han_characters": 0,
+        "english_words": 1710,
+        "nonspace_body_characters": 7710,
+        "sha256": "78690bcc6b1a0f367a4a92f41af8265aee015a2db2131e0cd191fdd79ce9e0c0",
+        "git_blob_sha": "c6d851b91343433ed72487f1124e1ec106985491"
+      }
+    },
+    {
+      "chapter": 180,
+      "cn": {
+        "path": "cn/180_Taking_It_Home.md",
+        "title": "# 第180章：这一次带走",
+        "bytes": 7816,
+        "han_characters": 2240,
+        "english_words": 0,
+        "nonspace_body_characters": 2550,
+        "sha256": "7158645527d5358cf7993d16bf6850703f40b971954bda84472d5549947e7074",
+        "git_blob_sha": "ceed50c8e466557a8bb162022ca72e2de25c180c"
+      },
+      "en": {
+        "path": "en/180_Taking_It_Home.md",
+        "title": "# Chapter 180: Taking It Home",
+        "bytes": 9084,
+        "han_characters": 0,
+        "english_words": 1599,
+        "nonspace_body_characters": 7309,
+        "sha256": "6203b869131928e25d5fb46a2c1d54b086933a6b787161ce8543e04bb85b6093",
+        "git_blob_sha": "c671fdbcfff264dfce8cf921d109c2623eb0f8fe"
+      }
+    },
+    {
+      "chapter": 181,
+      "cn": {
+        "path": "cn/181_A_Place_For_The_Quiet.md",
+        "title": "# 第181章：安静放在哪里",
+        "bytes": 8816,
+        "han_characters": 2385,
+        "english_words": 0,
+        "nonspace_body_characters": 2853,
+        "sha256": "36ef4172beaccb9aed300d3a7e767e6fbd2ce56d7d6aee64685bd5bab6a72e00",
+        "git_blob_sha": "c540c4d3b33b8f70206bf08138f259cfdd9a32b7"
+      },
+      "en": {
+        "path": "en/181_A_Place_For_The_Quiet.md",
+        "title": "# Chapter 181: A Place for the Quiet",
+        "bytes": 9967,
+        "han_characters": 0,
+        "english_words": 1727,
+        "nonspace_body_characters": 7799,
+        "sha256": "8df8e9dcf6d92ec8b29b5b20522e2c41aebf092fe82eeb08b7a9b7c480f3fb5c",
+        "git_blob_sha": "7819d01efb354210d0c6e630a3bb3ab5c898dfa7"
+      }
+    },
+    {
+      "chapter": 182,
+      "cn": {
+        "path": "cn/182_The_Chair_Before_Mine.md",
+        "title": "# 第182章：轮到我以前的椅子",
+        "bytes": 8680,
+        "han_characters": 2488,
+        "english_words": 0,
+        "nonspace_body_characters": 2833,
+        "sha256": "08fdf86a944466a18a2e1c34d46935ebdf16f184a5ab6b2ce4fd0841ed79bb01",
+        "git_blob_sha": "eb495a4f2b9302bc7ee6db12f413729dc7ea8602"
+      },
+      "en": {
+        "path": "en/182_The_Chair_Before_Mine.md",
+        "title": "# Chapter 182: The Chair Before Mine",
+        "bytes": 10128,
+        "han_characters": 0,
+        "english_words": 1801,
+        "nonspace_body_characters": 8100,
+        "sha256": "cdcdc54f7e12dbc8a649afe25c1a10d6bf1e1b50f9c63f58b0f45799049fa576",
+        "git_blob_sha": "b213b3849167b387825254d9437d0356809f70f8"
+      }
+    },
+    {
+      "chapter": 183,
+      "cn": {
+        "path": "cn/183_Blue_Thread_Aloud.md",
+        "title": "# 第183章：把蓝线念出来",
+        "bytes": 8377,
+        "han_characters": 2368,
+        "english_words": 0,
+        "nonspace_body_characters": 2734,
+        "sha256": "a66dc5cb0bd0f69f72e93822086a0807fb7894048a0127cb486b146eabce6684",
+        "git_blob_sha": "f49dd636fa561900c5452cd02cd976b129e5ec74"
+      },
+      "en": {
+        "path": "en/183_Blue_Thread_Aloud.md",
+        "title": "# Chapter 183: Blue Thread Aloud",
+        "bytes": 10162,
+        "han_characters": 0,
+        "english_words": 1801,
+        "nonspace_body_characters": 8106,
+        "sha256": "cd399b61107df4f4ac815c962b0e3b85b083acb321c28094057fc39502e0c1c4",
+        "git_blob_sha": "bbe4b95b5963159ed0d1e43859d7b8ce5dba1eee"
+      }
+    },
+    {
+      "chapter": 184,
+      "cn": {
+        "path": "cn/184_The_Words_I_Left_Out.md",
+        "title": "# 第184章：我没有说出口的词",
+        "bytes": 8907,
+        "han_characters": 2387,
+        "english_words": 1,
+        "nonspace_body_characters": 2884,
+        "sha256": "ba2e0a8e4e3f3943aa48337a542a752f73395d73d7cefc471b1315bc725b515b",
+        "git_blob_sha": "50bc3423db1824b974f7f9955b79e43ab577760b"
+      },
+      "en": {
+        "path": "en/184_The_Words_I_Left_Out.md",
+        "title": "# Chapter 184: The Words I Left Out",
+        "bytes": 10278,
+        "han_characters": 0,
+        "english_words": 1773,
+        "nonspace_body_characters": 8009,
+        "sha256": "d72379a40d0dba88552fd86483296db75ad6bb159bded905ab50e667d906ddfe",
+        "git_blob_sha": "2c1292e55f6ae3a31a7671dab0f68a61b6644667"
+      }
+    },
+    {
+      "chapter": 185,
+      "cn": {
+        "path": "cn/185_The_Yellow_Tape.md",
+        "title": "# 第185章：黄色胶带",
+        "bytes": 8710,
+        "han_characters": 2388,
+        "english_words": 0,
+        "nonspace_body_characters": 2829,
+        "sha256": "4fbd04725886bb9b3a8760b307c0f101095390aabafffca6fba2db10d869c3cc",
+        "git_blob_sha": "8b810305740b93e64625db10df755f0b1e39aeb8"
+      },
+      "en": {
+        "path": "en/185_The_Yellow_Tape.md",
+        "title": "# Chapter 185: The Yellow Tape",
+        "bytes": 9926,
+        "han_characters": 0,
+        "english_words": 1735,
+        "nonspace_body_characters": 7792,
+        "sha256": "e40b1301a82cc19538a986951b1fce605f0c39d6176d70cddfb86a77349484a0",
+        "git_blob_sha": "4b854b9a0d221afc31fee0ca30f47fa313e3e4bd"
+      }
+    },
+    {
+      "chapter": 186,
+      "cn": {
+        "path": "cn/186_Where_The_Book_Ends.md",
+        "title": "# 第186章：书的末尾",
+        "bytes": 8357,
+        "han_characters": 2294,
+        "english_words": 0,
+        "nonspace_body_characters": 2710,
+        "sha256": "9ac6778f2a67df765d2b8de300e4b8cebe58c8066c014cc3afa11dec150e2e36",
+        "git_blob_sha": "22f9619f195f1a9801263bd528ad66d10c630395"
+      },
+      "en": {
+        "path": "en/186_Where_The_Book_Ends.md",
+        "title": "# Chapter 186: Where the Book Ends",
+        "bytes": 9814,
+        "han_characters": 0,
+        "english_words": 1682,
+        "nonspace_body_characters": 7753,
+        "sha256": "316118b2140b7b6c53a2ee2854e09576d1e6a2427b7c5c8ff04cd6f36ed6c7f9",
+        "git_blob_sha": "b7fa202b350f09a04265d717f9d4da692f59de4c"
+      }
+    }
+  ],
+  "publication_status": "Archive only; no platform publication and no expansion of the separately approved fixed release source031–126."
+}
