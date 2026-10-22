@@ -1,0 +1,248 @@
+{
+  "book": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "writing_date_beijing": "2026-10-22",
+  "chapter_range": [
+    176,
+    187
+  ],
+  "bilingual_chapters": 12,
+  "new_chapters_today": [
+    177,
+    178,
+    179,
+    180,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187
+  ],
+  "new_chapters_today_count": 10,
+  "prior_draft_completion_chapters": [
+    176,
+    181
+  ],
+  "prior_draft_completion_count": 2,
+  "publishing_authorization": "Writing archive only; does not authorize Novelpia publication or expand approved release sources.",
+  "review": "Independent full bilingual review completed; corrections applied.",
+  "counting": "Body only; Chinese Han characters, English word tokens including internal apostrophes and hyphens.",
+  "files": [
+    {
+      "chapter": 176,
+      "language": "zh",
+      "path": "chapters/zh/volume-06/176-松开以后还在这里.md",
+      "title": "# 第176章 松开以后还在这里",
+      "count": 3032,
+      "sha256": "73b9b4fe8466b3e502640a91750ce99c81b9482401b9d8897e7035b12967c7c2",
+      "git_blob_sha": "e83b7c5a48b55c7703639faad7c11a4c1d9e7c55"
+    },
+    {
+      "chapter": 177,
+      "language": "zh",
+      "path": "chapters/zh/volume-06/177-脚下要有地方.md",
+      "title": "# 第177章 脚下要有地方",
+      "count": 3022,
+      "sha256": "54259cde4dc96c30ab14c4010b01ebdddbd5b702d85ad6782be113c171ff71d2",
+      "git_blob_sha": "e2a2c97c4078153ee8ef88f01cef6443cf063c3c"
+    },
+    {
+      "chapter": 178,
+      "language": "zh",
+      "path": "chapters/zh/volume-06/178-别把她摆正.md",
+      "title": "# 第178章 别把她摆正",
+      "count": 3029,
+      "sha256": "4a393242a756f6dc0cb0b52666e988a11c9f28da4e65ad39d5188ec7574db79d",
+      "git_blob_sha": "8af3ce1bd641b6b22cf7794653d0a6c76721236b"
+    },
+    {
+      "chapter": 179,
+      "language": "zh",
+      "path": "chapters/zh/volume-06/179-这一次是她的重量.md",
+      "title": "# 第179章 这一次是她的重量",
+      "count": 3015,
+      "sha256": "5c27180e6f83ff1ca4859e5d16fe726bfa2cd4db4c76e30714e9a0189cb97644",
+      "git_blob_sha": "411347ce401bad6cb98519b325054fb98b3375bf"
+    },
+    {
+      "chapter": 180,
+      "language": "zh",
+      "path": "chapters/zh/volume-06/180-先别叫醒我.md",
+      "title": "# 第180章 先别叫醒我",
+      "count": 3013,
+      "sha256": "18f038e2b6aee7e9f70dd6121503f34cca9ef1d2cb93b662636924848bbd1010",
+      "git_blob_sha": "c058c33f54f54f782cec07475a0bcd3c6883c2fc"
+    },
+    {
+      "chapter": 181,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/181-醒来的人.md",
+      "title": "# 第181章 醒来的人",
+      "count": 3185,
+      "sha256": "d62a087ed6f71ee8151b7f167cef1ff997c2239ad28610242988116e91390dc5",
+      "git_blob_sha": "ebef6fc1717ec8b7c9c2ef6cfc786af5b16f3173"
+    },
+    {
+      "chapter": 182,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/182-本子上的名字.md",
+      "title": "# 第182章 本子上的名字",
+      "count": 3070,
+      "sha256": "800f4ddb96f4e3912c153fe5ad6503cce7affebe229ddadfc018b45a3f7f615d",
+      "git_blob_sha": "9ab09bf24296de1e8bde506b00c935fd7799a9f1"
+    },
+    {
+      "chapter": 183,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/183-先到门外.md",
+      "title": "# 第183章 先到门外",
+      "count": 3023,
+      "sha256": "cab96efaeb5fbd623b1b99955ed4e6188aad4583b3c04ccdb41fc77737405222",
+      "git_blob_sha": "5b4121b3064ff73625fe0a688b7341be8961f24b"
+    },
+    {
+      "chapter": 184,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/184-扶杆没有接到墙上.md",
+      "title": "# 第184章 扶杆没有接到墙上",
+      "count": 3003,
+      "sha256": "366fd428069de5906ddb2f9dcd1a4b6062f4a5a37dd9b7f5b1de5d6ea14bc7eb",
+      "git_blob_sha": "14ed48942f6b5c0db909037985360739d6cc8150"
+    },
+    {
+      "chapter": 185,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/185-往上不是原来的力气.md",
+      "title": "# 第185章 往上不是原来的力气",
+      "count": 3013,
+      "sha256": "7691e2a5352da8cfe15499db939395e1c36d87e156496e4f28bde578aef1413c",
+      "git_blob_sha": "dddb2e8d485e7c10de55bfd7682f4d3bf7e60f53"
+    },
+    {
+      "chapter": 186,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/186-白线还要重新看.md",
+      "title": "# 第186章 白线还要重新看",
+      "count": 3015,
+      "sha256": "a68ac8514f81d84d9547cfb89c947891cd35302ab5f52b3602e0755d6d3a9134",
+      "git_blob_sha": "34bccf98cff279223b42b5378bdb508204aaf3d8"
+    },
+    {
+      "chapter": 187,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/187-空瓶还没有装满.md",
+      "title": "# 第187章 空瓶还没有装满",
+      "count": 3003,
+      "sha256": "9d0597929aa5f65907a1d3a339f7bc382aee6d868929406590e19ebaea6434f3",
+      "git_blob_sha": "39b6f9f12fe5271e752cb9923362b8b6107d37a2"
+    },
+    {
+      "chapter": 176,
+      "language": "en",
+      "path": "chapters/en/volume-06/176-still-here-after-letting-go.md",
+      "title": "# Chapter 176: Still Here After Letting Go",
+      "count": 1883,
+      "sha256": "d095e89e1100342550739e47042079e9292fb9580400b313996180ced5daf2a4",
+      "git_blob_sha": "74865341153969a3178ede91c0a907c442f13849"
+    },
+    {
+      "chapter": 177,
+      "language": "en",
+      "path": "chapters/en/volume-06/177-somewhere-for-her-feet.md",
+      "title": "# Chapter 177: Somewhere for Her Feet",
+      "count": 1830,
+      "sha256": "5149a5f72d1ba16920d50bab3f2384641007e9f0c24391bb9425916c2969d733",
+      "git_blob_sha": "24a91a16d274f51d93c0fcc739da3026e9460072"
+    },
+    {
+      "chapter": 178,
+      "language": "en",
+      "path": "chapters/en/volume-06/178-dont-straighten-her.md",
+      "title": "# Chapter 178: Don't Straighten Her",
+      "count": 1814,
+      "sha256": "289d8ce43e92ea3c658bc28f513119a54415c6048fa29d12578db04c556195e8",
+      "git_blob_sha": "11cccf825299f1c93ed4957ecd479af8075a6064"
+    },
+    {
+      "chapter": 179,
+      "language": "en",
+      "path": "chapters/en/volume-06/179-her-weight-this-time.md",
+      "title": "# Chapter 179: Her Weight This Time",
+      "count": 1853,
+      "sha256": "53e545306830b1635b48367c4f308e7d92676964ca546497ed8fe2c2862feed2",
+      "git_blob_sha": "48845eb40c46745a49b7d0d8ddbd3a3e1eae8576"
+    },
+    {
+      "chapter": 180,
+      "language": "en",
+      "path": "chapters/en/volume-06/180-dont-wake-me-yet.md",
+      "title": "# Chapter 180: Don't Wake Me Yet",
+      "count": 1823,
+      "sha256": "48bc314a361514bfeca6101350fe997d5f7766b1dc198b5f6e544019d34ec731",
+      "git_blob_sha": "93a1d99570bb7e9ca7b133549a007d37b1a3855e"
+    },
+    {
+      "chapter": 181,
+      "language": "en",
+      "path": "chapters/en/volume-07/181-the-one-who-woke.md",
+      "title": "# Chapter 181: The One Who Woke",
+      "count": 1921,
+      "sha256": "0e783ad7fe23f45de64978db2bcced7fa3c9ae9ee5deea2322f2fed18c652e5f",
+      "git_blob_sha": "1f3f78c69a7c4841180ed05b66dacdaddbb6c546"
+    },
+    {
+      "chapter": 182,
+      "language": "en",
+      "path": "chapters/en/volume-07/182-the-name-on-the-notebook.md",
+      "title": "# Chapter 182: The Name on the Notebook",
+      "count": 1905,
+      "sha256": "5e2b4621b5be34a1c1e86ff52278c581d8e7b4bbac7141c07e8cce329ffe3108",
+      "git_blob_sha": "ff84567ab07a2d04b580b53578b4a546c844a73f"
+    },
+    {
+      "chapter": 183,
+      "language": "en",
+      "path": "chapters/en/volume-07/183-first-the-doorway.md",
+      "title": "# Chapter 183: First, the Doorway",
+      "count": 1932,
+      "sha256": "28220bb58816a52e10df1580e44e46b219b22c60d69f5cb2eb56b4f49a4eda8b",
+      "git_blob_sha": "005eff8b39fd7e17040f0fa6d140c65c2aacca4f"
+    },
+    {
+      "chapter": 184,
+      "language": "en",
+      "path": "chapters/en/volume-07/184-the-rail-didnt-reach-the-wall.md",
+      "title": "# Chapter 184: The Rail Didn't Reach the Wall",
+      "count": 1905,
+      "sha256": "f33935dd8e592ccd423e5fc7c1be360231797758aae5a945b5372c720b4aedd2",
+      "git_blob_sha": "729d35a670b4319cee46cf7ce99079c94dd96f4a"
+    },
+    {
+      "chapter": 185,
+      "language": "en",
+      "path": "chapters/en/volume-07/185-uphill-took-something-else.md",
+      "title": "# Chapter 185: Uphill Took Something Else",
+      "count": 1896,
+      "sha256": "d71f5c4d4c912a77638039b3f7a3bd012dacb78200897983700cdd8515079587",
+      "git_blob_sha": "3dbd36dbf391f7a16f31e42386a2060bf0649cbd"
+    },
+    {
+      "chapter": 186,
+      "language": "en",
+      "path": "chapters/en/volume-07/186-check-the-white-lines-again.md",
+      "title": "# Chapter 186: Check the White Lines Again",
+      "count": 1838,
+      "sha256": "bfcd5f71ee2cd5127a18718fd50251de42c5e63df65b195229885685f170d82a",
+      "git_blob_sha": "91021e59357a802d2053110d535b4357dbb603e2"
+    },
+    {
+      "chapter": 187,
+      "language": "en",
+      "path": "chapters/en/volume-07/187-the-bottles-were-still-empty.md",
+      "title": "# Chapter 187: The Bottles Were Still Empty",
+      "count": 1890,
+      "sha256": "a4bc61c994249b0d4627ae10f4f71a7f648b55c23ff9e3c7303e3c52b0287df3",
+      "git_blob_sha": "aa572595ebfa205bf32ca4f3717e4c0f2ab34eac"
+    }
+  ]
+}
