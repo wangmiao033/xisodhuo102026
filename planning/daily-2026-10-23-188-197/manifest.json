@@ -1,0 +1,214 @@
+{
+  "book": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "beijing_date": "2026-10-23",
+  "new_chapters": 10,
+  "range": [
+    188,
+    197
+  ],
+  "prior_contiguous_bilingual_end": 187,
+  "new_contiguous_bilingual_end": 197,
+  "publication_authorization_expanded": false,
+  "files": [
+    {
+      "chapter": 188,
+      "language": "en",
+      "path": "chapters/en/volume-07/188-the-pipe-wasnt-leading-them.md",
+      "heading": "# Chapter 188: The Pipe Wasn't Leading Them",
+      "body_count": 1873,
+      "sha256": "96b6b01bd41ef5f61f2771f700e77b180dce417253553d980f1e5f87f58fffc0",
+      "git_blob_sha": "1d65a72a6e790c3398f693afc5afd80bbddc7ef0",
+      "in_target": true
+    },
+    {
+      "chapter": 189,
+      "language": "en",
+      "path": "chapters/en/volume-07/189-where-the-light-couldnt-reach.md",
+      "heading": "# Chapter 189: Where the Light Couldn't Reach",
+      "body_count": 1810,
+      "sha256": "110717b522b360e7805a34064cd5f779538d87f152d7710b25f57be5267ffdd8",
+      "git_blob_sha": "01f6e24ca254293b5cc00f04cc1aef761f7f01a8",
+      "in_target": true
+    },
+    {
+      "chapter": 190,
+      "language": "en",
+      "path": "chapters/en/volume-07/190-get-them-across-first.md",
+      "heading": "# Chapter 190: Get Them Across First",
+      "body_count": 1815,
+      "sha256": "48e7cf579c50883acf23686f15bf11abc0e31a81d8cf91002bd8bb37a67b6fbd",
+      "git_blob_sha": "a5d92ed77e36480b01d76e04c9bb0e9d811a74fc",
+      "in_target": true
+    },
+    {
+      "chapter": 191,
+      "language": "en",
+      "path": "chapters/en/volume-07/191-the-clothes-nobody-brought.md",
+      "heading": "# Chapter 191: The Clothes Nobody Brought",
+      "body_count": 1907,
+      "sha256": "eba71136de2b9bb6a56457c4a19496ec6a3da168d4b92cde49d7552f6c9f2b07",
+      "git_blob_sha": "fa16d4b7e1e22cdf07a36d72c21f49194e51d3ba",
+      "in_target": true
+    },
+    {
+      "chapter": 192,
+      "language": "en",
+      "path": "chapters/en/volume-07/192-the-bell-under-the-counter.md",
+      "heading": "# Chapter 192: The Bell Under the Counter",
+      "body_count": 1922,
+      "sha256": "27ad595a70c8d51c4e8ebacbbf0c1905137fd97359b02f57f40a8470c6f01b94",
+      "git_blob_sha": "93662e73c9870a37c3ca96dc7df7703f7dd9b80d",
+      "in_target": true
+    },
+    {
+      "chapter": 193,
+      "language": "en",
+      "path": "chapters/en/volume-07/193-dont-take-the-jacket-away.md",
+      "heading": "# Chapter 193: Don't Take the Jacket Away",
+      "body_count": 1837,
+      "sha256": "8fc12e82038e2296ab5121b428042a0afb32c73a84146ee707c51c9c88d5372c",
+      "git_blob_sha": "ce1aeb26179cf9bddc7d920a70fca090bc08395f",
+      "in_target": true
+    },
+    {
+      "chapter": 194,
+      "language": "en",
+      "path": "chapters/en/volume-07/194-the-corner-under-the-foot.md",
+      "heading": "# Chapter 194: The Corner Under the Foot",
+      "body_count": 1926,
+      "sha256": "504de9d69471fca0d1ffc778073feab1590f8d5efa5784ee4057d2e16a5d5247",
+      "git_blob_sha": "d3b76b707c7ae99b7c4d0a85e2f32831c9d6efc0",
+      "in_target": true
+    },
+    {
+      "chapter": 195,
+      "language": "en",
+      "path": "chapters/en/volume-07/195-the-paper-under-the-foot.md",
+      "heading": "# Chapter 195: The Paper Under the Foot",
+      "body_count": 1859,
+      "sha256": "4b28dc3d4abad79a0c984fdcfe823a1a39dda1daceec3a726325c129809e7a6f",
+      "git_blob_sha": "f3701d3d4dba209f8e419203d16ba37fb7b45544",
+      "in_target": true
+    },
+    {
+      "chapter": 196,
+      "language": "en",
+      "path": "chapters/en/volume-07/196-back-through-the-original-opening.md",
+      "heading": "# Chapter 196: Back Through the Original Opening",
+      "body_count": 1916,
+      "sha256": "7f3a3382ecfa745dfd628511d365a51bfa77b13c239006031da0a3c9b44acd64",
+      "git_blob_sha": "a42a3f80d845d60ae3f89f2288e7549fe73f7248",
+      "in_target": true
+    },
+    {
+      "chapter": 197,
+      "language": "en",
+      "path": "chapters/en/volume-07/197-eat-while-its-hot.md",
+      "heading": "# Chapter 197: Eat While It's Hot",
+      "body_count": 1812,
+      "sha256": "1f1b5bfb113a88f94c3e8512ff3860054308d1528027b7d5877b7ee87da74d63",
+      "git_blob_sha": "d9475537e9a84e6da17ebfc64dde4ce912e37724",
+      "in_target": true
+    },
+    {
+      "chapter": 188,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/188-管子没有带路.md",
+      "heading": "# 第188章 管子没有带路",
+      "body_count": 3227,
+      "sha256": "b2a43218b41a72b5ba1d9357a64e96f3c90e6ccc19ec1f28176dc43527c3e1c2",
+      "git_blob_sha": "a9fd8c748b8d07d2dea9506746401cc7edafaaa0",
+      "in_target": true
+    },
+    {
+      "chapter": 189,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/189-光照不到的那一段.md",
+      "heading": "# 第189章 光照不到的那一段",
+      "body_count": 3046,
+      "sha256": "33bd80e947cf905976feef770c9223f04f92a36d578b9cb0dd5a4e79b7b682b6",
+      "git_blob_sha": "02693260f1db83743ffdef101773dc69d13beabf",
+      "in_target": true
+    },
+    {
+      "chapter": 190,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/190-先把人接过去.md",
+      "heading": "# 第190章 先把人接过去",
+      "body_count": 3094,
+      "sha256": "c01c5fc647270b4bc096e05e7b15bd12eb5a0f3c3ea08e8ac9bd4c00db504ce8",
+      "git_blob_sha": "ca4e226578996cc91ce2949b61007207030b9930",
+      "in_target": true
+    },
+    {
+      "chapter": 191,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/191-没人送来的衣服.md",
+      "heading": "# 第191章 没人送来的衣服",
+      "body_count": 3032,
+      "sha256": "db8a057129d0b9882da420d5b3eff49c7cec8698ef3341f908b5ba07114cbe5b",
+      "git_blob_sha": "c59abea83883766450758c797472c97583c02874",
+      "in_target": true
+    },
+    {
+      "chapter": 192,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/192-柜台下面的铃.md",
+      "heading": "# 第192章 柜台下面的铃",
+      "body_count": 3021,
+      "sha256": "5e406cd0601343f8664fad88e53bbe560c44794e21aba05c708df9cde7e18baa",
+      "git_blob_sha": "5622a9db0471760e2cac7c20a92c0cca1fc9bd83",
+      "in_target": true
+    },
+    {
+      "chapter": 193,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/193-别把衣服拿走.md",
+      "heading": "# 第193章 别把衣服拿走",
+      "body_count": 3006,
+      "sha256": "6a3e554e83de8b26cfb3b5e4c06a2bfe49a5880a0348bc2eed60d04a771078d6",
+      "git_blob_sha": "7e6be0e86191a89351138c582622b8296bb29fe1",
+      "in_target": true
+    },
+    {
+      "chapter": 194,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/194-纸角在脚下.md",
+      "heading": "# 第194章 纸角在脚下",
+      "body_count": 3016,
+      "sha256": "1f350501a6145e124a7e9f53f29167544821bfdf351cef715db2c3cc07e0eac8",
+      "git_blob_sha": "3aa143720b632709411a9b0018e35b622decbd49",
+      "in_target": true
+    },
+    {
+      "chapter": 195,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/195-纸压在脚下面.md",
+      "heading": "# 第195章 纸压在脚下面",
+      "body_count": 3206,
+      "sha256": "28922d47ec5502d456e5d637721c6ca775defe34385f9df7474aa926f0f62cf7",
+      "git_blob_sha": "bb1dca24d6f8ffac47b202f40f356af3f2ef8230",
+      "in_target": true
+    },
+    {
+      "chapter": 196,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/196-从原来的口退回.md",
+      "heading": "# 第196章 从原来的口退回",
+      "body_count": 3275,
+      "sha256": "33996a4b62ef322c3d1c5d249b09e6b39b9c94436d271536bf16d727293030e5",
+      "git_blob_sha": "585b463b2fa557bbc8e22e82262ec1cdba37b403",
+      "in_target": true
+    },
+    {
+      "chapter": 197,
+      "language": "zh",
+      "path": "chapters/zh/volume-07/197-面要趁热吃.md",
+      "heading": "# 第197章 面要趁热吃",
+      "body_count": 3046,
+      "sha256": "ee915d5775bdf4d49ecc11185f38371c18411a55150bca88c985eedb3dde5f7c",
+      "git_blob_sha": "d08d978d1bb5bbc3c3765d946c436919b84766c1",
+      "in_target": true
+    }
+  ]
+}
