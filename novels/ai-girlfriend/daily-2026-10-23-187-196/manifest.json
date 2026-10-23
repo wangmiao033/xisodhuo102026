@@ -1,0 +1,246 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "platform_book_id": "6505",
+  "batch_date": "2026-10-23",
+  "timezone": "Asia/Shanghai",
+  "chapter_range": [
+    187,
+    196
+  ],
+  "new_bilingual_chapters": 10,
+  "daily_new_chapter_target": 10,
+  "initial_audited_main": "e862aa3443fc59b04d3a2a64d1ad144f427a410a",
+  "cn_han_characters": 25022,
+  "en_body_words": 17964,
+  "count_method": "Headings excluded. Chinese Han U+3400–U+9FFF; English alphabetic words with internal apostrophes/hyphens. Complete narrative takes priority over artificial padding.",
+  "independent_full_bilingual_review": "passed; all20 exact manuscript files approved",
+  "publication_authorization": "Not conferred by manuscript storage; platform release ranges require separate verification.",
+  "continuous_new_bilingual_range": [
+    127,
+    196
+  ],
+  "continuous_new_bilingual_pairs": 70,
+  "continuous_english_through": 196,
+  "files": [
+    {
+      "path": "cn/187_The_Person_Who_Knows.md",
+      "chapter": 187,
+      "language": "cn",
+      "heading": "# 第187章：知道的那个人",
+      "sha256": "3076fd5cda4c4d3dc43396c8a7abadc61d85c984453c32d5cf50f59e85feb9b3",
+      "git_blob_sha": "1f58d6b78b2a096be4f5b11f6b7a0099206df2cc",
+      "bytes": 9071,
+      "body_han_characters": 2473,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/187_The_Person_Who_Knows.md",
+      "chapter": 187,
+      "language": "en",
+      "heading": "# Chapter 187: The Person Who Knows",
+      "sha256": "18b6bfcd27d1e1c6cae9c75b4bfddd2f13c60fbb4b0412cdbdc89aed2586bf12",
+      "git_blob_sha": "5867385acae435308d5f700ffdad9e4caf72ba38",
+      "bytes": 10517,
+      "body_han_characters": 0,
+      "body_english_words": 1855
+    },
+    {
+      "path": "cn/188_A_Loop_That_Holds.md",
+      "chapter": 188,
+      "language": "cn",
+      "heading": "# 第188章：挂得住的环",
+      "sha256": "fcefe32d02f49a6ad7e7de192587aa3d9d32aad176da48f6a66a14007d6b6520",
+      "git_blob_sha": "2010140ec506585e2db7cc3620275aa75a5e5416",
+      "bytes": 9052,
+      "body_han_characters": 2442,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/188_A_Loop_That_Holds.md",
+      "chapter": 188,
+      "language": "en",
+      "heading": "# Chapter 188: A Loop That Holds",
+      "sha256": "2a47fc191e378a4efee62885b4130ba682e78aaafcdf53da7a17d1446ff5bd87",
+      "git_blob_sha": "bffef1db13173b284ad202a686a5701df6c8180d",
+      "bytes": 10653,
+      "body_han_characters": 0,
+      "body_english_words": 1854
+    },
+    {
+      "path": "cn/189_The_Stop_Around_The_Corner.md",
+      "chapter": 189,
+      "language": "cn",
+      "heading": "# 第189章：转角以后的站",
+      "sha256": "4f838dc7d162a3c4bdb2b2afe9f2ae9c8f13be9711e8c27c7d6f6f149d23c510",
+      "git_blob_sha": "1f999a1af41a7939ed89816dbbca851e032b8ec6",
+      "bytes": 8841,
+      "body_han_characters": 2484,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/189_The_Stop_Around_The_Corner.md",
+      "chapter": 189,
+      "language": "en",
+      "heading": "# Chapter 189: The Stop Around the Corner",
+      "sha256": "76056f6332b824b83c7ff9c6a7119862a6905923f1e185ba06c8222b608766f3",
+      "git_blob_sha": "42adf6e8011053fb46faaa81c76a988c844a33df",
+      "bytes": 10107,
+      "body_han_characters": 0,
+      "body_english_words": 1798
+    },
+    {
+      "path": "cn/190_Not_Another_Useful_Evening.md",
+      "chapter": 190,
+      "language": "cn",
+      "heading": "# 第190章：今晚不改了",
+      "sha256": "a789cca23cb7b16224ea5fc83652477fe3a2021b69d2757507efd3502acab977",
+      "git_blob_sha": "b8bf502b877abbaa752af59f9d34275b9926d041",
+      "bytes": 9123,
+      "body_han_characters": 2530,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/190_Not_Another_Useful_Evening.md",
+      "chapter": 190,
+      "language": "en",
+      "heading": "# Chapter 190: Not Another Useful Evening",
+      "sha256": "7fac1436001aa7f0e7517b1f57eac0c7e55e8701d48bbe7468c0d8780e3d7c38",
+      "git_blob_sha": "d254a08f41899a22a3a5ddc70ba7d6e061f87af2",
+      "bytes": 10407,
+      "body_han_characters": 0,
+      "body_english_words": 1790
+    },
+    {
+      "path": "cn/191_The_Cuff.md",
+      "chapter": 191,
+      "language": "cn",
+      "heading": "# 第191章：袖口",
+      "sha256": "09af80dd9f96327ac84d059e63ab03d7d576b41a206e30568291caf4daa64c25",
+      "git_blob_sha": "78f98eb1a6c9448596bb2fd4647ada8d2a96032e",
+      "bytes": 8845,
+      "body_han_characters": 2408,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/191_The_Cuff.md",
+      "chapter": 191,
+      "language": "en",
+      "heading": "# Chapter 191: The Cuff",
+      "sha256": "5c7565a566e09d3e4ce784f7d7a3dfad998cf5acb1af603f98d9288814b8ff6d",
+      "git_blob_sha": "720c815bba25e57e8ec1ee60ff1f426c324edcc4",
+      "bytes": 10038,
+      "body_han_characters": 0,
+      "body_english_words": 1765
+    },
+    {
+      "path": "cn/192_What_Stayed_In_The_Room.md",
+      "chapter": 192,
+      "language": "cn",
+      "heading": "# 第192章：留在房间里的东西",
+      "sha256": "7d59233db01a076c5ad0e745f4ad8179d34bcd6131d5a632e0ef50c9e42b7fe2",
+      "git_blob_sha": "9a537cab50185cf682bd1c9d3f3aa811996c8423",
+      "bytes": 9193,
+      "body_han_characters": 2507,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/192_What_Stayed_In_The_Room.md",
+      "chapter": 192,
+      "language": "en",
+      "heading": "# Chapter 192: What Stayed in the Room",
+      "sha256": "9a24cda2b4de655240e552a0e48b96edadd0afed08eb0d3b72d567f9c1cbdbf0",
+      "git_blob_sha": "9bbc3b314e1e3e7109f0bd60f66882dbf3de58b0",
+      "bytes": 10034,
+      "body_han_characters": 0,
+      "body_english_words": 1736
+    },
+    {
+      "path": "cn/193_The_Size_Of_The_Page.md",
+      "chapter": 193,
+      "language": "cn",
+      "heading": "# 第193章：一页纸的大小",
+      "sha256": "ec7d0a871f8eff7142d77a986767b6a5e34bd0e1eca493cb0b1e9e341824bfad",
+      "git_blob_sha": "393c3125acd64c6241a3e21841198263cb222a6a",
+      "bytes": 9109,
+      "body_han_characters": 2542,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/193_The_Size_Of_The_Page.md",
+      "chapter": 193,
+      "language": "en",
+      "heading": "# Chapter 193: The Size of the Page",
+      "sha256": "3e7dad57bb4e5440c8f0836eb0ba2050c556aa13f9007c5fc2c5179076010893",
+      "git_blob_sha": "106697db9ec94c824378d046323602933a4c900d",
+      "bytes": 10275,
+      "body_han_characters": 0,
+      "body_english_words": 1786
+    },
+    {
+      "path": "cn/194_Before_The_Corner.md",
+      "chapter": 194,
+      "language": "cn",
+      "heading": "# 第194章：转角以前",
+      "sha256": "4a8614232961c976cbbb4687ae57d09d786e076ac1802e587797ba797f363e5d",
+      "git_blob_sha": "a5287cb9bfb6a05021fa367f37316062185e7526",
+      "bytes": 9171,
+      "body_han_characters": 2498,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/194_Before_The_Corner.md",
+      "chapter": 194,
+      "language": "en",
+      "heading": "# Chapter 194: Before the Corner",
+      "sha256": "4250640273fe5660af4da35772967b41d7ac6dee70110267f8d8d32483a4e4f9",
+      "git_blob_sha": "0b9eef46595f77c3b2af7cb508b3c70163e18709",
+      "bytes": 10370,
+      "body_han_characters": 0,
+      "body_english_words": 1762
+    },
+    {
+      "path": "cn/195_Four_Of_What.md",
+      "chapter": 195,
+      "language": "cn",
+      "heading": "# 第195章：四个什么",
+      "sha256": "0e860da6bb553b89220959eced91d7d0b822facf7e47cb7a2eed37b174e89cfe",
+      "git_blob_sha": "58e2840496da5b226b74e7fd9c85001700a43100",
+      "bytes": 9685,
+      "body_han_characters": 2642,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/195_Four_Of_What.md",
+      "chapter": 195,
+      "language": "en",
+      "heading": "# Chapter 195: Four of What",
+      "sha256": "042866703e4b1fecb3b8c1385563caaf87d1b4bd629ca6ad18cd944cc50cb52e",
+      "git_blob_sha": "1f141fbc00ae622d8e936d2b6b66e783adaaf97a",
+      "bytes": 10837,
+      "body_han_characters": 0,
+      "body_english_words": 1899
+    },
+    {
+      "path": "cn/196_For_The_Next_Meal.md",
+      "chapter": 196,
+      "language": "cn",
+      "heading": "# 第196章：留到下一顿",
+      "sha256": "5fe6960aaa6e1b4c48b34bc245db70d29c026d0813e3c529f09913e6b0a78a96",
+      "git_blob_sha": "eea24881a3bbaba3389627ad3cf20d9a24a61e2f",
+      "bytes": 8890,
+      "body_han_characters": 2496,
+      "body_english_words": 0
+    },
+    {
+      "path": "en/196_For_The_Next_Meal.md",
+      "chapter": 196,
+      "language": "en",
+      "heading": "# Chapter 196: For the Next Meal",
+      "sha256": "09e6fae6c42d7e1f2959cc6d8035d968319bc35fa87e83065a2629ba29d0139d",
+      "git_blob_sha": "2820090ee31d40b6024d879bf1fdf68b5301f9df",
+      "bytes": 9950,
+      "body_han_characters": 0,
+      "body_english_words": 1719
+    }
+  ]
+}
