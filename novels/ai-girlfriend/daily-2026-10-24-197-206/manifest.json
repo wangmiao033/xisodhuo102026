@@ -1,0 +1,233 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "initial_main": "67528f930b1bac98a8cfb0efcea5406150160cf8",
+  "range": [
+    197,
+    206
+  ],
+  "new_chapters": 10,
+  "languages": [
+    "cn",
+    "en"
+  ],
+  "review": "independent cross-author full bilingual review passed",
+  "release_approval": "writing archive only; not platform release approval",
+  "totals": {
+    "cn_han": 24537,
+    "en_words": 16985
+  },
+  "chapters": [
+    {
+      "chapter": 197,
+      "cn": {
+        "path": "cn/197_Above_The_First_Line.md",
+        "heading": "# 第197章：第一行上面",
+        "body_count": 2473,
+        "count_type": "cn_han",
+        "bytes": 8995,
+        "sha256": "b7e77a86a38c6ba50ce865b493c50a32742a365185d97f14d48e3364a448fb77",
+        "git_blob_sha": "2f876e62257bf72166df69260d16fc8583d86220"
+      },
+      "en": {
+        "path": "en/197_Above_The_First_Line.md",
+        "heading": "# Chapter 197: Above the First Line",
+        "body_count": 1609,
+        "count_type": "en_words",
+        "bytes": 9403,
+        "sha256": "81d5615f7e74058c4eb4009dbd2b8066e718145cdabc0be32cf06d4555bf2f8a",
+        "git_blob_sha": "c5f7cf8fc92c0313f1f2c1bc86c782c202370eb2"
+      }
+    },
+    {
+      "chapter": 198,
+      "cn": {
+        "path": "cn/198_One_Seat_On_Saturday.md",
+        "heading": "# 第198章：星期六的一个座位",
+        "body_count": 2504,
+        "count_type": "cn_han",
+        "bytes": 8966,
+        "sha256": "87b55e772673ea5a6b62e39ba188bc04f0d05980daa03f46db8cbfdce8fb0daf",
+        "git_blob_sha": "44b719c3fef2f06c6ba1f83336100bfd24ff5246"
+      },
+      "en": {
+        "path": "en/198_One_Seat_On_Saturday.md",
+        "heading": "# Chapter 198: One Seat on Saturday",
+        "body_count": 1728,
+        "count_type": "en_words",
+        "bytes": 10066,
+        "sha256": "468be7f4a667740e474bdcf19a07d7e3872f05dc3adc2739c21dcfd62351a558",
+        "git_blob_sha": "2e8e6ff489c303aee415007baf5321d477224688"
+      }
+    },
+    {
+      "chapter": 199,
+      "cn": {
+        "path": "cn/199_What_Moved_First.md",
+        "heading": "# 第199章：先动的那一件",
+        "body_count": 2488,
+        "count_type": "cn_han",
+        "bytes": 8949,
+        "sha256": "3064ba3d535124f704cfe7cbe54c643094446db983606c4b6b5bdfac855e00d5",
+        "git_blob_sha": "e27b6c1ba2eb5b48dc34ecc95cb1c6fbc0705850"
+      },
+      "en": {
+        "path": "en/199_What_Moved_First.md",
+        "heading": "# Chapter 199: What Moved First",
+        "body_count": 1666,
+        "count_type": "en_words",
+        "bytes": 9867,
+        "sha256": "21ca59b31121da5a78818db111422a83f85fa5fea8a82448f9f362e4aecfe322",
+        "git_blob_sha": "f2d0790e78232b045b021ef054b67e20589e745d"
+      }
+    },
+    {
+      "chapter": 200,
+      "cn": {
+        "path": "cn/200_The_Color_Of_The_Outside.md",
+        "heading": "# 第200章：外面的颜色",
+        "body_count": 2457,
+        "count_type": "cn_han",
+        "bytes": 8846,
+        "sha256": "20d50b5ae63256232ba085b48d629ee7a003bef48c4d34a88818711784b6b8b9",
+        "git_blob_sha": "45889953b92e36478bcbdc34e3e4519ad0ca1f5c"
+      },
+      "en": {
+        "path": "en/200_The_Color_Of_The_Outside.md",
+        "heading": "# Chapter 200: The Color of the Outside",
+        "body_count": 1633,
+        "count_type": "en_words",
+        "bytes": 9798,
+        "sha256": "7e8bc7564f1337fb23035bace161171169c120278bed79a60db197d2abababc8",
+        "git_blob_sha": "e8598c36d4db9ce15251340e864957f148be6d08"
+      }
+    },
+    {
+      "chapter": 201,
+      "cn": {
+        "path": "cn/201_Three_Holes_In_Scrap_Paper.md",
+        "heading": "# 第201章：废纸上的三个孔",
+        "body_count": 2489,
+        "count_type": "cn_han",
+        "bytes": 8878,
+        "sha256": "a0a55056ee437420789a3242672c686882d9d3f0fea7a59187649d5aaaf51b23",
+        "git_blob_sha": "af7207d8eaa02d17c58672adeede9bc5f718e835"
+      },
+      "en": {
+        "path": "en/201_Three_Holes_In_Scrap_Paper.md",
+        "heading": "# Chapter 201: Three Holes in Scrap Paper",
+        "body_count": 1647,
+        "count_type": "en_words",
+        "bytes": 9602,
+        "sha256": "d824066e5d768aa6c30ac4fd12f3d5271de58c75422cbfc1224f8a69637d34a4",
+        "git_blob_sha": "e6d7632cb746ec4d1753b1be3b49c2f44db7e894"
+      }
+    },
+    {
+      "chapter": 202,
+      "cn": {
+        "path": "cn/202_Not_An_Automatic_Answer.md",
+        "heading": "# 第202章：不是自动回答",
+        "body_count": 2464,
+        "count_type": "cn_han",
+        "bytes": 8960,
+        "sha256": "daa3c81a25f35bc6745e54388921ec5d7f8e68c4e6c43460072cb382f755d800",
+        "git_blob_sha": "b4db904fb163883baf3f71f92d09b5e17afd7426"
+      },
+      "en": {
+        "path": "en/202_Not_An_Automatic_Answer.md",
+        "heading": "# Chapter 202: Not an Automatic Answer",
+        "body_count": 1746,
+        "count_type": "en_words",
+        "bytes": 10195,
+        "sha256": "e861e5c1337bfebbdbdde0519cb3aac189553de48c5f0168816a9dacd4797a8b",
+        "git_blob_sha": "d45ff147f7325e56d967b5a49a56039cd54f711b"
+      }
+    },
+    {
+      "chapter": 203,
+      "cn": {
+        "path": "cn/203_The_Color_I_Brought_Home.md",
+        "heading": "# 第203章：带回来的颜色",
+        "body_count": 2390,
+        "count_type": "cn_han",
+        "bytes": 8681,
+        "sha256": "5b050bc00f00371c37e1bb042a3797049c0aa339480bb1cad5d0f8d28e864f19",
+        "git_blob_sha": "7da68414a36bd370c7bb5abd42187d4efba0f315"
+      },
+      "en": {
+        "path": "en/203_The_Color_I_Brought_Home.md",
+        "heading": "# Chapter 203: The Color I Brought Home",
+        "body_count": 1724,
+        "count_type": "en_words",
+        "bytes": 10163,
+        "sha256": "e87c6b35ca0631cbc81a192f014ed30b9b6b41c49bdaede71c4b11b36a2e7fcd",
+        "git_blob_sha": "c3a742a5f78a40d9c6989a1fee7ac1c9f6878290"
+      }
+    },
+    {
+      "chapter": 204,
+      "cn": {
+        "path": "cn/204_Through_The_Middle.md",
+        "heading": "# 第204章：从中间穿过去",
+        "body_count": 2313,
+        "count_type": "cn_han",
+        "bytes": 8151,
+        "sha256": "a08b40d13b08f385df5c9f46f92ce3525c6d995f00c3b3519e8b2faa75a96fea",
+        "git_blob_sha": "f389a1331c1ac82d5295c1dd4d78bb169330e4d9"
+      },
+      "en": {
+        "path": "en/204_Through_The_Middle.md",
+        "heading": "# Chapter 204: Through the Middle",
+        "body_count": 1739,
+        "count_type": "en_words",
+        "bytes": 9770,
+        "sha256": "4f315ca96abb3a2e10ece46830aac43a042e75336de839434ee21ea406845980",
+        "git_blob_sha": "40633ce8f3cace567461e78feae4559b547a9b5d"
+      }
+    },
+    {
+      "chapter": 205,
+      "cn": {
+        "path": "cn/205_The_First_Blank_Page.md",
+        "heading": "# 第205章：第一张空白页",
+        "body_count": 2309,
+        "count_type": "cn_han",
+        "bytes": 8389,
+        "sha256": "1e3638efc8712d940b6c4903457140f896d4986b866b39f9ab9fe944cc9fb97c",
+        "git_blob_sha": "7eb0f960c415c35be13dd354b263083e8c55bfbd"
+      },
+      "en": {
+        "path": "en/205_The_First_Blank_Page.md",
+        "heading": "# Chapter 205: The First Blank Page",
+        "body_count": 1652,
+        "count_type": "en_words",
+        "bytes": 9569,
+        "sha256": "36c69ff74e763b82add1835a28cc4d3ad1f738d5bdf9087923aa42a008e34ab1",
+        "git_blob_sha": "35bdc54df0acf4d5a6cea5b69b771a0f6f012a16"
+      }
+    },
+    {
+      "chapter": 206,
+      "cn": {
+        "path": "cn/206_A_Question_To_Take_With_Me.md",
+        "heading": "# 第206章：带着走的问题",
+        "body_count": 2650,
+        "count_type": "cn_han",
+        "bytes": 9282,
+        "sha256": "efcf7755b2fcd7681c350c99d2c103ee01fd8f7ff3ddb78030706d9d235e7658",
+        "git_blob_sha": "26a2c5a4f67f9e801e762da66e1838afb9b26d0e"
+      },
+      "en": {
+        "path": "en/206_A_Question_To_Take_With_Me.md",
+        "heading": "# Chapter 206: A Question to Take With Me",
+        "body_count": 1841,
+        "count_type": "en_words",
+        "bytes": 10693,
+        "sha256": "b03e5e1e37bb751f1fc84be6e033b2749cb376e17e0224cf488e9ec6888ca090",
+        "git_blob_sha": "508060957873c2cffda7875be10f6aef2e9cafa1"
+      }
+    }
+  ]
+}
