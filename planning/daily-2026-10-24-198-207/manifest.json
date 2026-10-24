@@ -1,0 +1,223 @@
+{
+  "work": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "writing_date_beijing": "2026-10-24",
+  "new_bilingual_chapters": 10,
+  "chapter_range": [
+    198,
+    207
+  ],
+  "continuous_bilingual_stock_through": 207,
+  "platform_release_authorization_expanded": false,
+  "initial_main": "b17ffd720c42c154160bdde71716b61cbba77609",
+  "pre_submit_main": "f4cae2448ce176dec86268b638a7fb2801e3f572",
+  "count_rules": {
+    "zh": "Han characters only; heading excluded",
+    "en": "alphanumeric words with internal apostrophe/hyphen counted as one; heading excluded"
+  },
+  "totals": {
+    "zh": 30420,
+    "en": 19001
+  },
+  "files": [
+    {
+      "path": "chapters/zh/volume-07/198-门不用一直开着.md",
+      "chapter": 198,
+      "language": "zh",
+      "title": "# 第198章 门不用一直开着",
+      "count": 3039,
+      "bytes": 10816,
+      "sha256": "c8318fc5d45762c2134a9c9c1d0e5befe0b221da89dce489172cb2bedc7d3ca2",
+      "git_blob": "4aa9901898201665b6361d4ba30e624e97c3aefb"
+    },
+    {
+      "path": "chapters/zh/volume-07/199-先看这条腿.md",
+      "chapter": 199,
+      "language": "zh",
+      "title": "# 第199章 先看这条腿",
+      "count": 3025,
+      "bytes": 10628,
+      "sha256": "31a0d2591c5b48eeed4d29e9946cbb30d90c58bda4a84297e8aa4292cfe08abe",
+      "git_blob": "b13e878f9d6b6430f8817d847aca9368ea1cb63d"
+    },
+    {
+      "path": "chapters/zh/volume-07/200-是谁在替谁说.md",
+      "chapter": 200,
+      "language": "zh",
+      "title": "# 第200章 是谁在替谁说",
+      "count": 3028,
+      "bytes": 10519,
+      "sha256": "75a26487ebb779316e84e0cd3db4cd011223f67599899477b4d0f37700dadc0c",
+      "git_blob": "5a4b15d137860684a89bd885892c05f9e529d298"
+    },
+    {
+      "path": "chapters/zh/volume-07/201-字没有替他回来.md",
+      "chapter": 201,
+      "language": "zh",
+      "title": "# 第201章 字没有替他回来",
+      "count": 3018,
+      "bytes": 10348,
+      "sha256": "8b3c0e6cd28d97977f4bedd8f067517d8cceff3454defdb17b89b4f87f5153d9",
+      "git_blob": "54e25e4ab25525fadd8baf2977ba950c555fc339"
+    },
+    {
+      "path": "chapters/zh/volume-07/202-这一次由她停下.md",
+      "chapter": 202,
+      "language": "zh",
+      "title": "# 第202章 这一次由她停下",
+      "count": 3021,
+      "bytes": 10392,
+      "sha256": "777a4910193e875139867577262a501b02752f9eaf67498494daf1806905144e",
+      "git_blob": "6a3b292565825a60d2fc3608c8527b7ac4bff605"
+    },
+    {
+      "path": "chapters/zh/volume-07/203-先让她不说话.md",
+      "chapter": 203,
+      "language": "zh",
+      "title": "# 第203章 先让她不说话",
+      "count": 3127,
+      "bytes": 10820,
+      "sha256": "103c64f801a210fa4bbf5e0e5607e81f48a51dae8d517333475bd10bebef6dd6",
+      "git_blob": "c83a5ba0d8cc3232de5603b12e8a21be0180441c"
+    },
+    {
+      "path": "chapters/zh/volume-07/204-她没有接那把伞.md",
+      "chapter": 204,
+      "language": "zh",
+      "title": "# 第204章 她没有接那把伞",
+      "count": 3089,
+      "bytes": 10801,
+      "sha256": "bf3cd5c9a6354fae9a7d3bf7a1df9551751d08c2c83938aa97caa45efb2f8b12",
+      "git_blob": "4d64aace6eeb4b0133d76f10011fcf89b1c9b49a"
+    },
+    {
+      "path": "chapters/zh/volume-07/205-她先吃了自己的饭.md",
+      "chapter": 205,
+      "language": "zh",
+      "title": "# 第205章 她先吃了自己的饭",
+      "count": 3024,
+      "bytes": 10672,
+      "sha256": "01a12937653121c237d4b72c243bcca8bd1eeb359fa2957294de881a66289eeb",
+      "git_blob": "ee2685c697f22a0d6670dcbea95889409119d467"
+    },
+    {
+      "path": "chapters/zh/volume-07/206-桥还没有讲完.md",
+      "chapter": 206,
+      "language": "zh",
+      "title": "# 第206章 桥还没有讲完",
+      "count": 3005,
+      "bytes": 10546,
+      "sha256": "c26db002684b02acdc738a91c229575d691ef02e6050f47061ee75bca39a13a9",
+      "git_blob": "e1873288d2920b4d6c094dd50b617e981b699b14"
+    },
+    {
+      "path": "chapters/zh/volume-07/207-鞋跟不要往上提.md",
+      "chapter": 207,
+      "language": "zh",
+      "title": "# 第207章 鞋跟不要往上提",
+      "count": 3044,
+      "bytes": 10663,
+      "sha256": "8b24e6a56e4b5655279ad41c31904572d2479978e169de1638bd22144a23ad00",
+      "git_blob": "dcd629cdbe9030b18497a6025407600888696bb9"
+    },
+    {
+      "path": "chapters/en/volume-07/198-the-door-can-be-closed.md",
+      "chapter": 198,
+      "language": "en",
+      "title": "# Chapter 198: The Door Can Be Closed",
+      "count": 1854,
+      "bytes": 10740,
+      "sha256": "4a18bee07544589e44ef3fad447b83a5b6084838229a5f7e458db11ee48744f7",
+      "git_blob": "bf4b7885ac68ec419ef73b0dc618cd44800630b5"
+    },
+    {
+      "path": "chapters/en/volume-07/199-look-at-the-leg-first.md",
+      "chapter": 199,
+      "language": "en",
+      "title": "# Chapter 199: Look at the Leg First",
+      "count": 1983,
+      "bytes": 11661,
+      "sha256": "4b9e4e163d0c56a251349a96d2b557faa3e1b9c4bb358c03985edeb5903d9912",
+      "git_blob": "7f67434337337d785addac936c47f2e223c63881"
+    },
+    {
+      "path": "chapters/en/volume-07/200-who-is-speaking-for-whom.md",
+      "chapter": 200,
+      "language": "en",
+      "title": "# Chapter 200: Who Is Speaking for Whom?",
+      "count": 1993,
+      "bytes": 11876,
+      "sha256": "6f4d1374a16dbac6d18cead12966b7652469f287eb65b72df26c6807fa9955aa",
+      "git_blob": "6309d1387536894e3b79866c7811dbecc6068e20"
+    },
+    {
+      "path": "chapters/en/volume-07/201-the-words-did-not-bring-him-back.md",
+      "chapter": 201,
+      "language": "en",
+      "title": "# Chapter 201: The Words Did Not Bring Him Back",
+      "count": 1949,
+      "bytes": 11578,
+      "sha256": "95758294bdabd0667fc92b9676d6d3d12c671941e9a72c45edd99ef78bd1198c",
+      "git_blob": "4098bfb9f33ad273f17b234b3f19f0534561ece2"
+    },
+    {
+      "path": "chapters/en/volume-07/202-this-time-she-stopped-it.md",
+      "chapter": 202,
+      "language": "en",
+      "title": "# Chapter 202: This Time She Stopped It",
+      "count": 2027,
+      "bytes": 11960,
+      "sha256": "841f8d958cb3c47ce9c18492c4c7148549079ea80cda54459afae7748a451464",
+      "git_blob": "ca7c90cf6db31ea68185f87dd3266a5920de3481"
+    },
+    {
+      "path": "chapters/en/volume-07/203-let-her-stop-talking.md",
+      "chapter": 203,
+      "language": "en",
+      "title": "# Chapter 203: Let Her Stop Talking",
+      "count": 1824,
+      "bytes": 10549,
+      "sha256": "362dcf698b72a5eb5950f1afc3c0d659ac47e9c1e3fff1ddc9a2b933999b8eb4",
+      "git_blob": "d53fa5867c433ba6ac88983fea346992129cdef2"
+    },
+    {
+      "path": "chapters/en/volume-07/204-she-didnt-take-the-umbrella.md",
+      "chapter": 204,
+      "language": "en",
+      "title": "# Chapter 204: She Didn't Take the Umbrella",
+      "count": 1823,
+      "bytes": 10732,
+      "sha256": "b75236c9384dbbe4daa87ef036c7c51e872906c0bab2750cec472379c242c153",
+      "git_blob": "2d567333262da9c8827b91df33c5a81cce979cfe"
+    },
+    {
+      "path": "chapters/en/volume-07/205-she-ate-her-own-lunch-first.md",
+      "chapter": 205,
+      "language": "en",
+      "title": "# Chapter 205: She Ate Her Own Lunch First",
+      "count": 1811,
+      "bytes": 10674,
+      "sha256": "96d3fa471ded46c77803ddb114e6104f23327bcfd2c9c75723c7c0601c02767e",
+      "git_blob": "69fc52af3d734cae3f63ae42ec4aeed992fa42b6"
+    },
+    {
+      "path": "chapters/en/volume-07/206-the-bridge-story-wasnt-finished.md",
+      "chapter": 206,
+      "language": "en",
+      "title": "# Chapter 206: The Bridge Story Wasn't Finished",
+      "count": 1883,
+      "bytes": 11010,
+      "sha256": "d2c6958165af49268ea8aa4991d68c2195ad3ddbf9145c6c2a1ae39ba9ab1313",
+      "git_blob": "a2f50a03766d17ef36f2492c90a76be28b5011b7"
+    },
+    {
+      "path": "chapters/en/volume-07/207-dont-lift-the-heel.md",
+      "chapter": 207,
+      "language": "en",
+      "title": "# Chapter 207: Don't Lift the Heel",
+      "count": 1854,
+      "bytes": 10840,
+      "sha256": "d814cdbfae15b7335b8ab12beda842f85d92350fa56c15787994560c5103e843",
+      "git_blob": "4a3fe3b642bfaf23316e3096037436c061faac47"
+    }
+  ]
+}
