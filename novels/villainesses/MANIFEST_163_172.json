@@ -1,0 +1,213 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_day_beijing": "2026-10-24",
+  "range": [
+    163,
+    172
+  ],
+  "new_chapters_bilingual": 10,
+  "source_main_at_start": "67528f930b1bac98a8cfb0efcea5406150160cf8",
+  "publication_authorization_extended": false,
+  "files": [
+    {
+      "chapter": 163,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-163.md",
+      "heading": "# 第一百六十三章：可以停在这里",
+      "body_count": 3015,
+      "count_unit": "CJK characters",
+      "sha256": "94915f7139c069556e5bf11f907a633c1230f96b39ae9e688c1d41039de67cdf",
+      "git_blob_sha1": "b48b24567e012b595fc9df973fb17076a5563074"
+    },
+    {
+      "chapter": 163,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-163.md",
+      "heading": "# Chapter 163: You Can Stop Here",
+      "body_count": 1803,
+      "count_unit": "English word tokens",
+      "sha256": "f0819b98a2589363b2c75d6976602868954b70f3a6c589cc95ec68b8ba806276",
+      "git_blob_sha1": "b7e64164b220ede85ea9ad8422022c6495baadd4"
+    },
+    {
+      "chapter": 164,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-164.md",
+      "heading": "# 第一百六十四章：她没有带筹码来",
+      "body_count": 3055,
+      "count_unit": "CJK characters",
+      "sha256": "0ce8e62b62732eebd59cafaf38ce370a27b80c2e55a0398a0814d3659366e322",
+      "git_blob_sha1": "133008de28d192b600b4877d734b6acf24d99b8d"
+    },
+    {
+      "chapter": 164,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-164.md",
+      "heading": "# Chapter 164: She Brought No Bargaining Chip",
+      "body_count": 1801,
+      "count_unit": "English word tokens",
+      "sha256": "c5cca3cfe18770e280eee174588a1a275574a0c06519f16614388fcbdc5585b2",
+      "git_blob_sha1": "31eec90c6b455dde7b045d4df07706a1eebfe6eb"
+    },
+    {
+      "chapter": 165,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-165.md",
+      "heading": "# 第一百六十五章：六个人的空白处",
+      "body_count": 3002,
+      "count_unit": "CJK characters",
+      "sha256": "394cb7ed6a99723d8cff3ec1f8fee79b8aab4f5373bc23c3770bbfa8988655bb",
+      "git_blob_sha1": "f81ea524a9580b9835b8c8c2a7c82e9693b7e278"
+    },
+    {
+      "chapter": 165,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-165.md",
+      "heading": "# Chapter 165: Room for Six",
+      "body_count": 1802,
+      "count_unit": "English word tokens",
+      "sha256": "11699fb86c6781c12a63fe4994dd8be12be22d9db00b7dcdc5d942ab7210658f",
+      "git_blob_sha1": "6e5427cf98360d7a87e437efe15fd4e234008c46"
+    },
+    {
+      "chapter": 166,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-166.md",
+      "heading": "# 第一百六十六章：没有通过的那一票",
+      "body_count": 3012,
+      "count_unit": "CJK characters",
+      "sha256": "257a7cd522bca6d15ef343b964a8e76e33b4575c80c0dec3b0f5ed771e52ac58",
+      "git_blob_sha1": "fcaa15084e9b6a2c622945d06c36a24bda706304"
+    },
+    {
+      "chapter": 166,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-166.md",
+      "heading": "# Chapter 166: The Vote They Lost",
+      "body_count": 1819,
+      "count_unit": "English word tokens",
+      "sha256": "6ad2e095fdf9974db20de155808daaa8e120b49cb4851526f1c4b6db37637111",
+      "git_blob_sha1": "29dcf463804e37be08f7d13d467139a81295ecf4"
+    },
+    {
+      "chapter": 167,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-167.md",
+      "heading": "# 第一百六十七章：封条外面的名字",
+      "body_count": 3014,
+      "count_unit": "CJK characters",
+      "sha256": "eee9729e328f0efe24687bfff2d33e6a8c1c1bf6904af16bba21c27d32a77442",
+      "git_blob_sha1": "3f1ccba8345732eeb322e78026168f21a0128bc1"
+    },
+    {
+      "chapter": 167,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-167.md",
+      "heading": "# Chapter 167: Names Outside the Seal",
+      "body_count": 1801,
+      "count_unit": "English word tokens",
+      "sha256": "e8ac1252e6403cf309d2412172102863a909381cf09280eb558b8d8de95efe9c",
+      "git_blob_sha1": "b547fce0db53219c8eb1b22c6ed759fd5904ecbf"
+    },
+    {
+      "chapter": 168,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-168.md",
+      "heading": "# 第一百六十八章：不是每个人都在同一扇门前",
+      "body_count": 3100,
+      "count_unit": "CJK characters",
+      "sha256": "1a422d5ab8a70ed22729f3fe272a642cd38e52e441c51c1ac4599ae438d52a8a",
+      "git_blob_sha1": "e031ad71940d232d4ed870fc571463e1cb76c239"
+    },
+    {
+      "chapter": 168,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-168.md",
+      "heading": "# Chapter 168: Not Everyone Was Waiting at the Same Door",
+      "body_count": 1803,
+      "count_unit": "English word tokens",
+      "sha256": "f4fd8730898b400ef33af07f8a69c7856b5cdf54ad3892c6a07eeb04833d2e67",
+      "git_blob_sha1": "314854d62d0d79fcd8bad046d2524656829ee75a"
+    },
+    {
+      "chapter": 169,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-169.md",
+      "heading": "# 第一百六十九章：她不是只替别人递信",
+      "body_count": 3210,
+      "count_unit": "CJK characters",
+      "sha256": "31d4da924fbc808921da28dde9b7050229c1fd273a31d031d6657f7e9404f05f",
+      "git_blob_sha1": "2a5d4ccbc53d548ffeb9f31a208f40333c739b1c"
+    },
+    {
+      "chapter": 169,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-169.md",
+      "heading": "# Chapter 169: She Didn't Just Carry Other People's Letters",
+      "body_count": 1816,
+      "count_unit": "English word tokens",
+      "sha256": "3014ff22a57626d08f1f7fde0192e9ec10deceff93d48ec104eb46f41d70b31d",
+      "git_blob_sha1": "dbc9f9b61cf74aa4f8d3b0745cf3f875c200f07e"
+    },
+    {
+      "chapter": 170,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-170.md",
+      "heading": "# 第一百七十章：她能关上的门",
+      "body_count": 3206,
+      "count_unit": "CJK characters",
+      "sha256": "efacba74e5c29678f3aac141e890b0bee0ada7ed0a1a6cbd7fd64e727dd4a60c",
+      "git_blob_sha1": "4d1bc16e75604a308ba13a04d84f9c5efa7c69cb"
+    },
+    {
+      "chapter": 170,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-170.md",
+      "heading": "# Chapter 170: The Doors She Could Close",
+      "body_count": 1807,
+      "count_unit": "English word tokens",
+      "sha256": "4a74f3ded78cc5fec4784964f78f56ceb41f8662c8fb3d4e8dad4ee42aa7fc6a",
+      "git_blob_sha1": "8e55ec3bcb6bd0622fbf3e4ca4836ccb4de80f8a"
+    },
+    {
+      "chapter": 171,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-171.md",
+      "heading": "# 第一百七十一章：她们没有说成同一句话",
+      "body_count": 3253,
+      "count_unit": "CJK characters",
+      "sha256": "642fbed9400bbcdc65551d8147eda7b8300ac31b0a75f6f1e7e5298d5f75d9f5",
+      "git_blob_sha1": "fa4c75dc005ac93d0b57990e0b7db68b5c09046e"
+    },
+    {
+      "chapter": 171,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-171.md",
+      "heading": "# Chapter 171: They Didn't Say the Same Thing",
+      "body_count": 1853,
+      "count_unit": "English word tokens",
+      "sha256": "867bcfe7401bbfe5490e78d54606e245537721f02b7a23f9c0e43770ef75a287",
+      "git_blob_sha1": "82fc96d443993e9cd2372def174948c6db0fdd88"
+    },
+    {
+      "chapter": 172,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-172.md",
+      "heading": "# 第一百七十二章：坐着的人也守住了路",
+      "body_count": 3191,
+      "count_unit": "CJK characters",
+      "sha256": "4ff8eb3cee9fcf2b7760a5ed89e77a632bc34e500486b2c0553526006de2a179",
+      "git_blob_sha1": "fd75241955faa8b90dc66a65a2fc844a7d659ae3"
+    },
+    {
+      "chapter": 172,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-172.md",
+      "heading": "# Chapter 172: She Guarded the Road Sitting Down",
+      "body_count": 1824,
+      "count_unit": "English word tokens",
+      "sha256": "2a4cedbf2de9e0d76a57a1c7bff825b949dfda2e6d40aea31e8be942a99e64cb",
+      "git_blob_sha1": "234a848979f0d85a7e9c40502616205ca7547321"
+    }
+  ]
+}
