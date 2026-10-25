@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-25",
+  "initial_remote_main": "319fee76b44df4edde8d192bb2ca52a825aba90e",
+  "chapter_range": [
+    207,
+    216
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    216
+  ],
+  "continuation_pair_count_after_verification": 90,
+  "next_new_chapter": 217,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 207,
+      "cn": {
+        "path": "cn/207_The_Time_In_The_Reply.md",
+        "heading": "第207章：回信里的时间",
+        "sha256": "fae899f9cf753c9625e2fb62dc57b715135bdc9e8bf9a96b5f6b69861d85d3b0",
+        "git_blob_sha1": "c79f86636126b7c81bee302b361e37170a1a02ff",
+        "utf8_bytes": 8208,
+        "paragraphs": 68,
+        "body_han_characters": 2337
+      },
+      "en": {
+        "path": "en/207_The_Time_In_The_Reply.md",
+        "heading": "Chapter 207: The Time in the Reply",
+        "sha256": "401080e27578fab48bed3029813cb8a695682e890738f8c518bed637c0662a8d",
+        "git_blob_sha1": "f458313fef1e966f4a7c6277a56138153a454638",
+        "utf8_bytes": 9419,
+        "paragraphs": 69,
+        "body_words": 1608
+      }
+    },
+    {
+      "chapter": 208,
+      "cn": {
+        "path": "cn/208_The_Width_Of_A_Drawer.md",
+        "heading": "第208章：一只抽屉的宽度",
+        "sha256": "55b930f4d35c391471a8f866a8867af45a1d067cda469e7e4edc0526b3049581",
+        "git_blob_sha1": "53b2d94e0cb0226570002d9157f8329c210e6c54",
+        "utf8_bytes": 8183,
+        "paragraphs": 82,
+        "body_han_characters": 2281
+      },
+      "en": {
+        "path": "en/208_The_Width_Of_A_Drawer.md",
+        "heading": "Chapter 208: The Width of a Drawer",
+        "sha256": "3ebb7f6c3881df8aeba9f380bd9c59cde90401e3e8489f0296a4a7b48d44b5de",
+        "git_blob_sha1": "688f5d34f8ba6eacef0d554bb1e6b86a389c7e97",
+        "utf8_bytes": 9307,
+        "paragraphs": 82,
+        "body_words": 1570
+      }
+    },
+    {
+      "chapter": 209,
+      "cn": {
+        "path": "cn/209_On_My_Side_Of_The_Counter.md",
+        "heading": "第209章：柜台的这一边",
+        "sha256": "d82b4fc7554231de2488a7d40ee47d38003cad1056cf30d2a3137b0442231492",
+        "git_blob_sha1": "ae6079ed05b852cf768ea27d4ca4614b0396f61d",
+        "utf8_bytes": 8046,
+        "paragraphs": 54,
+        "body_han_characters": 2340
+      },
+      "en": {
+        "path": "en/209_On_My_Side_Of_The_Counter.md",
+        "heading": "Chapter 209: On My Side of the Counter",
+        "sha256": "e860f7abf87cdfda67b01a1081f3abf17b6819e91d27bb3c780ebe323fc9838d",
+        "git_blob_sha1": "02cd88661f89dbd4be1d938a3196e6579dd9e50d",
+        "utf8_bytes": 9476,
+        "paragraphs": 54,
+        "body_words": 1629
+      }
+    },
+    {
+      "chapter": 210,
+      "cn": {
+        "path": "cn/210_An_Evening_Without_A_Screen.md",
+        "heading": "第210章：没有亮起屏幕的晚上",
+        "sha256": "aece8febd8c94d3566e3ef0321e7ea5a54722d9683c101ae3f83ad36682eff16",
+        "git_blob_sha1": "7534213a34e4f0b1df863c3dbdb2fea207807511",
+        "utf8_bytes": 8986,
+        "paragraphs": 95,
+        "body_han_characters": 2484
+      },
+      "en": {
+        "path": "en/210_An_Evening_Without_A_Screen.md",
+        "heading": "Chapter 210: An Evening Without a Screen",
+        "sha256": "8a59266427f8d9078f73f0de4c1065b5f1e51f50f03c91275d6a3470032c628f",
+        "git_blob_sha1": "82308e37775572cd974c8ebae2e4eef60b1d0f8e",
+        "utf8_bytes": 9698,
+        "paragraphs": 95,
+        "body_words": 1653
+      }
+    },
+    {
+      "chapter": 211,
+      "cn": {
+        "path": "cn/211_Only_An_Envelope.md",
+        "heading": "第211章：只卖一只信封",
+        "sha256": "9a04957f02a97302264d45919fd63db71f828abaa13923a0f5b1be13db7bc9b4",
+        "git_blob_sha1": "c405755a2f04e1aa86b8d50374e5ef82e5d75e2e",
+        "utf8_bytes": 9209,
+        "paragraphs": 85,
+        "body_han_characters": 2588
+      },
+      "en": {
+        "path": "en/211_Only_An_Envelope.md",
+        "heading": "Chapter 211: Only an Envelope",
+        "sha256": "873ae7395f85b60197d5ac656905b4ec041cbe3cacc14c4c9cb30d11a0b4dcd8",
+        "git_blob_sha1": "3d659cad992f0ba24abf3a4ebf6f19c5f34ecc7a",
+        "utf8_bytes": 10525,
+        "paragraphs": 85,
+        "body_words": 1827
+      }
+    },
+    {
+      "chapter": 212,
+      "cn": {
+        "path": "cn/212_Where_We_Would_Meet.md",
+        "heading": "第212章：在哪里碰面",
+        "sha256": "5ea8444dfaded8d3181d7c41f3089893617b9e945b10ffb1f13e6ff52a60cb1b",
+        "git_blob_sha1": "eced480681ac6d5f63bfbf33379e3f97d115bf3e",
+        "utf8_bytes": 8129,
+        "paragraphs": 91,
+        "body_han_characters": 2243
+      },
+      "en": {
+        "path": "en/212_Where_We_Would_Meet.md",
+        "heading": "Chapter 212: Where We Would Meet",
+        "sha256": "6825f50053892d8da18c5685f337af7ace9939e38dae8d2136fd0cc6571df065",
+        "git_blob_sha1": "f78aaf8691d39988f9bc689a95211de97773d1d9",
+        "utf8_bytes": 9075,
+        "paragraphs": 91,
+        "body_words": 1570
+      }
+    },
+    {
+      "chapter": 213,
+      "cn": {
+        "path": "cn/213_The_Part_Before_Leaving.md",
+        "heading": "第213章：出门以前的那一段",
+        "sha256": "688ea60efd1ccf388ed2ff337e02e8de2ca79175fc7b27039115d8c5e3ee4e19",
+        "git_blob_sha1": "8c9c516f4666cf49cfbd49a81e8fc09bea839722",
+        "utf8_bytes": 8004,
+        "paragraphs": 81,
+        "body_han_characters": 2243
+      },
+      "en": {
+        "path": "en/213_The_Part_Before_Leaving.md",
+        "heading": "Chapter 213: The Part Before Leaving",
+        "sha256": "91bc09a335bebc35ff6257fb4ebaa1b23cf7e9536ad13964178d54d75f551393",
+        "git_blob_sha1": "1178a905a52b130c894be6197925ba0587c35d03",
+        "utf8_bytes": 9030,
+        "paragraphs": 82,
+        "body_words": 1531
+      }
+    },
+    {
+      "chapter": 214,
+      "cn": {
+        "path": "cn/214_The_First_Viewing_Platform.md",
+        "heading": "第214章：第一处观景台",
+        "sha256": "6ce00b6e65eff361211ab99de0f47a0337b836c8d6fc2c9c22a10ac768376aff",
+        "git_blob_sha1": "8290bb094f16162ce09a37e24d7630fb8cd13ae4",
+        "utf8_bytes": 7836,
+        "paragraphs": 66,
+        "body_han_characters": 2229
+      },
+      "en": {
+        "path": "en/214_The_First_Viewing_Platform.md",
+        "heading": "Chapter 214: The First Viewing Platform",
+        "sha256": "1914b832750b7b8d5992c3b9edb261166a2135dcfb4f0290becd694bf987dc5f",
+        "git_blob_sha1": "077844d90d005715f110b66f5ff6729ebd2ee5f9",
+        "utf8_bytes": 8554,
+        "paragraphs": 66,
+        "body_words": 1449
+      }
+    },
+    {
+      "chapter": 215,
+      "cn": {
+        "path": "cn/215_One_Wrong_Note.md",
+        "heading": "第215章：有一个音不对",
+        "sha256": "b84d540c4b08d0b9870c520974f1f8150ce6d250ef97dc75904a5083ff830d1e",
+        "git_blob_sha1": "9a217d4662289061299db03c4285d7569e315da8",
+        "utf8_bytes": 7704,
+        "paragraphs": 93,
+        "body_han_characters": 2100
+      },
+      "en": {
+        "path": "en/215_One_Wrong_Note.md",
+        "heading": "Chapter 215: One Wrong Note",
+        "sha256": "13158f01a49603df996728498919465c2d77bc3e58a7048cc49e159325dcf133",
+        "git_blob_sha1": "f9cd2b846f953de464ac4ac00a9ee5ba626b8d21",
+        "utf8_bytes": 8227,
+        "paragraphs": 93,
+        "body_words": 1368
+      }
+    },
+    {
+      "chapter": 216,
+      "cn": {
+        "path": "cn/216_The_Door_After_The_Shop.md",
+        "heading": "第216章：商店后面的那扇门",
+        "sha256": "400e7445a78f453e20b882d0075257edc7f7619a74969bdffd444875f1e5f22b",
+        "git_blob_sha1": "c8a655be2bee7085f9c1c63a773b7e9e18b6e06c",
+        "utf8_bytes": 8360,
+        "paragraphs": 73,
+        "body_han_characters": 2389
+      },
+      "en": {
+        "path": "en/216_The_Door_After_The_Shop.md",
+        "heading": "Chapter 216: The Door After the Shop",
+        "sha256": "866784951c5d6030a0424d102a32d6dc34b8b752f335c69e130ee0f716029247",
+        "git_blob_sha1": "d84860a3c6e6c774e3535b84238f8e1423e3c7d6",
+        "utf8_bytes": 8891,
+        "paragraphs": 73,
+        "body_words": 1504
+      }
+    }
+  ]
+}
