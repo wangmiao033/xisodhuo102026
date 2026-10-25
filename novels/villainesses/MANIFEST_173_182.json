@@ -1,0 +1,213 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_day_beijing": "2026-10-25",
+  "range": [
+    173,
+    182
+  ],
+  "new_chapters_bilingual": 10,
+  "source_main_at_start": "319fee76b44df4edde8d192bb2ca52a825aba90e",
+  "publication_authorization_extended": false,
+  "files": [
+    {
+      "chapter": 173,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-173.md",
+      "heading": "# 第一百七十三章：不要碰那根线",
+      "body_count": 3075,
+      "count_unit": "CJK characters",
+      "sha256": "050b40d62d12a5a8067a4d32c677174393ed908264c128582d78a4ec1c286b55",
+      "git_blob_sha1": "5a2d2d44c6f89e1e0ff368b76c7841ff745cf679"
+    },
+    {
+      "chapter": 173,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-173.md",
+      "heading": "# Chapter 173: Don't Touch That Wire",
+      "body_count": 1810,
+      "count_unit": "English whitespace words",
+      "sha256": "d91630ea464fbff1a80f1318cf5cc7d6d302d67e2906fbed6da21c7463e950d1",
+      "git_blob_sha1": "70992db9ef050bd0b5849ea15e6b524fed6f8b4f"
+    },
+    {
+      "chapter": 174,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-174.md",
+      "heading": "# 第一百七十四章：赞成的人也要留下名字",
+      "body_count": 3113,
+      "count_unit": "CJK characters",
+      "sha256": "ae43529e4a884bb6bbfef554a64b0582cf329fa4a4d23d0059166c98994f5f8f",
+      "git_blob_sha1": "bcfca2c70a312d92fe9d7f74b8a829cda1da6565"
+    },
+    {
+      "chapter": 174,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-174.md",
+      "heading": "# Chapter 174: Supporters Must Leave Their Names Too",
+      "body_count": 1848,
+      "count_unit": "English whitespace words",
+      "sha256": "ee8ead5fddedd60d79a54faf028c7496ad6c6495656df50c41b37591f0ab6172",
+      "git_blob_sha1": "7d760de5a2aa81ce499daf9999d36dcec1ee0494"
+    },
+    {
+      "chapter": 175,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-175.md",
+      "heading": "# 第一百七十五章：这一格不填伴侣",
+      "body_count": 3031,
+      "count_unit": "CJK characters",
+      "sha256": "a42532886903ea0f500f445f8b389e40bf11fcd0fb16ae22b91b8f04ef9bd8bd",
+      "git_blob_sha1": "6d8e09e8324c64d8872226b52b7296b04dab3820"
+    },
+    {
+      "chapter": 175,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-175.md",
+      "heading": "# Chapter 175: No Partner Goes in This Box",
+      "body_count": 1807,
+      "count_unit": "English whitespace words",
+      "sha256": "c337b1251fb28dc8f93ca157f8259d6aa3b0f1466af98f5cc5cd1bbdc72cbec9",
+      "git_blob_sha1": "cabc3a3e10a7a5ee7fd68dcd665b73d2ae7344fb"
+    },
+    {
+      "chapter": 176,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-176.md",
+      "heading": "# 第一百七十六章：今天不是为了证明",
+      "body_count": 3040,
+      "count_unit": "CJK characters",
+      "sha256": "06c53cfe6768bb9fc7efb7cdc202b38601e6eeccbbc81a04abe2e97164cefe8a",
+      "git_blob_sha1": "d096727a3da6debd190af79d4cef322d29472150"
+    },
+    {
+      "chapter": 176,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-176.md",
+      "heading": "# Chapter 176: Not to Prove Anything",
+      "body_count": 1851,
+      "count_unit": "English whitespace words",
+      "sha256": "4aeb19eff9d00854c2cc8bbfa4bd08859ed6a2fa9449be52a3b83ec6ce4e8893",
+      "git_blob_sha1": "4811cb7f38e3fd379cfeaf88b662f0a5e45aa252"
+    },
+    {
+      "chapter": 177,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-177.md",
+      "heading": "# 第一百七十七章：不是同一种等待",
+      "body_count": 3066,
+      "count_unit": "CJK characters",
+      "sha256": "a7c3ac86ac9b9f7d9dca09b0ec090ee43462400cabfa2e1953503f16132a01ff",
+      "git_blob_sha1": "21a64e01131358a65554aaaa4d0c0203953ac9c0"
+    },
+    {
+      "chapter": 177,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-177.md",
+      "heading": "# Chapter 177: Not the Same Kind of Waiting",
+      "body_count": 1827,
+      "count_unit": "English whitespace words",
+      "sha256": "1205ab8828409641b03bcfe1b8d93660902226b55f23fa726b4b6c014ae3790c",
+      "git_blob_sha1": "500ffc3cdbc30cdb24138f517737622103901aba"
+    },
+    {
+      "chapter": 178,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-178.md",
+      "heading": "# 第一百七十八章：炉火不等答复",
+      "body_count": 3152,
+      "count_unit": "CJK characters",
+      "sha256": "1057cb1a993853772df2845f445668582260c10389c7b56765aef0ae40d797c6",
+      "git_blob_sha1": "d6188bfbf261eca3ad883f8a9d681fc0eaf3b9ba"
+    },
+    {
+      "chapter": 178,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-178.md",
+      "heading": "# Chapter 178: The Furnace Wouldn't Wait",
+      "body_count": 1909,
+      "count_unit": "English whitespace words",
+      "sha256": "c2414ae5f8ae7c4ddcb8671e114b168a101bcf20d1cdb7fa215fffa9a2239cc7",
+      "git_blob_sha1": "962dc2b21b67a110f13509cd02f9d51ced499ec1"
+    },
+    {
+      "chapter": 179,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-179.md",
+      "heading": "# 第一百七十九章：留下的不是全部",
+      "body_count": 3041,
+      "count_unit": "CJK characters",
+      "sha256": "795dbd0e1fd0e71dbae02e06ef95fcfcf63ec9f1966d5d5ab7c4dbd83058b910",
+      "git_blob_sha1": "2c71f41cd4606f615b5d08bb8488405e9e0ed6d5"
+    },
+    {
+      "chapter": 179,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-179.md",
+      "heading": "# Chapter 179: Not Everything Survived",
+      "body_count": 1838,
+      "count_unit": "English whitespace words",
+      "sha256": "7bcaaeecfe16075260a5099296c43de88363daa7e95712a8fb35dc6b410a52ef",
+      "git_blob_sha1": "8465b70d4e499f8fdde8d7149e95008b9659edfb"
+    },
+    {
+      "chapter": 180,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-180.md",
+      "heading": "# 第一百八十章：那一行写着他的名字",
+      "body_count": 3044,
+      "count_unit": "CJK characters",
+      "sha256": "dde6291cef03945406ce3413bb901b68f5951b54dea9ef211e089e0b333f5754",
+      "git_blob_sha1": "bccd7c149588cc631e139f3fd54509bb8f10682c"
+    },
+    {
+      "chapter": 180,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-180.md",
+      "heading": "# Chapter 180: His Name Was on the Line",
+      "body_count": 1804,
+      "count_unit": "English whitespace words",
+      "sha256": "2fc75d4872c551e21d5d15fe194bf9ec817e96edbf9b97a546f496120a4d3b42",
+      "git_blob_sha1": "b1041555086c2bd9ebead9b595fef6ca55796d8b"
+    },
+    {
+      "chapter": 181,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-181.md",
+      "heading": "# 第一百八十一章：他不肯点头",
+      "body_count": 3034,
+      "count_unit": "CJK characters",
+      "sha256": "d153562c4b8d65eedb41ab616599de80eb6237fbd073c97a2e905a4f3fd6defb",
+      "git_blob_sha1": "ad97e946c74a699990ee40f66818a4221f978e81"
+    },
+    {
+      "chapter": 181,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-181.md",
+      "heading": "# Chapter 181: He Wouldn't Agree",
+      "body_count": 1808,
+      "count_unit": "English whitespace words",
+      "sha256": "244f098a756f99cb2132fc81b1b54429787a46786c1ca832609cfaa904185e3e",
+      "git_blob_sha1": "cfcd81c143843f9e3ab4e253d9bb199fc0705064"
+    },
+    {
+      "chapter": 182,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-182.md",
+      "heading": "# 第一百八十二章：请把原件放在桌上",
+      "body_count": 3044,
+      "count_unit": "CJK characters",
+      "sha256": "0468e25b088da4ad1fff8653f04f515bed59d8a7f1156adba5082e293c28b0d1",
+      "git_blob_sha1": "45d7b12031bf8cf796c3eb3ae3066feb0eac513c"
+    },
+    {
+      "chapter": 182,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-182.md",
+      "heading": "# Chapter 182: Put the Original on the Table",
+      "body_count": 1822,
+      "count_unit": "English whitespace words",
+      "sha256": "629a90da6301fa7ba08ab94c7b9bdf6799fca55e57f375003a1326a4459b9c0d",
+      "git_blob_sha1": "a3f529683bccf5c07c90f8b9e3e4b2e8cce5da5f"
+    }
+  ]
+}
