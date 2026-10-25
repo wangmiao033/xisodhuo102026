@@ -1,0 +1,223 @@
+{
+  "work": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "writing_date_beijing": "2026-10-25",
+  "new_bilingual_chapters": 10,
+  "chapter_range": [
+    208,
+    217
+  ],
+  "continuous_bilingual_stock_through": 217,
+  "platform_release_authorization_expanded": false,
+  "initial_main": "319fee76b44df4edde8d192bb2ca52a825aba90e",
+  "pre_submit_main": "f756987f2b32ebe52e98ef2dab4528fe4074a29b",
+  "count_rules": {
+    "zh": "Han characters only; heading excluded",
+    "en": "alphanumeric words with internal apostrophe/hyphen counted as one; heading excluded"
+  },
+  "totals": {
+    "zh": 30348,
+    "en": 18323
+  },
+  "files": [
+    {
+      "path": "chapters/zh/volume-07/208-灯留在她要的地方.md",
+      "chapter": 208,
+      "language": "zh",
+      "title": "# 第208章 灯留在她要的地方",
+      "count": 3056,
+      "bytes": 10741,
+      "sha256": "a8707955a9ccce21c426d5ab4cce1db1207374b82790335238a0189779baf2a9",
+      "git_blob": "38196a66e8d5b8d6834f0ff8cc3686d2a1eebfa6"
+    },
+    {
+      "path": "chapters/en/volume-07/208-leave-the-light-where-she-wants-it.md",
+      "chapter": 208,
+      "language": "en",
+      "title": "# Chapter 208: Leave the Light Where She Wants It",
+      "count": 1821,
+      "bytes": 10688,
+      "sha256": "c594730633ea44b0640a1d54840eb8220d2ae564649b4fb0831c14cb374c786e",
+      "git_blob": "6a1d540378885aa0dffc1fc94867aa05a5d8dbf1"
+    },
+    {
+      "path": "chapters/zh/volume-07/209-先把椅子停稳.md",
+      "chapter": 209,
+      "language": "zh",
+      "title": "# 第209章 先把椅子停稳",
+      "count": 3014,
+      "bytes": 10334,
+      "sha256": "5d5c01e22685bd3b9f4997ee8f15f6ba1c5606b19cc9587f69fc991170e07039",
+      "git_blob": "4b6ebea2f042164ab85b0308bb3bf3f0b50fd5f0"
+    },
+    {
+      "path": "chapters/en/volume-07/209-stop-the-chair-first.md",
+      "chapter": 209,
+      "language": "en",
+      "title": "# Chapter 209: Stop the Chair First",
+      "count": 1806,
+      "bytes": 10762,
+      "sha256": "cb5287d84c3df8f90c024707000bfbe5e4d2b018b0d58bfd3b95e42fb868a140",
+      "git_blob": "149efa3b83b39fe867d150d59e249da2089d135d"
+    },
+    {
+      "path": "chapters/zh/volume-07/210-这一件穿在今天.md",
+      "chapter": 210,
+      "language": "zh",
+      "title": "# 第210章 这一件穿在今天",
+      "count": 3028,
+      "bytes": 10405,
+      "sha256": "dea9a2397a0228969e27de7d737bceaa457a266bde76b157318871be851b2528",
+      "git_blob": "d7e432ceba96e342a0de6fe5dae32944c20fd039"
+    },
+    {
+      "path": "chapters/en/volume-07/210-this-one-is-for-today.md",
+      "chapter": 210,
+      "language": "en",
+      "title": "# Chapter 210: This One Is for Today",
+      "count": 1822,
+      "bytes": 10685,
+      "sha256": "08f73a12103af6175f033f5f50df71e8a7fbb02d030a9bc05d9336b5c808d458",
+      "git_blob": "6bb76dc7957ceb030a4ed54df99587e9c763e61e"
+    },
+    {
+      "path": "chapters/zh/volume-08/211-照片还在往前走.md",
+      "chapter": 211,
+      "language": "zh",
+      "title": "# 第211章 照片还在往前走",
+      "count": 3104,
+      "bytes": 10721,
+      "sha256": "b565767800cda7e43e3c8a21c2e8cddd47cd4ae38b0b547e193de8382c0285d2",
+      "git_blob": "0b308af9a333459a70f4e808f6e13921100a662b"
+    },
+    {
+      "path": "chapters/en/volume-08/211-the-photograph-was-still-moving.md",
+      "chapter": 211,
+      "language": "en",
+      "title": "# Chapter 211: The Photograph Was Still Moving",
+      "count": 1846,
+      "bytes": 11364,
+      "sha256": "bc6c88eb1d41a91ae42c91bb13b7a34eab3adbe6f73ae75bc9ed524b446ef740",
+      "git_blob": "55efcfbbafb1e5801bd0f6a8a0075919cfcea63d"
+    },
+    {
+      "path": "chapters/zh/volume-08/212-别让那条边再近了.md",
+      "chapter": 212,
+      "language": "zh",
+      "title": "# 第212章 别让那条边再近了",
+      "count": 3038,
+      "bytes": 10473,
+      "sha256": "4fb1423b45963d1941b4bde74093ed45036fac19b7200cb4d5a1561753570992",
+      "git_blob": "3feddfbb06b9c2355880c7876b282ab2081ed9e6"
+    },
+    {
+      "path": "chapters/en/volume-08/212-dont-let-that-edge-come-closer.md",
+      "chapter": 212,
+      "language": "en",
+      "title": "# Chapter 212: Don't Let That Edge Come Closer",
+      "count": 1880,
+      "bytes": 11438,
+      "sha256": "a3c127427058b544dff7d9bd6273b6786647548d28dd1e8bb018b6b0ff175799",
+      "git_blob": "a95afc8059290d2a3767eaaa51502c39f3f17ac6"
+    },
+    {
+      "path": "chapters/zh/volume-08/213-先别把她摆正.md",
+      "chapter": 213,
+      "language": "zh",
+      "title": "# 第213章 先别把她摆正",
+      "count": 3069,
+      "bytes": 10701,
+      "sha256": "faa3f3a59aaac6315eb6dd338b7a85470c169cef4d598f31db618c032ed8143f",
+      "git_blob": "5697c7eb94eb2b005361c8da07521d26f04e731d"
+    },
+    {
+      "path": "chapters/en/volume-08/213-dont-straighten-her.md",
+      "chapter": 213,
+      "language": "en",
+      "title": "# Chapter 213: Don't Straighten Her",
+      "count": 1853,
+      "bytes": 10972,
+      "sha256": "664166b59ed8a8019d66e4b5997d7ed717d38ed2c550353e34529a7802593e90",
+      "git_blob": "26bd57155fb9d9c53221531114dfbac80f62fdf0"
+    },
+    {
+      "path": "chapters/zh/volume-08/214-刀还没有退回去.md",
+      "chapter": 214,
+      "language": "zh",
+      "title": "# 第214章 刀还没有退回去",
+      "count": 3002,
+      "bytes": 10455,
+      "sha256": "f58ff9050cf2cec4a6e81ca276c712f91685d9114308ec4dcda4f691dabfddd7",
+      "git_blob": "ef7755d89a96cfe5fe2644f006da7733099b910e"
+    },
+    {
+      "path": "chapters/en/volume-08/214-the-blade-hadnt-returned.md",
+      "chapter": 214,
+      "language": "en",
+      "title": "# Chapter 214: The Blade Hadn't Returned",
+      "count": 1825,
+      "bytes": 11027,
+      "sha256": "be7d32416cf455b77304bd2dadd079035760332d8e539714e614abcf07e0bdb7",
+      "git_blob": "9502b20cf17dfbff1278ad37c10a5acfe6e647a8"
+    },
+    {
+      "path": "chapters/zh/volume-08/215-先把这一刀停住.md",
+      "chapter": 215,
+      "language": "zh",
+      "title": "# 第215章 先把这一刀停住",
+      "count": 3003,
+      "bytes": 10426,
+      "sha256": "53278f73f3a0dccad8ced5abff6ea91bd54e026eb349e224511012c90bf6900c",
+      "git_blob": "966fb7deda886f747ad960a803f1293f8c1b4393"
+    },
+    {
+      "path": "chapters/en/volume-08/215-stop-this-cut-first.md",
+      "chapter": 215,
+      "language": "en",
+      "title": "# Chapter 215: Stop This Cut First",
+      "count": 1820,
+      "bytes": 10610,
+      "sha256": "ad5b7c7986f4565ccee8dad02e7ba5933fa135062252d195dae9d1ad0efa8384",
+      "git_blob": "5256b465e1238acc1387e48ea020a1035e8ef8c4"
+    },
+    {
+      "path": "chapters/zh/volume-08/216-他也有没看见的地方.md",
+      "chapter": 216,
+      "language": "zh",
+      "title": "# 第216章 他也有没看见的地方",
+      "count": 3021,
+      "bytes": 10385,
+      "sha256": "059787d708a2c7ad650b30efd43b82891584e64736c95397e023197530a09acb",
+      "git_blob": "ad91bd55ae21d024f334fa747ae1d214aff99434"
+    },
+    {
+      "path": "chapters/en/volume-08/216-there-were-things-he-hadnt-seen.md",
+      "chapter": 216,
+      "language": "en",
+      "title": "# Chapter 216: There Were Things He Hadn't Seen",
+      "count": 1846,
+      "bytes": 11291,
+      "sha256": "83b746b3fdca8a30267e781f0006288ac92ed3240f75f7d26f95fd124f79d7b5",
+      "git_blob": "366c90ca2b835526eb0632557b87b3abc0031aff"
+    },
+    {
+      "path": "chapters/zh/volume-08/217-这一次是他自己说的.md",
+      "chapter": 217,
+      "language": "zh",
+      "title": "# 第217章 这一次是他自己说的",
+      "count": 3013,
+      "bytes": 10507,
+      "sha256": "e81fe14be6050fc162c5651eb668630558f920047d28fbd7cafc10727171ddea",
+      "git_blob": "32c922b0c35f603ee9084c375ce7dda5de9e1a53"
+    },
+    {
+      "path": "chapters/en/volume-08/217-this-time-he-said-it-himself.md",
+      "chapter": 217,
+      "language": "en",
+      "title": "# Chapter 217: This Time He Said It Himself",
+      "count": 1804,
+      "bytes": 10939,
+      "sha256": "34bc8fc314780ccb2a9568b07cd085f43365ae953e4f1892e7191cd6c075f474",
+      "git_blob": "d9ced661c3ad07689dd3d90e1b808f69167ac5ab"
+    }
+  ]
+}
