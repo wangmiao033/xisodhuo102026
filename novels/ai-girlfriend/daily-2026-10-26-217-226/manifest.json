@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-26",
+  "initial_remote_main": "bb0b220a8eaa88b315dc537d910a7c454cadadaa",
+  "chapter_range": [
+    217,
+    226
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    226
+  ],
+  "continuation_pair_count_after_verification": 100,
+  "next_new_chapter": 227,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 217,
+      "cn": {
+        "path": "cn/217_Where_The_Note_Stopped.md",
+        "heading": "第217章 音停下来的地方",
+        "sha256": "a911b1dea9327a6302af9c244882c1637bb907f7f76a103c569eef3031b2dbd0",
+        "git_blob_sha1": "d60957e1c744bdcf907866d08231418e720e05e6",
+        "utf8_bytes": 7871,
+        "paragraphs": 95,
+        "body_han_characters": 2141
+      },
+      "en": {
+        "path": "en/217_Where_The_Note_Stopped.md",
+        "heading": "Chapter 217: Where the Note Stopped",
+        "sha256": "73a5e153f91090f360e803f3a1b6ce09ef7ca1084671f135af22b58b148de83d",
+        "git_blob_sha1": "fe414236e5cdeb4adf09a668349f26e886d0684a",
+        "utf8_bytes": 8724,
+        "paragraphs": 95,
+        "body_words": 1513
+      }
+    },
+    {
+      "chapter": 218,
+      "cn": {
+        "path": "cn/218_The_Last_Column.md",
+        "heading": "第218章 最后一栏",
+        "sha256": "e6f5bd455ea09c6262140adf46a28bdb93829acddd38ccf9e5f07689798e9938",
+        "git_blob_sha1": "fb89dae3ad3c44ea6962ec020ebbc3509d80e81e",
+        "utf8_bytes": 6851,
+        "paragraphs": 74,
+        "body_han_characters": 1913
+      },
+      "en": {
+        "path": "en/218_The_Last_Column.md",
+        "heading": "Chapter 218: The Last Column",
+        "sha256": "b8eb11d36761a4c4e1d41c3e30f26e7b014bff315c6d0b4a2e97d35471141522",
+        "git_blob_sha1": "e94f5d3135bc535a9daf88f9b6d8717c29f735cc",
+        "utf8_bytes": 7900,
+        "paragraphs": 74,
+        "body_words": 1416
+      }
+    },
+    {
+      "chapter": 219,
+      "cn": {
+        "path": "cn/219_No_Words_Yet.md",
+        "heading": "第219章 尚无歌词",
+        "sha256": "267ee85f05d0465b319b6a144e7a22f8085bded3ff992ffee8f3abfc41d224f0",
+        "git_blob_sha1": "b66484a6622a55de15ed9220ff0d766fcc3a889c",
+        "utf8_bytes": 7493,
+        "paragraphs": 86,
+        "body_han_characters": 2070
+      },
+      "en": {
+        "path": "en/219_No_Words_Yet.md",
+        "heading": "Chapter 219: No Words Yet",
+        "sha256": "2403a898de3bafe1af4b99821cf79bc4bbacd4275c00b5559a753ef54ec0f7c2",
+        "git_blob_sha1": "e6c422ac5c54cd4b18fe7b6a2ec002428e1683fe",
+        "utf8_bytes": 8319,
+        "paragraphs": 86,
+        "body_words": 1456
+      }
+    },
+    {
+      "chapter": 220,
+      "cn": {
+        "path": "cn/220_Across_The_Fold.md",
+        "heading": "第220章 折痕两边",
+        "sha256": "a84a67c4baaa260d21d53999c3c8183407200b8fedb237343909bfcbd43cdb95",
+        "git_blob_sha1": "9008e37c1c8e35e1a750d585bb615a2de613f582",
+        "utf8_bytes": 7192,
+        "paragraphs": 72,
+        "body_han_characters": 2015
+      },
+      "en": {
+        "path": "en/220_Across_The_Fold.md",
+        "heading": "Chapter 220: Across the Fold",
+        "sha256": "5ab79daeba8785560d80f529d6e2a3b1c0872a2fc78c9d84c4323762a80de79d",
+        "git_blob_sha1": "f683e30f4da6cfd9e917a3b6ccd93be730729b68",
+        "utf8_bytes": 8482,
+        "paragraphs": 72,
+        "body_words": 1463
+      }
+    },
+    {
+      "chapter": 221,
+      "cn": {
+        "path": "cn/221_The_Visible_Join.md",
+        "heading": "第221章 看得见的接缝",
+        "sha256": "088eb178a8ebdad82513bbcd5f18dbdd03b47b5fa9e88825eb7752208514eecb",
+        "git_blob_sha1": "a1fb947a60b90d013dc9ffe1e4fa300d1d9725ce",
+        "utf8_bytes": 7042,
+        "paragraphs": 60,
+        "body_han_characters": 1995
+      },
+      "en": {
+        "path": "en/221_The_Visible_Join.md",
+        "heading": "Chapter 221: The Visible Join",
+        "sha256": "56bb2e28a7093edffb36863bb7bc41d6d4a55847a6ea24ed2ed2ea9ee2fb01d5",
+        "git_blob_sha1": "d1459719140e5a292256246f4506abe7bc197526",
+        "utf8_bytes": 7996,
+        "paragraphs": 60,
+        "body_words": 1404
+      }
+    },
+    {
+      "chapter": 222,
+      "cn": {
+        "path": "cn/222_The_Part_I_Read_Too_Fast.md",
+        "heading": "第222章：我念得太快的地方",
+        "sha256": "78b86c0c57e47d68dcc47e154cb48b28db8842c1155ed3ab9d68483ac9fbf771",
+        "git_blob_sha1": "07adde8b527c1322ac6ead20055b2617255fc9dc",
+        "utf8_bytes": 8133,
+        "paragraphs": 81,
+        "body_han_characters": 2270
+      },
+      "en": {
+        "path": "en/222_The_Part_I_Read_Too_Fast.md",
+        "heading": "Chapter 222: The Part I Read Too Fast",
+        "sha256": "58d1b395128169809ad393d8c972915117d45c3675b0a8eb1c4202b3004a4d78",
+        "git_blob_sha1": "535edda2e90189682602107aee60ded5261475ff",
+        "utf8_bytes": 8486,
+        "paragraphs": 84,
+        "body_words": 1445
+      }
+    },
+    {
+      "chapter": 223,
+      "cn": {
+        "path": "cn/223_Not_Background_Music.md",
+        "heading": "第223章：不是背景音乐",
+        "sha256": "7c86a94a7605e62fcc1bb313fb1e9a71924fcab77ab02c99b67ff3dd618e1aea",
+        "git_blob_sha1": "d380366fc4df8106c0f695a7cb191e5fc9e17df7",
+        "utf8_bytes": 8062,
+        "paragraphs": 86,
+        "body_han_characters": 2237
+      },
+      "en": {
+        "path": "en/223_Not_Background_Music.md",
+        "heading": "Chapter 223: Not Background Music",
+        "sha256": "6965449a67d0cd56626e196ce599d14c9144d0a5b11745d12791ae1aca8a9314",
+        "git_blob_sha1": "1681c53ab7a04bde042756e93b33b4a7eba06328",
+        "utf8_bytes": 8292,
+        "paragraphs": 89,
+        "body_words": 1421
+      }
+    },
+    {
+      "chapter": 224,
+      "cn": {
+        "path": "cn/224_Only_The_Title.md",
+        "heading": "第224章：只说名字",
+        "sha256": "e9978008fef83d4904ce79e5c0a631c94d7259cac376b6483bf6bc3bf6c1e97a",
+        "git_blob_sha1": "b05c351cb01df472d43b24d8eb5e686ffec084a6",
+        "utf8_bytes": 7779,
+        "paragraphs": 84,
+        "body_han_characters": 2160
+      },
+      "en": {
+        "path": "en/224_Only_The_Title.md",
+        "heading": "Chapter 224: Only the Title",
+        "sha256": "c8b9473730b110ab3963b2c5f99dc2616c051db5c917418a3553baccb9bf4f1a",
+        "git_blob_sha1": "8353ba1cb9a12c26609019591ed7b398681186df",
+        "utf8_bytes": 8188,
+        "paragraphs": 86,
+        "body_words": 1368
+      }
+    },
+    {
+      "chapter": 225,
+      "cn": {
+        "path": "cn/225_The_Tune_On_The_Way_Home.md",
+        "heading": "第225章：回家路上的旋律",
+        "sha256": "cd84624a0af7ec5715947fbe1fd9037e74fef2eae43a4e2af65c8d65e3e4e48c",
+        "git_blob_sha1": "accbc06d383a3cdb66da45ff3d578cddee38e0e1",
+        "utf8_bytes": 7250,
+        "paragraphs": 73,
+        "body_han_characters": 2007
+      },
+      "en": {
+        "path": "en/225_The_Tune_On_The_Way_Home.md",
+        "heading": "Chapter 225: The Tune on the Way Home",
+        "sha256": "8f682677f9064ca0c0bf9ef9e2fd4ab101f1cccd6dd727fb8d4ff0fb00e3c9c7",
+        "git_blob_sha1": "9363ea101044e4cfcbcb2a70df0ccb4ff7a4d62e",
+        "utf8_bytes": 8079,
+        "paragraphs": 80,
+        "body_words": 1374
+      }
+    },
+    {
+      "chapter": 226,
+      "cn": {
+        "path": "cn/226_After_The_Last_Note.md",
+        "heading": "第226章：最后一个音之后",
+        "sha256": "ccf74dc5d84d10bf8be4c52c0364dc1a0517dd768f2c455ada1264ebfe131c36",
+        "git_blob_sha1": "bc48bc3327e99e4cb9f78148426419791bf62165",
+        "utf8_bytes": 7551,
+        "paragraphs": 75,
+        "body_han_characters": 2121
+      },
+      "en": {
+        "path": "en/226_After_The_Last_Note.md",
+        "heading": "Chapter 226: After the Last Note",
+        "sha256": "79b1b83c7e531737281f16f6da14d2f3bb31fdf612e9fc954e9d1a0272ab81b2",
+        "git_blob_sha1": "f086441981576aac46afeb97eddc472214332ac2",
+        "utf8_bytes": 8315,
+        "paragraphs": 78,
+        "body_words": 1391
+      }
+    }
+  ]
+}
