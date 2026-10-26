@@ -1,0 +1,250 @@
+{
+  "status": "All 35 complete English chapters independently reviewed; final frozen files verified against review hashes.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "path": "chapters/en/001-three-oh-seven.md",
+      "sha256": "0155e30dbd316b987a4cf26ca7c5f0284f52c4a23f5f3711d07e810f8e13ee70",
+      "body_words_whitespace": 1818,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 2,
+      "path": "chapters/en/002-he-cant-take-a-cab-himself.md",
+      "sha256": "948c84291d48e516e352129817d7e8869d99465023defe859b6f06aeaa0c9154",
+      "body_words_whitespace": 1813,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 3,
+      "path": "chapters/en/003-temporary-resident.md",
+      "sha256": "5f084bd72ab83a4908b3929cf41000d3e91fde0b70a969dcb4fdb3573b6219b6",
+      "body_words_whitespace": 1822,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 4,
+      "path": "chapters/en/004-i-found-the-backup-myself.md",
+      "sha256": "cf76d8e9cb198136ba52a4341eba612fbc8a18d2079393b2044bd234bddb0263",
+      "body_words_whitespace": 1821,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 5,
+      "path": "chapters/en/005-the-first-new-job.md",
+      "sha256": "9892dfcdd1d97e9651cc871871416c4634a36eeb994935688ed4fa528f88531d",
+      "body_words_whitespace": 1808,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 6,
+      "path": "chapters/en/006-not-a-free-sample.md",
+      "sha256": "c88625724c9322d1e7cc3b4af8b1bd94eafe0c6b28073344a0eb32a04e97dbd0",
+      "body_words_whitespace": 1817,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 7,
+      "path": "chapters/en/007-the-dog-outside-the-frame.md",
+      "sha256": "5fe75013b2f9ffc9072673c01a9c921cbaea89169416b0cb686713081a9b7bc4",
+      "body_words_whitespace": 1816,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 8,
+      "path": "chapters/en/008-the-cat-picked-the-wrong-person.md",
+      "sha256": "7633dc65211344233a0b4e310fd255627a28e00259f114c3af3a44e58c4cb58a",
+      "body_words_whitespace": 1820,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 9,
+      "path": "chapters/en/009-the-sandwich-after-closing.md",
+      "sha256": "e18b26f5302b505759dc5a5419884502eaf82cbeef9650523aad686bea2cc725",
+      "body_words_whitespace": 1815,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 10,
+      "path": "chapters/en/010-pay-the-planner-not-the-cat.md",
+      "sha256": "1e08725aa2982fa64dc60cde3245b7a259ed62804e106cf8e03040c03a658b0a",
+      "body_words_whitespace": 1834,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 11,
+      "path": "chapters/en/011-returned-for-revision.md",
+      "sha256": "0b2aebfe6c0261c9f0b8f4f14760a92b60e712f995aeafcc2c93bfaad481dfc4",
+      "body_words_whitespace": 1864,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 12,
+      "path": "chapters/en/012-a-room-for-everyone.md",
+      "sha256": "9eec69e53a45236b96297380babf84e020df8d2f37935088f1db9f7e5ae2242a",
+      "body_words_whitespace": 1801,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 13,
+      "path": "chapters/en/013-the-third-time-she-came.md",
+      "sha256": "037dddda7db64de144edd1daabc262fe8e52c760a096f97a9533220e825faa95",
+      "body_words_whitespace": 1839,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 14,
+      "path": "chapters/en/014-an-interview-across-a-box.md",
+      "sha256": "25e30ce3a2c2579af902bfe835b36c1f913b82df336ca575c34db0b7219fa764",
+      "body_words_whitespace": 1836,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 15,
+      "path": "chapters/en/015-not-today-is-not-never.md",
+      "sha256": "bb9ffcd310c2d2892f6011fa729efef53992b4c64c0279b6a50b62ccc8512a66",
+      "body_words_whitespace": 1808,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 16,
+      "path": "chapters/en/016-cat-pays-rent.md",
+      "sha256": "1829fabf919f8a4314aa7db978ff4f3041f3a9285a0320cb0ccca2f3d07c4fbe",
+      "body_words_whitespace": 1813,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 17,
+      "path": "chapters/en/017-the-vet-who-wouldnt-smile.md",
+      "sha256": "246cc9292b7a0cba496ec7ade977905f5c2b31527c80c323c323af15f7099207",
+      "body_words_whitespace": 1914,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 18,
+      "path": "chapters/en/018-a-face-isnt-an-answer.md",
+      "sha256": "44dcbdbaae586813321e81daee6d66a5c18cca494c2647deb11766dc0c63c627",
+      "body_words_whitespace": 1836,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 19,
+      "path": "chapters/en/019-the-first-bad-comment.md",
+      "sha256": "b21b018cb4607e91722e76bbbd889a329b17d7f6b2b4ae4281d3f698a7a98086",
+      "body_words_whitespace": 1821,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 20,
+      "path": "chapters/en/020-the-people-who-came-back.md",
+      "sha256": "7a6b59b28206e115b5c21aca6cac9c200e2317290fe09836a632f944b12f7949",
+      "body_words_whitespace": 1841,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 21,
+      "path": "chapters/en/021-boxes-again.md",
+      "sha256": "8c78a878a574a55f77f3caca1212e81b1ceb2fd47a5678a0c8edece9c6770314",
+      "body_words_whitespace": 1875,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 22,
+      "path": "chapters/en/022-the-mark-beneath-the-fur.md",
+      "sha256": "570f4a32e41433061809913e214a83f3708cc86fa32ac4be466353f3a0b2655c",
+      "body_words_whitespace": 1828,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 23,
+      "path": "chapters/en/023-i-might-get-a-job.md",
+      "sha256": "42ce8657cb3ce8ef942713703deebc761ca59ec325cbb461567c949b5c47aed7",
+      "body_words_whitespace": 1816,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 24,
+      "path": "chapters/en/024-no-sob-story-this-time.md",
+      "sha256": "75ce8896d03f1c2541957f30912e0045fb461df7d2701d4c9db9f5e78fbe9c57",
+      "body_words_whitespace": 1804,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 25,
+      "path": "chapters/en/025-you-dont-have-to-earn-it-back.md",
+      "sha256": "a6b07f1d1580114e90d43ec1fed6a1d4f018d491f3395a3f9464400865de0fb7",
+      "body_words_whitespace": 1805,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 26,
+      "path": "chapters/en/026-she-doesnt-need-pity.md",
+      "sha256": "8a07e3a076e8278964a36a0b56ca49e3a9e6ab3f13968602e28991f45ae22441",
+      "body_words_whitespace": 1806,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 27,
+      "path": "chapters/en/027-the-broken-bench.md",
+      "sha256": "564d9711feb69f4ab39736bbaaaa1739cb980706475b59a6ab251f3c07598bc5",
+      "body_words_whitespace": 1824,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 28,
+      "path": "chapters/en/028-the-camera-can-wait.md",
+      "sha256": "b389d673c29051c4655ce257916782acb9b7b6cca7abec8c7eaf912194dcf652",
+      "body_words_whitespace": 1808,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 29,
+      "path": "chapters/en/029-off-the-popular-route.md",
+      "sha256": "49d4e7257c26d4db7d48ab6cda756357049aa8466661f8c952084eacf2ba32a2",
+      "body_words_whitespace": 1832,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 30,
+      "path": "chapters/en/030-a-slower-dinner.md",
+      "sha256": "e9a7a5de86f322f1bb133015f2655481889719c48024320f48d03a87ed1855aa",
+      "body_words_whitespace": 1861,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 31,
+      "path": "chapters/en/031-a-proper-offer.md",
+      "sha256": "c595ff4055228ba7971134e16a372f1de9096fe08b3b5b68b61d0023bca7d2cb",
+      "body_words_whitespace": 1842,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 32,
+      "path": "chapters/en/032-the-terms-in-brackets.md",
+      "sha256": "40ee8cd38efe54afbac5f0fb069d98a205d5b0d5a0ac4973c868f0ff744fd92c",
+      "body_words_whitespace": 1822,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 33,
+      "path": "chapters/en/033-the-cat-is-closed-today.md",
+      "sha256": "0134569d34a1ca3b6e7ba9dab43b78d6b62980a14456ab435a8b6e0bf9333f6c",
+      "body_words_whitespace": 1837,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 34,
+      "path": "chapters/en/034-more-than-the-cat.md",
+      "sha256": "e9202f45df8900cb5817f8f49591e2c5e4da8deafc64509c62198fb61a14ffff",
+      "body_words_whitespace": 1834,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 35,
+      "path": "chapters/en/035-my-name-on-the-agreement.md",
+      "sha256": "0a12eb35a9b341c1c10edd6166817d01a17d47e5b0204897994be4a442c94608",
+      "body_words_whitespace": 1862,
+      "independent_full_text_review": "pass"
+    }
+  ]
+}

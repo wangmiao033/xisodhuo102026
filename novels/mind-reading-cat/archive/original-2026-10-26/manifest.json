@@ -1,0 +1,670 @@
+{
+  "description": "Unmodified original published chapter bodies, retained before the approved reboot replacement. Displayed release timestamps have no independently established timezone. No private account data, comments, or editor-session payloads are included.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "My Name's on the Layoff List",
+      "readerUrl": "https://global.novelpia.com/viewer/815166",
+      "releaseTimeAsDisplayed": "Sep,07,2026 12:08:29",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "001.txt",
+          "sha256": "a17943f82cd16bf68aa7f3e44420e89a595d4c012cdce3ea16a43182739ecd22",
+          "git_blob_sha1": "443afd599b471f69162d595d4ca841a95a318942"
+        },
+        {
+          "path": "001.html",
+          "sha256": "731b931765ff00b9c009b8b3dfbc51237b160fe698e68a967357e491f69902fe",
+          "git_blob_sha1": "a1f97cbbb54f22fbe9b2dd52e19c890e20614188"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "This Cat's a Little Too Sentient",
+      "readerUrl": "https://global.novelpia.com/viewer/815253",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:15:15",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "002.txt",
+          "sha256": "cc3c749bc74fdd3154dbe419937bd78703195e919f0d794b3eac2058925952a0",
+          "git_blob_sha1": "9fb1fbbf4c8c75b64d38cde93383e87618b4562d"
+        },
+        {
+          "path": "002.html",
+          "sha256": "79d64fa892daa61a6a2782d118f7070288575f56f20542e644734e5ff62f4f1b",
+          "git_blob_sha1": "1a8eff0035e6077e1323cbf6191e97f0498d0108"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "The Cat Screens Out the Trash Humans",
+      "readerUrl": "https://global.novelpia.com/viewer/815254",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:18:15",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "003.txt",
+          "sha256": "b7778fed0c664cf17ca1996ee5f67ff1735b2c86700a390e089948cc341381be",
+          "git_blob_sha1": "b86c6d6adc24dd2c52fa84a60cc9b6968552b9d0"
+        },
+        {
+          "path": "003.html",
+          "sha256": "46220d9607cceeaa888c5d81e2e84f6d3e3330f8a9ed7a2a416316b5974edddc",
+          "git_blob_sha1": "e11ee501ac225d45727abac7d65f2d2fe7a1ea99"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "These Days, Even Cats Are More Reliable",
+      "readerUrl": "https://global.novelpia.com/viewer/815256",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:20:28",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "004.txt",
+          "sha256": "9e4e7a9b49f9f0cc83bd74f1d242e5dc23ddc2f5fe46454f5dcad7f1a2d36574",
+          "git_blob_sha1": "77c7e1c9f31a194c5c9717c24d1f9102bdfae3bf"
+        },
+        {
+          "path": "004.html",
+          "sha256": "e0b7e3c156053d301c07020d41820c78494fb085a9b213ac2a4e6f6356dd7002",
+          "git_blob_sha1": "2588a3603a81bcd2ac46075be843e2cd60b3127e"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "First Paycheck After Getting Fired",
+      "readerUrl": "https://global.novelpia.com/viewer/815257",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:24:17",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "005.txt",
+          "sha256": "c190d9f7ac1c9eac51a9747c345cdbd5054e12c54d22fb3fc5f08130658fcbf7",
+          "git_blob_sha1": "0663fb615b8535fc13c9002ca6ba1b5af1272243"
+        },
+        {
+          "path": "005.html",
+          "sha256": "6848780884769289f4caa3a96ac879e02948df82c22bd43d7a7177bd0a9e4567",
+          "git_blob_sha1": "52eb53268069c68e6ef9f8b7d28c6ef6418231e7"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "He's a Vet. She's Still a Corporate Mule.",
+      "readerUrl": "https://global.novelpia.com/viewer/815258",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:27:36",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "006.txt",
+          "sha256": "b0e69e861ae20c215ca18f1fb63517309cb05b7cebf0483fdc6a3899c70e4e38",
+          "git_blob_sha1": "5e31aa52d611f6fb981fb0a7909989f079a7a15c"
+        },
+        {
+          "path": "006.html",
+          "sha256": "9eb0f045ecc3ee3f1389fe24d743f40eb2add86ecdd3f651f71e3c7ca5e0d9a8",
+          "git_blob_sha1": "d36e76a055e510f420976a29c7708cdd6482cc35"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Dumpling Starts Playing Cupid",
+      "readerUrl": "https://global.novelpia.com/viewer/815268",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:36:45",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "007.txt",
+          "sha256": "23e84634959c42693288b97ecfb9a1eeb4df48c8278425c2d66c878ec9e6594c",
+          "git_blob_sha1": "5a6316feb851bb4ef3e33d37ad48483bb00f2fa5"
+        },
+        {
+          "path": "007.html",
+          "sha256": "e85318b144181ad483cd3f67edf3a7c821bd6778538442f183c68642b1bb1ef6",
+          "git_blob_sha1": "3ec810ea1909c6b89f4c4c7420c2b707a77dc03d"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "First Gig: One Socially Anxious Cat",
+      "readerUrl": "https://global.novelpia.com/viewer/815272",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:40:32",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "008.txt",
+          "sha256": "b0d14c105ed22c4e6778536499a0d1eb79881665ea7fe633ac130077a26e5916",
+          "git_blob_sha1": "67a1b070c7d61b248c352403593bb375e5a807e6"
+        },
+        {
+          "path": "008.html",
+          "sha256": "702e26c2c383c35d42f05147d3a5a9a5c48065dde2551bf33907cc56c582fb39",
+          "git_blob_sha1": "dce1ee2fbe494b035f3237d835c2df2c6852c59d"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "The Trouble Starts With Jealousy",
+      "readerUrl": "https://global.novelpia.com/viewer/815274",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:43:48",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "009.txt",
+          "sha256": "b527b54ef99e5856682a760203fbb975aa6e3559e44784ad8bbd934192beba8a",
+          "git_blob_sha1": "27c37426b55b8a9c0466f67b155b5e91ec6d96de"
+        },
+        {
+          "path": "009.html",
+          "sha256": "4e6fb670abc5360c06553b64372cb8c05f86f42e1be3defa58b6ede83776bf9d",
+          "git_blob_sha1": "57141855013b526091a201a86d4976b4bd32877a"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "The Account Blows Up. So Does My Old Coworker.",
+      "readerUrl": "https://global.novelpia.com/viewer/815275",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:47:23",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "010.txt",
+          "sha256": "b252699d76cfd1eb84fc5f6d788ff773a4596a04869b2ef15abe2d8267e4fb5e",
+          "git_blob_sha1": "24cac95ed26bcb7337a052fc5b62cda6bc73c632"
+        },
+        {
+          "path": "010.html",
+          "sha256": "b756807e8b49e0ced36608b60942f900e2eb054ba3cb2a66b975ad971fc13afb",
+          "git_blob_sha1": "626c90f867afc5b63ad2cb4cefbf4dae0914a40f"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "I Want to Build This With Him",
+      "readerUrl": "https://global.novelpia.com/viewer/815279",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:50:48",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "011.txt",
+          "sha256": "b5f64739138a26fbfb011154e05d0ea49d546987f79427cc54461a3194e35170",
+          "git_blob_sha1": "52044b15e2f0357234f5916c2be6ec4cceaa056e"
+        },
+        {
+          "path": "011.html",
+          "sha256": "c4cca63cccd90073d1bcf1c89e6b72da23742a58a246ccf06e7e107248c7899f",
+          "git_blob_sha1": "0ca8213f468df5a06398d0d7b9a56cee78ac5520"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Old Company Shows Up. The Cat's Already Over It.",
+      "readerUrl": "https://global.novelpia.com/viewer/815284",
+      "releaseTimeAsDisplayed": "Sep,07,2026 14:54:16",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "012.txt",
+          "sha256": "158e80616f1fe5f57257f236e2787749bfaa3db04bd5ec7ec4b5f767904e5bcd",
+          "git_blob_sha1": "5188d31295773f236f60e6d6a21ed00a657f6bca"
+        },
+        {
+          "path": "012.html",
+          "sha256": "e20f1a298f1fcb275fe92163cf2721c4ec20708444dfc4ac9fa48e0289411267",
+          "git_blob_sha1": "b2c34b87ede08328201e2d810925865863d64df1"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "He Sells the Cute. I Sell the Brain.",
+      "readerUrl": "https://global.novelpia.com/viewer/815337",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:18:50",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "013.txt",
+          "sha256": "21dc6e114448597913c3a4a2f0c0597144a0c6276caf329b84c618379ca640d9",
+          "git_blob_sha1": "edbc80e36ae31bcbaa3e24c4b0f206b65cd34137"
+        },
+        {
+          "path": "013.html",
+          "sha256": "3409b02b1bc2ec516fa5070af1d4c9aed563b20b1d92af69c376ca866a31a4bb",
+          "git_blob_sha1": "533b2e7ec06e0ea20b4b7029abee794c2698b655"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "It's So Obvious Even the Cat Noticed",
+      "readerUrl": "https://global.novelpia.com/viewer/815339",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:21:30",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "014.txt",
+          "sha256": "a261b47c9a8d981b7eec10b175091ad2aabef0d37c46b1d08846c6f3437ebb11",
+          "git_blob_sha1": "4ae77f84edc82c8056da9ae5f30fa94805735933"
+        },
+        {
+          "path": "014.html",
+          "sha256": "e51b03fa11032fa467773789276a0d35070c97940854fda059ac486128206887",
+          "git_blob_sha1": "6d7230409ef0dbd0b7a2b256d6a97d5b387fbdd3"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "Looking at a Shop Like It's a Date",
+      "readerUrl": "https://global.novelpia.com/viewer/815340",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:24:26",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "015.txt",
+          "sha256": "7a6382636d0ec97665960b09ed90834ff822a60e0d1b1db8674f9866594a4d50",
+          "git_blob_sha1": "3d0722a205c892aca4ed1ae244366c3748513733"
+        },
+        {
+          "path": "015.html",
+          "sha256": "e4fe61644be3d3e5fdf3043e3ba54150a7a0216b40a7ccea4fba28964d771993",
+          "git_blob_sha1": "b152138b10689f9a696af818e37dfe462dad9146"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "Before We Open, Let's Embarrass Ourselves First",
+      "readerUrl": "https://global.novelpia.com/viewer/815344",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:37:26",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "016.txt",
+          "sha256": "65300b640966c5641ec8289fc6edd6c6aee60ef885d2cac7388ae3fa0f85f95f",
+          "git_blob_sha1": "c8997e7e58d0caf23808742e7f97c7f3e8f6530a"
+        },
+        {
+          "path": "016.html",
+          "sha256": "babf2a8b34b4ee2624272813bfe98b2db112c7d5ec4be97c476af05828b2e39a",
+          "git_blob_sha1": "31ef539d8e397e4a3493077fee32c6506546a01b"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "She Gets a Fever. He Stays. The Cat Supervises.",
+      "readerUrl": "https://global.novelpia.com/viewer/815349",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:41:31",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "017.txt",
+          "sha256": "a91abb492408bca44087f083e7c46e19397b7547882cd9ce874fbe46c27e31e5",
+          "git_blob_sha1": "021a406c1eeb4945efc1bbd2a10be979201ac01a"
+        },
+        {
+          "path": "017.html",
+          "sha256": "94df92ab3539a8e3487ae50cb371e3cc33d9f3e2adbc08e1d562d9dc41dd0907",
+          "git_blob_sha1": "ef6aadc34f2d5da8d98e694ff619af63786dc24a"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "The Second She's Better, She Wants to Kiss Him",
+      "readerUrl": "https://global.novelpia.com/viewer/815350",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:44:04",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "018.txt",
+          "sha256": "6c66663cc1b6ebd51e840124269f84d40b1c6260c4d6be0ec986b36d6b28bdd7",
+          "git_blob_sha1": "139a45f5a28ec0d4c22161f270c73f4296d36ae2"
+        },
+        {
+          "path": "018.html",
+          "sha256": "87a57f3459018ed4466d62619df358303601e77fd67c2ac3ec793509fc35e269",
+          "git_blob_sha1": "918ca29560a63c409797cc43b5e8c2402349142e"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "The Whole Clinic Knows. They're Still Pretending.",
+      "readerUrl": "https://global.novelpia.com/viewer/815352",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:46:05",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "019.txt",
+          "sha256": "80febb5e1c3341b7df1da19cca884b094acdb20f6009e70886e0f48756dafdea",
+          "git_blob_sha1": "a4931ac52401a2c965ee3d57383990601ec23264"
+        },
+        {
+          "path": "019.html",
+          "sha256": "180f94a4b4934bb1762f3ace50c8b898dd26f6bfb6e8fbae1e103b5e166214d1",
+          "git_blob_sha1": "142bbf1b9f615a1fd6f48cf48c6fa0433bb30c4a"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "Some People Come to Make Peace. Some Come to Say Goodbye.",
+      "readerUrl": "https://global.novelpia.com/viewer/815353",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:48:14",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "020.txt",
+          "sha256": "7612944f34d341fd56a9a6cc9ce68b51a28fc8e31216343ebcb8db2639fe24f3",
+          "git_blob_sha1": "47b65ab205ef4c831169c7ad8e48583da75bdd98"
+        },
+        {
+          "path": "020.html",
+          "sha256": "965ab7685b037996b5e06e7656d285be3c58a6950d849d3c785f841a0d916b22",
+          "git_blob_sha1": "ab379316ecc7c58d036d09bf7aa62f9ec7f269fe"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "title": "First Real Jealousy. Even the Cat Clocked It.",
+      "readerUrl": "https://global.novelpia.com/viewer/815355",
+      "releaseTimeAsDisplayed": "Sep,07,2026 16:52:15",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "021.txt",
+          "sha256": "9dee6d8b2ea1df697ee2caf64648925e2b6d88f3ea54891f50b43b664716836b",
+          "git_blob_sha1": "04811c026938e63ddbdaf14eeec506389dfbb90e"
+        },
+        {
+          "path": "021.html",
+          "sha256": "797fdba36d302d79c26161a83186285e0fea309577a4da008859149d0181df35",
+          "git_blob_sha1": "b1fcb0f01d037d0b200610fa66cf9e091cf8fbe8"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "He Finally Says It. The Cat Almost Claps.",
+      "readerUrl": "https://global.novelpia.com/viewer/815367",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:21:38",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "022.txt",
+          "sha256": "aac46c064eb26a522923a39c23fd5456e96f22b452d790675d21602f109b9df1",
+          "git_blob_sha1": "f3ca77411f1a6e4dc7e4aa8adad2dd4ab181fadf"
+        },
+        {
+          "path": "022.html",
+          "sha256": "1fdb7ff30258d0a5f1014a17143dbd2b1266a736c055570bf42fbe09574905f1",
+          "git_blob_sha1": "2be1b67ff03fb2970d8c5ab92c80b7fa2e84845b"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "title": "Day One of Dating. Everybody Wants Updates.",
+      "readerUrl": "https://global.novelpia.com/viewer/815369",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:28:54",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "023.txt",
+          "sha256": "f098264412d235fa76045c6dcd61a90c6a042457f8137d3b0527f4ef85406fc8",
+          "git_blob_sha1": "d0388d7dae38ede778e284f747f4db51d3008286"
+        },
+        {
+          "path": "023.html",
+          "sha256": "256551fea068b357a9e79465c1742ed56070ca4e7ab18f727750c9fd39238903",
+          "git_blob_sha1": "2c43208b15a711d5ca88a8d5a52d409f3e340400"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "title": "After We Start Dating, the Cat Gets Demoted First",
+      "readerUrl": "https://global.novelpia.com/viewer/815371",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:32:38",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "024.txt",
+          "sha256": "4196a7376572a31a742549434e1bb4b8a5f536ec8410a4cc09304cc222cc7423",
+          "git_blob_sha1": "98660858f493b56aefab2ee4b51c33dc144bc2a5"
+        },
+        {
+          "path": "024.html",
+          "sha256": "1208d2f02d2d92664b526754ae657a47e1b27e6626d488b78696e8dd2b164f1e",
+          "git_blob_sha1": "79c6eb7a2b9386df353f32ffd82914cb5af915e8"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "title": "She Makes the Money. He Spoils Her Rotten.",
+      "readerUrl": "https://global.novelpia.com/viewer/815373",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:34:48",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "025.txt",
+          "sha256": "4600b985b605972f0d54299e62579da1addf0b693b2a8445425e27b4ef32fae9",
+          "git_blob_sha1": "de332ed396a68f3835de1bb5771dc5f7b2eb2b81"
+        },
+        {
+          "path": "025.html",
+          "sha256": "f94e50d6aaee157fd41b8c18e3d380601bfab9a59be48e8e1f53af34264ef90f",
+          "git_blob_sha1": "7b6eb7ada8fc2dee14ad8920dac98f36db39096b"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "title": "The Cat Stole the Proposal Ring",
+      "readerUrl": "https://global.novelpia.com/viewer/815374",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:38:11",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "026.txt",
+          "sha256": "1e553d8d5730d47d7ad773551eab5cb8f46cbed12796534f635e3df3bbf5cfa4",
+          "git_blob_sha1": "766ebe20093f5327414895d2b900ecd227f53c0a"
+        },
+        {
+          "path": "026.html",
+          "sha256": "330796db85b1c632e48ad5199df77a65b79d16e83a40b49bfc1c2c03e4b3a5ec",
+          "git_blob_sha1": "b13cb84578ed885d91fd788299246e50daa2d06a"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "title": "The First Time She Sees Him Really Down",
+      "readerUrl": "https://global.novelpia.com/viewer/815376",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:40:44",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "027.txt",
+          "sha256": "b7ea90d2696798f081dfbb5c6df51ba7bd1b346d14a7e731a72ddffca08ae9bc",
+          "git_blob_sha1": "ccf623f71673a27ab8f2abdfc33af09392e27fdb"
+        },
+        {
+          "path": "027.html",
+          "sha256": "6b8da1e0e9510830ffd6ebd84ee94f82b834b7620c9c12cabe5b164db508a635",
+          "git_blob_sha1": "b868557910310cc2be90a33cc76ff1f645a192cd"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "title": "The Proposal Starts With Fishing for Answers",
+      "readerUrl": "https://global.novelpia.com/viewer/815378",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:50:45",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "028.txt",
+          "sha256": "d3e78f51955febb81f47ef65c28edc0db5a9f6ff9aa5e3650852483c6c2bf6b7",
+          "git_blob_sha1": "477646550a59a0d165698e268af8e3f71a08f72a"
+        },
+        {
+          "path": "028.html",
+          "sha256": "bef617361844e916d229b3b84f5f0cf2644a21139c49063e1796dea22b48e79c",
+          "git_blob_sha1": "4f8bd2d3e534822110e48de3372128347f8d9226"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "title": "The Cat Had This Planned All Along",
+      "readerUrl": "https://global.novelpia.com/viewer/815380",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:52:21",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "029.txt",
+          "sha256": "69fde2512a8874d7edc05740fce222668a62389b0142f126bef34a96ffd42d66",
+          "git_blob_sha1": "ec868c8414f5be628a0edf8e2d1e79cbb9f759cc"
+        },
+        {
+          "path": "029.html",
+          "sha256": "7c7d9424ab27d5ebc2b702e720cef9e128e0d74adf2756eadfaca10ee6a2066d",
+          "git_blob_sha1": "1469b0d82fd4fc9fa35b7efa4e322b04dff079cd"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "title": "The Wedding's Small. It Still Looks Like Them",
+      "readerUrl": "https://global.novelpia.com/viewer/815382",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:53:49",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "030.txt",
+          "sha256": "c6278b983f7487ad3cd8d554b910687d76159c7024472e1eb35801189043e848",
+          "git_blob_sha1": "9ff3b31844ecb0085d75d3fc99187c2bab021c04"
+        },
+        {
+          "path": "030.html",
+          "sha256": "092bbf289a7b2a16965f1fe351c304b528194959272b4ce3ecd357c6b482a84c",
+          "git_blob_sha1": "b28b8deea9f054743458076b551362a04b76d27a"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "title": "Married Life Is Love Plus Absolute Chaos",
+      "readerUrl": "https://global.novelpia.com/viewer/815383",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:55:29",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "031.txt",
+          "sha256": "b4c5036cb14faf674aa6550dbe863b09522ffc592a280ed2aa75f466f65d05fe",
+          "git_blob_sha1": "75597115267f241079d01bfb3c3ac0daa93befc8"
+        },
+        {
+          "path": "031.html",
+          "sha256": "6d0ffcb744d08de126ca323285a06be848fb1d4014a0ea01b7469d9dedb5448d",
+          "git_blob_sha1": "decf24810716e2c4ccdb51ee9cf66a1c61830818"
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "title": "The Twins Show Up Ahead of Schedule",
+      "readerUrl": "https://global.novelpia.com/viewer/815384",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:57:17",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "032.txt",
+          "sha256": "d1fe34f238d5b5cd3f2094f04d8b627e1139f7df3ef5502a71cc4d0af7f6a631",
+          "git_blob_sha1": "04fa9f28864ac24e245d4b6618b8cbddd3ca899f"
+        },
+        {
+          "path": "032.html",
+          "sha256": "888b37a7609afe732b9c2c6b09c65fb9cdadc7fed5f4d5c5694de9e9e7ec1284",
+          "git_blob_sha1": "ddca6a93b905e53c3fbfed115f976a36cd8a9ba7"
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "title": "After the Pregnancy, the Steadiest One Is the Cat",
+      "readerUrl": "https://global.novelpia.com/viewer/815385",
+      "releaseTimeAsDisplayed": "Sep,07,2026 17:59:15",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "033.txt",
+          "sha256": "43457563f21090078481d22283f5f8a35bae542cd5041e3318a6452a747eba30",
+          "git_blob_sha1": "b1572390ae7b23e2e26e7eb05c3f84a158c0fa83"
+        },
+        {
+          "path": "033.html",
+          "sha256": "90ca1738f8f56d7325ab1275ed77c0f6ff386ac86478d85db7378bddcbf3dd7d",
+          "git_blob_sha1": "71669d4b1f7ad0785cbec79932dfc81a377d0783"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "title": "Two Little Ones, and They Arrive Loud",
+      "readerUrl": "https://global.novelpia.com/viewer/815388",
+      "releaseTimeAsDisplayed": "Sep,07,2026 18:01:39",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "034.txt",
+          "sha256": "d3347cf5d7388a5d8fe68677e171288d7bc9a5cbd6095e512bbf78b8c3e17825",
+          "git_blob_sha1": "08cb66b9330cb0afe2c12095d26177f3bc74af1c"
+        },
+        {
+          "path": "034.html",
+          "sha256": "ec8284d85783102d7a0464162cc8a0fc3a68fd242e3db3f18b1c95ff0c0932a1",
+          "git_blob_sha1": "a1d14dbf299856fe2b09fcc2fbc0b6342b1d4a98"
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "title": "There's Another Mind-Reader in the House Now",
+      "readerUrl": "https://global.novelpia.com/viewer/815389",
+      "releaseTimeAsDisplayed": "Sep,07,2026 18:03:11",
+      "releaseTimezone": "not established",
+      "files": [
+        {
+          "path": "035.txt",
+          "sha256": "cc485f7607abf8bc44b291a02d08cb8de7925f6e4cd323e8946be9103aadc12a",
+          "git_blob_sha1": "e015958686b52d04e2f7b0a12439211cd806cbfc"
+        },
+        {
+          "path": "035.html",
+          "sha256": "49092e5ae00a4712ab315093ddf228255099ad123bb318388217b0eaeb1682d1",
+          "git_blob_sha1": "c1ecd6e2e03b24f4955a4a77afbcb6b6be362bb7"
+        }
+      ]
+    }
+  ]
+}
