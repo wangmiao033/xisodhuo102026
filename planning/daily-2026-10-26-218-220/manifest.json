@@ -1,0 +1,84 @@
+{
+  "book": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "beijing_date": "2026-10-26",
+  "daily_target": 10,
+  "new_complete_bilingual_chapters": 3,
+  "chapters": [
+    218,
+    219,
+    220
+  ],
+  "remaining_daily_target": 7,
+  "stopped_before": 221,
+  "reason": "Existing outline/editorial reserve Xiao Lu relationship nature for author decision; no recorded resolution.",
+  "source_main_checked": "853efba4063f8e2ed4679bdd054e13e55980985e",
+  "platform_release_authorization_expanded": false,
+  "files": [
+    {
+      "chapter": 218,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/218-书还没有读完.md",
+      "heading": "# 第218章 书还没有读完",
+      "body_han_characters": 3037,
+      "body_words_whitespace": null,
+      "bytes": 10601,
+      "sha256": "8b67760b8a75a78c5d4bf62c7dfd52a9fe1964f2cd63376a5522f50c0345101f",
+      "git_blob_sha": "486d6c1a0663bb6ddfc3213935dbbb4a41c32602"
+    },
+    {
+      "chapter": 219,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/219-没有算进去的路.md",
+      "heading": "# 第219章 没有算进去的路",
+      "body_han_characters": 3009,
+      "body_words_whitespace": null,
+      "bytes": 10410,
+      "sha256": "3b578e6776a63c4a03713cc9a4cd5430d323aaa2bdea27dab42c8178fae52661",
+      "git_blob_sha": "ccff50bca9cfe77286e9303d7b4e9d29a48fb84e"
+    },
+    {
+      "chapter": 220,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/220-门槛就在眼前.md",
+      "heading": "# 第220章 门槛就在眼前",
+      "body_han_characters": 3025,
+      "body_words_whitespace": null,
+      "bytes": 10451,
+      "sha256": "b8b417ad29d5d9a4d350224c83a57051381703bc46a876e9db555dca4bf95066",
+      "git_blob_sha": "5cbc14072f2b6097608f39160489cb6237896c66"
+    },
+    {
+      "chapter": 218,
+      "language": "en",
+      "path": "chapters/en/volume-08/218-the-book-wasnt-finished.md",
+      "heading": "# Chapter 218: The Book Wasn't Finished",
+      "body_han_characters": null,
+      "body_words_whitespace": 2028,
+      "bytes": 11903,
+      "sha256": "39a82555592845a9f1bdec3a8e60a7434044477bd1b9742992ea27e25d271031",
+      "git_blob_sha": "4256bcfa38c9ba758c28b611132a1813983c45b3"
+    },
+    {
+      "chapter": 219,
+      "language": "en",
+      "path": "chapters/en/volume-08/219-the-journeys-not-included.md",
+      "heading": "# Chapter 219: The Journeys Not Included",
+      "body_han_characters": null,
+      "body_words_whitespace": 1807,
+      "bytes": 11013,
+      "sha256": "b5989e5cbe231ee20d0e452a5c3641186177e08e2e7a2b589f419df86ce380c1",
+      "git_blob_sha": "8c40e36e0e26fb44f7d231de201489b89fd656bc"
+    },
+    {
+      "chapter": 220,
+      "language": "en",
+      "path": "chapters/en/volume-08/220-the-threshold-in-front-of-him.md",
+      "heading": "# Chapter 220: The Threshold in Front of Him",
+      "body_han_characters": null,
+      "body_words_whitespace": 1828,
+      "bytes": 10776,
+      "sha256": "243ba10ec094746fa4b293867f62cdb43f5f3191be7fddd061d2f8f83a5ced69",
+      "git_blob_sha": "1570407f554fa3f2ef28973681eb3efb72d98af5"
+    }
+  ]
+}
