@@ -1,0 +1,233 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-10-26",
+  "chapters": [
+    183,
+    192
+  ],
+  "new_bilingual_chapters": 10,
+  "base_commit": "4191b767c46069736d6bd7aba6f5100021f899b6",
+  "scope": "writing archive only; not Novelpia publication approval",
+  "files": [
+    {
+      "chapter": 183,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-183.md",
+      "heading": "# 第183章 把锚放在岸上",
+      "body_count": 3040,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10554,
+      "sha256": "e71086a706bc76c8317bff8ec391406c5e94a195131a63c77974726bba225a5b",
+      "git_blob_sha": "20fade775e1987d89c4cffba8b47039a411582bb"
+    },
+    {
+      "chapter": 183,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-183.md",
+      "heading": "# Chapter 183: Keep the Anchor on Shore",
+      "body_count": 1805,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11383,
+      "sha256": "9e1084dbad754eab2e8884c597d0f6030294744cc846c498b907d309ba2254f3",
+      "git_blob_sha": "dc11dd28c62b5de2214668b28388ac3cf1c7fef5"
+    },
+    {
+      "chapter": 184,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-184.md",
+      "heading": "# 第184章 钟声之前",
+      "body_count": 3028,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10325,
+      "sha256": "8487df83de44412f9b3bd6400e48309a685971db8f6ecba46eaab036435e44f1",
+      "git_blob_sha": "52347d94680aa82c9c672d910250791a50108b72"
+    },
+    {
+      "chapter": 184,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-184.md",
+      "heading": "# Chapter 184: Before the Bells",
+      "body_count": 1806,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11545,
+      "sha256": "c64517d33a327bc14fd18028455c8b6b225e4cb6d613ee17a841c2b1cac634bd",
+      "git_blob_sha": "0b883ffd9cf2b2534aa238fd1c26735baf13713a"
+    },
+    {
+      "chapter": 185,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-185.md",
+      "heading": "# 第185章 没有走完的路",
+      "body_count": 3014,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10301,
+      "sha256": "1e138fcae0c673abec5c71ec31d871a14d3f33502582ce63127f40d360312ecc",
+      "git_blob_sha": "63f43adb707a3f04de33ee0b35900a3aa8b477b7"
+    },
+    {
+      "chapter": 185,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-185.md",
+      "heading": "# Chapter 185: The Road Not Yet Walked",
+      "body_count": 1808,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11362,
+      "sha256": "76d93ee8354fe9ed9ef95bd3faff5d2cac178d7ae0e8b2a90d19b3420fb63f25",
+      "git_blob_sha": "c657a7557bff03065f0d2820fc5350147e9d5260"
+    },
+    {
+      "chapter": 186,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-186.md",
+      "heading": "# 第186章 被改过的年份",
+      "body_count": 3002,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10179,
+      "sha256": "f42ea2e284362fd7e71d56c85e8d73c66ddaf5253cf2c3c10c1bcd9fed2fe9ca",
+      "git_blob_sha": "862e08b1263c4ca6db9166c4767921c3a2e3ed1b"
+    },
+    {
+      "chapter": 186,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-186.md",
+      "heading": "# Chapter 186: The Amended Year",
+      "body_count": 1800,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11609,
+      "sha256": "e6fc48b6287e1847b4baa87abdc7963f66a11ee4ff7abb0badbef9d6bbc9845d",
+      "git_blob_sha": "3d7dbda2a1d162d75aaddc47b01065ef943d8045"
+    },
+    {
+      "chapter": 187,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-187.md",
+      "heading": "# 第187章 再等一下",
+      "body_count": 3001,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10342,
+      "sha256": "cd5ce2d676aae755d938c62ae7338287c6885d6fbc4b130dff30b045d9bc1766",
+      "git_blob_sha": "4c162ba86bc9dff0ba39f5c30c43959492165dfa"
+    },
+    {
+      "chapter": 187,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-187.md",
+      "heading": "# Chapter 187: Wait Another Moment",
+      "body_count": 1800,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11228,
+      "sha256": "3d779bca68b4e9c16dc4dc050dd922eed4458f6ce0b4114c63d74407607dc6ec",
+      "git_blob_sha": "4e93caf3c46b5c9ce268f500a858d8d5ce86ff0c"
+    },
+    {
+      "chapter": 188,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-188.md",
+      "heading": "# 第一百八十八章：证人席上的她",
+      "body_count": 3139,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10873,
+      "sha256": "656796d5f49c2cd0d702e692851c87291569b699698c82a0c88ad7f813cc22db",
+      "git_blob_sha": "705f747c7cf53f782b0a1f37b750057e0c16c305"
+    },
+    {
+      "chapter": 188,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-188.md",
+      "heading": "# Chapter 188: Her Place on the Witness Stand",
+      "body_count": 1805,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11634,
+      "sha256": "6f491f7c0e0fcd0b841cab97f75d348255c705da6b9109dd3a59d109fc74ce4d",
+      "git_blob_sha": "23135990475d2b5651a292da8daa802646dd573e"
+    },
+    {
+      "chapter": 189,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-189.md",
+      "heading": "# 第一百八十九章：你没有替我取消",
+      "body_count": 3001,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10614,
+      "sha256": "7bc091f2e914494e6204d6ee943db96b32d3048845b39e541d0c6fd3d6f939f1",
+      "git_blob_sha": "eaebc895aff65bd5e8b0acf2234ceeb01df0b2e4"
+    },
+    {
+      "chapter": 189,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-189.md",
+      "heading": "# Chapter 189: You Didn't Cancel It for Me",
+      "body_count": 1822,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11398,
+      "sha256": "da2acbe1777ab3644bac5e5ff6ec2e05fd8cec0209eddfda59be7a14b29a7660",
+      "git_blob_sha": "53fbf68d36c6dd0208dabc6610b4455febd5bf55"
+    },
+    {
+      "chapter": 190,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-190.md",
+      "heading": "# 第一百九十章：他愿意承认的那一句",
+      "body_count": 3026,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10508,
+      "sha256": "cf7e0999ceb72264c0e8f1bc3adc21a4676fa4b86ba24e4b65d3ab3867b67921",
+      "git_blob_sha": "974d8a23a172d7dbeae7f11c1a9f4b3f2ed2ee77"
+    },
+    {
+      "chapter": 190,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-190.md",
+      "heading": "# Chapter 190: The Sentence He Would Admit",
+      "body_count": 1829,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11845,
+      "sha256": "4d850ba23669200b93e478cbd2488a72cb3563118f5eb99a8a27d175457e5046",
+      "git_blob_sha": "c1d0651bbcf734997949a9c1175c15ec9d8d4a9a"
+    },
+    {
+      "chapter": 191,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-191.md",
+      "heading": "# 第一百九十一章：印出来的旧历史",
+      "body_count": 3012,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10249,
+      "sha256": "154dbb31fb4c91806536f852aa4aa2a56f8a6d3fab6f862f1bc204b50b25942b",
+      "git_blob_sha": "992921f2113cc1a355ada1f17e9c62fabcc62935"
+    },
+    {
+      "chapter": 191,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-191.md",
+      "heading": "# Chapter 191: History in Print",
+      "body_count": 1848,
+      "count_method": "whitespace words",
+      "utf8_bytes": 12264,
+      "sha256": "981af89d155af936366c8c3cbab045e1f5711508b86cdabdddc82adb94e2bfa2",
+      "git_blob_sha": "04c828480d4a57a10ad75a69966aeaf64facfd8c"
+    },
+    {
+      "chapter": 192,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-192.md",
+      "heading": "# 第一百九十二章：空出来的那半步",
+      "body_count": 3004,
+      "count_method": "Han U+4E00–U+9FFF",
+      "utf8_bytes": 10371,
+      "sha256": "04507fa0d139af0a0f381cdf1d3054748ac52adcd5445e1c4901a2909c935f67",
+      "git_blob_sha": "42ec7eb7f3a1603c6f324981a8667c38fbae962f"
+    },
+    {
+      "chapter": 192,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-192.md",
+      "heading": "# Chapter 192: The Half-Step They Left Empty",
+      "body_count": 1812,
+      "count_method": "whitespace words",
+      "utf8_bytes": 11346,
+      "sha256": "d0b4152ab8fcd56c0ac5c4531be6e19003b04288642f3700fd541720a5763dcd",
+      "git_blob_sha": "1ab6ca4c7e90003874b9e7aa6155bbf493baf8ec"
+    }
+  ]
+}
