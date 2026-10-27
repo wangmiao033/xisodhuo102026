@@ -15,3 +15,8 @@ This archive commit is not evidence that an online chapter has been replaced. Pu
 On 2026-10-26, existing Novelpia episodes 001–035 were replaced with the reviewed English reboot and individually verified on their full reader pages. Episode IDs and original displayed release times were preserved; no episodes were created or deleted. The fixed manuscript source remains `fe26d49f99d402ba775d19170cbde74837131972`. See `publication/replacement-2026-10-26.json` for the per-chapter verification record.
 
 `PLANNING.md` contains the English translation of the approved 250-chapter planning document. It is planning material, not publication body text; future chapters still require complete drafting, review, and the applicable publication checks.
+
+
+## Reviewed writing batch — 2026-10-27
+
+Complete English Chapters 036–045 continue the approved outline and have passed independent full-text review. See `reviews/2026-10-27.json` and `progress/2026-10-27.md`. The active complete manuscript range is now 001–045. Writing and public release remain separate records; this archival addition alone does not claim ten public releases.

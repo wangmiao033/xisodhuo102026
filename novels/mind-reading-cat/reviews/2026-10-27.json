@@ -1,0 +1,95 @@
+{
+  "beijingWritingDate": "2026-10-27",
+  "reviewedAtUTC": "2026-10-27T00:55:34.346629+00:00",
+  "chapterRange": [
+    36,
+    45
+  ],
+  "count": 10,
+  "language": "English",
+  "status": "Complete English manuscripts independently reviewed; not a publication claim",
+  "scope": "Complete sources and all ten chapters read; independent cross-review in addition to coordinator full-prose review. Chronology, 035→036 and 040→041 transitions, Chapter008 retrospective, names, limited viewpoint, ability boundaries, story continuity and 1800–2200 body-word target checked.",
+  "resolved": "Relative-day wording in039/042, speaker attribution043, distinct movie/book details045, and concrete chapter endings corrected and reread.",
+  "chapters": [
+    {
+      "chapter": 36,
+      "path": "chapters/en/036-the-cold-face-in-the-clip.md",
+      "sha256": "4f8b7825c02a3aed888caf998b60d14b631cb490dda5e754d7dd46481a9356ec",
+      "body_words_whitespace": 1829,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Full chapter read. Friday follows035 Thursday dinner. Limited Eve viewpoint; no republication of visitor details; paid communications scope defined."
+    },
+    {
+      "chapter": 37,
+      "path": "chapters/en/037-not-every-explanation-is-yours-to-give.md",
+      "sha256": "3f845d2a88aaa00e031f0d79996aec77a2ea574f0d3f367f8584b659552ae80c",
+      "body_words_whitespace": 1855,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Full chapter read. Monday review continues036; privacy reasoning grounded in scene and card placement; interruption establishes040 conflict."
+    },
+    {
+      "chapter": 38,
+      "path": "chapters/en/038-he-said-something-wrong-too.md",
+      "sha256": "ae101b5e508ad961c6c9decba41fe2cd0a5ad86b2e2b52f98042b104a5ebcf62",
+      "body_words_whitespace": 1815,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Full chapter read and revised ending reread. Tuesday chronology; Julian owns abrupt manner without exposing private apology; ordinary work and home actions sustain scene."
+    },
+    {
+      "chapter": 39,
+      "path": "chapters/en/039-an-imperfect-response.md",
+      "sha256": "79edb54860b2b767c18f7043fa451de1aa462375ef6545be8a9c8e19020bae24",
+      "body_words_whitespace": 1896,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Full chapter read and final revised paragraph reread. Monday-reference correction resolves Friday timing; specific consent, limited clinic statement, practical outcome and non-universal approval preserved."
+    },
+    {
+      "chapter": 40,
+      "path": "chapters/en/040-please-let-me-finish-too.md",
+      "sha256": "233d7d2eda410baa4a435981e3c3768db280bc29fe2705b2d6f920056dc3c762",
+      "body_words_whitespace": 1827,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Full chapter read. Friday personal conversation distinct from paid clinic work; no premature romance or secret disclosure. Final Saturday late-lunch invitation connects exactly to041;045 callback matches bench/walk."
+    },
+    {
+      "chapter": 41,
+      "path": "chapters/en/041-my-friend-says-shes-fine.md",
+      "sha256": "e7112b29dd17e0602cf7cfa9d91dc6326e7ae2f369672015c5520765f462a6c0",
+      "body_words_whitespace": 1882,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Saturday late-lunch visit follows Friday040 invitation exactly; Sophie controls disclosure; cat behavior remains uncertain rather than proof of hidden truth."
+    },
+    {
+      "chapter": 42,
+      "path": "chapters/en/042-three-upside-down-cups.md",
+      "sha256": "2b0c9386d58adf1bbc15b84a147a50f8ae58a4ba21bf7349db999dbe0e5fe115",
+      "body_words_whitespace": 1837,
+      "independent_full_text_review": "pass",
+      "review": "PASS: informed voluntary harmless cup observations; no food coercion, no secrets, stops when cat leaves; mixed results and no identifiable remote-phone response; no ability disclosure to Julian."
+    },
+    {
+      "chapter": 43,
+      "path": "chapters/en/043-whose-thought-was-it.md",
+      "sha256": "f24c47822333cf2e198ca8842bfcb875f36bea96d911cc04afecdaf004acc933",
+      "body_words_whitespace": 1916,
+      "independent_full_text_review": "pass",
+      "review": "PASS: multiple nervous people and doorway noise prevent source attribution; ordinary consented help to Mia advances her volunteer role without cat-based judgments."
+    },
+    {
+      "chapter": 44,
+      "path": "chapters/en/044-an-afternoon-without-questions.md",
+      "sha256": "d23a90137908754d24bcd80c22675f39f4db3a0b6e986e631f14c21737aef686",
+      "body_words_whitespace": 1864,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Wednesday walk permits Sophie to explain work pressures herself; no rescue takeover. One Sunday check-in requested; Monday duties/hours/pay conversation remains pending."
+    },
+    {
+      "chapter": 45,
+      "path": "chapters/en/045-i-dont-know-what-hes-thinking.md",
+      "sha256": "a667ebb62882b04a1f183e0d6af3a69b0deb5f72b45dfb63947a8280e6f99db0",
+      "body_words_whitespace": 1922,
+      "independent_full_text_review": "pass",
+      "review": "PASS: Thursday ordinary hinge repair demonstrates corrected judgment; Ch008 folded card and distant-chair memory verified by full source read; friendly tea preserves040 apology movement, no romance milestone or secret disclosure. Two weekend work inquiries remain unaccepted."
+    }
+  ]
+}
