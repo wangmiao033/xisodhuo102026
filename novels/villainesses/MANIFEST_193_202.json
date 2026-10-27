@@ -1,0 +1,241 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "beijing_date": "2026-10-27",
+  "chapter_range": [
+    193,
+    202
+  ],
+  "new_chapters": 10,
+  "languages": [
+    "cn",
+    "en"
+  ],
+  "counts_exclude_heading": true,
+  "counting_method": {
+    "cn": "U+4E00-U+9FFF Han characters",
+    "en": "Alphabetic words with internal hyphens or apostrophes treated as one word"
+  },
+  "platform_publication_authorized_by_this_manifest": false,
+  "files": [
+    {
+      "chapter": 193,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-193.md",
+      "title": "第一百九十三章：谁也不能替他选路",
+      "bytes": 10933,
+      "han_characters": 3057,
+      "english_words": 0,
+      "sha256": "33dfb7c65ca2238a4dfbd741a5ac67a9a4d28cae1df8bddb628f6aa0f051c2ab",
+      "git_blob_sha": "64cff755c0aac5ef6e0f11822c7a12eb7384116c"
+    },
+    {
+      "chapter": 193,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-193.md",
+      "title": "Chapter 193: Nobody Could Choose His Road",
+      "bytes": 11568,
+      "han_characters": 0,
+      "english_words": 1832,
+      "sha256": "c698cf6fe67ef01685843ddc21bada6f43c23949f96ae12807822044a430634e",
+      "git_blob_sha": "b33d5860c1f3045e088563f259e79c789f3c0278"
+    },
+    {
+      "chapter": 194,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-194.md",
+      "title": "第一百九十四章：先把那一栏空着",
+      "bytes": 10959,
+      "han_characters": 3129,
+      "english_words": 0,
+      "sha256": "0c9388239fd7d9729c77bb36f7a7aa9c605a85c0e021b59373495a080ba8cb2a",
+      "git_blob_sha": "22b199ac4e58f818c3d9f9849f9562f035a14da4"
+    },
+    {
+      "chapter": 194,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-194.md",
+      "title": "Chapter 194: Leave That Box Blank",
+      "bytes": 11600,
+      "han_characters": 0,
+      "english_words": 1876,
+      "sha256": "e12411eec14893d21cb91603afeaa3239eaca228a0f9493091f65da20655ec10",
+      "git_blob_sha": "da815e36f65384b980710310c33d58d28ce7769c"
+    },
+    {
+      "chapter": 195,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-195.md",
+      "title": "第一百九十五章：圣女没有替命运低头",
+      "bytes": 10845,
+      "han_characters": 3083,
+      "english_words": 0,
+      "sha256": "437a4a08835cd58e148f3afc184ff859fc02a9fef5d5f49476cb3d1541a6bdf7",
+      "git_blob_sha": "6a23ed1b8ad531d3e7ed81e4a862a6bd73f0a89c"
+    },
+    {
+      "chapter": 195,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-195.md",
+      "title": "Chapter 195: The Saint Would Not Bow to Fate",
+      "bytes": 11400,
+      "han_characters": 0,
+      "english_words": 1852,
+      "sha256": "26bae18ba7d8ecc8bb4aebc528cf534f41ac2504fa7b3655fd6ca50b8b948c30",
+      "git_blob_sha": "0d494e90994db31d885d6f4e15e7344ba5757ebd"
+    },
+    {
+      "chapter": 196,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-196.md",
+      "title": "第一百九十六章：灰线之间，仍然有空白",
+      "bytes": 10848,
+      "han_characters": 3116,
+      "english_words": 0,
+      "sha256": "1ed7390acfd313db5f449cd2ad6747699953aa1bb8007e6c055303aeacc7b961",
+      "git_blob_sha": "0f262510c6360ce715aac6ae2e39fa7cd109106a"
+    },
+    {
+      "chapter": 196,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-196.md",
+      "title": "Chapter 196: There Were Still Gaps Between the Lines",
+      "bytes": 11996,
+      "han_characters": 0,
+      "english_words": 1850,
+      "sha256": "bf8acfa04488378dcfc48d3ad49baa7716a2ce3043d540d160c4a91734a1713c",
+      "git_blob_sha": "132886a66bfab1883781ab38cdb37fb7e5df9e43"
+    },
+    {
+      "chapter": 197,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-197.md",
+      "title": "第一百九十七章：公主身边少了一把椅子",
+      "bytes": 10660,
+      "han_characters": 3092,
+      "english_words": 0,
+      "sha256": "030b944ab2fbad2f99bfc5b52288273bd2b87b5dd1668a91ea0f1673fc851427",
+      "git_blob_sha": "507c1a24ad1816963e57fde63a7d092eb9a378a6"
+    },
+    {
+      "chapter": 197,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-197.md",
+      "title": "Chapter 197: One Less Chair Beside the Princess",
+      "bytes": 11795,
+      "han_characters": 0,
+      "english_words": 1820,
+      "sha256": "471ac72b08a62ce71a00880522792699df4ac1d07f73553407eaacd47b299b85",
+      "git_blob_sha": "6ff472ac285d980ab689b5b1be118aceca285b91"
+    },
+    {
+      "chapter": 198,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-198.md",
+      "title": "第一百九十八章：从那场火里走出来的人",
+      "bytes": 10572,
+      "han_characters": 3071,
+      "english_words": 0,
+      "sha256": "23484d2fa8667be32ac393d358dd71373a54eb6532dd1e522778d76a688f369b",
+      "git_blob_sha": "d391e4af05358b9575ca600ac4c4050bc4162abc"
+    },
+    {
+      "chapter": 198,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-198.md",
+      "title": "Chapter 198: The Woman Who Came Out of the Fire",
+      "bytes": 12004,
+      "han_characters": 0,
+      "english_words": 1898,
+      "sha256": "496ead39edd2a1344a7779e6db21c92e37ee48a7f86c0112d838773592eca77b",
+      "git_blob_sha": "be70785ee3e4a926f91cc70040ce7eacdeb68fea"
+    },
+    {
+      "chapter": 199,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-199.md",
+      "title": "第一百九十九章：地图上没有画出的门",
+      "bytes": 10451,
+      "han_characters": 3039,
+      "english_words": 0,
+      "sha256": "6a6b6c16d8b49ee96fa2ca3a4c6711c0e8d6e5afe8c0608f03eed19637d30086",
+      "git_blob_sha": "4be81df373d1daf34f137119e5c52df5513a8e71"
+    },
+    {
+      "chapter": 199,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-199.md",
+      "title": "Chapter 199: The Door Missing from the Map",
+      "bytes": 11818,
+      "han_characters": 0,
+      "english_words": 1828,
+      "sha256": "6f408beb8c848677b4cc1042137ba19ab467400b2f7b1a31ae3de39d940567d0",
+      "git_blob_sha": "dc2d2af969af81ac13c8ef19c71e208119a11f14"
+    },
+    {
+      "chapter": 200,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-200.md",
+      "title": "第二百章：他亲手越过的挡位",
+      "bytes": 10426,
+      "han_characters": 3026,
+      "english_words": 0,
+      "sha256": "818e4be3b986c94d210e0ff6d466aafa301a4c64951e82cd9ef6bd77e9f12322",
+      "git_blob_sha": "6cb0c25466bc052813d5495e5ff2bf9c8f7e102d"
+    },
+    {
+      "chapter": 200,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-200.md",
+      "title": "Chapter 200: The Stop He Pushed Past",
+      "bytes": 11566,
+      "han_characters": 0,
+      "english_words": 1832,
+      "sha256": "239784592c4fdd83e9fdbf630cbb091dff23033a11d2404c40037a5cce759849",
+      "git_blob_sha": "36df8ce4b065b1d303bac2218b4f6a22e844bf68"
+    },
+    {
+      "chapter": 201,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-201.md",
+      "title": "第二百零一章：铜柄之前的声音",
+      "bytes": 11069,
+      "han_characters": 3261,
+      "english_words": 0,
+      "sha256": "3d02aca83f2e41d17d01420a85f454c6f7e4094d4f04a31bcc4e7992545d4061",
+      "git_blob_sha": "87826c39735949e5719a34997dd6068e11766481"
+    },
+    {
+      "chapter": 201,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-201.md",
+      "title": "Chapter 201: The Sounds Before the Handle Fell",
+      "bytes": 12106,
+      "han_characters": 0,
+      "english_words": 1810,
+      "sha256": "67d7782ee15b717bc1f1c5533136fe22e3c0ee2d09b2ea2029b93315d0226900",
+      "git_blob_sha": "21028e428c1bcddb68cf95259cc8278acba36cc3"
+    },
+    {
+      "chapter": 202,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-202.md",
+      "title": "第二百零二章：她没有收回那个名字",
+      "bytes": 11234,
+      "han_characters": 3279,
+      "english_words": 0,
+      "sha256": "9b81fb8925cd56cca2792e93640533dfa5e70e8edd1e184e2e9d7e284435e58a",
+      "git_blob_sha": "c5696bf28f4241e184c886c04471f4004f93d4c2"
+    },
+    {
+      "chapter": 202,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-202.md",
+      "title": "Chapter 202: She Didn't Withdraw the Name",
+      "bytes": 11807,
+      "han_characters": 0,
+      "english_words": 1825,
+      "sha256": "5b3439c0441b66e97bcd2e51c6a5a69f93649ad08aec0129c4c533ffe9e8699f",
+      "git_blob_sha": "d5609548764507c70fba5a440f8d38a449cdfbc3"
+    }
+  ]
+}
