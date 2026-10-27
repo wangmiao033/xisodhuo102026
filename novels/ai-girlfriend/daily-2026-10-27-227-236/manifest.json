@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-27",
+  "initial_remote_main": "81d63ea65878a69358c73faf25c3672472353448",
+  "chapter_range": [
+    227,
+    236
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    236
+  ],
+  "continuation_pair_count_after_verification": 110,
+  "next_new_chapter": 237,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 227,
+      "cn": {
+        "path": "cn/227_An_Evening_Without_A_Program.md",
+        "heading": "第227章 没有节目的晚上",
+        "sha256": "3cef5e2f4f366cecc91b17065d68549871f1948e7560831f215186db17259e79",
+        "git_blob_sha1": "d72d2fe65de7f32c52d7eacc18d37964095242bb",
+        "utf8_bytes": 8858,
+        "paragraphs": 71,
+        "body_han_characters": 2514
+      },
+      "en": {
+        "path": "en/227_An_Evening_Without_A_Program.md",
+        "heading": "Chapter 227 — An Evening Without a Program",
+        "sha256": "7b753ac73275d58c108c8c396c3e5501fcd07414754abc0dbc19a4b0c9addbb9",
+        "git_blob_sha1": "29f4c63dbc601d4b23358c2f02e28a98c51b9ea6",
+        "utf8_bytes": 10713,
+        "paragraphs": 71,
+        "body_words": 1910
+      }
+    },
+    {
+      "chapter": 228,
+      "cn": {
+        "path": "cn/228_The_Line_I_Left_Out.md",
+        "heading": "第228章 漏掉的那一行",
+        "sha256": "d977ba42bdb01a10c36d64f28ee2c5cd58f17f8516fd9eac703467aab58870a1",
+        "git_blob_sha1": "8fc326e0d1c00d4a283e4cb598609a663f0404f0",
+        "utf8_bytes": 7258,
+        "paragraphs": 48,
+        "body_han_characters": 2082
+      },
+      "en": {
+        "path": "en/228_The_Line_I_Left_Out.md",
+        "heading": "Chapter 228: The Line I Left Out",
+        "sha256": "91f8fda2094b30b12bb132b46b3f308bd3d4042a2ac95efae1019ba505e30b1f",
+        "git_blob_sha1": "5d6b14c6a878551ea873e73995ef71366a32168b",
+        "utf8_bytes": 8629,
+        "paragraphs": 48,
+        "body_words": 1498
+      }
+    },
+    {
+      "chapter": 229,
+      "cn": {
+        "path": "cn/229_What_Stayed_At_Home.md",
+        "heading": "第229章 留在家里的部分",
+        "sha256": "20037ef3c4188020f3b7c87cef6047b4c59905fd0593c30e01ab2420efa41df2",
+        "git_blob_sha1": "ead1c8f3dc982588b2b22d5d7f3f6287d5a4126e",
+        "utf8_bytes": 7657,
+        "paragraphs": 63,
+        "body_han_characters": 2168
+      },
+      "en": {
+        "path": "en/229_What_Stayed_At_Home.md",
+        "heading": "Chapter 229: What Stayed at Home",
+        "sha256": "c1a30cf4f94bf42702be3915ef7cef1cda762aaf662459e390843f22198bcc81",
+        "git_blob_sha1": "fbfa624052e7625644d272ff8ef4c906d0259df0",
+        "utf8_bytes": 8725,
+        "paragraphs": 63,
+        "body_words": 1513
+      }
+    },
+    {
+      "chapter": 230,
+      "cn": {
+        "path": "cn/230_After_We_Have_Eaten.md",
+        "heading": "第230章 吃过午饭以后",
+        "sha256": "7d5b42aa6699f3bb39686756868b8aea92ac9aeabe88e11e35219375e327732e",
+        "git_blob_sha1": "233c3847d88e1f73eb5212d3ab5c3c75ab339265",
+        "utf8_bytes": 7707,
+        "paragraphs": 58,
+        "body_han_characters": 2177
+      },
+      "en": {
+        "path": "en/230_After_We_Have_Eaten.md",
+        "heading": "Chapter 230: After We Have Eaten",
+        "sha256": "897c8fd986826f18961259844cddae9dede95ef666b77d92eaed0583e212b97b",
+        "git_blob_sha1": "8c2fa37d490f01dc1ac2cb999b7a8e05975dcbff",
+        "utf8_bytes": 8700,
+        "paragraphs": 58,
+        "body_words": 1508
+      }
+    },
+    {
+      "chapter": 231,
+      "cn": {
+        "path": "cn/231_A_Different_Question.md",
+        "heading": "第231章 另一个问题",
+        "sha256": "e410771537982296b5b120b56188c682d6c0932552109b659c82914065d64839",
+        "git_blob_sha1": "53d70ef74ed54089ccff352697122fd317bf9eaf",
+        "utf8_bytes": 8376,
+        "paragraphs": 58,
+        "body_han_characters": 2420
+      },
+      "en": {
+        "path": "en/231_A_Different_Question.md",
+        "heading": "Chapter 231: A Different Question",
+        "sha256": "b7c2b2167a58a90ec8558638238c5c9cf45db0ef3e98d91b6e4b3322cba2a84f",
+        "git_blob_sha1": "7b753dcc3378727a1c3e1881ddf49396a07dbcca",
+        "utf8_bytes": 9422,
+        "paragraphs": 58,
+        "body_words": 1659
+      }
+    },
+    {
+      "chapter": 232,
+      "cn": {
+        "path": "cn/232_What_He_Actually_Asked.md",
+        "heading": "第232章 他真正问的事",
+        "sha256": "c69e267536c9c1978232f465c5b36f3373c144f2f6f30199798c900ebc4bb4d5",
+        "git_blob_sha1": "925c2a81742a3efe85f1a7fb23468473a26be865",
+        "utf8_bytes": 7885,
+        "paragraphs": 66,
+        "body_han_characters": 2229
+      },
+      "en": {
+        "path": "en/232_What_He_Actually_Asked.md",
+        "heading": "Chapter 232: What He Actually Asked",
+        "sha256": "84506c542a8d8239ed768979e48b0348aedf9b240e1d2585eea9011a2cb82614",
+        "git_blob_sha1": "bec0ef058c5e9b62788b57c4bda4dda25354971c",
+        "utf8_bytes": 8634,
+        "paragraphs": 66,
+        "body_words": 1483
+      }
+    },
+    {
+      "chapter": 233,
+      "cn": {
+        "path": "cn/233_A_Copy_For_The_Weekend.md",
+        "heading": "第233章 借过周末的一份",
+        "sha256": "5ca3c65d1e4d63f6fb63c44aa0d98ad2c31c9d0d04310988617360764b63bd7d",
+        "git_blob_sha1": "c03255987b7858621b11b9e2cca853e4482e9c24",
+        "utf8_bytes": 8141,
+        "paragraphs": 56,
+        "body_han_characters": 2334
+      },
+      "en": {
+        "path": "en/233_A_Copy_For_The_Weekend.md",
+        "heading": "Chapter 233: A Copy for the Weekend",
+        "sha256": "4ee1ee204acc1e5f9cad5c73d3b4f098720cc0b2900f9ffec261c6ad439d7dbf",
+        "git_blob_sha1": "02f343a93c2f9ba6f616cbfec3d120bb419fe5fd",
+        "utf8_bytes": 8883,
+        "paragraphs": 56,
+        "body_words": 1539
+      }
+    },
+    {
+      "chapter": 234,
+      "cn": {
+        "path": "cn/234_Not_In_My_Bag.md",
+        "heading": "第234章 不在我的包里",
+        "sha256": "0d4cb08a941052f6a79d6cac71475670808bca0e9cb33c5600aa38f1398047a1",
+        "git_blob_sha1": "1e0f7e638491b91ab09459d79d8bd46b2b9341d1",
+        "utf8_bytes": 7642,
+        "paragraphs": 57,
+        "body_han_characters": 2167
+      },
+      "en": {
+        "path": "en/234_Not_In_My_Bag.md",
+        "heading": "Chapter 234: Not in My Bag",
+        "sha256": "fdb59c39f8abca00a872005070262731ef7f4b22e147f92a853ff6d1de873c29",
+        "git_blob_sha1": "49531101b3d74f324e99a4b98f04ba4846c4fc89",
+        "utf8_bytes": 9049,
+        "paragraphs": 57,
+        "body_words": 1600
+      }
+    },
+    {
+      "chapter": 235,
+      "cn": {
+        "path": "cn/235_The_Free_End.md",
+        "heading": "第235章 空着的那一头",
+        "sha256": "823c59dff8ae4ea30de5facee27e1bc2814e9d4ce9f74bdfa1b621a27ca36f2c",
+        "git_blob_sha1": "03f2f9ec88c838d12a93bd2dddc6468ab5cd2649",
+        "utf8_bytes": 7813,
+        "paragraphs": 39,
+        "body_han_characters": 2273
+      },
+      "en": {
+        "path": "en/235_The_Free_End.md",
+        "heading": "Chapter 235: The Free End",
+        "sha256": "5542649d3bddb8bcee17bd881a612d3d5cd5fd9b7185b583d0b5d13156d9d0be",
+        "git_blob_sha1": "8cd32b1811761a13dca389243a0a3b1863a95e24",
+        "utf8_bytes": 9055,
+        "paragraphs": 39,
+        "body_words": 1585
+      }
+    },
+    {
+      "chapter": 236,
+      "cn": {
+        "path": "cn/236_Only_The_First_Page.md",
+        "heading": "第236章 只有第一页",
+        "sha256": "619f804f0b0457b830dd8e6b888e4422ca4aba0565a9e431ea5b7e70ccd22831",
+        "git_blob_sha1": "48322d03026448ac735f0c06cbab413d5f4bf55a",
+        "utf8_bytes": 8236,
+        "paragraphs": 51,
+        "body_han_characters": 2380
+      },
+      "en": {
+        "path": "en/236_Only_The_First_Page.md",
+        "heading": "Chapter 236: Only the First Page",
+        "sha256": "70d70739cf0018e11fb55001df9ac052d8b5197018929658cf17ca8bf6822eff",
+        "git_blob_sha1": "d58cbcdfd5debd6195b6361c4eb524e102dbb406",
+        "utf8_bytes": 9733,
+        "paragraphs": 51,
+        "body_words": 1695
+      }
+    }
+  ]
+}
