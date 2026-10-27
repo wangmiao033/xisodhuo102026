@@ -20,3 +20,7 @@ On 2026-10-26, existing Novelpia episodes 001–035 were replaced with the revie
 ## Reviewed writing batch — 2026-10-27
 
 Complete English Chapters 036–045 continue the approved outline and have passed independent full-text review. See `reviews/2026-10-27.json` and `progress/2026-10-27.md`. The active complete manuscript range is now 001–045. Writing and public release remain separate records; this archival addition alone does not claim ten public releases.
+
+## Verified new releases — 2026-10-27
+
+Chapters 036–045 were newly published as Main / Public / Now on Beijing 2026-10-27, then each management entry and complete reader page was verified against fixed manuscript commit `4e17555a7aec8dd44fee7bef581e90a6a1b978fa`. Today's new-public total is 10/10. The complete manuscript and public ranges are both 001–045; reviewed complete unpublished inventory is zero. Chapters 046–250 remain planning, not stock. See `publication/new-releases-2026-10-27.json` for per-chapter reader URLs and actual UTC/Beijing release times.
