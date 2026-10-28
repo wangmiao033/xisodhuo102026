@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-28",
+  "initial_remote_main": "235026c52a317856530896889cd14857a025a312",
+  "chapter_range": [
+    237,
+    246
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    246
+  ],
+  "continuation_pair_count_after_verification": 120,
+  "next_new_chapter": 247,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 237,
+      "cn": {
+        "path": "cn/237_The_Pages_Come_Home.md",
+        "heading": "第237章 回家的纸页",
+        "sha256": "655fe03b4e2808b3afb5c400912e1a6a4318242aa918b9935cbb83e1ff13c9d3",
+        "git_blob_sha1": "6f43d3741799b3ce6cede76b2b2e00c79663fdad",
+        "utf8_bytes": 8406,
+        "paragraphs": 76,
+        "body_han_characters": 2335
+      },
+      "en": {
+        "path": "en/237_The_Pages_Come_Home.md",
+        "heading": "Chapter 237: The Pages Come Home",
+        "sha256": "11a1ad11b2b997d45c151b037091e9832bc162253d6077daee058ebb261cff27",
+        "git_blob_sha1": "92b000aa14957d85ae76cc589d492becf4c72318",
+        "utf8_bytes": 9450,
+        "paragraphs": 76,
+        "body_words": 1616
+      }
+    },
+    {
+      "chapter": 238,
+      "cn": {
+        "path": "cn/238_The_Question_Before_Leaving.md",
+        "heading": "第238章 离开以前的问题",
+        "sha256": "8c22ad09c32c9d9aebf80008fb81282ac62d8bc66a80f7413284c699ae2cf923",
+        "git_blob_sha1": "60b3fb6ac64cd92b380c0772b26c86999a872998",
+        "utf8_bytes": 8540,
+        "paragraphs": 62,
+        "body_han_characters": 2415
+      },
+      "en": {
+        "path": "en/238_The_Question_Before_Leaving.md",
+        "heading": "Chapter 238: The Question Before Leaving",
+        "sha256": "1730d880961c78d4bf77cfc7f2e62e7156bfb1d64ada16a27f6becbd6c9abc5a",
+        "git_blob_sha1": "a17afca9cbc78a292c38b17bad7212be63a77ae6",
+        "utf8_bytes": 9627,
+        "paragraphs": 63,
+        "body_words": 1655
+      }
+    },
+    {
+      "chapter": 239,
+      "cn": {
+        "path": "cn/239_Enough_Room_For_Two.md",
+        "heading": "第239章 两个人的位置",
+        "sha256": "1f0f1f7c6dfd6d645d11148e45f67142d35daeb7a4355b407eaf6aa782c0bee2",
+        "git_blob_sha1": "778565d9c970dc76b0589f3d78278111c007f5a5",
+        "utf8_bytes": 8351,
+        "paragraphs": 56,
+        "body_han_characters": 2388
+      },
+      "en": {
+        "path": "en/239_Enough_Room_For_Two.md",
+        "heading": "Chapter 239: Enough Room for Two",
+        "sha256": "4a231dd61912f3e17e702ac6e9fe6273ee576e5f691761496a1c94f5469aaf07",
+        "git_blob_sha1": "4a8433e4142ed33ba9746f732ae5e04a574a7d36",
+        "utf8_bytes": 9607,
+        "paragraphs": 56,
+        "body_words": 1659
+      }
+    },
+    {
+      "chapter": 240,
+      "cn": {
+        "path": "cn/240_The_Answer_I_Wanted.md",
+        "heading": "第240章 我想要的回答",
+        "sha256": "d9e128d2894812894ed73220e62d12935d343f46535cbdfad1b7bce5fb3ca231",
+        "git_blob_sha1": "b7412f2004ae227cca8964c2ff83b1eb5bb1f03d",
+        "utf8_bytes": 8334,
+        "paragraphs": 67,
+        "body_han_characters": 2326
+      },
+      "en": {
+        "path": "en/240_The_Answer_I_Wanted.md",
+        "heading": "Chapter 240: The Answer I Wanted",
+        "sha256": "29dc893f8c9a047af1948c6b38534b51a5cd52bd9084da0971e80dfc7e9cd2f7",
+        "git_blob_sha1": "fac28d698c51686d55d3c5d9fa1ea74b3ef816b6",
+        "utf8_bytes": 9551,
+        "paragraphs": 67,
+        "body_words": 1668
+      }
+    },
+    {
+      "chapter": 241,
+      "cn": {
+        "path": "cn/241_A_Small_Change_In_The_Tune.md",
+        "heading": "第241章 旋律里的一点变化",
+        "sha256": "68648938796f37307ebbfaddbcd0af184c172fe1096d797e4436666a8076cfce",
+        "git_blob_sha1": "83e7935275a6f9a2b194536b424bfcdbe6633f23",
+        "utf8_bytes": 8417,
+        "paragraphs": 59,
+        "body_han_characters": 2402
+      },
+      "en": {
+        "path": "en/241_A_Small_Change_In_The_Tune.md",
+        "heading": "Chapter 241: A Small Change in the Tune",
+        "sha256": "e2e9f20545bfe798fdd5c5d66e680491320739b42a3b77d94bb3689cf8770fc8",
+        "git_blob_sha1": "80b5061655fc4b1d773d8d1b6cf08ccf8994d144",
+        "utf8_bytes": 9567,
+        "paragraphs": 59,
+        "body_words": 1656
+      }
+    },
+    {
+      "chapter": 242,
+      "cn": {
+        "path": "cn/242_What_Fits_In_The_Bag.md",
+        "heading": "第242章 包里装得下的东西",
+        "sha256": "1c39193a562ce357b1e1d97b10483f41508e0c3f27fdab5dc95d3fa20ce37c24",
+        "git_blob_sha1": "9c98742ed5c16052ce6f76dc514fbb6c2290e431",
+        "utf8_bytes": 8140,
+        "paragraphs": 54,
+        "body_han_characters": 2320
+      },
+      "en": {
+        "path": "en/242_What_Fits_In_The_Bag.md",
+        "heading": "Chapter 242: What Fits in the Bag",
+        "sha256": "bb841ada436b3dfea35fa8346acb15700b0824b57cea92862a84345cf9902838",
+        "git_blob_sha1": "7d3086789ebef6420b7b678ff075da5699a69864",
+        "utf8_bytes": 10269,
+        "paragraphs": 54,
+        "body_words": 1838
+      }
+    },
+    {
+      "chapter": 243,
+      "cn": {
+        "path": "cn/243_The_Seat_Beside_Me.md",
+        "heading": "第243章 身旁的座位",
+        "sha256": "96a00a2dbe9a56498084a9f09561d775331f7b073caf6238b0a4918c4c1154e1",
+        "git_blob_sha1": "f638b579b7757c36434832b500e2ce2b3f98d3f3",
+        "utf8_bytes": 7949,
+        "paragraphs": 32,
+        "body_han_characters": 2337
+      },
+      "en": {
+        "path": "en/243_The_Seat_Beside_Me.md",
+        "heading": "Chapter 243: The Seat Beside Me",
+        "sha256": "e3f6892f050d7db116f3e9ae6dd705f7efe6883b85c5fbdc81460d90b2158e31",
+        "git_blob_sha1": "7c1b725bd766f901af056215cab46a6a200f8854",
+        "utf8_bytes": 9849,
+        "paragraphs": 32,
+        "body_words": 1797
+      }
+    },
+    {
+      "chapter": 244,
+      "cn": {
+        "path": "cn/244_While_It_Was_Still_Light.md",
+        "heading": "第244章 天还亮着",
+        "sha256": "9b646140b2540a7c3ebefc026be84b80e10cff903cceae79f15684f66a065b56",
+        "git_blob_sha1": "ec8ad2b63468c42a5ee57cd92d2bf8872390e3e5",
+        "utf8_bytes": 8249,
+        "paragraphs": 56,
+        "body_han_characters": 2346
+      },
+      "en": {
+        "path": "en/244_While_It_Was_Still_Light.md",
+        "heading": "Chapter 244: While It Was Still Light",
+        "sha256": "849915ef5828d336a6f89350a8c1353c1eef3cac894e85631da1cee14fcb1299",
+        "git_blob_sha1": "b8f26ac76b5050024c529b26d01068b8bc50eaa2",
+        "utf8_bytes": 10614,
+        "paragraphs": 56,
+        "body_words": 1915
+      }
+    },
+    {
+      "chapter": 245,
+      "cn": {
+        "path": "cn/245_Not_Everything_Becomes_A_Story.md",
+        "heading": "第245章 不必全都写下来",
+        "sha256": "caca7ecdca4be171fcffb585d77a25682d577e02fbdef1f5f841ae1ac7cc2c7b",
+        "git_blob_sha1": "c9f9f0051de61cdcf4c915e28234f7776b027f02",
+        "utf8_bytes": 8321,
+        "paragraphs": 53,
+        "body_han_characters": 2390
+      },
+      "en": {
+        "path": "en/245_Not_Everything_Becomes_A_Story.md",
+        "heading": "Chapter 245: Not Everything Becomes a Story",
+        "sha256": "746058484312c702d7165c2618f4f9963f1be224d2656abd7561faafe1fee1a5",
+        "git_blob_sha1": "a6e0c365b38e88e02d7d89e387b0d0c4a3559259",
+        "utf8_bytes": 10512,
+        "paragraphs": 53,
+        "body_words": 1887
+      }
+    },
+    {
+      "chapter": 246,
+      "cn": {
+        "path": "cn/246_After_The_Last_Sentence.md",
+        "heading": "第246章 最后一句以后",
+        "sha256": "5843c9eb80b556d7035bac7b376d1692ab92cf6e1d15236f8bb4548a93e46f1d",
+        "git_blob_sha1": "1b5cebef875c57cf36dfde70829bb816951caf91",
+        "utf8_bytes": 8673,
+        "paragraphs": 76,
+        "body_han_characters": 2441
+      },
+      "en": {
+        "path": "en/246_After_The_Last_Sentence.md",
+        "heading": "Chapter 246: After the Last Sentence",
+        "sha256": "5085bcde2a4fd3e4569350620667a9f9b3471a2690eb075ab1608c7bd0cd3172",
+        "git_blob_sha1": "6e7aad31a698c67d5cf736a489907c8a5edecc6b",
+        "utf8_bytes": 10629,
+        "paragraphs": 76,
+        "body_words": 1878
+      }
+    }
+  ]
+}
