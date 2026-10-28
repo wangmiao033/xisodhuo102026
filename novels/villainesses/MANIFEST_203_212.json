@@ -1,0 +1,243 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-10-28",
+  "source_main_at_preflight": "905b5e5578a5bde322491403f15a8ab0beca836f",
+  "new_bilingual_chapters": [
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212
+  ],
+  "actual_new_chapter_count": 10,
+  "continuous_bilingual_manuscript_through": 212,
+  "platform_publication": "Not performed; manuscript storage does not grant platform publication approval. Grok handles Novelpia6692.",
+  "word_count_method": "Exclude Markdown heading; Chinese U+4E00–U+9FFF; English [A-Za-z]+ with internal hyphen/apostrophe compounds.",
+  "files": [
+    {
+      "chapter": 203,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-203.md",
+      "title": "第二百零三章：她曾经相信的门",
+      "body_count": 3320,
+      "count_unit": "Han characters",
+      "sha256": "02ae14f4760471489d253e839e4e187e81b6407581e01045b29cf6dee6f7336b",
+      "git_blob_sha": "f7b58d86582054d9deefd21c20c0400016361d99",
+      "utf8_bytes": 11445
+    },
+    {
+      "chapter": 203,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-203.md",
+      "title": "Chapter 203: The Door She Had Trusted",
+      "body_count": 1838,
+      "count_unit": "English words",
+      "sha256": "7c757cca90aa0515e9119c32815cfdb960f67b03d8c99bc8ac072eb4820638f7",
+      "git_blob_sha": "2c661da285e536ccb947e39486aec271644802cb",
+      "utf8_bytes": 11767
+    },
+    {
+      "chapter": 204,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-204.md",
+      "title": "第二百零四章：这一次先告诉他",
+      "body_count": 3272,
+      "count_unit": "Han characters",
+      "sha256": "0a7396fec221b3ed1d195ad280a07b211a7b807d8876432402f6c7a159a1436e",
+      "git_blob_sha": "a6fbab0770c1cdf095b418dd124c715d34a4d512",
+      "utf8_bytes": 11350
+    },
+    {
+      "chapter": 204,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-204.md",
+      "title": "Chapter 204: This Time, Tell Him First",
+      "body_count": 1822,
+      "count_unit": "English words",
+      "sha256": "2b1c27fcf927cc33119434ac631c074c2d8edca167db8c093860aafe46ae5cb8",
+      "git_blob_sha": "2642dfe02e22e1ea41d56776fed5e0f9eecdb259",
+      "utf8_bytes": 11417
+    },
+    {
+      "chapter": 205,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-205.md",
+      "title": "第二百零五章：她把封箱交了出去",
+      "body_count": 3113,
+      "count_unit": "Han characters",
+      "sha256": "0ae4410a324d730434d2e879d93303c428ca9f735e5abb50d6ddd03c5d7b8f9e",
+      "git_blob_sha": "8913faf9d48e4c3fd06e3a095e26e4498eb1e9ae",
+      "utf8_bytes": 10700
+    },
+    {
+      "chapter": 205,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-205.md",
+      "title": "Chapter 205: She Handed Over the Box",
+      "body_count": 1840,
+      "count_unit": "English words",
+      "sha256": "d5c38db87b790ef8fb601f154f11e1b51dd7f8ec56c5fcf0018a34ac75ca13a6",
+      "git_blob_sha": "b15dbb4735b5f23eed1fa785b2f935b060acac16",
+      "utf8_bytes": 11963
+    },
+    {
+      "chapter": 206,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-206.md",
+      "title": "第二百零六章：被挪动的红线",
+      "body_count": 3196,
+      "count_unit": "Han characters",
+      "sha256": "80e27b3bedba008a8004d4847d88ba47e0fe8321e938d48bbeecebd7a3acc2e1",
+      "git_blob_sha": "9a04a83ad603279bcfeab9be7e210624683f1114",
+      "utf8_bytes": 10953
+    },
+    {
+      "chapter": 206,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-206.md",
+      "title": "Chapter 206: The Line Someone Moved",
+      "body_count": 1842,
+      "count_unit": "English words",
+      "sha256": "0929c7119829c5c8dd353b1c3f2c20eda0df6452e6f1e70d0945b5629b4c2b08",
+      "git_blob_sha": "8960849b0132c4fc0bd9e6c10a1913d8c1f68832",
+      "utf8_bytes": 12120
+    },
+    {
+      "chapter": 207,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-207.md",
+      "title": "第二百零七章：不是陪同者的名字",
+      "body_count": 3106,
+      "count_unit": "Han characters",
+      "sha256": "fd3284569cde178dfb9edb23be228b8882cbec1187c80d2b2aaf934d9cf1a320",
+      "git_blob_sha": "8f546da8b65ac9d7626926d08fdc4da9d5de6380",
+      "utf8_bytes": 10676
+    },
+    {
+      "chapter": 207,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-207.md",
+      "title": "Chapter 207: Names Beyond the Escort Column",
+      "body_count": 1812,
+      "count_unit": "English words",
+      "sha256": "5f092d248e9d836aeb742bab9340d4b776d9ca7193b45bf0a6229d986c951d4e",
+      "git_blob_sha": "9d1c0be1c235e0d3e55f33a57f6451b7bdd5a88f",
+      "utf8_bytes": 11737
+    },
+    {
+      "chapter": 208,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-208.md",
+      "title": "第二百零八章：这次，他把名字留在自己手里",
+      "body_count": 3271,
+      "count_unit": "Han characters",
+      "sha256": "96c7a469e31a7a53584c7dffea360c36a21a34aa6533f43015c9d726bc3c919a",
+      "git_blob_sha": "2d5557e50d7b340a8641930a5f5bb503bf112ae3",
+      "utf8_bytes": 11379
+    },
+    {
+      "chapter": 208,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-208.md",
+      "title": "Chapter 208: This Time, He Kept His Name",
+      "body_count": 1848,
+      "count_unit": "English words",
+      "sha256": "1768191b8ac754f8ab4b5e41920821b63e76c7b4600b8758c37e1d1f51f59a47",
+      "git_blob_sha": "6e1d615943f31aeb534d41e139c1ae1c085c43be",
+      "utf8_bytes": 11891
+    },
+    {
+      "chapter": 209,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-209.md",
+      "title": "第二百零九章：他们一起走下去",
+      "body_count": 3083,
+      "count_unit": "Han characters",
+      "sha256": "d1fae1cae6318c3dce10439af435bcfb894ba4a563c7441ed14a0e2d8a2ee6b9",
+      "git_blob_sha": "813f89e5e5455a1316579af6898bee20a0984dce",
+      "utf8_bytes": 10552
+    },
+    {
+      "chapter": 209,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-209.md",
+      "title": "Chapter 209: They Went Down Together",
+      "body_count": 1853,
+      "count_unit": "English words",
+      "sha256": "7683c990c851d8f25b26eb1ca0d84b31dbb019703c3661080c18a1cef48901c6",
+      "git_blob_sha": "25c1b0883e877903bf4a921897c69dee14542936",
+      "utf8_bytes": 11943
+    },
+    {
+      "chapter": 210,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-210.md",
+      "title": "第二百一十章：门终于有了地址",
+      "body_count": 3130,
+      "count_unit": "Han characters",
+      "sha256": "3686674eebb139ec344a8eb1809b59805a5ad2bf88bb03ffb7ff9cb08e2e37c5",
+      "git_blob_sha": "166b9349dbe59a4fe2e46774dafc60c37692e4ac",
+      "utf8_bytes": 10697
+    },
+    {
+      "chapter": 210,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-210.md",
+      "title": "Chapter 210: The Door Finally Had an Address",
+      "body_count": 1879,
+      "count_unit": "English words",
+      "sha256": "9240e05daee5d8b5f9fe912c5766f64a7f39442d6a559e7b87e71d15d2c22330",
+      "git_blob_sha": "dfa0dc93e26211fec9755daf5bf46fbbdadee0cd",
+      "utf8_bytes": 11928
+    },
+    {
+      "chapter": 211,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-211.md",
+      "title": "第二百一十一章：门上没有她们的回答",
+      "body_count": 3405,
+      "count_unit": "Han characters",
+      "sha256": "579caea1f86d4ce87ed056da040c778b017c2236387b274c05ab6516a1242ab0",
+      "git_blob_sha": "6b346ac93be0169fbcfa785f6abf29aef199952e",
+      "utf8_bytes": 11711
+    },
+    {
+      "chapter": 211,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-211.md",
+      "title": "Chapter 211: The Door Had No Answer From Them",
+      "body_count": 1961,
+      "count_unit": "English words",
+      "sha256": "85bcd210b89c29545ebe58672b809d6ba836cbf46036c97c6ec757f7a7d43f06",
+      "git_blob_sha": "2b07b2702dff365e9c315ca20b6fc7f41c92c2e4",
+      "utf8_bytes": 12614
+    },
+    {
+      "chapter": 212,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-212.md",
+      "title": "第二百一十二章：把第一行读回来",
+      "body_count": 3188,
+      "count_unit": "Han characters",
+      "sha256": "f42321327ccf7dce796520394531233c70f3b2d8897f8d17402aa3ddc13eb351",
+      "git_blob_sha": "63a89732a706b8b471b124ef6c4cc61f071a6cfd",
+      "utf8_bytes": 10917
+    },
+    {
+      "chapter": 212,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-212.md",
+      "title": "Chapter 212: Reading the First Line Again",
+      "body_count": 1911,
+      "count_unit": "English words",
+      "sha256": "584b071b37d5d9de6903f08c464398d2fe3d4541a6481a5565ea475f1a786e35",
+      "git_blob_sha": "910a6bc0eec160104ba1f16cb2f1a5a8831dc4e5",
+      "utf8_bytes": 12619
+    }
+  ]
+}
