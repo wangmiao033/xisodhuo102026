@@ -1,0 +1,124 @@
+{
+  "beijingWritingDate": "2026-10-28",
+  "reviewedAtUTC": "2026-10-28T00:58:04.408115+00:00",
+  "chapterRange": [
+    46,
+    55
+  ],
+  "count": 10,
+  "language": "English",
+  "status": "Complete English manuscripts independently reviewed; not a publication claim",
+  "scope": "Approved full planning and CANON, recent full text and all ten new full manuscripts read. Independent reviewers were not the authors of the chapters they reviewed. Chronology, characters, limited Eve viewpoint, cat ability, ordinary animal care, props, payments, scene progression and 1800–2200 body-word target checked. No older chapter changed.",
+  "chapters": [
+    {
+      "chapter": 46,
+      "heading": "Chapter 046 — A Full Weekend Grid",
+      "path": "chapters/en/046-a-full-weekend-grid.md",
+      "words": 1835,
+      "sha256": "a9ccb7cc6f975ef09ce6173e35098bf2b91c18d68f118c12778d563ed19a70f6",
+      "git_blob_sha1": "fb0e2393c843d0d70e5b9c5fe8c2636db4e1f1aa",
+      "body_words_whitespace": 1834,
+      "independent_full_text_review": "pass",
+      "review": "Friday inquiries remain conditional; overlapping Saturday events and disagreement distinguish concern from deciding Eve's worth."
+    },
+    {
+      "chapter": 47,
+      "heading": "Chapter 047 — Nobody Asked Me to Do That",
+      "path": "chapters/en/047-nobody-asked-me-to-do-that.md",
+      "words": 1807,
+      "sha256": "ead5c2791958cc676f2a116502ee0d2aba08812de9ea9f2457a893b235d15c67",
+      "git_blob_sha1": "6edbbee6a0a065611c9dd7fe54082396607895b2",
+      "body_words_whitespace": 1807,
+      "independent_full_text_review": "pass",
+      "review": "Saturday friend refusal and negotiated concrete smaller deliveries preserve Sophie's autonomy and realistic income."
+    },
+    {
+      "chapter": 48,
+      "heading": "Chapter 048 — Two Versions of the Same Mistake",
+      "path": "chapters/en/048-two-versions-of-the-same-mistake.md",
+      "words": 1914,
+      "sha256": "91e3218d312e6e5cb661494291253037059a8fb29340d0a454a4f71e9966e681",
+      "git_blob_sha1": "ed0836b8c344a3dab305a3f957894d679a669b0c",
+      "body_words_whitespace": 1914,
+      "independent_full_text_review": "pass",
+      "review": "Sunday check-in and Monday discussion; early-shift relative dates corrected; both characters identify their own extra work without resolving the other's life."
+    },
+    {
+      "chapter": 49,
+      "heading": "Chapter 049 — Help Has to Be Requested",
+      "path": "chapters/en/049-help-has-to-be-requested.md",
+      "words": 1913,
+      "sha256": "770020a07ef5c18edba27023309b078061915e60e586be51a5c811ea8d67c071",
+      "git_blob_sha1": "dc765eac5938f5748a7088dd59a51e0305271b4d",
+      "body_words_whitespace": 1913,
+      "independent_full_text_review": "pass",
+      "review": "Tuesday paid agreement and Saturday limited event show usable decisions, payment and realistic audience response. Julian's rest follows his own request."
+    },
+    {
+      "chapter": 50,
+      "heading": "Chapter 050 — Not a Work Invitation",
+      "path": "chapters/en/050-not-a-work-invitation.md",
+      "words": 1982,
+      "sha256": "2ca9e69ee1551b026dd09ce50d61df2424ffdeb56c9b4d02ef0e0a7bd20c1e11",
+      "git_blob_sha1": "3297f7b1fdd5d5fc616982a257485eecbf4f1a55",
+      "body_words_whitespace": 1982,
+      "independent_full_text_review": "pass",
+      "review": "Sunday personal visit follows Saturday event; next Saturday film invitation is personal; no confession or formal dating."
+    },
+    {
+      "chapter": 51,
+      "heading": "Chapter 051 — The Extra Third Mat",
+      "path": "chapters/en/051-the-extra-third-mat.md",
+      "words": 1830,
+      "sha256": "e8e62c7331d822b5cc1fa8807653c32095aef6bd9c4a43e8bb40133b4a9afe72",
+      "git_blob_sha1": "d5468f759878a346ecb3067bd5834fcc9e7a354f",
+      "body_words_whitespace": 1830,
+      "independent_full_text_review": "pass",
+      "review": "Private film outing, cat safely home, third mat ordinary overpreparation, dark-blue scarf retained by Julian; flask continuity checked."
+    },
+    {
+      "chapter": 52,
+      "heading": "Chapter 052 — The Screen Fails at the Right Time",
+      "path": "chapters/en/052-the-screen-fails-at-the-right-time.md",
+      "words": 1817,
+      "sha256": "b4453c78783b4f5e5acc674523bc2b09d33fe457036fb18cb1065b30aa94aa47",
+      "git_blob_sha1": "5cad9d6cda0de9b5e7ba333d30db7b26b23b3efa",
+      "body_words_whitespace": 1817,
+      "independent_full_text_review": "pass",
+      "review": "Film failure, bounded chair help and shared walk; mat rolling continuity fixed and potato-sharing motive supplied in spoken dialogue rather than viewpoint intrusion."
+    },
+    {
+      "chapter": 53,
+      "heading": "Chapter 053 — Not on My Way",
+      "path": "chapters/en/053-not-on-my-way.md",
+      "words": 1804,
+      "sha256": "549bb1abc5bbf451cb8c08f64c4a5f26fda016618d1fb3ca37ecae31e154ab1b",
+      "git_blob_sha1": "b39648070ecb11e4703d9fa2059b408fd8ca9e87",
+      "body_words_whitespace": 1804,
+      "independent_full_text_review": "pass",
+      "review": "Detour acknowledged in plain dialogue; personal home invitation, cups cleaned and taken, scarf left on chair then side table; earlier private tea acknowledged."
+    },
+    {
+      "chapter": 54,
+      "heading": "Chapter 054 — The Cat's Plan Is Too Obvious",
+      "path": "chapters/en/054-the-cats-plan-is-too-obvious.md",
+      "words": 1804,
+      "sha256": "2928d2a854db656ad6b6668d57f2c674c67352c9e3bb50454d47f013075ca8c2",
+      "git_blob_sha1": "55ce5ee3e7082e616778c80c04f6e779b96d58ab",
+      "body_words_whitespace": 1803,
+      "independent_full_text_review": "pass",
+      "review": "Sunday scarf retrieval invitation for Tuesday; ordinary cat action remains uncertain; safe storage and no cat staging or private footage."
+    },
+    {
+      "chapter": 55,
+      "heading": "Chapter 055 — Who Pays Tonight?",
+      "path": "chapters/en/055-who-pays-tonight.md",
+      "words": 1813,
+      "sha256": "735fe23b2c87429effb6283ddb30a287c53059d31679650da431d2965b7d16ac",
+      "git_blob_sha1": "415531ea117031d7c394782ed1009d7862ecef93",
+      "body_words_whitespace": 1813,
+      "independent_full_text_review": "pass",
+      "review": "Tuesday dinner and bounded taking-turns payment; Eve openly requests another meeting without jumping relationship milestones."
+    }
+  ]
+}

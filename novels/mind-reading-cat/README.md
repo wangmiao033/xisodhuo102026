@@ -24,3 +24,7 @@ Complete English Chapters 036–045 continue the approved outline and have passe
 ## Verified new releases — 2026-10-27
 
 Chapters 036–045 were newly published as Main / Public / Now on Beijing 2026-10-27, then each management entry and complete reader page was verified against fixed manuscript commit `4e17555a7aec8dd44fee7bef581e90a6a1b978fa`. Today's new-public total is 10/10. The complete manuscript and public ranges are both 001–045; reviewed complete unpublished inventory is zero. Chapters 046–250 remain planning, not stock. See `publication/new-releases-2026-10-27.json` for per-chapter reader URLs and actual UTC/Beijing release times.
+
+## Reviewed writing batch — 2026-10-28
+
+Complete English Chapters 046–055 have passed independent full-text review, continuing the approved outline. The active complete manuscript range is now 001–055. See `reviews/2026-10-28.json` and `progress/2026-10-28.md`. Publication is recorded separately; this writing entry does not itself claim new public releases. Chapters 056–250 remain planning, not completed stock.
