@@ -1,0 +1,242 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-10-29",
+  "source_main_at_preflight": "d9b649df6c4f4c2e123b1e7fa8b4fe6622091595",
+  "new_bilingual_chapters": [
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222
+  ],
+  "actual_new_chapter_count": 10,
+  "continuous_bilingual_manuscript_through": 222,
+  "platform_publication": "Not performed. Manuscript storage is not platform release approval. Grok handles Novelpia 6692.",
+  "files": [
+    {
+      "chapter": 213,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-213.md",
+      "heading": "# 第二百一十三章：名单没有问过她",
+      "body_count": 3085,
+      "count_unit": "Han characters",
+      "sha256": "a80c5fa30feae6738e5767bf7057afe7416530d41034cb92513d4c9ba2346f3a",
+      "git_blob_sha": "8af4157cce51154988f72d70a8d56135f775a87f",
+      "utf8_bytes": 10712
+    },
+    {
+      "chapter": 213,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-213.md",
+      "heading": "# Chapter 213: The Register Had Never Asked Her",
+      "body_count": 1810,
+      "count_unit": "English words",
+      "sha256": "d7a6527b292ea51aef0173897c4df3be322509a1c5d3911d5857cd1aba9f4ba2",
+      "git_blob_sha": "f87fdcb3be3bdd59f6cdc969662d27874e052d4c",
+      "utf8_bytes": 11612
+    },
+    {
+      "chapter": 214,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-214.md",
+      "heading": "# 第二百一十四章：神谕落笔之前",
+      "body_count": 3169,
+      "count_unit": "Han characters",
+      "sha256": "64bf7f4034c3282c25dcfa144853da4984f4eaac3967a27e7ce70776a60b7108",
+      "git_blob_sha": "6559749a1c7d36f86650e8d94a3b3f80df4c9772",
+      "utf8_bytes": 10860
+    },
+    {
+      "chapter": 214,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-214.md",
+      "heading": "# Chapter 214: Before the Oracle Was Written",
+      "body_count": 1803,
+      "count_unit": "English words",
+      "sha256": "a1611a800cc8f1a29b191a3644f84b18b84aae9cd1685595eee1737020d6f825",
+      "git_blob_sha": "9b2e0e54f260ab1c737e1f1af9a548bacd6c014e",
+      "utf8_bytes": 11991
+    },
+    {
+      "chapter": 215,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-215.md",
+      "heading": "# 第二百一十五章：命令最后的一行",
+      "body_count": 3247,
+      "count_unit": "Han characters",
+      "sha256": "9b6174ef10cda2d9f3b0182c05d6b5d22db3267c4f23cd54dc32684cb1f13ed9",
+      "git_blob_sha": "ce16b0944efab137bea63e1ff8e5c921f9b156b4",
+      "utf8_bytes": 11142
+    },
+    {
+      "chapter": 215,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-215.md",
+      "heading": "# Chapter 215: The Order's Last Line",
+      "body_count": 1809,
+      "count_unit": "English words",
+      "sha256": "27d053b6a41adaaf44efba4f6bab6a231ca0429c4a4cf4ced4a51fc3f78465dc",
+      "git_blob_sha": "76b800cea61d6424747f987940cecb5b6b35ba65",
+      "utf8_bytes": 11759
+    },
+    {
+      "chapter": 216,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-216.md",
+      "heading": "# 第二百一十六章：不是天生的齿轮",
+      "body_count": 3023,
+      "count_unit": "Han characters",
+      "sha256": "94647af7db8b233a3df620785bd9d29a000bde558f072c1bdc68ed97c9f527fb",
+      "git_blob_sha": "ecbe073e91bd8c7d27b7913501433ada19caf489",
+      "utf8_bytes": 10410
+    },
+    {
+      "chapter": 216,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-216.md",
+      "heading": "# Chapter 216: Not Made by Heaven",
+      "body_count": 1838,
+      "count_unit": "English words",
+      "sha256": "c931b094e1c4e302c326553563109a583f78e16658b1e02953091a85f3a46d88",
+      "git_blob_sha": "e9b487ca92dda9d4def51b915cef91f8571adfcd",
+      "utf8_bytes": 12055
+    },
+    {
+      "chapter": 217,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-217.md",
+      "heading": "# 第二百一十七章：王冠落在第二行",
+      "body_count": 3050,
+      "count_unit": "Han characters",
+      "sha256": "a2f96542b83bdd521add0658e8acc9bbe30123adf546ac06769bddaca82d7943",
+      "git_blob_sha": "0a17446642f8d3b8b756fbbf31a6ff36df7c0b3e",
+      "utf8_bytes": 10469
+    },
+    {
+      "chapter": 217,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-217.md",
+      "heading": "# Chapter 217: The Crown on the Second Line",
+      "body_count": 1805,
+      "count_unit": "English words",
+      "sha256": "9c375237a63d3f1c267e6c24f57d267350fa97767715f7097c767cb0f13992ea",
+      "git_blob_sha": "6a786d86a1f87c802e567d2fefb86ca11e2f94b2",
+      "utf8_bytes": 12028
+    },
+    {
+      "chapter": 218,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-218.md",
+      "heading": "# 第二百一十八章：请您把门留着",
+      "body_count": 3210,
+      "count_unit": "Han characters",
+      "sha256": "9e6820e2833c0f7d3c95593f612ae6d0c270b9f6ae472dbd5d86b389248627c6",
+      "git_blob_sha": "74a7248c756bc7913ddee9162ab9c4950e1c3a91",
+      "utf8_bytes": 11069
+    },
+    {
+      "chapter": 218,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-218.md",
+      "heading": "# Chapter 218: Leave the Door Open",
+      "body_count": 1809,
+      "count_unit": "English words",
+      "sha256": "735ffa2c35c4b6c254c8a05d55dbcea4fdfd9ca9b994afc8cf201aef37d61bfa",
+      "git_blob_sha": "5bcd54d1d066907919ba711a13e613c46592d2c6",
+      "utf8_bytes": 11682
+    },
+    {
+      "chapter": 219,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-219.md",
+      "heading": "# 第二百一十九章：没有给恶人留下空位",
+      "body_count": 3270,
+      "count_unit": "Han characters",
+      "sha256": "b124df46ae679c4428661d2a43254d48e862f485ab74fdba39a7aa9c8b5aa6b8",
+      "git_blob_sha": "3545a1731a79321bb05d8cc07ccafbe2fd6fdbd9",
+      "utf8_bytes": 11140
+    },
+    {
+      "chapter": 219,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-219.md",
+      "heading": "# Chapter 219: No Convenient Villain",
+      "body_count": 1918,
+      "count_unit": "English words",
+      "sha256": "68a08783acf954ed879edba01e06520e5e23378c9282c1ac7e2d9c8698e87787",
+      "git_blob_sha": "b7cce9242a4056953fd6d3c95fe4b285d33ab282",
+      "utf8_bytes": 12337
+    },
+    {
+      "chapter": 220,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-220.md",
+      "heading": "# 第二百二十章：这次，他没有答案",
+      "body_count": 3150,
+      "count_unit": "Han characters",
+      "sha256": "c48613ead1caaafa83353b01bf2282fde05867e0c73d0ce21a01fb72be0ba762",
+      "git_blob_sha": "221bc5ece3b194df11885fd5a2751954903c04b2",
+      "utf8_bytes": 10719
+    },
+    {
+      "chapter": 220,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-220.md",
+      "heading": "# Chapter 220: This Time, He Had No Answer",
+      "body_count": 1824,
+      "count_unit": "English words",
+      "sha256": "df71406b2fb6f19beb4af04296a001aea966a795ea00f0d99f223967cd8e18e6",
+      "git_blob_sha": "7c7c4a9dc452c8012a8411b0e561bf3bfd27c790",
+      "utf8_bytes": 11720
+    },
+    {
+      "chapter": 221,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-221.md",
+      "heading": "# 第二百二十一章：空白不是她们的签名",
+      "body_count": 3222,
+      "count_unit": "Han characters",
+      "sha256": "45d11e12dfaa6770b3ce8d4dc091787e1dd4707e9633fbafdba2b01b81f26f40",
+      "git_blob_sha": "229b97cddbc86ddaacd2bd8655fdd5be13e64005",
+      "utf8_bytes": 10955
+    },
+    {
+      "chapter": 221,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-221.md",
+      "heading": "# Chapter 221: A Blank Is Not a Signature",
+      "body_count": 1825,
+      "count_unit": "English words",
+      "sha256": "8e91882bab94533602bd4a2146f3aabc5ac1de095a27f2b4076f5c02f664efa7",
+      "git_blob_sha": "f1a1623ec3f47ac303e1d22b118af9be554ca56c",
+      "utf8_bytes": 11852
+    },
+    {
+      "chapter": 222,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-222.md",
+      "heading": "# 第二百二十二章：先找能一起做的事",
+      "body_count": 3229,
+      "count_unit": "Han characters",
+      "sha256": "3dfc2792b62c12476f529bb0b01f624d5dc6a058f3e02acc036da22c2c8b15df",
+      "git_blob_sha": "6143767285938adefc1043092b30b8c36d6413cb",
+      "utf8_bytes": 10934
+    },
+    {
+      "chapter": 222,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-222.md",
+      "heading": "# Chapter 222: Something They Could Do Together",
+      "body_count": 1819,
+      "count_unit": "English words",
+      "sha256": "07c1668e43645d43e7b266b50a71298383e15503d57557954bd158c1f5a9b48f",
+      "git_blob_sha": "36004925e961daf65def80fa2c91322e25636b82",
+      "utf8_bytes": 12085
+    }
+  ]
+}
