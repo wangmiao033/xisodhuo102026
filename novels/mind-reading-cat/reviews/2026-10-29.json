@@ -1,0 +1,114 @@
+{
+  "beijingWritingDate": "2026-10-29",
+  "reviewedAtUTC": "2026-10-29T00:53:05.854943+00:00",
+  "chapterRange": [
+    56,
+    65
+  ],
+  "count": 10,
+  "language": "English",
+  "status": "Complete English manuscripts independently reviewed; not a publication claim",
+  "scope": "Author read current full planning, CANON, manifest and recent full chapters. Separate reviewer read CANON, full planning, complete051–055 and all complete056–065. All identified local corrections verified. See full independent review in reviews/2026-10-29.md. No earlier chapter or other novel changed.",
+  "chapters": [
+    {
+      "chapter": 56,
+      "heading": "Chapter 056 — The Notice at the Door",
+      "path": "chapters/en/056-the-notice-at-the-door.md",
+      "words": 1841,
+      "sha256": "6936310d99c900f11456d57d580cf3dfb3b73ba96a011cee3e13504fa9056e9c",
+      "git_blob_sha1": "c3758a31576f3ce7bba08c6a36852206dd74d3b3",
+      "body_words_whitespace": 1841,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 57,
+      "heading": "Chapter 057 — A Night Worker's Morning",
+      "path": "chapters/en/057-a-night-workers-morning.md",
+      "words": 1837,
+      "sha256": "2867802cfc994839b3ee8faff2123bd0485309354f9369c6498bdf0560361626",
+      "git_blob_sha1": "80a28bb630ca325c34eb50bae5e89fa13914e100",
+      "body_words_whitespace": 1837,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 58,
+      "heading": "Chapter 058 — No Cat to Choose the Winner",
+      "path": "chapters/en/058-no-cat-to-choose-the-winner.md",
+      "words": 1825,
+      "sha256": "04491ab8a29c5b77c7b9412884a7653b5b1c65a8a94866272875882a6a706c3b",
+      "git_blob_sha1": "9c2a88c4620d1c573116b2dee23d9e7ab2a6da44",
+      "body_words_whitespace": 1825,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 59,
+      "heading": "Chapter 059 — The First Week Is Still Noisy",
+      "path": "chapters/en/059-the-first-week-is-still-noisy.md",
+      "words": 1862,
+      "sha256": "b8b23321d20fdd334f9ec33860838e69e2cd12fc7e24d8a8715954e25f24fc07",
+      "git_blob_sha1": "82c04a029bef5cc0fbc6cdd566c5b34f416db818",
+      "body_words_whitespace": 1862,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 60,
+      "heading": "Chapter 060 — Standing Together Through Ugly Words",
+      "path": "chapters/en/060-standing-together-through-ugly-words.md",
+      "words": 1831,
+      "sha256": "fe29d05e1c4b6c5bbbcb25a4b10faeb6d822f9ac8a01e847662dd613d517356a",
+      "git_blob_sha1": "781afef1a5607593440aa58a8a09fd1af2cace59",
+      "body_words_whitespace": 1831,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 61,
+      "heading": "Chapter 061 — Annoyingly Capable",
+      "path": "chapters/en/061-annoyingly-capable.md",
+      "words": 1828,
+      "sha256": "0ee5717b5586a8049d7c2cec2d5f1cc2ac8484015a6dc36fb5af0f9c60921a7c",
+      "git_blob_sha1": "9ee44806648a31c20ef46320b27164be4aedd2bb",
+      "body_words_whitespace": 1828,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 62,
+      "heading": "Chapter 062 — A Challenge for a Colleague",
+      "path": "chapters/en/062-a-challenge-for-a-colleague.md",
+      "words": 1836,
+      "sha256": "c3b16337f712519621f9ae3688d8017686d5e7d2c60e42934b903fed9cf991fa",
+      "git_blob_sha1": "1b42e6ef1874e712d491e32e7e20d19eee458332",
+      "body_words_whitespace": 1836,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 63,
+      "heading": "Chapter 063 — It Isn't the Camera I Care About",
+      "path": "chapters/en/063-it-isnt-the-camera-i-care-about.md",
+      "words": 1849,
+      "sha256": "1fd35acc9e45ec799b2da107830065884a38abd812570ad115c61ae6ac4da758",
+      "git_blob_sha1": "f600757de0ba13c84623d0c381406d5dff8e5d79",
+      "body_words_whitespace": 1849,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 64,
+      "heading": "Chapter 064 — Two Names in the Credits",
+      "path": "chapters/en/064-two-names-in-the-credits.md",
+      "words": 1857,
+      "sha256": "6ebf2c8be8f060136a3b0269c2551d639e3bf87ac04adb50149019fef5117484",
+      "git_blob_sha1": "ba9d836a1ed99721bbf0d10ce09485053e8b64b2",
+      "body_words_whitespace": 1857,
+      "independent_full_text_review": "pass"
+    },
+    {
+      "chapter": 65,
+      "heading": "Chapter 065 — A Personal Question Today",
+      "path": "chapters/en/065-a-personal-question-today.md",
+      "words": 1817,
+      "sha256": "ce7d2e4fde314a8073b5d941d53cc9b789b65392fad64f04d31075232c497834",
+      "git_blob_sha1": "289a2bac3450a44fd3b251c91865b62a406442c0",
+      "body_words_whitespace": 1817,
+      "independent_full_text_review": "pass"
+    }
+  ]
+}
