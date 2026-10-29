@@ -1,0 +1,18 @@
+# Independent full-text bilingual review — 247–256
+
+Ten complete Chinese originals were written before their corresponding English localizations. Two writers coordinated an explicit chronological handoff. The 252–256 writer independently read every paragraph of both languages for 247–251. The 247–251 writer independently read every paragraph of both languages for 252–256, including final additions and corrected passages. This is a complete-text cross-review, not a hash-only, heading-only or sample review. No separate reviewer authored the chapters they independently reviewed.
+
+All ten pairs passed after correction. Checks included first-person adult Elliot identity; Lumi's information sources and non-embodied AI limits; chronological weekday transitions; event causality; object, food and clothing continuity; bilingual correspondence and natural localization; substantive scene/dialogue/action; privacy and relationship pace; previous manuscript boundaries; title/number matching and no duplicate chapter range.
+
+- 247: supplied explicit transfer of Tom's unlocked-door joke to Lumi before she recalls it in 248. No unsupported personal alarm/device capability. Invitation not premature commitment.
+- 248: nine-to-eleven commitment, ten opening, organizer prices and separate unpriced pile. Drawer obstruction physical, not AI-controlled. Actual leftover meal continuity retained.
+- 249: hypothetical serious introduction not actual disclosure; no use of Lumi's private work as proof. Work checking and preparation do not grant a new network connection.
+- 250: category sorting, organizer controls incomplete book/prices. Private found paper not unfolded or retained. Book setup and customer scenes distinct from mere planning.
+- 251: replaced inconsistent sorting-by-size statement with actual mainly-fiction section. Changed tonight to now in afternoon conversation. Handover/departure, unresolved ownership and cuff washing remain concrete.
+- 252: corrected cuff continuity: it was already washed and hung in 251, now full-shirt laundering. Removed implication he previously brought home private paper. Duvet cover consistently has buttons, not sheet. Damp-seam decision and later drying remain distinct from fictional story events.
+- 253: changed last-week merger to earlier, respecting elapsed story weeks. Removed duplicate handover introduced in expansion. Old intermediate sheet is distinguished from correct final file; full comparison and human accountability, no new permissions.
+- 254: supplied the actual mistaken remembered sign sequence in his account before later correction. Library borrow, old binding damage, due-date note and bookmark tracked; no fictional library story is an external copyrighted quotation. Final concrete tidying replaces generic summary.
+- 255: first melody stops when distracted; second is new voluntary incomplete attempt. Soup leftovers correctly refrigerated and carried to next chapter. No recording or compelled artistic change.
+- 256: three-page clean copy, title settles without question mark, original retained and ending unchanged. Honest thanks does not automatically settle disagreement or create coauthorship. Soup used up, borrowed book remains outstanding.
+
+Final file identities and body counts are in manifest.json. Formal prose length follows the recent mainline batch (Chinese around 2,300 Han characters, English around 1,700–1,800 word tokens), not the separate cat novel's 1,800–2,200-word target. No outline or translation-only addition is counted as a new chapter. No old file or platform chapter was changed. Archive completion must still be established by remote exact-byte readback of this immutable commit.

@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-29",
+  "initial_remote_main": "d9b649df6c4f4c2e123b1e7fa8b4fe6622091595",
+  "chapter_range": [
+    247,
+    256
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    256
+  ],
+  "continuation_pair_count_after_verification": 130,
+  "next_new_chapter": 257,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 247,
+      "cn": {
+        "path": "cn/247_An_End_Time.md",
+        "heading": "第247章 结束的时间",
+        "sha256": "10e2b41dc9b740debc2859e1a411036bb70c20985f99b4373eb41f617ac8dd31",
+        "git_blob_sha1": "334ab227007a889a12f022ee7909ccb95a911e02",
+        "utf8_bytes": 8431,
+        "paragraphs": 69,
+        "body_han_characters": 2366
+      },
+      "en": {
+        "path": "en/247_An_End_Time.md",
+        "heading": "Chapter 247: An End Time",
+        "sha256": "8d7a87e7549e52a8f1257341c253d11d275d4b060a964e6ee02d5bdc9bfb77a0",
+        "git_blob_sha1": "c2204380bb60d4a2c19bf39faeb27aac500b89e7",
+        "utf8_bytes": 9802,
+        "paragraphs": 69,
+        "body_words": 1744
+      }
+    },
+    {
+      "chapter": 248,
+      "cn": {
+        "path": "cn/248_The_Drawer_That_Caught.md",
+        "heading": "第248章 卡住的抽屉",
+        "sha256": "2db2d521457f4c3bc865b97ef8396e528a167cac67bb39d19c3134781ed6dab0",
+        "git_blob_sha1": "080b54f04e5f22479af2cd3dda28c5f0c21177b1",
+        "utf8_bytes": 8227,
+        "paragraphs": 69,
+        "body_han_characters": 2324
+      },
+      "en": {
+        "path": "en/248_The_Drawer_That_Caught.md",
+        "heading": "Chapter 248: The Drawer That Caught",
+        "sha256": "9716740df3866db04db03a3811905558b6b7dfe9251fd73e1b01a018df22410d",
+        "git_blob_sha1": "ff8a9af16161fc202ffd87a44ab942a442f0200c",
+        "utf8_bytes": 9753,
+        "paragraphs": 69,
+        "body_words": 1709
+      }
+    },
+    {
+      "chapter": 249,
+      "cn": {
+        "path": "cn/249_What_I_Would_Say.md",
+        "heading": "第249章 我会怎么说",
+        "sha256": "914062ba5bf2b67eb2657550770a22cd8e0a3327a98c2f52a639196bf27e9aa7",
+        "git_blob_sha1": "ca5785bdfc728a10d3c6de102498592b5086cdd7",
+        "utf8_bytes": 8294,
+        "paragraphs": 67,
+        "body_han_characters": 2352
+      },
+      "en": {
+        "path": "en/249_What_I_Would_Say.md",
+        "heading": "Chapter 249: What I Would Say",
+        "sha256": "fe58800c79499f89642970573a5e72629ca34ea8e43cd0ca93aaf10e95ceb41c",
+        "git_blob_sha1": "0809c4795f98261a72ee35dd3505ee557e0d09b4",
+        "utf8_bytes": 9739,
+        "paragraphs": 67,
+        "body_words": 1717
+      }
+    },
+    {
+      "chapter": 250,
+      "cn": {
+        "path": "cn/250_The_Unpriced_Pile.md",
+        "heading": "第250章 没有标价的那一叠",
+        "sha256": "5448c0c370869cbfe8624945c572ebd8762f18c9b12f131d9e44bba0ac5fe8f0",
+        "git_blob_sha1": "af640c75fa55b21bedbfb402cfb81a265eb0053e",
+        "utf8_bytes": 8116,
+        "paragraphs": 39,
+        "body_han_characters": 2347
+      },
+      "en": {
+        "path": "en/250_The_Unpriced_Pile.md",
+        "heading": "Chapter 250: The Unpriced Pile",
+        "sha256": "b066636d3e97d76be617e7ae9efc4a15e1a73780b1cd86562a94d8736f918a46",
+        "git_blob_sha1": "3beeb07d0d1023296dd4b5b6a0d39075eb2c8349",
+        "utf8_bytes": 9955,
+        "paragraphs": 39,
+        "body_words": 1796
+      }
+    },
+    {
+      "chapter": 251,
+      "cn": {
+        "path": "cn/251_Leaving_The_Table.md",
+        "heading": "第251章 离开桌边",
+        "sha256": "ce0740e0670b6c5f80773e08ca20a2d9e70644df756c9b0536e2b06c6fc78cd1",
+        "git_blob_sha1": "a796120d7f33fc03fe92180dc0f4765b2103267d",
+        "utf8_bytes": 8395,
+        "paragraphs": 60,
+        "body_han_characters": 2399
+      },
+      "en": {
+        "path": "en/251_Leaving_The_Table.md",
+        "heading": "Chapter 251: Leaving the Table",
+        "sha256": "01fde305dca1780ff7e8f41b4acc77632724aff4a77736edfa1bc5b3256a13cb",
+        "git_blob_sha1": "20d446b63364d49c55a6aa6e5bfc200ff1c58a54",
+        "utf8_bytes": 10141,
+        "paragraphs": 60,
+        "body_words": 1792
+      }
+    },
+    {
+      "chapter": 252,
+      "cn": {
+        "path": "cn/252_Still_Damp_At_The_Seams.md",
+        "heading": "第252章 接缝还是湿的",
+        "sha256": "de0d5ed95a3a0ee063d69fd4ff172ab4205a25e5f18ca37fe49230c518a948bf",
+        "git_blob_sha1": "53369f058f209db00cb66153ebcfb60b24427958",
+        "utf8_bytes": 8086,
+        "paragraphs": 54,
+        "body_han_characters": 2311
+      },
+      "en": {
+        "path": "en/252_Still_Damp_At_The_Seams.md",
+        "heading": "Chapter 252: Still Damp at the Seams",
+        "sha256": "7539e689362849396ce79cb60190698a823b700a73d8268cb944a5027635e256",
+        "git_blob_sha1": "af88bd995eaba33617ca375b2bf6094c73a64d6f",
+        "utf8_bytes": 9613,
+        "paragraphs": 56,
+        "body_words": 1726
+      }
+    },
+    {
+      "chapter": 253,
+      "cn": {
+        "path": "cn/253_The_Copy_I_Had_Not_Checked.md",
+        "heading": "第253章 没核过的那份",
+        "sha256": "a3eef3852fbeb4af8d4b5ddcc0be7b028aa9774ec9f505a05c7da79d73e89b06",
+        "git_blob_sha1": "26dea594ef285e074506fadced840216913ffeb3",
+        "utf8_bytes": 7984,
+        "paragraphs": 54,
+        "body_han_characters": 2280
+      },
+      "en": {
+        "path": "en/253_The_Copy_I_Had_Not_Checked.md",
+        "heading": "Chapter 253: The Copy I Had Not Checked",
+        "sha256": "9f2957f4b176b87bc72c4020312b17ced1079efa728ff8d46c9d73b88d2227d5",
+        "git_blob_sha1": "60c1cd781a41fec5d194bc5d4a023af1a0428867",
+        "utf8_bytes": 9762,
+        "paragraphs": 54,
+        "body_words": 1726
+      }
+    },
+    {
+      "chapter": 254,
+      "cn": {
+        "path": "cn/254_One_Book_To_Take_Home.md",
+        "heading": "第254章 带回家的一本",
+        "sha256": "86345f60629f460ba4eebe4fd254618d52bada56d1a64aa4d5d2beb57c43c93e",
+        "git_blob_sha1": "7df84992ef5ea7eae7689f885f27e7df7d856ad8",
+        "utf8_bytes": 8063,
+        "paragraphs": 50,
+        "body_han_characters": 2325
+      },
+      "en": {
+        "path": "en/254_One_Book_To_Take_Home.md",
+        "heading": "Chapter 254: One Book to Take Home",
+        "sha256": "da39e34058edb5e4784e6bd59268f1b17c112144668031cb75792be0c5a0f1e6",
+        "git_blob_sha1": "8880b6e0d7521ed5a3a4fb66ca0a566d4df8cadb",
+        "utf8_bytes": 9770,
+        "paragraphs": 50,
+        "body_words": 1717
+      }
+    },
+    {
+      "chapter": 255,
+      "cn": {
+        "path": "cn/255_Not_The_Same_Sound_Twice.md",
+        "heading": "第255章 不是同一个声音",
+        "sha256": "b76f6cfded55abdb62c5b2e9a4f5ebce4008f5af50ebe6d3f5d3a7454651dc18",
+        "git_blob_sha1": "8742bd173d65a45350eef3932d35fb1814f49e05",
+        "utf8_bytes": 8170,
+        "paragraphs": 57,
+        "body_han_characters": 2306
+      },
+      "en": {
+        "path": "en/255_Not_The_Same_Sound_Twice.md",
+        "heading": "Chapter 255: Not the Same Sound Twice",
+        "sha256": "ea7c7d047952347a9d39572cbe8a383c34588aab80a1a58cb3e40d96364cbf85",
+        "git_blob_sha1": "06225ea3528dd42962639852ec24c0a738056512",
+        "utf8_bytes": 9898,
+        "paragraphs": 57,
+        "body_words": 1760
+      }
+    },
+    {
+      "chapter": 256,
+      "cn": {
+        "path": "cn/256_The_Title_Without_A_Question_Mark.md",
+        "heading": "第256章 没有问号的题目",
+        "sha256": "a006ec7c2042085a0ac0e8643545661c7c27a4d13723a7ca35396fb3175e9ce4",
+        "git_blob_sha1": "38c456fb555dfdfc0c3fa83bb96bf8dd5914677a",
+        "utf8_bytes": 8109,
+        "paragraphs": 52,
+        "body_han_characters": 2331
+      },
+      "en": {
+        "path": "en/256_The_Title_Without_A_Question_Mark.md",
+        "heading": "Chapter 256: The Title Without a Question Mark",
+        "sha256": "9faa8d3eed1c6b3db22a37580751628183c272583fefe7bb66f251f7ff50a286",
+        "git_blob_sha1": "8c7e1caf79fd7054399e2e860d71f83dc29b3081",
+        "utf8_bytes": 9620,
+        "paragraphs": 52,
+        "body_words": 1710
+      }
+    }
+  ]
+}
