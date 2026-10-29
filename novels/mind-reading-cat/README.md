@@ -36,3 +36,7 @@ Chapters 046–055 were newly published as Main / Public / Now on Beijing 2026-1
 ## Reviewed writing batch — 2026-10-29
 
 Complete English Chapters 056–065 passed independent full-text review. The active complete manuscript range is now 001–065. See `reviews/2026-10-29.json`, `reviews/2026-10-29.md` and `progress/2026-10-29.md`. Publication is recorded separately; this writing entry does not claim new public releases. Chapters 066–250 remain planning, not completed stock.
+
+## Verified public releases — 2026-10-29
+
+English Chapters 056–065 were publicly released in order as Main/Public/Now and each complete reader body and management row verified, Beijing 08:56:35–09:05:13. Today's ten-chapter public quota is complete; cumulative public progress is 065. Fixed manuscript source: `9d50bdb9e357b42a77c0e025cad4210772e9e1b3`. See `publication/2026-10-29.json`. Reviewed complete unpublished stock: 0; 066–250 are unwritten planning, not stock.
