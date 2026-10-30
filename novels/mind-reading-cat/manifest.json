@@ -523,6 +523,86 @@
       "words": 1817,
       "sha256": "ce7d2e4fde314a8073b5d941d53cc9b789b65392fad64f04d31075232c497834",
       "git_blob_sha1": "289a2bac3450a44fd3b251c91865b62a406442c0"
+    },
+    {
+      "chapter": 66,
+      "heading": "Chapter 066 — A Call from Home",
+      "path": "chapters/en/066-a-call-from-home.md",
+      "words": 1861,
+      "sha256": "ada521f49473dbaa3e5828be134db035b7837ece62e0d20f80b4d461470bde70",
+      "git_blob_sha1": "89f100ba814783b9b066b6723bec38c8c91f321c"
+    },
+    {
+      "chapter": 67,
+      "heading": "Chapter 067 — Not Bad, Just Not Right",
+      "path": "chapters/en/067-not-bad-just-not-right.md",
+      "words": 1887,
+      "sha256": "c175aecab11c139bdd40a99ccb6cd673e0753b5bfe3fecdf88b47b7694573ac8",
+      "git_blob_sha1": "e1b276609739c28ac435cbe9f23b6d883c270330"
+    },
+    {
+      "chapter": 68,
+      "heading": "Chapter 068 — I Don't Have to Prove He's Awful",
+      "path": "chapters/en/068-i-dont-have-to-prove-hes-awful.md",
+      "words": 1866,
+      "sha256": "f43209386683d937ec1fc2aa4dbb1b554938cc848ed49c7d209b67774e6fb349",
+      "git_blob_sha1": "08ae67617cbc0958f82ae52eb09ed75489416b31"
+    },
+    {
+      "chapter": 69,
+      "heading": "Chapter 069 — Don't Call Him to Rescue Me",
+      "path": "chapters/en/069-dont-call-him-to-rescue-me.md",
+      "words": 1844,
+      "sha256": "4a3602f946c78aee8741d717ec25233b514a8827d655034c2474855cc14d8748",
+      "git_blob_sha1": "0eeac9a9369859b730ab3a70e506bd9e3831588c"
+    },
+    {
+      "chapter": 70,
+      "heading": "Chapter 070 — You Can Ask Me to Come",
+      "path": "chapters/en/070-you-can-ask-me-to-come.md",
+      "words": 1838,
+      "sha256": "7d654df6183709cdb3afc7c3a4a2ff1cc567118067409b017e3759f6a4682f21",
+      "git_blob_sha1": "96ca2675c9f7fc45f4a01d46bca4790371d7938a"
+    },
+    {
+      "chapter": 71,
+      "heading": "Chapter 071 — The Hidden Key Pouch",
+      "path": "chapters/en/071-the-hidden-key-pouch.md",
+      "words": 1846,
+      "sha256": "61d35ee31726d337bdc86a94185aeff1c495d340ddeb1198e1125d6c6cb2e791",
+      "git_blob_sha1": "f4dfd9d37d2fc0372c557943b24c778ccc666c93"
+    },
+    {
+      "chapter": 72,
+      "heading": "Chapter 072 — The Evening They Both Stayed",
+      "path": "chapters/en/072-the-evening-they-both-stayed.md",
+      "words": 1935,
+      "sha256": "aca588660031f049df92f86cd2905d37afe0c12f12fb2ce1e42e9e5f8518f820",
+      "git_blob_sha1": "429095f47892c93688ca988ea5b2f79b8a384c5f"
+    },
+    {
+      "chapter": 73,
+      "heading": "Chapter 073 — A Corner of an Old Photograph",
+      "path": "chapters/en/073-a-corner-of-an-old-photograph.md",
+      "words": 1844,
+      "sha256": "c4ec926d41539f97b8492d5a2c4cb4ba0936c82d72670927ef8ed849f53cace0",
+      "git_blob_sha1": "6886a3f595e50e6bff117dbbb802ff2bdc4f4bea"
+    },
+    {
+      "chapter": 74,
+      "heading": "Chapter 074 — Fear Is Not a Joke to Film",
+      "path": "chapters/en/074-fear-is-not-a-joke-to-film.md",
+      "words": 1852,
+      "sha256": "34ce07bfae3712792b45b25d251df56f06c9e5b803625281f2f5c1d49c8b1906",
+      "git_blob_sha1": "d93fbda3590c3c7d59ccf49f6587c39ac4306043"
+    },
+    {
+      "chapter": 75,
+      "heading": "Chapter 075 — We Arranged This One",
+      "path": "chapters/en/075-we-arranged-this-one.md",
+      "words": 1877,
+      "sha256": "f8eeef2b38639a47b5118fb00d42b6566e7f0b318eecc4e07397ffa136702484",
+      "git_blob_sha1": "1563abf913caa2569679f5e8c601df5ca1a050d6"
     }
   ]
 }
