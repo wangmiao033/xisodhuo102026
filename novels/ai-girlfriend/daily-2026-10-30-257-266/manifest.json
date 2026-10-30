@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-30",
+  "initial_remote_main": "e42812acef5991967a5ba5cdbf2349450ced7acc",
+  "chapter_range": [
+    257,
+    266
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    266
+  ],
+  "continuation_pair_count_after_verification": 140,
+  "next_new_chapter": 267,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 257,
+      "cn": {
+        "path": "cn/257_What_I_Actually_Took_On.md",
+        "heading": "第257章 我实际接下的事",
+        "sha256": "161b10224208c70574ed4fc7d4663e869cb9257f5b8e08d5a2ddbec954fab54e",
+        "git_blob_sha1": "b49d68480eedc1022b2c84e1d1237392e592b966",
+        "utf8_bytes": 8244,
+        "paragraphs": 61,
+        "body_han_characters": 2352
+      },
+      "en": {
+        "path": "en/257_What_I_Actually_Took_On.md",
+        "heading": "Chapter 257: What I Actually Took On",
+        "sha256": "a07be08695b46ac96ca1cd7bebb81abbf6c04d4f37760a26bb7b19865975b81d",
+        "git_blob_sha1": "9f83faed2f44b9010396c44ddb30cbd7067c6ca4",
+        "utf8_bytes": 9810,
+        "paragraphs": 61,
+        "body_words": 1727
+      }
+    },
+    {
+      "chapter": 258,
+      "cn": {
+        "path": "cn/258_The_Ring_I_Could_Hear.md",
+        "heading": "第258章 能听见的铃",
+        "sha256": "70819745d06eacb85c1fee0b6d07ebefeec083d7a191d54c83637d0a2f283bcd",
+        "git_blob_sha1": "5a67a9f60fb1ee549aca43f3ba282a5ad095da5d",
+        "utf8_bytes": 8203,
+        "paragraphs": 54,
+        "body_han_characters": 2363
+      },
+      "en": {
+        "path": "en/258_The_Ring_I_Could_Hear.md",
+        "heading": "Chapter 258: The Ring I Could Hear",
+        "sha256": "684a7233010193e0eebc21feeefb2511830c9a239f09d038b3ddf600a46b6f2a",
+        "git_blob_sha1": "797a7c4e4b9d514a7dc2aa04e7f4783836efb403",
+        "utf8_bytes": 9410,
+        "paragraphs": 54,
+        "body_words": 1674
+      }
+    },
+    {
+      "chapter": 259,
+      "cn": {
+        "path": "cn/259_The_Part_Before_The_Table.md",
+        "heading": "第259章 桌子以前的那一段",
+        "sha256": "10b5bc52b4f0430a4ca026ee863fa78e9bece3f4fc5b5d85b239396427152f0d",
+        "git_blob_sha1": "ddfc3433ef0003017928e98bbbd819d29b20abc0",
+        "utf8_bytes": 8547,
+        "paragraphs": 70,
+        "body_han_characters": 2441
+      },
+      "en": {
+        "path": "en/259_The_Part_Before_The_Table.md",
+        "heading": "Chapter 259: The Part Before the Table",
+        "sha256": "d57d73fc58af2940e5cc22ead8e61761bb693a93500216a75f4db5bc176e56e3",
+        "git_blob_sha1": "511f47726034ec2fb04551a87f6ba91b1ee5a1bd",
+        "utf8_bytes": 9803,
+        "paragraphs": 70,
+        "body_words": 1694
+      }
+    },
+    {
+      "chapter": 260,
+      "cn": {
+        "path": "cn/260_The_Question_I_Asked_Him.md",
+        "heading": "第260章 我问他的那一句",
+        "sha256": "5cf7ae69a07f6ce1daffb580973a5841d9b871bc3da7dc85878f065ded6bd7f3",
+        "git_blob_sha1": "68680db427e21afe298f892732c55ab92a6a6acc",
+        "utf8_bytes": 8461,
+        "paragraphs": 66,
+        "body_han_characters": 2404
+      },
+      "en": {
+        "path": "en/260_The_Question_I_Asked_Him.md",
+        "heading": "Chapter 260: The Question I Asked Him",
+        "sha256": "69b0ce54654e793c5dfe14534e1f1efeda0246634692a96b3d1c92a4655bb669",
+        "git_blob_sha1": "36839c0b29765ce64b577389fb19feb3a54e463d",
+        "utf8_bytes": 9645,
+        "paragraphs": 66,
+        "body_words": 1657
+      }
+    },
+    {
+      "chapter": 261,
+      "cn": {
+        "path": "cn/261_Where_The_Folder_Went.md",
+        "heading": "第261章 夹子放在哪里",
+        "sha256": "db7b4d5e624ebec2de703bf4fc4d62608b7a3a9adb327b49d07bd242424909ac",
+        "git_blob_sha1": "1abcb1e35904a4566682e2ee91f7285bee28aa7e",
+        "utf8_bytes": 8353,
+        "paragraphs": 63,
+        "body_han_characters": 2384
+      },
+      "en": {
+        "path": "en/261_Where_The_Folder_Went.md",
+        "heading": "Chapter 261: Where the Folder Went",
+        "sha256": "6f3ae207a9ce28304ec31f70da0aad1ca77fd27b2aa9c631172dadbe14143493",
+        "git_blob_sha1": "fcc9091c641f088c392cbc60671220deeeb379ef",
+        "utf8_bytes": 9386,
+        "paragraphs": 63,
+        "body_words": 1653
+      }
+    },
+    {
+      "chapter": 262,
+      "cn": {
+        "path": "cn/262_The_Door_He_Remembered.md",
+        "heading": "第262章 他记住的门",
+        "sha256": "a29faa659f10051ec38d205cbb2b8bb07fb7fd61d85bd5a3cb5914b06ff4fb7f",
+        "git_blob_sha1": "058f800bc4fa8245b5bcf157b295030caac54765",
+        "utf8_bytes": 8721,
+        "paragraphs": 67,
+        "body_han_characters": 2494
+      },
+      "en": {
+        "path": "en/262_The_Door_He_Remembered.md",
+        "heading": "Chapter 262: The Door He Remembered",
+        "sha256": "1bb330904a450f1f19cb30250a78fb161d35d527986d359f542093055929c9d1",
+        "git_blob_sha1": "87097b8bec98ab91c240dc951d35cfa39540d484",
+        "utf8_bytes": 9683,
+        "paragraphs": 67,
+        "body_words": 1643
+      }
+    },
+    {
+      "chapter": 263,
+      "cn": {
+        "path": "cn/263_Enough_Room_For_One_Sentence.md",
+        "heading": "第263章 放得下一句话",
+        "sha256": "36086f2501eae03538223beb05a5a8e8da36d1f5ac4fb24e3353d313237dfc42",
+        "git_blob_sha1": "3972e6a1787ab529e1790d33dae0ce864f358c88",
+        "utf8_bytes": 8352,
+        "paragraphs": 55,
+        "body_han_characters": 2418
+      },
+      "en": {
+        "path": "en/263_Enough_Room_For_One_Sentence.md",
+        "heading": "Chapter 263: Enough Room for One Sentence",
+        "sha256": "6b28c49c2b980545e7fc0045478b65a1e726adbbdcaa8d929ae99c7d11baae81",
+        "git_blob_sha1": "4392a4353223c3a8d45c7868bdf8dc08a5dc7440",
+        "utf8_bytes": 9290,
+        "paragraphs": 55,
+        "body_words": 1584
+      }
+    },
+    {
+      "chapter": 264,
+      "cn": {
+        "path": "cn/264_The_Book_I_Did_Not_Finish.md",
+        "heading": "第264章 没读完的那本书",
+        "sha256": "d341c126693b7f8fe191114d5bd9e5955ba53e15b96910ef46df07b7a6f09241",
+        "git_blob_sha1": "14034b793360a2109dc3115cd479d76ad3419d79",
+        "utf8_bytes": 8187,
+        "paragraphs": 49,
+        "body_han_characters": 2385
+      },
+      "en": {
+        "path": "en/264_The_Book_I_Did_Not_Finish.md",
+        "heading": "Chapter 264: The Book I Did Not Finish",
+        "sha256": "b4f2e355cb358b0d5cef157a4292d274a3ec506541af0221bdeadcbad6d911ee",
+        "git_blob_sha1": "db94921bbbbba196143538ae77592cba087bcb41",
+        "utf8_bytes": 9112,
+        "paragraphs": 49,
+        "body_words": 1576
+      }
+    },
+    {
+      "chapter": 265,
+      "cn": {
+        "path": "cn/265_The_Path_That_Split.md",
+        "heading": "第265章 分开的那条路",
+        "sha256": "b40b3ed7a9fb95c10a68e6f265d0f4a83f9c4e4fb6d82ee3171dbd9ce7248651",
+        "git_blob_sha1": "b61fed7dc6b9d7db639ca3a2b95e20eb3bfec312",
+        "utf8_bytes": 8619,
+        "paragraphs": 58,
+        "body_han_characters": 2468
+      },
+      "en": {
+        "path": "en/265_The_Path_That_Split.md",
+        "heading": "Chapter 265: The Path That Split",
+        "sha256": "f0c1c85ece9b2e952d8eb2f393c383f04b7e98bbdbc4c0baa72ad437b18d24f6",
+        "git_blob_sha1": "731406417e9551cb6132e25942f8d4d3a12b6f6b",
+        "utf8_bytes": 9621,
+        "paragraphs": 58,
+        "body_words": 1644
+      }
+    },
+    {
+      "chapter": 266,
+      "cn": {
+        "path": "cn/266_A_Voice_That_Did_Not_Match.md",
+        "heading": "第266章 对不上的声音",
+        "sha256": "dae6bc8f44f340924b5b34803bc32ea8007553b5278f38583b6dc86fbf7e9ae4",
+        "git_blob_sha1": "e5969cc85a45f336de582c89d560f4ec3df87b84",
+        "utf8_bytes": 8586,
+        "paragraphs": 67,
+        "body_han_characters": 2444
+      },
+      "en": {
+        "path": "en/266_A_Voice_That_Did_Not_Match.md",
+        "heading": "Chapter 266: A Voice That Did Not Match",
+        "sha256": "6cfcadf9c95942ce38a1c0366859be3cff4868678f29dea1af4922e12fa78286",
+        "git_blob_sha1": "59fe405d38ac9b91b513a263ed20fe2c970c0a48",
+        "utf8_bytes": 9557,
+        "paragraphs": 67,
+        "body_words": 1611
+      }
+    }
+  ]
+}
