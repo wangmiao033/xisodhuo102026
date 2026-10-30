@@ -1,0 +1,242 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-10-30",
+  "source_main_at_preflight": "e42812acef5991967a5ba5cdbf2349450ced7acc",
+  "new_bilingual_chapters": [
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232
+  ],
+  "actual_new_chapter_count": 10,
+  "continuous_bilingual_manuscript_through": 232,
+  "platform_publication": "Not performed. Manuscript storage is not platform release approval. Grok handles Novelpia 6692.",
+  "files": [
+    {
+      "chapter": 223,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-223.md",
+      "heading": "# 第二百二十三章：别把箭头画进她手里",
+      "body_count": 3090,
+      "count_unit": "Han characters",
+      "sha256": "ac7dbca7fa1fcc3c588ccd9cc2b11d2fad953021b9121ed4490edf1bf3ba92c3",
+      "git_blob_sha": "ccc0b83848ce1ba11c60fbf87f640f0f58baa136",
+      "utf8_bytes": 10733
+    },
+    {
+      "chapter": 223,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-223.md",
+      "heading": "# Chapter 223: Don't Draw the Arrow into Her Hand",
+      "body_count": 1882,
+      "count_unit": "English words",
+      "sha256": "f9497c2cecf784183cdf36a10607d51c1f4262a5efb07196dfecbc49473835e5",
+      "git_blob_sha": "ecc44c806abe7398c89473c9a396820b8c430788",
+      "utf8_bytes": 12035
+    },
+    {
+      "chapter": 224,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-224.md",
+      "heading": "# 第二百二十四章：她没有念完那句话",
+      "body_count": 3133,
+      "count_unit": "Han characters",
+      "sha256": "af7c6b50a687cac72026312c0cbeef9e8ace4ec35453c9f17265e40d56fa5dcc",
+      "git_blob_sha": "d39b11ef4902b96768c2c63f307f83716c6f55ec",
+      "utf8_bytes": 10736
+    },
+    {
+      "chapter": 224,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-224.md",
+      "heading": "# Chapter 224: The Sentence She Didn't Finish",
+      "body_count": 1921,
+      "count_unit": "English words",
+      "sha256": "c248d642e9b719bde8cf61bd3c01f4c77f2cce394ffe7bf9d886e8fdfaf93815",
+      "git_blob_sha": "38641e8807de78427bff406e261e43ee7c5f2838",
+      "utf8_bytes": 12253
+    },
+    {
+      "chapter": 225,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-225.md",
+      "heading": "# 第二百二十五章：没有制服的那把椅子",
+      "body_count": 3131,
+      "count_unit": "Han characters",
+      "sha256": "9ac320c8e296839e570ddec73b7d71725f5d2038bdba977679fef6b6c8c21637",
+      "git_blob_sha": "ce90c9d45f1492b8524beda61b606b2930f73934",
+      "utf8_bytes": 10568
+    },
+    {
+      "chapter": 225,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-225.md",
+      "heading": "# Chapter 225: The Chair Without a Uniform",
+      "body_count": 1845,
+      "count_unit": "English words",
+      "sha256": "a3ed951153fbfa3a4a318298b1fb1626410133a192b11aefeadc8e0262921f24",
+      "git_blob_sha": "d58fe9f027d76d1999dfe94099edca65554fb06a",
+      "utf8_bytes": 12245
+    },
+    {
+      "chapter": 226,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-226.md",
+      "heading": "# 第二百二十六章：公主坐在等候席",
+      "body_count": 3123,
+      "count_unit": "Han characters",
+      "sha256": "560d20de6ec41dce6f280c5931ab5999f4bfa3a5edc7c64a956429bf43780b5e",
+      "git_blob_sha": "49dc8c75241dad56e06ba26fdf1a39577fa86e0a",
+      "utf8_bytes": 10660
+    },
+    {
+      "chapter": 226,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-226.md",
+      "heading": "# Chapter 226: The Princess in the Waiting Area",
+      "body_count": 1803,
+      "count_unit": "English words",
+      "sha256": "2c3c99087236fae1fa3411e81506114179cec54637cafc481942cbe2ace0d8a7",
+      "git_blob_sha": "7e7c8bac2635f13d41d50dec782d8f351550157e",
+      "utf8_bytes": 12078
+    },
+    {
+      "chapter": 227,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-227.md",
+      "heading": "# 第二百二十七章：她先打开自己的账",
+      "body_count": 3116,
+      "count_unit": "Han characters",
+      "sha256": "650774e29909ef2f18fe52548a21b9b20f4d5458bf5ca4c3a4f167d64bba9668",
+      "git_blob_sha": "7750d858df2323c8bf507592aea5002437dec4b9",
+      "utf8_bytes": 10612
+    },
+    {
+      "chapter": 227,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-227.md",
+      "heading": "# Chapter 227: She Opened Her Own Accounts First",
+      "body_count": 1817,
+      "count_unit": "English words",
+      "sha256": "542a9346865a16410dcce01a60e0979f6aa4339f3130d810185be8d6538f8b84",
+      "git_blob_sha": "bdcffd99621981293de08a4c90d95b0ec59c45ca",
+      "utf8_bytes": 12043
+    },
+    {
+      "chapter": 228,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-228.md",
+      "heading": "# 第二百二十八章：总表没有越线",
+      "body_count": 3334,
+      "count_unit": "Han characters",
+      "sha256": "5cdb2163f69252ea378bc644995afd95dcb9b2a8e980112bdd21007fc668bd3d",
+      "git_blob_sha": "bf12169beffb0a189af8a00a979d471e65e84282",
+      "utf8_bytes": 11310
+    },
+    {
+      "chapter": 228,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-228.md",
+      "heading": "# Chapter 228: The Main Gauge Stayed Below the Line",
+      "body_count": 1860,
+      "count_unit": "English words",
+      "sha256": "da04b8cdb3dd96329ae11e828c6b8df056a9cbbd36b85eb71151fc75b9a0d0cc",
+      "git_blob_sha": "61d5f7c3a08cd18966d66cf7ad2e37dd18cddd83",
+      "utf8_bytes": 12015
+    },
+    {
+      "chapter": 229,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-229.md",
+      "heading": "# 第二百二十九章：账单不会替他认错",
+      "body_count": 3288,
+      "count_unit": "Han characters",
+      "sha256": "baad40c21b72a3718191151a6fa0f5726a536a4146f48350690350d0edcadaf9",
+      "git_blob_sha": "e2cca828421729fdd4665e070ad2f81088758030",
+      "utf8_bytes": 11203
+    },
+    {
+      "chapter": 229,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-229.md",
+      "heading": "# Chapter 229: The Bill Couldn't Confess for Him",
+      "body_count": 1803,
+      "count_unit": "English words",
+      "sha256": "cfe45524b48e8d57db768fd47565a4984f352a6aea08f1b69194fa1ad8ecc00e",
+      "git_blob_sha": "0be8a439b72430113e3770e7fdd0ff86546f8caa",
+      "utf8_bytes": 11976
+    },
+    {
+      "chapter": 230,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-230.md",
+      "heading": "# 第二百三十章：钥匙不在她手里",
+      "body_count": 3343,
+      "count_unit": "Han characters",
+      "sha256": "8497b82a1b1f80c5583ad09e5c16754de07c0e5164831689e561ed9ab2b2535d",
+      "git_blob_sha": "800e73b03719c1567f0fd18b135623017229af3c",
+      "utf8_bytes": 11321
+    },
+    {
+      "chapter": 230,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-230.md",
+      "heading": "# Chapter 230: She Didn't Hold the Key",
+      "body_count": 1827,
+      "count_unit": "English words",
+      "sha256": "6e79acafff86ffa6430d1b2348f2a07dea68a4450944763005d070c8c977f222",
+      "git_blob_sha": "f0ddfdbbfcd7dbbcf60ee56e620abc0289d03938",
+      "utf8_bytes": 12192
+    },
+    {
+      "chapter": 231,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-231.md",
+      "heading": "# 第二百三十一章：停在门外的人",
+      "body_count": 3012,
+      "count_unit": "Han characters",
+      "sha256": "2d44908424d61b60447eae954257ff8a249872ce8e7cf4a2c8436ac699eac88f",
+      "git_blob_sha": "e052a70c84e02e6be25aba6b88bc21e33b6bd4b1",
+      "utf8_bytes": 10229
+    },
+    {
+      "chapter": 231,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-231.md",
+      "heading": "# Chapter 231: The People Outside the Door",
+      "body_count": 1890,
+      "count_unit": "English words",
+      "sha256": "c8dbd0e2f71a970c8863fb70f3ceeecfb453c5ccbac5a70f1f00438d3c379ad1",
+      "git_blob_sha": "c574b0b93657355b3d5dd5b1b1d99e4a46c3adea",
+      "utf8_bytes": 12241
+    },
+    {
+      "chapter": 232,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-232.md",
+      "heading": "# 第二百三十二章：准许，不是保证",
+      "body_count": 3247,
+      "count_unit": "Han characters",
+      "sha256": "fef95961a0de40f46538a7a3cc37b171c6704dbd22ee8e21e54342c5160e1f25",
+      "git_blob_sha": "9794045c751fc7b9ec4883bf389566025700fc4c",
+      "utf8_bytes": 10965
+    },
+    {
+      "chapter": 232,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-232.md",
+      "heading": "# Chapter 232: Permission Wasn't a Promise",
+      "body_count": 1888,
+      "count_unit": "English words",
+      "sha256": "91dcd9e431a7e852801b693fd8291b13d322a9f6e1ea076aba3ff634be7a6388",
+      "git_blob_sha": "1160dc29f56ea8d9bc59a6c1ccfc2a2fb92de94c",
+      "utf8_bytes": 12626
+    }
+  ]
+}
