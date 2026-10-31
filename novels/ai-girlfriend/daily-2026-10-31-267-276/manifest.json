@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-10-31",
+  "initial_remote_main": "3e99665f406bfcf3e641f423a7bf93d3ecf51942",
+  "chapter_range": [
+    267,
+    276
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    276
+  ],
+  "continuation_pair_count_after_verification": 150,
+  "next_new_chapter": 277,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 267,
+      "cn": {
+        "path": "cn/267_A_Table_For_One.md",
+        "heading": "第267章 一个人的桌子",
+        "sha256": "b9e7a77d2b922995e61821d4339dc65c0ab99cc29995c92e2050f34cef78a78f",
+        "git_blob_sha1": "a49219b933c20a2f01070c502652170d94fccfc7",
+        "utf8_bytes": 8655,
+        "paragraphs": 64,
+        "body_han_characters": 2475
+      },
+      "en": {
+        "path": "en/267_A_Table_For_One.md",
+        "heading": "Chapter 267: A Table for One",
+        "sha256": "7c03da5962588f33b2aa40988d30c413ba454cf0b109b3956084844da6da35cb",
+        "git_blob_sha1": "fd943f482e46b2dc40ecc29db0eecd9df1c84619",
+        "utf8_bytes": 9075,
+        "paragraphs": 64,
+        "body_words": 1605
+      }
+    },
+    {
+      "chapter": 268,
+      "cn": {
+        "path": "cn/268_The_Umbrella_With_The_Knot.md",
+        "heading": "第268章 打着结的伞",
+        "sha256": "fa9622516769d8e9e51a7b828b6ec85a8fdd634e2580b14f301e0fc99203b5f8",
+        "git_blob_sha1": "22aca062a5021cdc5075a931cfaf7e1aa6527411",
+        "utf8_bytes": 8573,
+        "paragraphs": 59,
+        "body_han_characters": 2445
+      },
+      "en": {
+        "path": "en/268_The_Umbrella_With_The_Knot.md",
+        "heading": "Chapter 268: The Umbrella with the Knot",
+        "sha256": "3d6a4cdedf2c966367083a38985a24eaa0f0a8392c9f5977bedf91b5513a042a",
+        "git_blob_sha1": "ca058dccc507dabc7910d889f8b6700456871944",
+        "utf8_bytes": 9103,
+        "paragraphs": 59,
+        "body_words": 1598
+      }
+    },
+    {
+      "chapter": 269,
+      "cn": {
+        "path": "cn/269_Before_The_Last_Note.md",
+        "heading": "第269章 最后一个音以前",
+        "sha256": "2d45914a87ce5aecc0a4473e729bbdb00aa846b3f23d29ad38e358421254f777",
+        "git_blob_sha1": "119fc5ecf648fdae62366a2879919ab72f2182f4",
+        "utf8_bytes": 8719,
+        "paragraphs": 66,
+        "body_han_characters": 2495
+      },
+      "en": {
+        "path": "en/269_Before_The_Last_Note.md",
+        "heading": "Chapter 269: Before the Last Note",
+        "sha256": "83163838d17bd0282b6970f45cea8367953bb2bf160301085daa5fa08a0c614d",
+        "git_blob_sha1": "746fdf5540abc25057a6f7cfac33e9f874735caa",
+        "utf8_bytes": 9173,
+        "paragraphs": 66,
+        "body_words": 1567
+      }
+    },
+    {
+      "chapter": 270,
+      "cn": {
+        "path": "cn/270_Enough_Space_Under_The_Button.md",
+        "heading": "第270章 扣子下面的空隙",
+        "sha256": "ff8970048f05d4000750e6e902a1ae797ec83550090943a678f865116da27058",
+        "git_blob_sha1": "aab646b7ea1babf042333f39ec955d1ca28265ff",
+        "utf8_bytes": 8597,
+        "paragraphs": 56,
+        "body_han_characters": 2468
+      },
+      "en": {
+        "path": "en/270_Enough_Space_Under_The_Button.md",
+        "heading": "Chapter 270: Enough Space Under the Button",
+        "sha256": "62acfa4fb8a7f2816b1861b7d1ae5416827decc06f8e5ad9fa94b0ebede00a8a",
+        "git_blob_sha1": "265bf453c353eb4ef381ff0c9d100e84bddb1b1a",
+        "utf8_bytes": 9440,
+        "paragraphs": 56,
+        "body_words": 1617
+      }
+    },
+    {
+      "chapter": 271,
+      "cn": {
+        "path": "cn/271_The_Wrong_Cupboard.md",
+        "heading": "第271章 问错的柜子",
+        "sha256": "b3bbfdf705a9f76194f09c2c61162923c48ba005f535981fb88f0320d4807254",
+        "git_blob_sha1": "be1e7a9f40ecd444451656bd3896806cc0be4771",
+        "utf8_bytes": 8832,
+        "paragraphs": 58,
+        "body_han_characters": 2546
+      },
+      "en": {
+        "path": "en/271_The_Wrong_Cupboard.md",
+        "heading": "Chapter 271: The Wrong Cupboard",
+        "sha256": "f8f403cff18350034a61d25400cb88241a1576bd026916616cf2708aa77afa16",
+        "git_blob_sha1": "079b28a7d9c49c22ef2ad3aeead986d3a38d3dce",
+        "utf8_bytes": 9288,
+        "paragraphs": 58,
+        "body_words": 1585
+      }
+    },
+    {
+      "chapter": 272,
+      "cn": {
+        "path": "cn/272_The_Part_I_Asked_To_Stop.md",
+        "heading": "第272章 我叫停的那一段",
+        "sha256": "54aea976570dab16653458ad9e3b300929dc844d72b2d450bc8cba31e5ea9598",
+        "git_blob_sha1": "9f163f150f23068d6519c98d418e4e39ced69e5c",
+        "utf8_bytes": 8434,
+        "paragraphs": 66,
+        "body_han_characters": 2406
+      },
+      "en": {
+        "path": "en/272_The_Part_I_Asked_To_Stop.md",
+        "heading": "Chapter 272: The Part I Asked to Stop",
+        "sha256": "47468fea45fb2f893cb85212045cfbd152ec618de747cdd504c092a810254d38",
+        "git_blob_sha1": "dcb04874351598d7a418bac01cd55a22ba0536d1",
+        "utf8_bytes": 9289,
+        "paragraphs": 66,
+        "body_words": 1608
+      }
+    },
+    {
+      "chapter": 273,
+      "cn": {
+        "path": "cn/273_Three_Were_Enough.md",
+        "heading": "第273章 三个就够了",
+        "sha256": "3a36dca62ce825aed8fa28519e367b19426fb52dc670595a8008b92c490a913f",
+        "git_blob_sha1": "ecab971d74f516d47fdeb2bdf9dd193be6402735",
+        "utf8_bytes": 8369,
+        "paragraphs": 62,
+        "body_han_characters": 2372
+      },
+      "en": {
+        "path": "en/273_Three_Were_Enough.md",
+        "heading": "Chapter 273: Three Were Enough",
+        "sha256": "9e63c45cae5de10fc798048b80178db7b0e5106440ea519ad30e4359d2b3eeb0",
+        "git_blob_sha1": "38316022ee2109d1d7c5b732f5bca4902dbec5a3",
+        "utf8_bytes": 9437,
+        "paragraphs": 62,
+        "body_words": 1619
+      }
+    },
+    {
+      "chapter": 274,
+      "cn": {
+        "path": "cn/274_One_Landing_At_A_Time.md",
+        "heading": "第274章 一层一层上去",
+        "sha256": "57acedf700042fc37ba75517a9681e782a6da95c1e9b662f8a57c4a115bfaf58",
+        "git_blob_sha1": "2a74611183b0e2e209d8d569a147e06a568ab4a0",
+        "utf8_bytes": 8334,
+        "paragraphs": 61,
+        "body_han_characters": 2361
+      },
+      "en": {
+        "path": "en/274_One_Landing_At_A_Time.md",
+        "heading": "Chapter 274: One Landing at a Time",
+        "sha256": "46c01e3f7228b4bc49b39f599d6f9e8bc17d1525c7b4e47f67efa4e7bb0bd547",
+        "git_blob_sha1": "b77ccc3bba2989a95b32fd5c898440aa54305238",
+        "utf8_bytes": 9082,
+        "paragraphs": 61,
+        "body_words": 1577
+      }
+    },
+    {
+      "chapter": 275,
+      "cn": {
+        "path": "cn/275_The_Seat_In_The_Paragraph.md",
+        "heading": "第275章 段落里的座位",
+        "sha256": "bb150fa573b560be1e57605cff06b4794b2bab4e8d2fefd844f9cd7af621ea1d",
+        "git_blob_sha1": "35e5be1d14e43ebb3b4b6adce9d711633a1f5b61",
+        "utf8_bytes": 8193,
+        "paragraphs": 58,
+        "body_han_characters": 2361
+      },
+      "en": {
+        "path": "en/275_The_Seat_In_The_Paragraph.md",
+        "heading": "Chapter 275: The Seat in the Paragraph",
+        "sha256": "848b2d98b68dd55d19c07941df67b7455039b67a6f21995b21792d66ea813995",
+        "git_blob_sha1": "397e31304350f2b777b83adf5d6c76efeffdefa8",
+        "utf8_bytes": 9088,
+        "paragraphs": 58,
+        "body_words": 1590
+      }
+    },
+    {
+      "chapter": 276,
+      "cn": {
+        "path": "cn/276_The_Wrong_Voice_For_A_Hat.md",
+        "heading": "第276章 帽子不该用这个声音",
+        "sha256": "660faa822bfefa8290b56a6a788dac9cb3ee2c6631442ba047757a73335f4b80",
+        "git_blob_sha1": "8aa3e7b4c648892f48bc6329abfc0e4d8969698a",
+        "utf8_bytes": 8507,
+        "paragraphs": 68,
+        "body_han_characters": 2434
+      },
+      "en": {
+        "path": "en/276_The_Wrong_Voice_For_A_Hat.md",
+        "heading": "Chapter 276: The Wrong Voice for a Hat",
+        "sha256": "e3d010dbe3f5ac9fad09260cac68e6cadf384fbdcf2aadcc6a478b16d88fe7aa",
+        "git_blob_sha1": "c3caa8838d315a920b5ce88f56f030ad0f53459c",
+        "utf8_bytes": 9362,
+        "paragraphs": 68,
+        "body_words": 1562
+      }
+    }
+  ]
+}
