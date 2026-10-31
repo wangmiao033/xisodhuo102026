@@ -1,0 +1,138 @@
+{
+  "novelId": 6408,
+  "beijingDate": "2026-10-31",
+  "fixedManuscriptCommit": "4a84e377bb40a49d5441686f277a47ff2106ecfb",
+  "newPublicCount": 10,
+  "dailyLimit": 10,
+  "publicThrough": 85,
+  "completeReviewedThrough": 85,
+  "reviewedCompleteUnpublished": 0,
+  "unwrittenPlanningRange": "086–250",
+  "preflight": {
+    "publicThrough": 75,
+    "todayPublic": 0,
+    "allExistingBodiesMatched": 75,
+    "drafts": 0,
+    "scheduled": 0
+  },
+  "finalAudit": {
+    "uniqueManagementEntries": 85,
+    "allPublic": true,
+    "drafts": 0,
+    "scheduled": 0,
+    "todayPublic": 10
+  },
+  "bodyHandling": "Removed chapter heading only; all remaining body characters preserved on input. Novelpia rendered Markdown emphasis. Editor DOM reconstructed with emphasis markers matched source exactly; each complete reader body matched the source after whitespace/format normalization. No author notes or old chapters were edited.",
+  "chapters": [
+    {
+      "chapter": 76,
+      "title": "Eat Before the Date",
+      "url": "https://global.novelpia.com/viewer/851398",
+      "releaseUTC": "2026-10-31T00:36:56Z",
+      "releaseBeijing": "2026-10-31T08:36:56+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/076-eat-before-the-date.md",
+      "sourceSHA256": "4b3eaa643ec27839afe5ed71e82f8336b81cd4c5b07a8424a7a369f5c2c2b352",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 77,
+      "title": "A Wrong Turn Without a Deadline",
+      "url": "https://global.novelpia.com/viewer/851399",
+      "releaseUTC": "2026-10-31T00:41:39Z",
+      "releaseBeijing": "2026-10-31T08:41:39+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/077-a-wrong-turn-without-a-deadline.md",
+      "sourceSHA256": "2560532ff383b2959e1a6229e1466330e2f2e348ee6279e140bef54938956f49",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 78,
+      "title": "That Sentence Had No Code",
+      "url": "https://global.novelpia.com/viewer/851400",
+      "releaseUTC": "2026-10-31T00:42:57Z",
+      "releaseBeijing": "2026-10-31T08:42:57+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/078-that-sentence-had-no-code.md",
+      "sourceSHA256": "bd410f5c62c1f69c539ed5875fac7802548496cdd81f55d09dc935e9dfe21db0",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 79,
+      "title": "The Unexpected Call",
+      "url": "https://global.novelpia.com/viewer/851401",
+      "releaseUTC": "2026-10-31T00:43:45Z",
+      "releaseBeijing": "2026-10-31T08:43:45+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/079-the-unexpected-call.md",
+      "sourceSHA256": "3f63df6de31c3db55b2d0e39a0cb9fb6e782944de0d7a9240dca4686e9ebdb82",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 80,
+      "title": "Write Down the Next Time",
+      "url": "https://global.novelpia.com/viewer/851402",
+      "releaseUTC": "2026-10-31T00:45:03Z",
+      "releaseBeijing": "2026-10-31T08:45:03+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/080-write-down-the-next-time.md",
+      "sourceSHA256": "3838dba1bce7d724d484d57bbe3a79d74b4d3b8e35b1d77d508a178e99e7041b",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 81,
+      "title": "The Audience Is More Impatient Than We Are",
+      "url": "https://global.novelpia.com/viewer/851403",
+      "releaseUTC": "2026-10-31T00:45:44Z",
+      "releaseBeijing": "2026-10-31T08:45:44+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/081-the-audience-is-more-impatient-than-we-are.md",
+      "sourceSHA256": "f3bc53674f83c366d1487d71c44a5832d6c4ad3f8e021ce2e9fe27caa3aff348",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 82,
+      "title": "Why Is the Camera Still On?",
+      "url": "https://global.novelpia.com/viewer/851404",
+      "releaseUTC": "2026-10-31T00:46:36Z",
+      "releaseBeijing": "2026-10-31T08:46:36+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/082-why-is-the-camera-still-on.md",
+      "sourceSHA256": "412ae57d9c8ebc35cce2df5ec8842f05d4eb4b89a7cd55021014cbc6820593ee",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 83,
+      "title": "Private Doesn't Mean Unreal",
+      "url": "https://global.novelpia.com/viewer/851405",
+      "releaseUTC": "2026-10-31T00:47:15Z",
+      "releaseBeijing": "2026-10-31T08:47:15+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/083-private-doesnt-mean-unreal.md",
+      "sourceSHA256": "49e6838797e80f18fab87335f34d719ded452b62422c3104ac6843900a99eeff",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 84,
+      "title": "A Photograph Just for You",
+      "url": "https://global.novelpia.com/viewer/851406",
+      "releaseUTC": "2026-10-31T00:47:48Z",
+      "releaseBeijing": "2026-10-31T08:47:48+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/084-a-photograph-just-for-you.md",
+      "sourceSHA256": "d8d3901343e13e0eabe66877232e8ed4d5d92c2d32efb7cbec7d47cd5bb60ea3",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    },
+    {
+      "chapter": 85,
+      "title": "We Can Decide Slowly",
+      "url": "https://global.novelpia.com/viewer/851407",
+      "releaseUTC": "2026-10-31T00:48:19Z",
+      "releaseBeijing": "2026-10-31T08:48:19+08:00",
+      "sourcePath": "novels/mind-reading-cat/chapters/en/085-we-can-decide-slowly.md",
+      "sourceSHA256": "9380eed5b7578f50e0a70fa384b3f9d9f74c714ba80746f53ddafadfe5adb676",
+      "fullBodyMatch": true,
+      "managementPublicVerified": true
+    }
+  ]
+}
