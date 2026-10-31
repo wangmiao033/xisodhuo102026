@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-31",
+  "novelpiaId": 6408,
+  "range": [
+    76,
+    85
+  ],
+  "status": "independent-full-text-review-passed",
+  "reviewers": {
+    "076-080": "write_081_085",
+    "081-085": "write_publish_cat_oct31"
+  },
+  "chapters": [
+    {
+      "chapter": 76,
+      "heading": "Chapter 076 — Eat Before the Date",
+      "path": "chapters/en/076-eat-before-the-date.md",
+      "words": 1829,
+      "sha256": "4b3eaa643ec27839afe5ed71e82f8336b81cd4c5b07a8424a7a369f5c2c2b352",
+      "git_blob_sha1": "252effe78a928813e5cb2bc8569f715cfe35aaa4"
+    },
+    {
+      "chapter": 77,
+      "heading": "Chapter 077 — A Wrong Turn Without a Deadline",
+      "path": "chapters/en/077-a-wrong-turn-without-a-deadline.md",
+      "words": 1838,
+      "sha256": "2560532ff383b2959e1a6229e1466330e2f2e348ee6279e140bef54938956f49",
+      "git_blob_sha1": "7ab64f0c2e77cb4b0bef0cf9f543cf4116b4860e"
+    },
+    {
+      "chapter": 78,
+      "heading": "Chapter 078 — That Sentence Had No Code",
+      "path": "chapters/en/078-that-sentence-had-no-code.md",
+      "words": 1828,
+      "sha256": "bd410f5c62c1f69c539ed5875fac7802548496cdd81f55d09dc935e9dfe21db0",
+      "git_blob_sha1": "a691da719bc84791fdee9067ab7171aef47761cd"
+    },
+    {
+      "chapter": 79,
+      "heading": "Chapter 079 — The Unexpected Call",
+      "path": "chapters/en/079-the-unexpected-call.md",
+      "words": 1821,
+      "sha256": "3f63df6de31c3db55b2d0e39a0cb9fb6e782944de0d7a9240dca4686e9ebdb82",
+      "git_blob_sha1": "104287b6e90c17bff4c7c42d67de1be1e6b7f7ad"
+    },
+    {
+      "chapter": 80,
+      "heading": "Chapter 080 — Write Down the Next Time",
+      "path": "chapters/en/080-write-down-the-next-time.md",
+      "words": 1809,
+      "sha256": "3838dba1bce7d724d484d57bbe3a79d74b4d3b8e35b1d77d508a178e99e7041b",
+      "git_blob_sha1": "6fa7b94ee3cc2537706359549089e54796044891"
+    },
+    {
+      "chapter": 81,
+      "heading": "Chapter 081 — The Audience Is More Impatient Than We Are",
+      "path": "chapters/en/081-the-audience-is-more-impatient-than-we-are.md",
+      "words": 1852,
+      "sha256": "f3bc53674f83c366d1487d71c44a5832d6c4ad3f8e021ce2e9fe27caa3aff348",
+      "git_blob_sha1": "0bed7f2b376a14af0fa00996a41b8abc850b8599"
+    },
+    {
+      "chapter": 82,
+      "heading": "Chapter 082 — Why Is the Camera Still On?",
+      "path": "chapters/en/082-why-is-the-camera-still-on.md",
+      "words": 1850,
+      "sha256": "412ae57d9c8ebc35cce2df5ec8842f05d4eb4b89a7cd55021014cbc6820593ee",
+      "git_blob_sha1": "1edb1d21d928708eba097505114cf576b6b00e84"
+    },
+    {
+      "chapter": 83,
+      "heading": "Chapter 083 — Private Doesn't Mean Unreal",
+      "path": "chapters/en/083-private-doesnt-mean-unreal.md",
+      "words": 1842,
+      "sha256": "49e6838797e80f18fab87335f34d719ded452b62422c3104ac6843900a99eeff",
+      "git_blob_sha1": "2493cea96159d2360e1b782e86b362d534c917e8"
+    },
+    {
+      "chapter": 84,
+      "heading": "Chapter 084 — A Photograph Just for You",
+      "path": "chapters/en/084-a-photograph-just-for-you.md",
+      "words": 1862,
+      "sha256": "d8d3901343e13e0eabe66877232e8ed4d5d92c2d32efb7cbec7d47cd5bb60ea3",
+      "git_blob_sha1": "cdb53f1eb934dc14516c4efb8f2b94b87bcc2900"
+    },
+    {
+      "chapter": 85,
+      "heading": "Chapter 085 — We Can Decide Slowly",
+      "path": "chapters/en/085-we-can-decide-slowly.md",
+      "words": 1855,
+      "sha256": "9380eed5b7578f50e0a70fa384b3f9d9f74c714ba80746f53ddafadfe5adb676",
+      "git_blob_sha1": "b7c0ccf91cb391cbf8ab3f3a7dec52730642b2a3"
+    }
+  ],
+  "publicationClaim": false
+}
