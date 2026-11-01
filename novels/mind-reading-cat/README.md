@@ -56,3 +56,7 @@ Complete English Chapters 076–085 passed independent full-text review and corr
 ## Verified public releases — 2026-10-31
 
 English Chapters 076–085 were publicly released in order as Main/Public/Now and each complete reader body and management row verified, Beijing 08:36:56–08:48:19. Today's ten-chapter public quota is complete; cumulative public progress is 085. All 85 unique management entries are Public, with no drafts or scheduled chapters. Fixed manuscript source: `4a84e377bb40a49d5441686f277a47ff2106ecfb`. See `publication/2026-10-31.json`. Reviewed complete unpublished stock: 0; 086–250 are unwritten planning, not stock. Old chapter text, author notes/images and book metadata were not modified.
+
+## Reviewed writing batch — 2026-11-01
+
+Complete English Chapters 086–095 passed independent full-text review and corrections. Active manuscripts now 001–095. See `reviews/2026-11-01.json`, `reviews/2026-11-01.md`, and `progress/2026-11-01.md`. Publication is recorded separately; this writing entry does not claim public release. Chapters 096–250 remain planning, not completed stock.

@@ -683,6 +683,86 @@
       "words": 1855,
       "sha256": "9380eed5b7578f50e0a70fa384b3f9d9f74c714ba80746f53ddafadfe5adb676",
       "git_blob_sha1": "b7c0ccf91cb391cbf8ab3f3a7dec52730642b2a3"
+    },
+    {
+      "chapter": 86,
+      "heading": "Chapter 086 — Another Real Job",
+      "path": "chapters/en/086-another-real-job.md",
+      "words": 1858,
+      "sha256": "dd62243af04c2e0b97b0451bcc24028b8fdd2decc91f11209782bf7e005cea23",
+      "git_blob_sha1": "5625e8fce14c806d9d5fe4ffd629f9671bf7b98f"
+    },
+    {
+      "chapter": 87,
+      "heading": "Chapter 087 — Not a Reason to Stay",
+      "path": "chapters/en/087-not-a-reason-to-stay.md",
+      "words": 1857,
+      "sha256": "ad4054832b32ed3db8612e1bdc716e42dc2077078aaab2ea9f9bf880fa39454c",
+      "git_blob_sha1": "ab0887c5e71f5c709d07d8517ad106dcb27df48e"
+    },
+    {
+      "chapter": 88,
+      "heading": "Chapter 088 — Three Months of Accounts",
+      "path": "chapters/en/088-three-months-of-accounts.md",
+      "words": 1863,
+      "sha256": "11cf032d8d8b83fff5eb22ccddb356be94e68cc4a6575690ebfe3125ed6bcc4d",
+      "git_blob_sha1": "9ae21704eea2e8a4836ccfee628fa750aae1079d"
+    },
+    {
+      "chapter": 89,
+      "heading": "Chapter 089 — Take Back That Joke",
+      "path": "chapters/en/089-take-back-that-joke.md",
+      "words": 1870,
+      "sha256": "2bbbd4948aa59b82736830e70603e2a60bdbd5234cbacc92a20ca2b3ec6a35a2",
+      "git_blob_sha1": "84ed1c159d1d7d0687581632106b17784ab9cf43"
+    },
+    {
+      "chapter": 90,
+      "heading": "Chapter 090 — Officially My Boyfriend",
+      "path": "chapters/en/090-officially-my-boyfriend.md",
+      "words": 1868,
+      "sha256": "fd6935d94250c156a0799f9ebe89c5a1b7148e8063ffc1233f5548d1ae885f71",
+      "git_blob_sha1": "e27695b6bd50a749d78405b4fca73d87e7003d05"
+    },
+    {
+      "chapter": 91,
+      "heading": "Chapter 091 — He Notices Her Waiting for the Cat",
+      "path": "chapters/en/091-he-notices-her-waiting-for-the-cat.md",
+      "words": 1835,
+      "sha256": "640f1c01208c54b0f080e59fef9ff2db8cbc382ece3f07fd29cb5ec0a591a6de",
+      "git_blob_sha1": "58e1a6d5e233d562f644d80d2fe87481a6fb7e27"
+    },
+    {
+      "chapter": 92,
+      "heading": "Chapter 092 — Even a Harmless Test Can Hurt",
+      "path": "chapters/en/092-even-a-harmless-test-can-hurt.md",
+      "words": 1871,
+      "sha256": "b7c8567e2b1830c042adfddf7e67c722e85bd4d9ba82ede185e0e450d73066d1",
+      "git_blob_sha1": "ab981ab934a2cac117f15640abe5e07feb9c1675"
+    },
+    {
+      "chapter": 93,
+      "heading": "Chapter 093 — I Need to Explain Something",
+      "path": "chapters/en/093-i-need-to-explain-something.md",
+      "words": 1841,
+      "sha256": "9b637e11645b5902796108891107bb61babf0a8c8298d1fc1c9b39a458bc2a52",
+      "git_blob_sha1": "f43787cf18c78af8edb33bf00d9500bec9dbf885"
+    },
+    {
+      "chapter": 94,
+      "heading": "Chapter 094 — Believing You Is Not Believing an Explanation",
+      "path": "chapters/en/094-believing-you-is-not-believing-an-explanation.md",
+      "words": 1866,
+      "sha256": "a066cf64beb71085f59e1b1eaeb20651e8a04425cd4ca1bfff9a8be177f6fe41",
+      "git_blob_sha1": "0f62ebdff0c154b30388c7225e54b17446ddb31b"
+    },
+    {
+      "chapter": 95,
+      "heading": "Chapter 095 — You May Say No",
+      "path": "chapters/en/095-you-may-say-no.md",
+      "words": 1812,
+      "sha256": "491fc5f6f33e595ffeeb39cfb780bc4317d5972f0df24933efd821127f47fc1f",
+      "git_blob_sha1": "0011419f9e20410d27edf3199afba85a2b5a7491"
     }
   ]
 }
