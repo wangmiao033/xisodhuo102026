@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-11-01",
+  "initial_remote_main": "494f1dd2dd95461514db147e24ddd3d9049abd12",
+  "chapter_range": [
+    277,
+    286
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    286
+  ],
+  "continuation_pair_count_after_verification": 160,
+  "next_new_chapter": 287,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 277,
+      "cn": {
+        "path": "cn/277_The_Price_Inside.md",
+        "heading": "第277章 写在里面的价钱",
+        "sha256": "bc99e387042d4c3f8aaf841e058dcf1131b83593464e3a21675fdfe2caf95fc1",
+        "git_blob_sha1": "41f28603346e89622f36a444c0ce5b25195c0fff",
+        "utf8_bytes": 8285,
+        "paragraphs": 62,
+        "body_han_characters": 2385
+      },
+      "en": {
+        "path": "en/277_The_Price_Inside.md",
+        "heading": "Chapter 277: The Price Inside",
+        "sha256": "f2857efab509209b350d3defe79c9945c70c1045381b59cc95a8cb62f17f37a8",
+        "git_blob_sha1": "9b965d73ef12a0f965f87a4407557f12ad55b025",
+        "utf8_bytes": 9468,
+        "paragraphs": 62,
+        "body_words": 1592
+      }
+    },
+    {
+      "chapter": 278,
+      "cn": {
+        "path": "cn/278_Not_This_Saturday.md",
+        "heading": "第278章 不是这个星期六",
+        "sha256": "6f87e011753bd7e29cebfbdd833d1ca1a35bede477b3923cb54d97cd8a48bfe8",
+        "git_blob_sha1": "0660933a770c3b5c6a852a26083bcc7fd7fa4a9e",
+        "utf8_bytes": 8160,
+        "paragraphs": 58,
+        "body_han_characters": 2347
+      },
+      "en": {
+        "path": "en/278_Not_This_Saturday.md",
+        "heading": "Chapter 278: Not This Saturday",
+        "sha256": "4d7803b2bab45ff558301217110584e0f8ac0848abf996d20a9241e76ddb7b78",
+        "git_blob_sha1": "bd723fdba528d29c13cf56e57b05c263f3d86180",
+        "utf8_bytes": 9298,
+        "paragraphs": 58,
+        "body_words": 1569
+      }
+    },
+    {
+      "chapter": 279,
+      "cn": {
+        "path": "cn/279_The_Woman_Moved_Her_Bag.md",
+        "heading": "第279章 女人挪了一下包",
+        "sha256": "e550e24566f5c20ccb24e1d316ea5d29f041dd7309a1009c0ad7e7fa4814575a",
+        "git_blob_sha1": "9dad35d0b5040fd1972937ef3ba296545250a4fe",
+        "utf8_bytes": 8404,
+        "paragraphs": 60,
+        "body_han_characters": 2415
+      },
+      "en": {
+        "path": "en/279_The_Woman_Moved_Her_Bag.md",
+        "heading": "Chapter 279: The Woman Moved Her Bag",
+        "sha256": "a4101f243d3b63cbe0ccc17fa7bc16fd99c2ac44763eb1e1327bb19c77f65f34",
+        "git_blob_sha1": "4321f936c172e5051c4782322e5ea995880db7af",
+        "utf8_bytes": 9651,
+        "paragraphs": 60,
+        "body_words": 1633
+      }
+    },
+    {
+      "chapter": 280,
+      "cn": {
+        "path": "cn/280_The_Last_Chair.md",
+        "heading": "第280章 最后一张椅子",
+        "sha256": "aa297ba53fe028dceae281bdd8e0ca24766005bf8128e3c961e83a481a6ac1f7",
+        "git_blob_sha1": "f5ca5b12f39094c9bc1155058ecb5e8c5d5a179d",
+        "utf8_bytes": 8538,
+        "paragraphs": 43,
+        "body_han_characters": 2505
+      },
+      "en": {
+        "path": "en/280_The_Last_Chair.md",
+        "heading": "Chapter 280: The Last Chair",
+        "sha256": "4b8b55d69a6573fbc7e8a6a9fb4df7219eb26428c2d1db522b562e5e3bb6de05",
+        "git_blob_sha1": "819b728d657112f59f49022357f8167152d484d8",
+        "utf8_bytes": 9738,
+        "paragraphs": 43,
+        "body_words": 1663
+      }
+    },
+    {
+      "chapter": 281,
+      "cn": {
+        "path": "cn/281_Without_The_Last_Sentence.md",
+        "heading": "第281章 不带最后一句",
+        "sha256": "281be6693e851668e99ee6702a254f81ec1e960323012fa5a9f3f65ad5065355",
+        "git_blob_sha1": "338c853674611ab41f2bb579ecbea33096c4b04b",
+        "utf8_bytes": 8758,
+        "paragraphs": 57,
+        "body_han_characters": 2541
+      },
+      "en": {
+        "path": "en/281_Without_The_Last_Sentence.md",
+        "heading": "Chapter 281: Without the Last Sentence",
+        "sha256": "280a5a541f9d554fc2a3213272b5228afce58d9f057f53dfeb4f69848b70132d",
+        "git_blob_sha1": "3a3db3be47466148647a37000957a5f7b06ab6d0",
+        "utf8_bytes": 9499,
+        "paragraphs": 57,
+        "body_words": 1585
+      }
+    },
+    {
+      "chapter": 282,
+      "cn": {
+        "path": "cn/282_One_Note_When_I_Ask.md",
+        "heading": "第282章 等我叫你，再唱那一个音",
+        "sha256": "4280c498914efbc1736aab58c6fb48c3c8fdfd38231b5734248f74c5f2046dfe",
+        "git_blob_sha1": "efd8691536936c1b50ff6188dc19003ccac48e81",
+        "utf8_bytes": 8628,
+        "paragraphs": 67,
+        "body_han_characters": 2444
+      },
+      "en": {
+        "path": "en/282_One_Note_When_I_Ask.md",
+        "heading": "Chapter 282: One Note When I Ask",
+        "sha256": "3d8f366345a02a8dd4062212b4c271a4d12697036e6ad43a55d840730cc5d587",
+        "git_blob_sha1": "c0a9a91ecdab79f58c46be8ad746a8a11e7b6b3f",
+        "utf8_bytes": 9528,
+        "paragraphs": 67,
+        "body_words": 1609
+      }
+    },
+    {
+      "chapter": 283,
+      "cn": {
+        "path": "cn/283_The_Cover_That_Would_Not_Close.md",
+        "heading": "第283章 合不拢的书衣",
+        "sha256": "7c11d823438e37349be32f1ac18fc336f2c9e9fd76ae11c427a7834a275052de",
+        "git_blob_sha1": "dbea5a9cacf1939f81a26bc2a0cacc6f89bf9181",
+        "utf8_bytes": 8218,
+        "paragraphs": 48,
+        "body_han_characters": 2386
+      },
+      "en": {
+        "path": "en/283_The_Cover_That_Would_Not_Close.md",
+        "heading": "Chapter 283: The Cover That Would Not Close",
+        "sha256": "cb8d796bd69710d48efd8c2aeeea324b7e678463846eb360737174a7ea4de765",
+        "git_blob_sha1": "32f2ab4c6334befbda81d83d7e5f258e9270ef5b",
+        "utf8_bytes": 9605,
+        "paragraphs": 48,
+        "body_words": 1652
+      }
+    },
+    {
+      "chapter": 284,
+      "cn": {
+        "path": "cn/284_Not_A_Name_For_You.md",
+        "heading": "第284章 不是给你取的名字",
+        "sha256": "553a23b047ffd383aa36ba67e4a9d5893f4e17f40aa6376554aee2aa766b7359",
+        "git_blob_sha1": "ba49a54b2453051c6d1954c1b0a7d80a6aa21bf1",
+        "utf8_bytes": 8637,
+        "paragraphs": 58,
+        "body_han_characters": 2488
+      },
+      "en": {
+        "path": "en/284_Not_A_Name_For_You.md",
+        "heading": "Chapter 284: Not a Name for You",
+        "sha256": "485cb632f5ad43e74e797468665ca5b4b5e66ffa95cf3d851bc080b200ef6dbc",
+        "git_blob_sha1": "2d49424d66ea645d7d5e7354702fa3ab6d5e4487",
+        "utf8_bytes": 9578,
+        "paragraphs": 58,
+        "body_words": 1607
+      }
+    },
+    {
+      "chapter": 285,
+      "cn": {
+        "path": "cn/285_The_Question_After_Mine.md",
+        "heading": "第285章 我的问题后面",
+        "sha256": "204e58b3e151ddb65bace6b7c55a7cbee66de63debc9776486a49a1d095dc622",
+        "git_blob_sha1": "ca7c384f5d611c77e5288d52267d019d46846e79",
+        "utf8_bytes": 8655,
+        "paragraphs": 49,
+        "body_han_characters": 2512
+      },
+      "en": {
+        "path": "en/285_The_Question_After_Mine.md",
+        "heading": "Chapter 285: The Question After Mine",
+        "sha256": "cf60eae7f292fe5d48072cb01c180748df36172b60d8087fa1f55525aa7fc8ad",
+        "git_blob_sha1": "83e92a0b06daa2330539c943600047c2a342ab38",
+        "utf8_bytes": 9723,
+        "paragraphs": 49,
+        "body_words": 1608
+      }
+    },
+    {
+      "chapter": 286,
+      "cn": {
+        "path": "cn/286_After_The_Second_Return.md",
+        "heading": "第286章 第二次回来以后",
+        "sha256": "09b5b94d358846e24705915089421432b5efd73342be4b5cff641cd3873b2fd2",
+        "git_blob_sha1": "c627597e4d1d4ca5b105d01b4bd373c748f14acb",
+        "utf8_bytes": 8856,
+        "paragraphs": 52,
+        "body_han_characters": 2568
+      },
+      "en": {
+        "path": "en/286_After_The_Second_Return.md",
+        "heading": "Chapter 286: After the Second Return",
+        "sha256": "159691ae573bd0f03dcb84a6fd375e430f2a91c337d6749cfb8c69108bc04dcb",
+        "git_blob_sha1": "902d1ea3bcbadebc5459b687035de266c61a8793",
+        "utf8_bytes": 9696,
+        "paragraphs": 52,
+        "body_words": 1627
+      }
+    }
+  ]
+}
