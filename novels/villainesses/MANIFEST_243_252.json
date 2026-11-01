@@ -1,0 +1,242 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-11-01",
+  "source_main_at_preflight": "3e99bb5ef7026648c3d6e52dad58cc9f0d0a88ec",
+  "new_bilingual_chapters": [
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252
+  ],
+  "actual_new_chapter_count": 10,
+  "continuous_bilingual_manuscript_through": 252,
+  "platform_publication": "Not performed. Manuscript storage is not platform release approval. Existing Novelpia 6692 publication remit unchanged.",
+  "files": [
+    {
+      "chapter": 243,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-243.md",
+      "heading": "# 第二百四十三章：不是她家的马车",
+      "body_count": 3013,
+      "count_unit": "Han characters",
+      "sha256": "0878f7c66a7067688662a3115885ec01601b6b43779d2f0b6bc6648b419ba5a7",
+      "git_blob_sha": "e1e341245c8be99a7e2b3acd7f2c9f70c5eebd80",
+      "utf8_bytes": 10262
+    },
+    {
+      "chapter": 243,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-243.md",
+      "heading": "# Chapter 243: Not Her Carriage",
+      "body_count": 1823,
+      "count_unit": "English words",
+      "sha256": "9c44b02f51267ad6d44b39e020a2923ef8529bebeccdc60b374a32e704564bf8",
+      "git_blob_sha": "9c89c6629afe776b0e857f3e31be4d8107648e6f",
+      "utf8_bytes": 11559
+    },
+    {
+      "chapter": 244,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-244.md",
+      "heading": "# 第二百四十四章：没有被演示的奇迹",
+      "body_count": 3015,
+      "count_unit": "Han characters",
+      "sha256": "f9014ea71d60054929bb0446840a520dc01654736e71c5c31922ee1b221fd868",
+      "git_blob_sha": "6af631abedac3dc53cd36529df1fc7b1903c571c",
+      "utf8_bytes": 10143
+    },
+    {
+      "chapter": 244,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-244.md",
+      "heading": "# Chapter 244: A Miracle Not Performed",
+      "body_count": 1825,
+      "count_unit": "English words",
+      "sha256": "83caee284a68226dfaceec26758a338a997bb5fdbc28e83e6e219af0245e0f83",
+      "git_blob_sha": "212f0c7a24fdf8c04812e1a05986bf3ef3f84a8b",
+      "utf8_bytes": 11706
+    },
+    {
+      "chapter": 245,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-245.md",
+      "heading": "# 第二百四十五章：担架转不过去的地方",
+      "body_count": 3015,
+      "count_unit": "Han characters",
+      "sha256": "cf866b114903582e0b0e0275a398a1a12ad935e2182d9a83ed3d8e700c7651bf",
+      "git_blob_sha": "a8b2d24fe84d0abcaa586d4b614db42b30db6391",
+      "utf8_bytes": 10052
+    },
+    {
+      "chapter": 245,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-245.md",
+      "heading": "# Chapter 245: Where a Stretcher Couldn't Turn",
+      "body_count": 1833,
+      "count_unit": "English words",
+      "sha256": "978e00edf7e719b233da252028233ca7d7025d0b27ac7208b1575bfad21347ac",
+      "git_blob_sha": "e239aa9e3df91b36b985ddfdb9713621f725e910",
+      "utf8_bytes": 11711
+    },
+    {
+      "chapter": 246,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-246.md",
+      "heading": "# 第二百四十六章：先让手够得到",
+      "body_count": 3184,
+      "count_unit": "Han characters",
+      "sha256": "772f1e4daa552a061151496614f4e2314babc51c9e9f3666b113142e578d4e75",
+      "git_blob_sha": "c742535f424d717ec6a88b1b0a32bf7ec05677df",
+      "utf8_bytes": 10774
+    },
+    {
+      "chapter": 246,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-246.md",
+      "heading": "# Chapter 246: Within Reach",
+      "body_count": 1819,
+      "count_unit": "English words",
+      "sha256": "63deb2c518351bd06369357347c83d47ecbe267ca55af7ebe058ee8355694731",
+      "git_blob_sha": "c9133b2da728328961c080a9d01974955387b722",
+      "utf8_bytes": 11552
+    },
+    {
+      "chapter": 247,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-247.md",
+      "heading": "# 第二百四十七章：没有涂满的地图",
+      "body_count": 3349,
+      "count_unit": "Han characters",
+      "sha256": "889406d8c791d29ced944ff586d2aac0c595b63fd6158bcf0c145ec7feb28f03",
+      "git_blob_sha": "fb07fa84d929c0775763eb354c31eb9f790d9fce",
+      "utf8_bytes": 11242
+    },
+    {
+      "chapter": 247,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-247.md",
+      "heading": "# Chapter 247: The Uncolored Map",
+      "body_count": 1839,
+      "count_unit": "English words",
+      "sha256": "b38304c21d91d76f376b7ffcc59909d79c36d39e6c4a185df279ee308b19cc43",
+      "git_blob_sha": "47c77899cb386ae7eabd0df388ac0941e980aabe",
+      "utf8_bytes": 12086
+    },
+    {
+      "chapter": 248,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-248.md",
+      "heading": "# 第二百四十八章：签下之前，先把门打开",
+      "body_count": 3236,
+      "count_unit": "Han characters",
+      "sha256": "e6936c31d1286030e3b5183ecbc3da0792eaf3bdbd8f40d3c48843c23d69b3b2",
+      "git_blob_sha": "0a72591e08fbaf1ff15056b012545848c94b175a",
+      "utf8_bytes": 10980
+    },
+    {
+      "chapter": 248,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-248.md",
+      "heading": "# Chapter 248: Open the Door Before Signing",
+      "body_count": 1897,
+      "count_unit": "English words",
+      "sha256": "f41e100b7f2d62b39bc385c4d1d2141064182ae730985e7b2ab57e7bc24b55f8",
+      "git_blob_sha": "0a9fea6d8dfd9248d02f67a183abfcbb0577fa3c",
+      "utf8_bytes": 12571
+    },
+    {
+      "chapter": 249,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-249.md",
+      "heading": "# 第二百四十九章：断在边境之前",
+      "body_count": 3200,
+      "count_unit": "Han characters",
+      "sha256": "287d8499975dd4d6b04de0eae6e129a74b63e2b426aef59e2c3ae2029351a6f9",
+      "git_blob_sha": "bb64f8d354f8520c4e3463441ba06c4d0d91ac63",
+      "utf8_bytes": 10719
+    },
+    {
+      "chapter": 249,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-249.md",
+      "heading": "# Chapter 249: Broken Before the Border",
+      "body_count": 1886,
+      "count_unit": "English words",
+      "sha256": "9809818c41f02903556a9cb8182461814bf07a1801b5c280ce8568a3bc397b9e",
+      "git_blob_sha": "ab455431bdedac68ef8f05342f10c5ed8b71663c",
+      "utf8_bytes": 12287
+    },
+    {
+      "chapter": 250,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-250.md",
+      "heading": "# 第二百五十章：留给别人经过的宽度",
+      "body_count": 3032,
+      "count_unit": "Han characters",
+      "sha256": "5bae4c5a8316f2010f655411706fd2e80d080258fe8b390723ea72a9eca5a05f",
+      "git_blob_sha": "c3a8a2e99386e7cb8f6cec4b0ee4e9d1ba16e31f",
+      "utf8_bytes": 10116
+    },
+    {
+      "chapter": 250,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-250.md",
+      "heading": "# Chapter 250: Room for Someone Else to Pass",
+      "body_count": 1809,
+      "count_unit": "English words",
+      "sha256": "7c0b9e9161b30018ff5e3651b9c1a33fc3f4b4368f2323713c7efb7048f8cea3",
+      "git_blob_sha": "37ff1c2b32293d5cf387be8f240d3a4f51eef56d",
+      "utf8_bytes": 11773
+    },
+    {
+      "chapter": 251,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-251.md",
+      "heading": "# 第二百五十一章：箱子里不该装着婚约",
+      "body_count": 3018,
+      "count_unit": "Han characters",
+      "sha256": "6ea1aaf3cb53a36fb4586848f4f629facfcdf68683bda64174e411eee3fdc5a1",
+      "git_blob_sha": "b3d91265bb2eb9a144937292c7b55beec80fd878",
+      "utf8_bytes": 10353
+    },
+    {
+      "chapter": 251,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-251.md",
+      "heading": "# Chapter 251: What Didn't Belong in the Box",
+      "body_count": 1805,
+      "count_unit": "English words",
+      "sha256": "8d4335f8c75f04b8e26857bb91a293caf7a7683328b88e90a9b8aefc32ad54a5",
+      "git_blob_sha": "d189264f4414ae8112c64536e8e208023d4019fd",
+      "utf8_bytes": 11587
+    },
+    {
+      "chapter": 252,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-252.md",
+      "heading": "# 第二百五十二章：光照不到的地方",
+      "body_count": 3045,
+      "count_unit": "Han characters",
+      "sha256": "c6e065471a05684694c9648d2eff478954e7a34051f48d512afc07e508c46dc7",
+      "git_blob_sha": "21abaf3f35ace7702021c1f325c17ea7b1cc195e",
+      "utf8_bytes": 10262
+    },
+    {
+      "chapter": 252,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-252.md",
+      "heading": "# Chapter 252: Where the Light Didn't Reach",
+      "body_count": 1841,
+      "count_unit": "English words",
+      "sha256": "fe0167d3b94bf3e80f381ae64ec1eb2a5a1418157a823b1d11cc4d3ad73f5e97",
+      "git_blob_sha": "065b9f01c54171ec5a00696b94a1321e71abc7a6",
+      "utf8_bytes": 11729
+    }
+  ]
+}
