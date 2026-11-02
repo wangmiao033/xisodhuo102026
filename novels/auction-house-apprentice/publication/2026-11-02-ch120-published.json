@@ -1,0 +1,46 @@
+{
+  "observedAtUTC": "2026-11-02T05:10:58Z",
+  "chapter": 120,
+  "title": "留在原处",
+  "sourceCommit": "36be9b3a843e258a15562b1932d7a59aa50168ba",
+  "sourceSHA256": "6223225e504ef837debb9372bf3a143c98dab7722f0a5304136336052a8c4a1e",
+  "sourceBytes": 14016,
+  "platformWordCount": 4543,
+  "status": "published",
+  "authorsNote": "not added",
+  "platformPublicationTime": "2026-11-02 13:10",
+  "platformTimezone": "not explicitly displayed",
+  "previewFullTextMatch": true,
+  "previewParagraphs": 206,
+  "previewUrl": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7703427955254362686",
+  "publicReaderUrl": null,
+  "AIUsed": true,
+  "scheduled": false,
+  "totalListedChaptersAfter": 119,
+  "maxChapter": 120,
+  "authorizationHistory": [
+    "User explicitly authorized one extra chapter120 after 118/119 today",
+    "User requested proofreading, revised full source independently reviewed",
+    "User replied 提交吧 to permission for retaining seven confirmed false positives",
+    "User replied 允许 to explicit AI-used=yes and confirm publication question"
+  ],
+  "resultHistory": [
+    "05:10:23 UTC: 审核中 2026-11-02 13:10",
+    "05:10:58 UTC: 已发布4543字0错别字 2026-11-02 13:10"
+  ],
+  "limitations": "Complete authenticated manager preview verified against source. Public reader link unavailable from inspected interface; public homepage search disabled and external search no result. No claim independent public-reader fulltext verified.",
+  "sourceHanCharacters": 3815,
+  "limitConclusion": "No daily-two-chapter limit appeared during this specific submission. Does not establish a universal or unlimited platform quota.",
+  "chapterId": "7703427955254362686",
+  "historicalMissingChapter": 42,
+  "todayPublishedChapters": [
+    118,
+    119,
+    120
+  ],
+  "normalDailyPublicationCap": 1,
+  "oneTimeExtraAuthorizedChapter": 120,
+  "nextCandidate": 121,
+  "formerDraftMustNotBeReused": true,
+  "platformTypoCount": 0
+}
