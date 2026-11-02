@@ -1,0 +1,240 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-11-02",
+  "initial_remote_main": "a3361c9c1d55ea09004d5ea72c790efac7e23c87",
+  "chapter_range": [
+    287,
+    296
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    296
+  ],
+  "continuation_pair_count_after_verification": 170,
+  "next_new_chapter": 297,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 287,
+      "cn": {
+        "path": "cn/287_The_Bread_Stayed_Dry.md",
+        "heading": "第287章 面包没有淋湿",
+        "sha256": "c39c3d10725585c8b7d9ecc76193a0f670c8dd2f7d99c79247daf7aa80073dd2",
+        "git_blob_sha1": "960332a63b1f670ea248e85048b007c0818c8527",
+        "utf8_bytes": 8356,
+        "paragraphs": 60,
+        "body_han_characters": 2387
+      },
+      "en": {
+        "path": "en/287_The_Bread_Stayed_Dry.md",
+        "heading": "Chapter 287: The Bread Stayed Dry",
+        "sha256": "faf08d94074e169eb4810007d161d5ec24da887dfcf1f0b96817129eea916744",
+        "git_blob_sha1": "d39f15e83983587bee3b21e2f67eeda9be4f98ab",
+        "utf8_bytes": 8949,
+        "paragraphs": 64,
+        "body_words": 1546
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 288,
+      "cn": {
+        "path": "cn/288_A_Page_Out_of_Order.md",
+        "heading": "第288章 放错位置的一页",
+        "sha256": "0021140468989637015bd7e0451534d0157167c5078a8062cbb62ca58df8ecf4",
+        "git_blob_sha1": "5172f8e992c6217b707d4c077be403f77dd83b1e",
+        "utf8_bytes": 8120,
+        "paragraphs": 50,
+        "body_han_characters": 2356
+      },
+      "en": {
+        "path": "en/288_A_Page_Out_of_Order.md",
+        "heading": "Chapter 288: A Page Out of Order",
+        "sha256": "5c2d60c12fde4296ea2b3966fbff27b19a5fd4b0ee2da0bccab8bff489589efb",
+        "git_blob_sha1": "a17e479eac378a3f45841adbbc0266a1486a658e",
+        "utf8_bytes": 9101,
+        "paragraphs": 60,
+        "body_words": 1514
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 289,
+      "cn": {
+        "path": "cn/289_Three_Ways_to_Enter.md",
+        "heading": "第289章 三种进门的方法",
+        "sha256": "8e69da8903370de02e180f13c535932bf09cf609c5551b88373685f7a1614306",
+        "git_blob_sha1": "c237512ee273f79511aac989ff9ebd75ecbeba74",
+        "utf8_bytes": 7992,
+        "paragraphs": 46,
+        "body_han_characters": 2336
+      },
+      "en": {
+        "path": "en/289_Three_Ways_to_Enter.md",
+        "heading": "Chapter 289: Three Ways to Enter",
+        "sha256": "c7429931eb6081ec7e40045dedb4b95a82d3711ec6b8c20369eb694c427bde00",
+        "git_blob_sha1": "3c7d9a347e54247afd66981d5610f50e88693174",
+        "utf8_bytes": 9099,
+        "paragraphs": 52,
+        "body_words": 1507
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 290,
+      "cn": {
+        "path": "cn/290_The_Corner_That_Came_Back.md",
+        "heading": "第290章 总会回来的那个角",
+        "sha256": "cb4b44aafe46ec12a6e82c98f0e79c46eef5a390d9f39e6290baadd036d04136",
+        "git_blob_sha1": "bbdec6e2f311c7f6285789ad49406402c0dc591f",
+        "utf8_bytes": 7945,
+        "paragraphs": 54,
+        "body_han_characters": 2300
+      },
+      "en": {
+        "path": "en/290_The_Corner_That_Came_Back.md",
+        "heading": "Chapter 290: The Corner That Came Back",
+        "sha256": "b3a2b21f307ecbf6bab641d8325ddf02e0ebca1e86db93247e5db9e422ffe9d4",
+        "git_blob_sha1": "e355647c7988daa235453f482393cd238533f0aa",
+        "utf8_bytes": 9193,
+        "paragraphs": 70,
+        "body_words": 1517
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 291,
+      "cn": {
+        "path": "cn/291_A_Copy_for_Tom.md",
+        "heading": "第291章 给汤姆的那一份",
+        "sha256": "ae6c2b4b9d701bff7143a695be5332dc4be445d9278b319a8c47624efd0060de",
+        "git_blob_sha1": "55a75b96481204849dbfa5f2d598191ea2451255",
+        "utf8_bytes": 8135,
+        "paragraphs": 44,
+        "body_han_characters": 2375
+      },
+      "en": {
+        "path": "en/291_A_Copy_for_Tom.md",
+        "heading": "Chapter 291: A Copy for Tom",
+        "sha256": "ce9cfdab4fedc073cee3020c23c4f89f5796a117e990320da8f68c67218612cb",
+        "git_blob_sha1": "cc12cf05a292f5a5f988aa743d17602f3b254e36",
+        "utf8_bytes": 9266,
+        "paragraphs": 51,
+        "body_words": 1510
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 292,
+      "cn": {
+        "path": "cn/292_The_Door_He_Had_Used.md",
+        "heading": "第292章 他进来的那扇门",
+        "sha256": "8d2715acc443295a61f32479c7ad71ae841ad8f35ac54a11ac5bff1a28f79dd6",
+        "git_blob_sha1": "aeefcc205d262cbcf1dbd517bcdcf0bc3ab60d62",
+        "utf8_bytes": 8701,
+        "paragraphs": 63,
+        "body_han_characters": 2488
+      },
+      "en": {
+        "path": "en/292_The_Door_He_Had_Used.md",
+        "heading": "Chapter 292: The Door He Had Used",
+        "sha256": "aa988f39be484c718bd3c05c4a8f9aca04929d7172a46349f45bbfa3a03c7bf8",
+        "git_blob_sha1": "4e8dff54040a6cfb6980029bb238e70dd4f5ca57",
+        "utf8_bytes": 9554,
+        "paragraphs": 64,
+        "body_words": 1625
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 293,
+      "cn": {
+        "path": "cn/293_Only_Once_Today.md",
+        "heading": "第293章 今天只唱一遍",
+        "sha256": "63746e2390afce6bc7677ea6cb8402eef6e6e9055553ac0948abac2a44315996",
+        "git_blob_sha1": "13050663a6adf0e7038d4ea1c27375c0c4acd221",
+        "utf8_bytes": 8395,
+        "paragraphs": 78,
+        "body_han_characters": 2362
+      },
+      "en": {
+        "path": "en/293_Only_Once_Today.md",
+        "heading": "Chapter 293: Only Once Today",
+        "sha256": "f4620b31c3569caa187423360dbdaea5e074a6a94092c57c0b6b484f7b1c5025",
+        "git_blob_sha1": "386f6fe9dda41c90e134d23b57b9077a28ced90c",
+        "utf8_bytes": 9216,
+        "paragraphs": 78,
+        "body_words": 1520
+      },
+      "paragraph_counts_match": true
+    },
+    {
+      "chapter": 294,
+      "cn": {
+        "path": "cn/294_A_Little_Farther_In.md",
+        "heading": "第294章 再往里一点",
+        "sha256": "48e570ef0acde967b516c185b138f4fa9beb524046bee9a2167d2fbaa26a7e36",
+        "git_blob_sha1": "22b5834745f20fce4087aa359b54671714a9f0ae",
+        "utf8_bytes": 7974,
+        "paragraphs": 46,
+        "body_han_characters": 2324
+      },
+      "en": {
+        "path": "en/294_A_Little_Farther_In.md",
+        "heading": "Chapter 294: A Little Farther In",
+        "sha256": "141b9f3e76d1dcaa20e02b5adcd353d4038cb9b57c10b3843ba618ef389ddde8",
+        "git_blob_sha1": "3982a08a3d0ad52dcfd331803e32dbc5a43fc454",
+        "utf8_bytes": 9043,
+        "paragraphs": 46,
+        "body_words": 1521
+      },
+      "paragraph_counts_match": true
+    },
+    {
+      "chapter": 295,
+      "cn": {
+        "path": "cn/295_No_Second_Appointment.md",
+        "heading": "第295章 没有第二次约稿",
+        "sha256": "7164ca35a3ba1aaead0b11cf833970191aa2ba2f43a8a9d684436e940abcaf0a",
+        "git_blob_sha1": "013dd2ca78c8f6eb5c845f3adae17b536dcd93d4",
+        "utf8_bytes": 8051,
+        "paragraphs": 50,
+        "body_han_characters": 2325
+      },
+      "en": {
+        "path": "en/295_No_Second_Appointment.md",
+        "heading": "Chapter 295: No Second Appointment",
+        "sha256": "a15798a21abf113edae6bc242d7f5388f97d5d93226c8e63c4d71e6c0f1041ff",
+        "git_blob_sha1": "cb290e3a16f3496145733bf61179446d9756c868",
+        "utf8_bytes": 9109,
+        "paragraphs": 51,
+        "body_words": 1507
+      },
+      "paragraph_counts_match": false
+    },
+    {
+      "chapter": 296,
+      "cn": {
+        "path": "cn/296_Where_She_Began.md",
+        "heading": "第296章 她开始的地方",
+        "sha256": "6ac08a7e3a6125c49ed474180130e9a35473e1c725df51c6d65ac7eb2530d5b4",
+        "git_blob_sha1": "4cec32084653ba90f541bbeb353f22b945012fb2",
+        "utf8_bytes": 8268,
+        "paragraphs": 67,
+        "body_han_characters": 2354
+      },
+      "en": {
+        "path": "en/296_Where_She_Began.md",
+        "heading": "Chapter 296: Where She Began",
+        "sha256": "2609866164539c60383ab65d80b54a758918176010438a9f195005f9cf4c2c0d",
+        "git_blob_sha1": "313875a5a8672a378ad50f547a57ba9340f15ab6",
+        "utf8_bytes": 9404,
+        "paragraphs": 67,
+        "body_words": 1545
+      },
+      "paragraph_counts_match": true
+    }
+  ]
+}
