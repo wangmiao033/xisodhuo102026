@@ -1,0 +1,20 @@
+{
+  "chapter": 13,
+  "title": "送拍失败品",
+  "file": "ch013.md",
+  "status": "interface_revision_independently_reviewed_PASS",
+  "scope": "三类已确证接口错误共六处替换，不是全章文风优化",
+  "source_sha256": "e09c7636f3c0e1b1189be0d29308ed2e810427462e7cfdd919db610f6b99f0a6",
+  "sha256": "b5292f2ce318c43d454a107720c4532ab867cbfbc085948390bc51385455902e",
+  "bytes": 11616,
+  "original_han_count": 3006,
+  "revised_han_count": 3051,
+  "count_note": "含标题基本汉字计数，不等平台字数",
+  "author": "diagnose_auction_story_quality",
+  "independent_reviewer": "middle_review",
+  "review": "REVIEW-013.md",
+  "changes": "CHANGES-013.json",
+  "github_verified_at_creation": false,
+  "platform_changed": false,
+  "boundary": "第14章仍有昨夜榜单备注旧时序词，未在此次授权定点范围修改；58–62及门口段尚待下一批。"
+}
