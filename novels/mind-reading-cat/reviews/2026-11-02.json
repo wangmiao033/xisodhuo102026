@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-02",
+  "novelpiaId": 6408,
+  "range": [
+    96,
+    105
+  ],
+  "status": "independent-full-text-review-passed",
+  "reviewers": {
+    "096-100": "cat101_105",
+    "101-105": "cat96_100"
+  },
+  "chapters": [
+    {
+      "chapter": 96,
+      "heading": "Chapter 096 — An Experiment You Can Leave",
+      "path": "chapters/en/096-an-experiment-you-can-leave.md",
+      "words": 1850,
+      "sha256": "16cbc171e7943beb911606d02e613d1f78768ea84468860c090d0fccf12faf75",
+      "git_blob_sha1": "66754df4bb247f616edbde53e284d2ac352220fe"
+    },
+    {
+      "chapter": 97,
+      "heading": "Chapter 097 — When He Gets It Wrong",
+      "path": "chapters/en/097-when-he-gets-it-wrong.md",
+      "words": 1838,
+      "sha256": "38878963533f0cbe2ff235116d640cf77dc2020c00815b3e437ab18eb4f7de36",
+      "git_blob_sha1": "31496035cd2b031a46de2e24288c84a012880b4b"
+    },
+    {
+      "chapter": 98,
+      "heading": "Chapter 098 — We Don't Need More Proof",
+      "path": "chapters/en/098-we-dont-need-more-proof.md",
+      "words": 1832,
+      "sha256": "463711f5a80a3be54b0081831b77f97cf7057f5a3fe7b4649d6469f7d007e19f",
+      "git_blob_sha1": "fc4635e3293e53f6519c54f1ef1bbce304915d7c"
+    },
+    {
+      "chapter": 99,
+      "heading": "Chapter 099 — You Can Ask What You Don't Know",
+      "path": "chapters/en/099-you-can-ask-what-you-dont-know.md",
+      "words": 1816,
+      "sha256": "aa225faf16db11fb71635e14a0a4643855ff95c4aee7a6fee88f0e3d6a249c1a",
+      "git_blob_sha1": "08d04265e468690e8f4b717cb10a940af863b895"
+    },
+    {
+      "chapter": 100,
+      "heading": "Chapter 100 — A Kiss Without Guessing",
+      "path": "chapters/en/100-a-kiss-without-guessing.md",
+      "words": 1859,
+      "sha256": "79ef75376baeb45d7a34ae35ebdee31039845fa200f530d4fd1ff1785af392e0",
+      "git_blob_sha1": "055a794a97cb12e8fcea0f40c694508adbafb9a4"
+    },
+    {
+      "chapter": 101,
+      "heading": "Chapter 101 — No Vet Endorsement Included",
+      "path": "chapters/en/101-no-vet-endorsement-included.md",
+      "words": 1831,
+      "sha256": "b6504ad65709b844d9423abce9533240b074fc0d4513c0a4c99cc24eda63c330",
+      "git_blob_sha1": "7e2b35ea9150919e02f41285ce8473a5517cc7c6"
+    },
+    {
+      "chapter": 102,
+      "heading": "Chapter 102 — A Beautiful Stall Can Be Wrong",
+      "path": "chapters/en/102-a-beautiful-stall-can-be-wrong.md",
+      "words": 1816,
+      "sha256": "34ca15515ac3f1fbc1c72fede4ef51d2b3c8afcddf03417c046b883fb1a9c118",
+      "git_blob_sha1": "968cbcb58968c3413cfebb25c5095c844773c8c4"
+    },
+    {
+      "chapter": 103,
+      "heading": "Chapter 103 — Sophie Isn't an Emergency Service",
+      "path": "chapters/en/103-sophie-isnt-an-emergency-service.md",
+      "words": 1841,
+      "sha256": "5defdf020421b4203499573544ead6820f645387db55c4037fd63c919fcb66e5",
+      "git_blob_sha1": "56688b16f50546a7c7f38465449f09c98df0b882"
+    },
+    {
+      "chapter": 104,
+      "heading": "Chapter 104 — Three Minutes Before Opening",
+      "path": "chapters/en/104-three-minutes-before-opening.md",
+      "words": 1865,
+      "sha256": "5aa2c03cf34d4667b42e9e1e7f2e3ca8b39c68221e88711b50de1c334b07d2d2",
+      "git_blob_sha1": "fda1ae60722684d28bf40cb49598f460283f3be6"
+    },
+    {
+      "chapter": 105,
+      "heading": "Chapter 105 — Flowers After the Finish",
+      "path": "chapters/en/105-flowers-after-the-finish.md",
+      "words": 1843,
+      "sha256": "0bbd5297fc8f497714962259606879305dcd5518283e6f3d0a8d2ff5377e6967",
+      "git_blob_sha1": "0a288a9ee2600bf61b016927bc5cddb2f6a2b022"
+    }
+  ],
+  "publicationClaim": false
+}
