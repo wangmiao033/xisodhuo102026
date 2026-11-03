@@ -1,0 +1,34 @@
+{
+  "scope": "111–113完整精修与独立终审",
+  "chapters": [
+    {
+      "chapter": 111,
+      "title": "# 第111章 受理号",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3607,
+      "revision_han": 1967,
+      "source_sha256": "d71569a63625ba1ab86b6c411eb6354071c9820ef3263877238c6b09b0d58442",
+      "sha256": "0690f3e55dd469e4794dcf214e2bddce2a51b122108ec8306d9c6f109f82ed3b"
+    },
+    {
+      "chapter": 112,
+      "title": "# 第112章 核空白",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3683,
+      "revision_han": 1787,
+      "source_sha256": "09479d2b682a5d7e4148a863843996d235701b99d437f4f53fc1098b7a4db7e2",
+      "sha256": "fdd596a8e4230d2c97ed61b2a86e884f0309563b2865c14d76e8e9583df68202"
+    },
+    {
+      "chapter": 113,
+      "title": "# 第113章 窗口",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3680,
+      "revision_han": 2173,
+      "source_sha256": "fd6e1b6728b1c7f7e295bfecd0c4f7fa773b7edbd1b9f8b8b4f71e22fe5fa327",
+      "sha256": "5bc68ddd22f51d8433dfe56178e816977bd0db07508b1c3b7d4d2f628a64238e"
+    }
+  ],
+  "counts": "基本汉字数，不等于平台字数",
+  "online_replaced": false
+}
