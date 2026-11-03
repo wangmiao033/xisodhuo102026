@@ -1,0 +1,34 @@
+{
+  "scope": "084-086完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 84,
+      "title": "第84章 共管匣按指纹",
+      "sha256": "c40127d069d1973216c50ac5cdf0333e3b108ac13f54c567a1414ab6a3d93e5d",
+      "source_sha256": "95c6d7bd6f23bdcfa8099fcf8360e031b41bc6a3f731ec263417ee901a4c8e65",
+      "original_han": 4289,
+      "revised_han": 4351,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 85,
+      "title": "第85章 授权草案双响压",
+      "sha256": "4cfd2d01419309ffbd0501d7b493f02a526921c204df559f2ea716da6e14cfd1",
+      "source_sha256": "b0a974a20f0caffcc2599a894a1a89877e0e506b49203f61b5eecfd6de000c82",
+      "original_han": 3858,
+      "revised_han": 3995,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 86,
+      "title": "第86章 独占将尽曲线逼",
+      "sha256": "2f1b23fae051e0be746de8f1e9ecd6ecbde874b1484c7a9484148951f6a3496b",
+      "source_sha256": "73447aea7ab814d6d8a6e08dad6f026803659c91304d55091499d9cf152f0b34",
+      "original_han": 3648,
+      "revised_han": 3715,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
