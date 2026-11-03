@@ -1,0 +1,25 @@
+{
+  "scope": "077-078完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 77,
+      "title": "第77章 废宝堆里故人镜",
+      "sha256": "7bc67ae5e7f7dbce68a445f4bfffd29497acc000c64a24487276a554fb1bc396",
+      "source_sha256": "7ebf36b647572dc343a35e94f29ff28c6c6f1f75f2a4b24ebf5dc1198793d8f2",
+      "original_han": 3641,
+      "revised_han": 3932,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 78,
+      "title": "第78章 认领压境硬抗契",
+      "sha256": "1df281351c36ed775f40dafbeacdc0f795ac0f9f95eac636f1b224a23e716a61",
+      "source_sha256": "b8ae56e5ab2bf793df1301cab1bf927558f0a3368bb9eab4806c3ca3bfd69c17",
+      "original_han": 3620,
+      "revised_han": 3735,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
