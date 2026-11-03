@@ -1,0 +1,37 @@
+{
+  "scope": "118-120完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 118,
+      "title": "## 第118章 印位空",
+      "sha256": "96f03acf9501166be5270e5201aad5d4f49968f8e265b65695b663131d577685",
+      "source_sha256": "ebe5427c07902ea7af0ea881171fccd566d1299ec2f76aed4207e0eaf8c8f220",
+      "original_han": 4160,
+      "revised_han": 1611,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "revision_type": "full_scene_compression"
+    },
+    {
+      "chapter": 119,
+      "title": "## 第119章 复核单",
+      "sha256": "1ffa85aeb3aa6c331c3a73a6d43efa611c9a53e436480773d5fb0d42b55b36b4",
+      "source_sha256": "67af7010aadae216b76b098f43dfe107a60a3947951ad07b6b6dc817799f6223",
+      "original_han": 3963,
+      "revised_han": 1567,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "revision_type": "full_scene_compression"
+    },
+    {
+      "chapter": 120,
+      "title": "## 第120章 留在原处",
+      "sha256": "bbb0b86fa933f1dbd668ad376bad8ffa89198aaa74de7c76aeba63689ab13cbc",
+      "source_sha256": "5c47c5a118c7efdfde57385a1262ee58a91fa6f55f08da9813e25746332c5c5b",
+      "original_han": 3821,
+      "revised_han": 3822,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "revision_type": "one_character_action_clarification"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
