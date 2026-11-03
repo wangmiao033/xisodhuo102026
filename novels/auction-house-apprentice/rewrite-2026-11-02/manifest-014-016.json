@@ -1,0 +1,34 @@
+{
+  "scope": "14–16独立全文审校通过，后续章节另批。",
+  "chapters": [
+    {
+      "chapter": 14,
+      "title": "# 第14章 顾承的指导",
+      "sha256": "0b85af115b2942fb0da63d399a3fbbf16b97358ad9231f5fd778d64aacec48cb",
+      "source_sha256": "2d5fa2c48e12edff54c3180940afb6b8c806f680c2ec397baaed92b897130384",
+      "original_han": 2901,
+      "revised_han": 2611,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 15,
+      "title": "# 第15章 过招前夜",
+      "sha256": "498ce7266aa84b6ac47d4bbc04e62ee37bd8592ba8f87bc612d37a0d3c245bc9",
+      "source_sha256": "5af71f2d68e190fe279a286bfa85ca1c2906b0cce02309a45d4e10f98a2ce546",
+      "original_han": 3226,
+      "revised_han": 2543,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 16,
+      "title": "# 第16章 看锈第一课",
+      "sha256": "883ce1355c9450f7603c5fa9652e252d0cee32df18966736626b54ed96c4e03b",
+      "source_sha256": "3bf7bd18e5aeabc8af604e1da3e1304e389551a31383a38e8d24f118324dbe72",
+      "original_han": 3120,
+      "revised_han": 2424,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字计数，不等于平台字数。",
+  "online_replaced": false
+}
