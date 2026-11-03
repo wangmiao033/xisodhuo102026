@@ -1,0 +1,230 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_beijing": "2026-11-03",
+  "initial_remote_main": "757769535007922b42e9c53b47b59da31b2e4174",
+  "chapter_range": [
+    297,
+    306
+  ],
+  "new_chapter_pairs": 10,
+  "continuation_pair_range_after_verification": [
+    127,
+    306
+  ],
+  "continuation_pair_count_after_verification": 180,
+  "next_new_chapter": 307,
+  "platform_release_approval_extended": false,
+  "word_count_method": "Unicode word tokens with internal apostrophes or hyphens; heading excluded",
+  "chapters": [
+    {
+      "chapter": 297,
+      "cn": {
+        "path": "cn/297_The_Pair_on_the_Counter.md",
+        "heading": "第297章 柜台上的一双",
+        "sha256": "e34440b50783c7234c777eaefd12e225a8f387e92d9cb6b2108cc31740f1f3bb",
+        "git_blob_sha1": "994814d2cd84f52a21dac4e67a03986d10962063",
+        "utf8_bytes": 7342,
+        "paragraphs": 57,
+        "body_han_characters": 2102
+      },
+      "en": {
+        "path": "en/297_The_Pair_on_the_Counter.md",
+        "heading": "Chapter 297: The Pair on the Counter",
+        "sha256": "d8479133814e57d964ea3de61c16494614343c05a3d1b2c0d079fae6def55385",
+        "git_blob_sha1": "0bc113ad145ba038398c4ae03a30f340effbd795",
+        "utf8_bytes": 8289,
+        "paragraphs": 57,
+        "body_words": 1431
+      }
+    },
+    {
+      "chapter": 298,
+      "cn": {
+        "path": "cn/298_Ten_Means_Ten.md",
+        "heading": "第298章 十点就是十点",
+        "sha256": "82cef774f754c353d5472af8e365edf01bca2844731c60d053c06ef4c07b7d38",
+        "git_blob_sha1": "52bca30360dd1dd06c72ecf90bf90d06555281b6",
+        "utf8_bytes": 7717,
+        "paragraphs": 54,
+        "body_han_characters": 2221
+      },
+      "en": {
+        "path": "en/298_Ten_Means_Ten.md",
+        "heading": "Chapter 298: Ten Means Ten",
+        "sha256": "ec039e31f4c948e900f04ea3f25ea50998203c0259056cfdd7e3f3bcbafabe83",
+        "git_blob_sha1": "bd31b1cc3c3624a5e751474951460716108167ab",
+        "utf8_bytes": 8422,
+        "paragraphs": 54,
+        "body_words": 1439
+      }
+    },
+    {
+      "chapter": 299,
+      "cn": {
+        "path": "cn/299_Leave_the_Bag_Light.md",
+        "heading": "第299章 包里少放一点",
+        "sha256": "58f94f34e9788c85b680c1151e929f1951f649f6fb0116e4addf3688267973dc",
+        "git_blob_sha1": "05131e86d95f1835d0509ba3203bb0e73643c9d7",
+        "utf8_bytes": 7220,
+        "paragraphs": 59,
+        "body_han_characters": 2057
+      },
+      "en": {
+        "path": "en/299_Leave_the_Bag_Light.md",
+        "heading": "Chapter 299: Leave the Bag Light",
+        "sha256": "cc638cec3028b6a60292f3c6528eaf8cc1ace2dfae75cb40b1585bf74f949d68",
+        "git_blob_sha1": "07a1bd2832da8b6c26fe53b33a22b9b9e25d68de",
+        "utf8_bytes": 7862,
+        "paragraphs": 59,
+        "body_words": 1355
+      }
+    },
+    {
+      "chapter": 300,
+      "cn": {
+        "path": "cn/300_The_Page_That_Was_Missing.md",
+        "heading": "第300章 缺的那一页",
+        "sha256": "dc12b3b4769318d597312986b976ad74fa580d87d39871fd582aef8b4ff099a1",
+        "git_blob_sha1": "606334933fa95faecc16ab53a6e0b01b1ded25fc",
+        "utf8_bytes": 7369,
+        "paragraphs": 39,
+        "body_han_characters": 2151
+      },
+      "en": {
+        "path": "en/300_The_Page_That_Was_Missing.md",
+        "heading": "Chapter 300: The Page That Was Missing",
+        "sha256": "e13f3ed05cd0b72325c42f84eb7e58c1c2182574bdffff68b08018637daea274",
+        "git_blob_sha1": "6a5ff1edb38856cedc3bf42d455184b956112ef8",
+        "utf8_bytes": 8113,
+        "paragraphs": 39,
+        "body_words": 1431
+      }
+    },
+    {
+      "chapter": 301,
+      "cn": {
+        "path": "cn/301_Not_Right_Away.md",
+        "heading": "第301章 不是一回来就开始",
+        "sha256": "2d2d676b3871abbccb7c00908d28ba683ebe5b0d4266dae663c44b4be3119e76",
+        "git_blob_sha1": "8a67fb9d06ce960de844dd2968c0948723519999",
+        "utf8_bytes": 7897,
+        "paragraphs": 57,
+        "body_han_characters": 2253
+      },
+      "en": {
+        "path": "en/301_Not_Right_Away.md",
+        "heading": "Chapter 301: Not Right Away",
+        "sha256": "7d06957ee76a00d929741d301e0236863f30250871ce4693e9887fd165161103",
+        "git_blob_sha1": "773a87b3abd28d6bd71307bfe9dc0a019f443ebd",
+        "utf8_bytes": 8468,
+        "paragraphs": 57,
+        "body_words": 1465
+      }
+    },
+    {
+      "chapter": 302,
+      "cn": {
+        "path": "cn/302_One_Unimportant_Thing.md",
+        "heading": "第302章 一件不重要的事",
+        "sha256": "264cbe725ea4b19d10bc269e6404d6755f7fe7a3f5d89b75b68240236e78aec3",
+        "git_blob_sha1": "e39b37a2f5ad3a9e8268e3d96dec4e48f190d1a6",
+        "utf8_bytes": 7085,
+        "paragraphs": 44,
+        "body_han_characters": 2045
+      },
+      "en": {
+        "path": "en/302_One_Unimportant_Thing.md",
+        "heading": "Chapter 302: One Unimportant Thing",
+        "sha256": "2fbf84f7c8367d7f4e0c1eeb803d9b60af0302e92e1b9ba38aa3f34c2729deb7",
+        "git_blob_sha1": "8bce087300ec18b6b9ac67fa259771652b982b28",
+        "utf8_bytes": 7801,
+        "paragraphs": 44,
+        "body_words": 1334
+      }
+    },
+    {
+      "chapter": 303,
+      "cn": {
+        "path": "cn/303_The_Wrong_Initials.md",
+        "heading": "第303章 不是那个签名",
+        "sha256": "e3f1c38898c9fa53a0a917d584314c9cccda992479472f69799f23e0d096a45a",
+        "git_blob_sha1": "6d4f1ebf5a9929dcf481ed52ac5397c893c904ac",
+        "utf8_bytes": 6894,
+        "paragraphs": 43,
+        "body_han_characters": 1996
+      },
+      "en": {
+        "path": "en/303_The_Wrong_Initials.md",
+        "heading": "Chapter 303: The Wrong Initials",
+        "sha256": "2e7e651daa5a9285e9341cd5549def3e77f6eed8b458bbd8bda8882ed41255f1",
+        "git_blob_sha1": "52ae0a76d7ddf961d93c0add485a4ebf5229ce64",
+        "utf8_bytes": 7611,
+        "paragraphs": 43,
+        "body_words": 1277
+      }
+    },
+    {
+      "chapter": 304,
+      "cn": {
+        "path": "cn/304_The_Cake_Was_For_Me.md",
+        "heading": "第304章 蛋糕是买给我的",
+        "sha256": "95d21088584108b8a0c99687e4daaa005c64d251baa9b285a33b3eec1e6c1810",
+        "git_blob_sha1": "e787ff360830c6782144cd97dfabe29e159aba63",
+        "utf8_bytes": 6952,
+        "paragraphs": 42,
+        "body_han_characters": 1996
+      },
+      "en": {
+        "path": "en/304_The_Cake_Was_For_Me.md",
+        "heading": "Chapter 304: The Cake Was for Me",
+        "sha256": "d55535033fa4cadc72ae4a594e1a09a393b722098b8ef1ea0c29b454488c5025",
+        "git_blob_sha1": "fefdd114cd279f24e66d5b6ff42532fb342029a2",
+        "utf8_bytes": 7722,
+        "paragraphs": 42,
+        "body_words": 1347
+      }
+    },
+    {
+      "chapter": 305,
+      "cn": {
+        "path": "cn/305_The_Space_Between_Phrases.md",
+        "heading": "第305章 两句之间",
+        "sha256": "30c90b837c78852c6b2b7f383443dacbf3edebefcad57ff85d17a9ec42cf4466",
+        "git_blob_sha1": "5d4efb5543e8a2943df385be84f28112933056ae",
+        "utf8_bytes": 6896,
+        "paragraphs": 47,
+        "body_han_characters": 1992
+      },
+      "en": {
+        "path": "en/305_The_Space_Between_Phrases.md",
+        "heading": "Chapter 305: The Space Between Phrases",
+        "sha256": "c732c99db9e6e00589fdf26556647f00bb2401675e9e7bab9cb0cbfe26bfae8b",
+        "git_blob_sha1": "ce50adde033ffd1969b7ad489406f8524d86e82d",
+        "utf8_bytes": 7724,
+        "paragraphs": 47,
+        "body_words": 1311
+      }
+    },
+    {
+      "chapter": 306,
+      "cn": {
+        "path": "cn/306_Not_a_Preview.md",
+        "heading": "第306章 不是预演",
+        "sha256": "cf71ccccf53c133b1079d9caa8862de462ca92c92b718e057ed4c402b3714be0",
+        "git_blob_sha1": "52cfbb42e3209f1cfd91811c10f525d4abeaf44b",
+        "utf8_bytes": 7067,
+        "paragraphs": 38,
+        "body_han_characters": 2051
+      },
+      "en": {
+        "path": "en/306_Not_a_Preview.md",
+        "heading": "Chapter 306: Not a Preview",
+        "sha256": "777904bea6e6a690547da3d20ca331e755c029770f67172176537fe40c6cc9c5",
+        "git_blob_sha1": "bbb3ee54359cace36d3441df4722dbac0aa75a4e",
+        "utf8_bytes": 8040,
+        "paragraphs": 38,
+        "body_words": 1365
+      }
+    }
+  ]
+}
