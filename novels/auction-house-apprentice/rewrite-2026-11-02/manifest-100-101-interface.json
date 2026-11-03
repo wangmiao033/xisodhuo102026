@@ -1,0 +1,25 @@
+{
+  "scope": "100-101-interface完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 100,
+      "title": "第100章 侧门九点",
+      "sha256": "ee2aa97f3b82c43e0f218b9b65e658065f1c2f9ae350577728af78def77ffc2f",
+      "source_sha256": "2c75486cb9dd02fd220d5f7d67ab7aa2bede501af5de62a1e4ac8a7b51552831",
+      "original_han": 3675,
+      "revised_han": 2705,
+      "status": "PASS_INDEPENDENT_FULL_REREVIEW_AFTER_INTERFACE_REPAIR"
+    },
+    {
+      "chapter": 101,
+      "title": "第101章 无主联",
+      "sha256": "20c4aa3db75b3c1c7b2f8052eb59dfaaed565001ff558b01def17705751eba33",
+      "source_sha256": "a34676e96a9bab1987505dc6d949a52260836d399ad7459acb1ad37e63d6f3c0",
+      "original_han": 3621,
+      "revised_han": 2027,
+      "status": "PRIOR_FULL_REVIEW_PLUS_INDEPENDENT_SINGLE_PHRASE_INTERFACE_CHECK"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}

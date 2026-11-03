@@ -1,0 +1,25 @@
+{
+  "scope": "098-099完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 98,
+      "title": "第98章 取货钟",
+      "sha256": "446969eb2df5d2af384948c7c6ab8a3b2a9896088056a380d3844688d48b9724",
+      "source_sha256": "ed8c8008f65486ba38f8e26178518ceac10cfa5f622891202bcff934ab877e70",
+      "original_han": 3722,
+      "revised_han": 3688,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 99,
+      "title": "第99章 单响",
+      "sha256": "6c151568cf6e6334020e979a33be5dfd0c7a8903f0f0d4995a21aeebeb9c9143",
+      "source_sha256": "405c05fa861129834fd4ef991b86d74a03f0c59f2aa932e72f967e5b05cfae6d",
+      "original_han": 3697,
+      "revised_han": 3877,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
