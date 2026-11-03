@@ -76,3 +76,7 @@ Chapters 096–105 were publicly released in Main/Now and verified against the c
 ## Reviewed writing batch — 2026-11-03
 
 Complete English Chapters 106–115 passed independent full-text review and corrections. Active manuscripts now 001–115. See `reviews/2026-11-03.json`, `reviews/2026-11-03.md`, and `progress/2026-11-03.md`. Publication is recorded separately; this writing entry does not claim public release. Chapters 116–250 remain planning, not completed stock.
+
+## Verified publication — 2026-11-03
+
+Chapters 106–115 were publicly released in Main/Now and verified against the complete fixed-source English bodies at `0b9ffc3c36ea4f1ceb075583b6d9924a65722070`. Actual release interval: Beijing 09:04:52–09:08:09. Today: 10/10 new public chapters. Current platform: 115 Public chapters, no drafts or schedules. Every new reader page passed complete body/title/number verification. See `publication/2026-11-03.json`. Reviewed complete unpublished inventory: 0. Chapters 116–250 remain planning only.
