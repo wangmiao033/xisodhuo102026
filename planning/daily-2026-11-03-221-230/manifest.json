@@ -1,0 +1,234 @@
+{
+  "book": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "writing_day_bjt": "2026-11-03",
+  "new_bilingual_chapters": 10,
+  "range": [
+    221,
+    230
+  ],
+  "continuous_manuscript_through": 230,
+  "publication_authorized_by_this_batch": false,
+  "author_direction": "Pure sibling relationship: trauma dependence, protectiveness and guilt, not romance; user confirmed continuation 2026-11-03T00:42:09Z.",
+  "files": [
+    {
+      "chapter": 221,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/221-门外还有一个人.md",
+      "heading": "第221章 门外还有一个人",
+      "body_count": 3018,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10633,
+      "sha256": "4340e01d21e18e3f105a3f00f3759dfea6c17782a5b7e07f4742bdd0ddc167a1",
+      "git_blob_sha": "ff1055c78efff0acffbb300b36ffc2793d562e1a"
+    },
+    {
+      "chapter": 222,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/222-她还没有说完.md",
+      "heading": "第222章 她还没有说完",
+      "body_count": 3030,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10601,
+      "sha256": "3be9744af5193214319367877ff245ca981d8b9d0f50ce9786f9e50e07a77847",
+      "git_blob_sha": "7f20790e48b2927e8e93575b6e3a3139487146f2"
+    },
+    {
+      "chapter": 223,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/223-留给她的上午.md",
+      "heading": "第223章 留给她的上午",
+      "body_count": 3006,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10467,
+      "sha256": "e8c8745c96b046ff631364a20a4babd597ed69c740d0e5508a2549c2b6abd4be",
+      "git_blob_sha": "5e80d8d6903cc3a0a3f2bf6d005b6ba7f3080ea7"
+    },
+    {
+      "chapter": 224,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/224-来电没有替她答应.md",
+      "heading": "第224章 来电没有替她答应",
+      "body_count": 3057,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10626,
+      "sha256": "875b8676d1d4c0eb0a4699396dc57c9e82b18e1619a863c3aae33f1ec945a128",
+      "git_blob_sha": "94b066cbc5eb4e004b01c6fe9bd21b8ea80a65e3"
+    },
+    {
+      "chapter": 225,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/225-钱后面的那句话.md",
+      "heading": "第225章 钱后面的那句话",
+      "body_count": 3016,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10539,
+      "sha256": "b55be71b7a32919a97751570e930503e21394e2fc4805b511431a99a310ed9a7",
+      "git_blob_sha": "4e38adc4796651afb3409290abd7e9e10d9e80b8"
+    },
+    {
+      "chapter": 226,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/226-她自己说了不.md",
+      "heading": "第226章 她自己说了不",
+      "body_count": 3141,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10854,
+      "sha256": "1185d34260b66a457d24c6c718683397ef0b7b5b03c33246440e3fff1aa57560",
+      "git_blob_sha": "d7687678088fddd18c842071f2ba3da621234b67"
+    },
+    {
+      "chapter": 227,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/227-共同两个字.md",
+      "heading": "第227章 共同两个字",
+      "body_count": 3015,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10342,
+      "sha256": "c663ba98cc6d01793852fc0fe108aa1183188b31d6fc09a66445c008b0147933",
+      "git_blob_sha": "3dbe70090c0030f37f9a5949d64d4c9ca4055e59"
+    },
+    {
+      "chapter": 228,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/228-那句没有说完的话.md",
+      "heading": "第228章 那句没有说完的话",
+      "body_count": 3005,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10374,
+      "sha256": "b21653c2b1b578d959b8cec507e4366e9900652157019b04bde6cd57746bd7e1",
+      "git_blob_sha": "f615fcccbaf5c385e6737a2a34f1fb3d8d41d619"
+    },
+    {
+      "chapter": 229,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/229-别替我把门关上.md",
+      "heading": "第229章 别替我把门关上",
+      "body_count": 3002,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10347,
+      "sha256": "18518253959b3ea73917df36570f1db313cc0ab7fd81fe8a24ea922c2c99d0c3",
+      "git_blob_sha": "386be9043c04449da985250134ac455451a23cdc"
+    },
+    {
+      "chapter": 230,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/230-回来再讲给你听.md",
+      "heading": "第230章 回来再讲给你听",
+      "body_count": 3060,
+      "count_method": "Han characters U+4E00–U+9FFF",
+      "bytes": 10483,
+      "sha256": "45b8755466fe5f21c055123abe7bacb73350f0fce7ea73f81fa18422750a9d14",
+      "git_blob_sha": "1fec31d6e4f71bd89b66544800e00ddfd6451a2e"
+    },
+    {
+      "chapter": 221,
+      "language": "en",
+      "path": "chapters/en/volume-08/221-someone-outside-the-door.md",
+      "heading": "Chapter 221: Someone Outside the Door",
+      "body_count": 1826,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10763,
+      "sha256": "fc7f1d3047b07ed4765196ec1c3dfc311d60592d183d7947bfce965631125abf",
+      "git_blob_sha": "dbc53456f0286d679b6a9f34c6d31fecc78fe7cb"
+    },
+    {
+      "chapter": 222,
+      "language": "en",
+      "path": "chapters/en/volume-08/222-she-hadnt-finished.md",
+      "heading": "Chapter 222: She Hadn't Finished",
+      "body_count": 1819,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10698,
+      "sha256": "caa69ef7ad3b5d9ef883843787db6b87e7f5e283d0b02db0858c29fdc7c5b7df",
+      "git_blob_sha": "665954a3c8359ef347ea821dbe94327f093e61ff"
+    },
+    {
+      "chapter": 223,
+      "language": "en",
+      "path": "chapters/en/volume-08/223-a-morning-for-herself.md",
+      "heading": "Chapter 223: A Morning for Herself",
+      "body_count": 1844,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10946,
+      "sha256": "a83045052c5062c746e42ba598cac6e6ec733aed0c0eb8d85ddbb1923abcc728",
+      "git_blob_sha": "c8d6abb9378d36c92cda288f20150dacd3ecd164"
+    },
+    {
+      "chapter": 224,
+      "language": "en",
+      "path": "chapters/en/volume-08/224-the-call-couldnt-answer-for-her.md",
+      "heading": "Chapter 224: The Call Couldn't Answer for Her",
+      "body_count": 1832,
+      "count_method": "whitespace-delimited words",
+      "bytes": 11156,
+      "sha256": "1978369f0bddf60bb5587d839c08ada47b3db7aa519191e49cd26754f5a8555a",
+      "git_blob_sha": "09da39efbd72c251ad2d770018bac9bb1f110c39"
+    },
+    {
+      "chapter": 225,
+      "language": "en",
+      "path": "chapters/en/volume-08/225-the-condition-behind-the-money.md",
+      "heading": "Chapter 225: The Condition Behind the Money",
+      "body_count": 1826,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10840,
+      "sha256": "3029ac7c104e4f9487e96b63ad3fdd3ed57a77d479fe5f701703919519c35cfc",
+      "git_blob_sha": "ddf829ae98dea9092ee95a9136c3dd3bc248e2df"
+    },
+    {
+      "chapter": 226,
+      "language": "en",
+      "path": "chapters/en/volume-08/226-she-said-no-herself.md",
+      "heading": "Chapter 226: She Said No Herself",
+      "body_count": 1808,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10705,
+      "sha256": "bc8478108a580f3e1db9e670850d44e3185bf2f249df690c012252e13e6317f5",
+      "git_blob_sha": "e76980808525e8f8120c23e3a0f66a45026e25ff"
+    },
+    {
+      "chapter": 227,
+      "language": "en",
+      "path": "chapters/en/volume-08/227-the-word-together.md",
+      "heading": "Chapter 227: The Word Together",
+      "body_count": 1807,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10629,
+      "sha256": "32d8227c34fd7c007c1a4e13a4a94ef5c9d584fcbbca8bf20d8b530b08c2b6e6",
+      "git_blob_sha": "34412e14809224a991d8c108cf55d67a2870b41c"
+    },
+    {
+      "chapter": 228,
+      "language": "en",
+      "path": "chapters/en/volume-08/228-the-words-left-unsaid.md",
+      "heading": "Chapter 228: The Words Left Unsaid",
+      "body_count": 1806,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10687,
+      "sha256": "ba144210f92a21c26a809a5a33a9123ecb5ca55d38b1d2f1048794439dbfb12d",
+      "git_blob_sha": "8c5de8498a8c3a685ef735cc74665e1eb0c85e06"
+    },
+    {
+      "chapter": 229,
+      "language": "en",
+      "path": "chapters/en/volume-08/229-dont-close-the-door-for-me.md",
+      "heading": "Chapter 229: Don't Close the Door for Me",
+      "body_count": 1810,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10744,
+      "sha256": "a22c6e5074ae8e9eb531d651eaebb6ebfa71f1c2fd500c961d8d86fecf7b12e4",
+      "git_blob_sha": "a2de3f8170dc6aa6ee4ed3fe3688640ac4cb466d"
+    },
+    {
+      "chapter": 230,
+      "language": "en",
+      "path": "chapters/en/volume-08/230-ill-tell-you-when-youre-back.md",
+      "heading": "Chapter 230: I'll Tell You When You're Back",
+      "body_count": 1818,
+      "count_method": "whitespace-delimited words",
+      "bytes": 10983,
+      "sha256": "a3b463da121f29fe8142817ba6be741224849ee5cc7ee0dc4d67e1256654a079",
+      "git_blob_sha": "fafa5593390ad94f37385c7b1cc3888cfffeefd0"
+    }
+  ]
+}
