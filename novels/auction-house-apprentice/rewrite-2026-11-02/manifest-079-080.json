@@ -1,0 +1,25 @@
+{
+  "scope": "079-080完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 79,
+      "title": "第79章 怒震压制十日再取",
+      "sha256": "ed535d252d451ab848c763c1bb01230be7b613c210655f13792740ec0d5c09c8",
+      "source_sha256": "7da7af0f8839f390bed543b23db3ad576d5af2900aa1867bd9bc062f8c92f0fc",
+      "original_han": 4098,
+      "revised_han": 4263,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 80,
+      "title": "第80章 十日倒计时炉基敲",
+      "sha256": "432fde36a43aca718faf168728dc7e7192382cd915f41acb87bdebe4f5613109",
+      "source_sha256": "66e8d9e1cd3836beea05677f9051baefd97b1bffea6435285734d624df958616",
+      "original_han": 3582,
+      "revised_han": 3847,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
