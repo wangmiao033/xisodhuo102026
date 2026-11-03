@@ -1,0 +1,43 @@
+{
+  "scope": "114–117完整精修与独立终审，保章号且大幅压缩重复。",
+  "chapters": [
+    {
+      "chapter": 114,
+      "title": "# 第114章 听链",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3611,
+      "revision_han": 1466,
+      "source_sha256": "499193abf6f54f8e46b460f43dfd6825ad30f47971936cab692674e5973c1605",
+      "sha256": "595de0862d1106a83b972993e375e89e153ae038604e5d5b6f0316469728c307"
+    },
+    {
+      "chapter": 115,
+      "title": "# 第115章 十一点前",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3647,
+      "revision_han": 1642,
+      "source_sha256": "27647ca46530c2e2f07d085526189232da17d6cef87c35cdf9a21975c8e5f065",
+      "sha256": "cc16c55129ab331f42e9c846894e30f8c8b419b9d572f8601f313b594c20e5cd"
+    },
+    {
+      "chapter": 116,
+      "title": "# 第116章 通知落地",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3635,
+      "revision_han": 1457,
+      "source_sha256": "e8a308fe6d2c9750bbbb9b076d714e4e3ecebafbe1012217832d9e11cf951d59",
+      "sha256": "6933c7d559cc8b34bfe23fd5eaf82c6105ce4af86785bb2a9292225e54a910ed"
+    },
+    {
+      "chapter": 117,
+      "title": "# 第117章 程序未开",
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER",
+      "source_han": 3934,
+      "revision_han": 1521,
+      "source_sha256": "bdf26726b252199dad0711266138d0c372c018c3f4ac851d72e83ecf0ac69e6e",
+      "sha256": "05a38a3c0ce4a2ef32f24a4a4d6eabecdc0ad84b56b11f782f82c4183446eb83"
+    }
+  ],
+  "counts": "基本汉字数，非平台字数",
+  "online_replaced": false
+}
