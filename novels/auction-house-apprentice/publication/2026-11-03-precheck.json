@@ -1,0 +1,27 @@
+{
+  "observed_at_utc": "2026-11-03T04:20:19Z/2026-11-03T04:24:25Z",
+  "beijing_date": "2026-11-03",
+  "book_id": "7681620262432820248",
+  "author": "沉灯照骨",
+  "published_list_pages": 8,
+  "published_entries": 119,
+  "highest_chapter_number": 120,
+  "historical_missing_number": [
+    42
+  ],
+  "latest_publication_display": "2026-11-02 13:10",
+  "source_timezone_displayed": false,
+  "today_new_publications_observed": 0,
+  "reviewing_entries": 0,
+  "pending_publication_entries": 0,
+  "rejected_entries": 0,
+  "drafts": 13,
+  "drafts_date_range": "2026-09-04/2026-09-30",
+  "drafts_changed": false,
+  "new_editor_created": false,
+  "candidate_chapter": 121,
+  "git_main_checked": "cc9b66908f0f0ba1a6e6aefdf9dd5e31ffd559f4",
+  "git_ch121_present": false,
+  "no_other_author_assigned_confirmed_by_parent": true,
+  "note": "1–13原章修订非新增，保留原发布日期。13份9月草稿仅核标题/日期/字数未擅读改删，不把未命名草稿假定为空或121。"
+}
