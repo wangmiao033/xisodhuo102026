@@ -1,0 +1,34 @@
+{
+  "scope": "66–68完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 66,
+      "title": "# 第66章 抽器回炉",
+      "sha256": "d7c78032595453728763fce2d06ac9046d3fc9b5ee623e8a95b2183b35352189",
+      "source_sha256": "d2ae588336d3f8f5830e21fd21665729023f75c3cac475aed81b8416fcfe2fa8",
+      "original_han": 3992,
+      "revised_han": 4090,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 67,
+      "title": "# 第67章 兵分两路",
+      "sha256": "ad4147111d22b8fbc12d509978d6585ee90e050e8ef53811bdde58d41a7a2c36",
+      "source_sha256": "0d2839c108d112ab5888f0d4e9945c0ca13905bc8bce76ce265804be43121240",
+      "original_han": 3867,
+      "revised_han": 3925,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 68,
+      "title": "# 第68章 替身当场露馅",
+      "sha256": "4963c0c3a0d2ecd090e09f9dc18553e18cebb4a94b7188e91caa395037044d06",
+      "source_sha256": "fdcda4ed82f0d1f334d87d1d849b23f332c0ef55dad10d731afb3cb6bb7399ca",
+      "original_han": 3893,
+      "revised_han": 3963,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
