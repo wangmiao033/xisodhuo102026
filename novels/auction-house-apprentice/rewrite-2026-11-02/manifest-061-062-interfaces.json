@@ -1,0 +1,61 @@
+{
+  "scope": "61–62完整精修；57、63、66、68仅连续性接口修订，非全章提质完成。",
+  "chapters": [
+    {
+      "chapter": 61,
+      "title": "# 第61章 夜场临时总拍",
+      "sha256": "57767316b55fbf2d0ceed5fa4333e632190c464818166febcd586f760b13abaf",
+      "source_sha256": "7ac1efa98e9197ea941bc264ee022bb1c4d892ecaf3925d1c01471140f2adfd6",
+      "original_han": 4021,
+      "revised_han": 3032,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 62,
+      "title": "# 第62章 真镜不离身",
+      "sha256": "41408e005b8e3ae22dd16d6fbfc35a1fa909b8d75ccf2868ed077f19431a2738",
+      "source_sha256": "467b32db917b5c19a1b487a429f9a185b0e6a577cd93586fa72f9b9ec7cad70a",
+      "original_han": 3782,
+      "revised_han": 3517,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 63,
+      "title": "# 第63章 假拍真夺",
+      "sha256": "e24200ee758dc94a871649a6c1e031cbde32281446f7aac49f87e1c2924a322f",
+      "source_sha256": "fe68ed2e79c44744048d149c4b6dfa929704da81152cf1fc4a6c2351bbf03dfd",
+      "original_han": 3844,
+      "revised_han": 4631,
+      "status": "PASS_INTERFACE_ONLY_FULL_TEXT_READ"
+    },
+    {
+      "chapter": 57,
+      "title": "# 第57章 旧箩确认炉基",
+      "sha256": "f3c20238a93988c563342e7c6b9adccae83c27ad5df55601f64f310773696e11",
+      "source_sha256": "ba5a71485b60ef942a8e37963a0b96c5f36111ea770c0789b911d2b21e661b81",
+      "original_han": 4109,
+      "revised_han": 4113,
+      "status": "PASS_INTERFACE_ONLY_FULL_TEXT_READ"
+    },
+    {
+      "chapter": 68,
+      "title": "# 第68章 替身当场露馅",
+      "sha256": "582116730c6ac1ac78bc3dd5a77492f1e884c617dd7ab8ee0155511a0b86e868",
+      "source_sha256": "fdcda4ed82f0d1f334d87d1d849b23f332c0ef55dad10d731afb3cb6bb7399ca",
+      "original_han": 3893,
+      "revised_han": 3894,
+      "status": "PASS_INTERFACE_ONLY_FULL_TEXT_READ"
+    },
+    {
+      "chapter": 66,
+      "title": "# 第66章 抽器回炉",
+      "sha256": "6ff5bf84fcc978560d12aeb66383940f2c2dba58db11e7d7a61e6911feca9a7a",
+      "source_sha256": "d2ae588336d3f8f5830e21fd21665729023f75c3cac475aed81b8416fcfe2fa8",
+      "original_han": 3992,
+      "revised_han": 4016,
+      "status": "PASS_INTERFACE_ONLY_FULL_TEXT_READ"
+    }
+  ],
+  "count_definition": "汉字数采用基本汉字计数，不等于平台字数。",
+  "online_replaced": false
+}
