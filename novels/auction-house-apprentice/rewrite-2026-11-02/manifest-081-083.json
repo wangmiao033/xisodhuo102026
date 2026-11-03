@@ -1,0 +1,34 @@
+{
+  "scope": "081-083完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 81,
+      "title": "第81章 资本观摩席开了",
+      "sha256": "00705a0f4f2594f54e2e1b27b949738c2fbd3a7ca6c9c14aa9346ad4576529ea",
+      "source_sha256": "621b138b3c21bc8ea38302aea2761744cba19f1b8add5b0e80a391c6cc449882",
+      "original_han": 3363,
+      "revised_han": 3561,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 82,
+      "title": "第82章 原袋上桌铸勘看",
+      "sha256": "8a79ccce30c9f97bd805af7665a5b4c55b7483229ff04ba2c7a02bb1bd69c552",
+      "source_sha256": "f32dcd975848b28bfd90e9633d745fee0899cf67d0e444b9032d274c7b7f2add",
+      "original_han": 3615,
+      "revised_han": 3799,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 83,
+      "title": "第83章 简报旁听故物压",
+      "sha256": "98306504720c275b185cbb7975e4abc8d5cb58eae2aaef9da2a2ef84b5c5c67d",
+      "source_sha256": "9f3ee28525f3ae35e2468567f7d069a5d8f97c3e18c6848b6e523d5f75f86887",
+      "original_han": 3615,
+      "revised_han": 3805,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
