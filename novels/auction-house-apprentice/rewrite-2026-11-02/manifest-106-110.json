@@ -1,0 +1,52 @@
+{
+  "scope": "106–110独立全文审校通过；105时间措辞待后续修订。",
+  "chapters": [
+    {
+      "chapter": 106,
+      "title": "# 第106章 黄条双核",
+      "sha256": "dad92a996bea5ecd02368ecfb50b51054849611c819b9c982dda8e8d51d35ced",
+      "source_sha256": "30a234c0070b9cd7d6fa2c9537cc2fbbb4db65389a8e7d34e1c72f90e07b2a5c",
+      "original_han": 3618,
+      "revised_han": 3612,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 107,
+      "title": "# 第107章 窗缝空",
+      "sha256": "aebbda161ef31eeceb9e5c8c36b4def1246f1b6fb585beab922231c6d970801a",
+      "source_sha256": "ecba5b8b3d632f7e0014ff8777cb0759811b503f12e5d54407902b1cd79837dd",
+      "original_han": 3611,
+      "revised_han": 3560,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 108,
+      "title": "# 第108章 三连单响",
+      "sha256": "ceed156c47dbe0087fde66439b6ada89972b222597bcb689b8eb48b320965750",
+      "source_sha256": "a83644c9e12640995d5aecd4c082456bacc6ad10e2a219602ddde3b749a72275",
+      "original_han": 3616,
+      "revised_han": 1741,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 109,
+      "title": "# 第109章 同签攻防",
+      "sha256": "e1f6a706df5b303cf834cec62db9ef1bc79b7854d55d9e1347982eb9363d73f1",
+      "source_sha256": "fd0e9bb01bffbca231e5293e25951f6beb03cf48bb61a16aa1660b7de542fcaa",
+      "original_han": 3644,
+      "revised_han": 2192,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 110,
+      "title": "# 第110章 目录收口",
+      "sha256": "f94710793bf4b4e1d6489cdf660d304cd52c1f47868bddf18bcfd126b2dd7b84",
+      "source_sha256": "be99deb9e8980f8d44618ac4d3823b65a637c39fe6a190730663bacd480e220c",
+      "original_han": 3617,
+      "revised_han": 2139,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "online_replaced": false,
+  "counts": "基本汉字计数，不等于平台字数。"
+}
