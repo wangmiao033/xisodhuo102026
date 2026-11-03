@@ -1,0 +1,34 @@
+{
+  "scope": "090-092完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 90,
+      "title": "第90章 纽入匣掀床空",
+      "sha256": "46caaf74e1cc2caeb52aac152bec22d0dc4c012f2d43488c50d941f8b9ecda68",
+      "source_sha256": "afe303d8ced1eafb323efe79630e644cd9ae07f43f4714de30e581b752157263",
+      "original_han": 4112,
+      "revised_han": 4298,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 91,
+      "title": "第91章 试跑挂壳",
+      "sha256": "fd8d46d0e6af3789599f043482a1b1c8c26e1f3242825e04355ddea7096a070c",
+      "source_sha256": "5538ff2ec3aaaf97abe59a97f65240a390f4583e043bbb15f7eb66a154457531",
+      "original_han": 3674,
+      "revised_han": 3762,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 92,
+      "title": "第92章 独占脱落",
+      "sha256": "13fa237dad3025c584b4589f7f79027b858f0fa51ea955355df8038fa63fe524",
+      "source_sha256": "82e64f48d5d55cd28953b51b8868e231bcdb99cc9e5bca28c200c59e7590783e",
+      "original_han": 3887,
+      "revised_han": 4207,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
