@@ -1,0 +1,43 @@
+{
+  "scope": "043-046完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 43,
+      "title": "第43章 捧杀",
+      "sha256": "cc98bb9c72badf73702a798ffb9f31c0fe7bbb7c77c4961936cc12be3e40ea80",
+      "source_sha256": "26760aed1f90b70162d5cba233092579a101c989d72c767ecc3273d4e1caf27f",
+      "original_han": 3724,
+      "revised_han": 2396,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 44,
+      "title": "第44章 拒访",
+      "sha256": "3271a61e35ce444d0176244d4aa3be81ee60f517436deedf8e1063357e4397d0",
+      "source_sha256": "e33bcde1de3e740244742a8bf53b883d901127b59a7be4be2edea11512ff403f",
+      "original_han": 4627,
+      "revised_han": 2329,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 45,
+      "title": "第45章 夜谈",
+      "sha256": "47c151574ee3f36d1a5d8cf0b8588c051ed02dbeaa3507fc1bdf6d4c9121c65b",
+      "source_sha256": "f75ffd990359bd2407213c0355f150c6134420c2f13377c9b00e9fc249cbe259",
+      "original_han": 4629,
+      "revised_han": 2309,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 46,
+      "title": "第46章 再战",
+      "sha256": "c5be7b72b9197919a9224c53fbf5dff51108620b0fd3fe70c1c27013aa63490a",
+      "source_sha256": "90546027e7eb1dcc99c29c9ee5925dc95c63855d44776376ea5bf4bb0f2155a9",
+      "original_han": 4505,
+      "revised_han": 2544,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
