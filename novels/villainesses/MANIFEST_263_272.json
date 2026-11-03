@@ -1,0 +1,243 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-11-03",
+  "source_main_at_preflight": "757769535007922b42e9c53b47b59da31b2e4174",
+  "new_bilingual_chapters": [
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272
+  ],
+  "actual_new_chapter_count": 10,
+  "continuous_bilingual_manuscript_through": 272,
+  "count_method": "Heading excluded; Chinese U+4E00–U+9FFF Han characters; English Unicode word tokens including internal apostrophes and hyphens.",
+  "platform_publication": "Not performed. Manuscript storage is not platform release approval. Existing Novelpia 6692 publication remit unchanged.",
+  "files": [
+    {
+      "chapter": 263,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-263.md",
+      "heading": "# 第二百六十三章：空位不是留给英雄的",
+      "body_count": 3072,
+      "count_unit": "Han characters",
+      "sha256": "3abb14bda495b7469d143fa365ee95eeefb3aef0c5cd91e165f65b8740caa55c",
+      "git_blob_sha": "63781b62f39c8f96fbf2c53cc4f509bc376f23e2",
+      "utf8_bytes": 10838
+    },
+    {
+      "chapter": 263,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-263.md",
+      "heading": "# Chapter 263: The Empty Place Is Not for a Hero",
+      "body_count": 1855,
+      "count_unit": "English words",
+      "sha256": "41be30db774039915586094827bb9bf82023f830fea65616efc983ec3b106fe2",
+      "git_blob_sha": "de2b02e84e41ecb7afc06925562078c8691b5c9f",
+      "utf8_bytes": 11956
+    },
+    {
+      "chapter": 264,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-264.md",
+      "heading": "# 第二百六十四章：这一次，等到了归零",
+      "body_count": 3048,
+      "count_unit": "Han characters",
+      "sha256": "69776790e7f5fa7590f054d154c6d5c7bd3cb5437eef50714e00f8241add1d9d",
+      "git_blob_sha": "55b6dfc7b49198885bf40e917c09c091dba15e93",
+      "utf8_bytes": 10449
+    },
+    {
+      "chapter": 264,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-264.md",
+      "heading": "# Chapter 264: This Time, They Waited for Zero",
+      "body_count": 1859,
+      "count_unit": "English words",
+      "sha256": "0dac275c81b9dc571727e93589247b1a0b4a5732ee4e842711642492587db06e",
+      "git_blob_sha": "e7d2fc798b6ec82440b6aee95df640c0fac73bc8",
+      "utf8_bytes": 12014
+    },
+    {
+      "chapter": 265,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-265.md",
+      "heading": "# 第二百六十五章：被收走的窗",
+      "body_count": 3098,
+      "count_unit": "Han characters",
+      "sha256": "28ea0278ec5269152b797907bf64a3a77e400ca7fb22c3faea2ac2175e2ae860",
+      "git_blob_sha": "ffbeda90a64ddeb3bb64e3a4c8d5fd91e929758e",
+      "utf8_bytes": 10697
+    },
+    {
+      "chapter": 265,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-265.md",
+      "heading": "# Chapter 265: The Window They Took Away",
+      "body_count": 1867,
+      "count_unit": "English words",
+      "sha256": "c9fcd250d69c10101e3f2966181adf5561f29eb4c220c8a2d8d57d7a60bb0b12",
+      "git_blob_sha": "6db6161ae1f6aa6efe5b4546905c613cb653116d",
+      "utf8_bytes": 11970
+    },
+    {
+      "chapter": 266,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-266.md",
+      "heading": "# 第二百六十六章：她交出的不是钥匙",
+      "body_count": 3047,
+      "count_unit": "Han characters",
+      "sha256": "a9be71e6675d9128959d02f7519f17f8cc93d71387f41ea68e854af09f7e04f6",
+      "git_blob_sha": "3f00d60a2391d80b613581196175b658c6b7a15e",
+      "utf8_bytes": 10445
+    },
+    {
+      "chapter": 266,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-266.md",
+      "heading": "# Chapter 266: What She Gave Them Wasn't a Key",
+      "body_count": 1848,
+      "count_unit": "English words",
+      "sha256": "5a0d0b4476db4b51b6e2edb31568de59b8cabcbb3d818551c0e53b6ea27656e4",
+      "git_blob_sha": "2034fbebfd2dcc7d71edced015094b1cf123fcbf",
+      "utf8_bytes": 12176
+    },
+    {
+      "chapter": 267,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-267.md",
+      "heading": "# 第二百六十七章：把窗重新打开",
+      "body_count": 3075,
+      "count_unit": "Han characters",
+      "sha256": "65c4ef85068de9cf6a55000208ef0614e44dcfd4acd787ca16f9962a2a5e4534",
+      "git_blob_sha": "652d82c5ebd1b2c8107dcf8bf55cdd8472b4ce64",
+      "utf8_bytes": 10460
+    },
+    {
+      "chapter": 267,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-267.md",
+      "heading": "# Chapter 267: Opening the Window Again",
+      "body_count": 1872,
+      "count_unit": "English words",
+      "sha256": "b2295bdb54f024fb32be24dfa6566343ea70702bf294912fec49ee3ba742d9e5",
+      "git_blob_sha": "6af63a5e296bc80b4a189cca65fa63373ad8307c",
+      "utf8_bytes": 12415
+    },
+    {
+      "chapter": 268,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-268.md",
+      "heading": "# 第二百六十八章：峰值之前的拥抱",
+      "body_count": 3147,
+      "count_unit": "Han characters",
+      "sha256": "c37f6b87c888c452ad4accb2ad315028bc74bd143953954b25915ec875e29245",
+      "git_blob_sha": "b4e7f39af6ebf8a1241238f9f4ad691430b948b9",
+      "utf8_bytes": 10889
+    },
+    {
+      "chapter": 268,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-268.md",
+      "heading": "# Chapter 268: An Embrace Before the Peak",
+      "body_count": 1903,
+      "count_unit": "English words",
+      "sha256": "70e8c3667141bb1bea6080398b1ab90aa070096afefe5cc6ac5019e0d4bd54b5",
+      "git_blob_sha": "966092640008b5495f32c7cfaea32b1dd47f47d8",
+      "utf8_bytes": 12350
+    },
+    {
+      "chapter": 269,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-269.md",
+      "heading": "# 第二百六十九章：谁也不是第一块填料",
+      "body_count": 3100,
+      "count_unit": "Han characters",
+      "sha256": "eac7e9953a6dc78958514131fac7ad2f65d72a8cd367a4be37ced8bc6323c828",
+      "git_blob_sha": "a67ee9235a31ca3282fb6fc1032cec144a90c1a5",
+      "utf8_bytes": 10638
+    },
+    {
+      "chapter": 269,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-269.md",
+      "heading": "# Chapter 269: Nobody Is the First Piece of Packing",
+      "body_count": 1893,
+      "count_unit": "English words",
+      "sha256": "da6aa26df86291642cca56419c7ac3c492bc663e947dddbdf4ef470587a78670",
+      "git_blob_sha": "7ea4da767bd1361dc127abea07ba5b6e6ecb1cb5",
+      "utf8_bytes": 12118
+    },
+    {
+      "chapter": 270,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-270.md",
+      "heading": "# 第二百七十章：世界没有倒回去",
+      "body_count": 3151,
+      "count_unit": "Han characters",
+      "sha256": "3fe5df1ba6685c91de767e7eee5913c51281e9392cd3bbb168d78d0613cb6da8",
+      "git_blob_sha": "4c31b67cf9f6909c2e3c8b0b2cfd3c6dfedfd927",
+      "utf8_bytes": 10823
+    },
+    {
+      "chapter": 270,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-270.md",
+      "heading": "# Chapter 270: The World Did Not Turn Back",
+      "body_count": 1934,
+      "count_unit": "English words",
+      "sha256": "2f9f3ebe2e0133a594823948477290a720c9fc3a2c5bebc6344be67571858d2c",
+      "git_blob_sha": "f55053d0fe7a56a967d171af37d375721da2eae8",
+      "utf8_bytes": 12439
+    },
+    {
+      "chapter": 271,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-271.md",
+      "heading": "# 第二百七十一章：今早仍然是今早",
+      "body_count": 3154,
+      "count_unit": "Han characters",
+      "sha256": "e252e3fe937d628d988105c0452fc5ba22a33758c914ef252c871eb0dccab4f4",
+      "git_blob_sha": "85055b0e1945f495f9f396ab2567d92cc8eb203f",
+      "utf8_bytes": 10956
+    },
+    {
+      "chapter": 271,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-271.md",
+      "heading": "# Chapter 271: This Morning Was Still This Morning",
+      "body_count": 1911,
+      "count_unit": "English words",
+      "sha256": "9c9eaa2788bd1b93716f53b0b97234f3ef7d388bcfc3dfcb75da14b1f4cf82ce",
+      "git_blob_sha": "7f7588a373dde0ea7010e6c61bee9d411c4d0883",
+      "utf8_bytes": 12190
+    },
+    {
+      "chapter": 272,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-272.md",
+      "heading": "# 第二百七十二章：把我也放到证人席上",
+      "body_count": 3147,
+      "count_unit": "Han characters",
+      "sha256": "0926197d3378561725cf32905714271db289d331dcbb9eb8da67db64c21c12dd",
+      "git_blob_sha": "f2e1fb39a57ba94af96a131c8d42908e42be8319",
+      "utf8_bytes": 10822
+    },
+    {
+      "chapter": 272,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-272.md",
+      "heading": "# Chapter 272: Put Me in the Witness Chair Too",
+      "body_count": 1843,
+      "count_unit": "English words",
+      "sha256": "b26b48440f750458f1cda2344c959cb392f4592daae7082a7704eb64e0a83281",
+      "git_blob_sha": "ab774269bf66d076d3c98c7c117bc618a2d4cfa5",
+      "utf8_bytes": 11965
+    }
+  ]
+}
