@@ -1,0 +1,34 @@
+{
+  "scope": "031-033完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 31,
+      "title": "第31章 茶桌底下",
+      "sha256": "8975d57ecd082d2147e6a70224b0e94807b7f9f1ba258709c5ec36ba8e35d562",
+      "source_sha256": "24c227067710a2505861cceb4f656c4f5194ff9854859e1ed848875688bffae6",
+      "original_han": 3319,
+      "revised_han": 2491,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 32,
+      "title": "第32章 三规",
+      "sha256": "bc48e59f217d3d2fb0aa7a2341712b0bf4bbfd414ba5c4c8d7568667645f1eae",
+      "source_sha256": "682a518ddc08affa9c8e14224b136479353fd70b652b21dc6b6597e7da62946c",
+      "original_han": 3216,
+      "revised_han": 2147,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 33,
+      "title": "第33章 半句",
+      "sha256": "82e1bc0c15dbf0c96cbeed240474d6697d940fa3a8afe41c52b2f3036119cbe9",
+      "source_sha256": "d3f7e9d118f838326edefb61f1f4f9f1841c680a80ebf6075ddfe3e26ae8009b",
+      "original_han": 3416,
+      "revised_han": 2445,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
