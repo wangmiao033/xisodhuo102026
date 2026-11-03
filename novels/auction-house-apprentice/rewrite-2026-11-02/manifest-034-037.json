@@ -1,0 +1,43 @@
+{
+  "scope": "034-037完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 34,
+      "title": "第34章 账缝",
+      "sha256": "386070472d66c26ba9734dc31fd59dac2fbf8b00be5dcd2f7c81de13ec206d13",
+      "source_sha256": "2e021dc5d4538500c8ab74121b57f068d40450f3c97ecb30d353fa4624c42d6c",
+      "original_han": 3785,
+      "revised_han": 2466,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 35,
+      "title": "第35章 问镜",
+      "sha256": "663d75e85827a315499a0b12652ac7eb8318c781abf3c51677371133f6422dff",
+      "source_sha256": "85b3655c891552283616dd301442be738b5da14c884a29f33583399d42c7cbe1",
+      "original_han": 3934,
+      "revised_han": 2350,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 36,
+      "title": "第36章 鹤纹",
+      "sha256": "119d3a4967b96226afc90d779592673b504fd3a3150cf789d44cee482f3c3fc8",
+      "source_sha256": "8e40acef856fef366c793043a65516635e44c768fc792387318815f206afdfe5",
+      "original_han": 3688,
+      "revised_han": 2386,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 37,
+      "title": "第37章 夹击",
+      "sha256": "0c5b353cc1df758777abd53159c98c9a647da5d542aa301d91f3071fa658fb5e",
+      "source_sha256": "d12560b07c7889de0e3227ac456f28ef6667bda926cb00dd554e4d576cd7836f",
+      "original_han": 3665,
+      "revised_han": 2457,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
