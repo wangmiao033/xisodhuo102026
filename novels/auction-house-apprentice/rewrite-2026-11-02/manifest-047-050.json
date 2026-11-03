@@ -1,0 +1,43 @@
+{
+  "scope": "047-050完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 47,
+      "title": "第47章 起哄",
+      "sha256": "355828e9a87372bf0851eec585df58d20b16865bc1b81f72a57432f047e5cd5c",
+      "source_sha256": "2d3e44482c63b9648f9d0bd134bab1949774631bb6481b932eb0a2ce74a7bf14",
+      "original_han": 4398,
+      "revised_han": 2128,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 48,
+      "title": "第48章 半截",
+      "sha256": "a9c910275d185602c7bba3469f5b3f0aa2963aa35a346ae79bf693544ab3e289",
+      "source_sha256": "6f71b29b623e44a4355ef097a006b3cc01542011684bcceca7b154a91fc7fd86",
+      "original_han": 4542,
+      "revised_han": 2236,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 49,
+      "title": "第49章 噪点",
+      "sha256": "6968bc9385d92449ddde3c04303664539fa7f7d97042bcb6c5d9bf73a93c1cfa",
+      "source_sha256": "529f5b1b4b002a968815d957ba29b881229d0ed536ae5376457bed5b0a79f276",
+      "original_han": 4466,
+      "revised_han": 2365,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 50,
+      "title": "第50章 夜审",
+      "sha256": "c11234706bc3c768cd1dadcb6bd39b5488eb93466985f0319e15d0ef1e05b444",
+      "source_sha256": "d7e4ef68eb68a01c20dab9d31cf3a12ad2a4cc170bcb8de40ca906c59a38fa30",
+      "original_han": 4718,
+      "revised_han": 2406,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
