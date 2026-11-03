@@ -1,0 +1,25 @@
+{
+  "scope": "069-070完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 69,
+      "title": "# 第69章 库房乱成一锅粥",
+      "sha256": "7a300ca7ea65d2f022b81ce1b3fc2fd223e6438fd5a12d5d2e4106f9f8ffffcf",
+      "source_sha256": "4b3d76c725de894b0fa9a327736284f7e861c4569bb6a9b032c01010cf8cb876",
+      "original_han": 3804,
+      "revised_han": 3904,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 70,
+      "title": "# 第70章 卷帘门缝抢回镜",
+      "sha256": "f9539f5fb889f06c92c71b0d9ea6843a47120008888f6dee45b07aa6d4188853",
+      "source_sha256": "bb464e41b77f104a720d5b8962a71d8167dbf405b65f90e7fb07e0950b5017f3",
+      "original_han": 3616,
+      "revised_han": 3533,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}

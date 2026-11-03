@@ -1,0 +1,34 @@
+{
+  "scope": "101-103完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 101,
+      "title": "# 第101章 无主联",
+      "sha256": "9c10ec1e4e11e0e5dc2c7d5fcf73aafc8778ba128152b5b0bf2de8688c4819fb",
+      "source_sha256": "a34676e96a9bab1987505dc6d949a52260836d399ad7459acb1ad37e63d6f3c0",
+      "original_han": 3621,
+      "revised_han": 2028,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 102,
+      "title": "# 第102章 井区半拍",
+      "sha256": "8132e501e73dddd5f2d6ecdb6f2033edab7ed79f137586d1c6f79dc4aa7dcb5b",
+      "source_sha256": "10029f841380855ca92a598c672a9876b2aa1aecb856ac98501028474ea512ca",
+      "original_han": 3637,
+      "revised_han": 1926,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 103,
+      "title": "# 第103章 验纸",
+      "sha256": "4880974dd959034b72468ccbfd0223778858042c9bfc8f00d0e8001c82100381",
+      "source_sha256": "e43ec74b1c25710ae7950423a58f3b07cb8f282bcc5404102b2117ce613ee787",
+      "original_han": 3607,
+      "revised_han": 1948,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
