@@ -1,0 +1,43 @@
+{
+  "scope": "038-041完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 38,
+      "title": "第38章 遇袭",
+      "sha256": "480049bcce1ad99f4f25ded820ca33adb68bc3642bab4a7d22b17dd7c0875da7",
+      "source_sha256": "e904c0641076d24f3416c810d3cb9cc8371a2d84d5bf8640412ec47bf9724c80",
+      "original_han": 3760,
+      "revised_han": 1971,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 39,
+      "title": "第39章 借镜",
+      "sha256": "415179bc54987a41311d199567f45ba67ddbc99d2c4100212de50f4b0d98eb95",
+      "source_sha256": "c0c94234c7fee78f23bbb98eb51348305d8501eb46aaa711b847382b22cb7ac5",
+      "original_han": 4209,
+      "revised_han": 2119,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 40,
+      "title": "第40章 虚脱",
+      "sha256": "4e5707a756ab760fefd3b7baeb4ed6534a2577a1b20f658c3366cfb5fdb49e12",
+      "source_sha256": "a3738c99b033a2b34fcb4a3230ce94c62f6ade951db39e5afaf5eeeb037a9aa0",
+      "original_han": 3906,
+      "revised_han": 2414,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 41,
+      "title": "第41章 藏锋",
+      "sha256": "688373f718175787f1903dc14f1013cb7f2123f78c9652be39f4d50e0be38364",
+      "source_sha256": "e21adac5db1685933ec9a9b8fed5b708d5dad538fffdccc38dbcc46bd05e4ce9",
+      "original_han": 3856,
+      "revised_han": 2572,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}

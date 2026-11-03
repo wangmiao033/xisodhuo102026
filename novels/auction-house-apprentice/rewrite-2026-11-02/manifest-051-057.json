@@ -1,0 +1,70 @@
+{
+  "scope": "051-057完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 51,
+      "title": "第51章 替身",
+      "sha256": "f88ac6a5c96e7ab54fa642d538c05bf1853a1440ecd5d1c74da1335d60a0b06e",
+      "source_sha256": "5858325f3d5ad1f3ebc578018dea11e96aa83d83febc20780c6698f95e87c9a9",
+      "original_han": 4527,
+      "revised_han": 2182,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 52,
+      "title": "第52章 真镜连夜改藏",
+      "sha256": "f4ee36b447c3463b5ffb4ee1b4262ff1f63a9911dfee39036185d53fee29d96d",
+      "source_sha256": "7b5cf32b59f9b1cdfb89efb0f3c92cab944feedb864ef64aa0f008d3ee905d32",
+      "original_han": 4438,
+      "revised_han": 2009,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 53,
+      "title": "第53章 赝箱夜退加货",
+      "sha256": "b6da664951fe3b622b32e899347906f21a22ac9ecd09ed42de41a25842cf1026",
+      "source_sha256": "a83f5442b82577598e2d92db47e3da8f901fc227f4afca87a082e628a4928e3b",
+      "original_han": 4511,
+      "revised_han": 2260,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 54,
+      "title": "第54章 顺藤摸进货链",
+      "sha256": "c112779472eac842da583e8139cc5bfa40ccbab8801f9e43d2745b571f37a0a9",
+      "source_sha256": "84fd367eda091a157c283b8f7adccb0e3e0cd5fdbe6cc6f34b3eda1b79578437",
+      "original_han": 4480,
+      "revised_han": 2240,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 55,
+      "title": "第55章 仓管回收轮廓",
+      "sha256": "d0310b4ed98ab48dcf59d7a05794a5c179e9796f05eeb56ddafd9da69b1fe12d",
+      "source_sha256": "061bf73e57713a003a865ca3b8f062444ec34672001254a34a82a13181661add",
+      "original_han": 4489,
+      "revised_han": 2019,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 56,
+      "title": "第56章 镜灵正说器脉",
+      "sha256": "2731f68426fccf921203c2cf250ae625a7f9a05e424553cbd7790fe58c26b2b9",
+      "source_sha256": "9ea4943ed88cf24f5ef0d4bef82c716cc64ea1425c1228367a7be487222bc7a9",
+      "original_han": 4177,
+      "revised_han": 2109,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 57,
+      "title": "第57章 旧箩确认炉基",
+      "sha256": "a521519ed16539cf8b93dc2069f88008d7504a2831933986fc8e52aa5c3dfc1a",
+      "source_sha256": "ba5a71485b60ef942a8e37963a0b96c5f36111ea770c0789b911d2b21e661b81",
+      "original_han": 4109,
+      "revised_han": 2122,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
