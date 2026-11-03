@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-03",
+  "novelpiaId": 6408,
+  "range": [
+    106,
+    115
+  ],
+  "status": "independent-full-text-review-passed",
+  "reviewers": {
+    "106-110": "review_cat_106_110 (not author)",
+    "111-115": "independent reviewer (not author)"
+  },
+  "chapters": [
+    {
+      "chapter": 106,
+      "heading": "Chapter 106 — Reception Is Not Background",
+      "path": "chapters/en/106-reception-is-not-background.md",
+      "words": 1856,
+      "sha256": "ab4789a3394dd2119d117111675f1640935d0a2e1733c24d2448980dd87b2283",
+      "git_blob_sha1": "bd925f296cdd5149c0a8d66be83241009047da8e"
+    },
+    {
+      "chapter": 107,
+      "heading": "Chapter 107 — Everyone in the Queue Has Difficulties",
+      "path": "chapters/en/107-everyone-in-the-queue-has-difficulties.md",
+      "words": 1819,
+      "sha256": "0b360441dd81e01bcfa09b0cc6a494f1f91a23e7f743e722b95e42a3c1fccfd3",
+      "git_blob_sha1": "ef595eeaaeeb8fba7b7ef80b73a3a59ad4b9d5db"
+    },
+    {
+      "chapter": 108,
+      "heading": "Chapter 108 — She Doesn't Want an Inspirational Certificate",
+      "path": "chapters/en/108-she-doesnt-want-an-inspirational-certificate.md",
+      "words": 1836,
+      "sha256": "2fbedf3d67857df6d5f020eb80a529d046bb404f1cfe016f9f530608c922a7cc",
+      "git_blob_sha1": "d523638e2d1e0f676483562c6bcd70664b47b179"
+    },
+    {
+      "chapter": 109,
+      "heading": "Chapter 109 — A Film Without Enough Drama",
+      "path": "chapters/en/109-a-film-without-enough-drama.md",
+      "words": 1847,
+      "sha256": "10dd605a9b8fe54c1efde39e5ab26aaf19e09a7415ff4f6f6bf0c5e304bd7b23",
+      "git_blob_sha1": "569897de34f676bbf875e7e46102cdfc6beeea8e"
+    },
+    {
+      "chapter": 110,
+      "heading": "Chapter 110 — A Different Way of Being Seen",
+      "path": "chapters/en/110-a-different-way-of-being-seen.md",
+      "words": 1826,
+      "sha256": "0f547e72083183756c1fc43d5915fbbd3d60c5e1aebad274af0139499f386be8",
+      "git_blob_sha1": "603a603312349deea7e7f271bcee39fac5ed8566"
+    },
+    {
+      "chapter": 111,
+      "heading": "Chapter 111 — She's Not Available",
+      "path": "chapters/en/111-shes-not-available.md",
+      "words": 1894,
+      "sha256": "c9fc889ab5dc85a2d4e8f77c3284c21ab409ba1d2c37e8186f4bb46067ad762e",
+      "git_blob_sha1": "ed48d2c905fd82c314b0704d526576d3cf79c62c"
+    },
+    {
+      "chapter": 112,
+      "heading": "Chapter 112 — A Work Call at Dinner",
+      "path": "chapters/en/112-a-work-call-at-dinner.md",
+      "words": 1847,
+      "sha256": "09e21743e1371089a344d176a39381ead34e1df214903f5d2872b4c1e5114046",
+      "git_blob_sha1": "aaeecbf316317e0543fd7598fdf1340868134dd7"
+    },
+    {
+      "chapter": 113,
+      "heading": "Chapter 113 — A Weekend Without Cat or Boyfriend",
+      "path": "chapters/en/113-a-weekend-without-cat-or-boyfriend.md",
+      "words": 1859,
+      "sha256": "0990683aa94f55bd5f4b45ac46c1520ef5f5ec4e6c2e4c51b56c10d12443423b",
+      "git_blob_sha1": "cba74975ee499aaa15a2680aaf3b5adbbbe07a19"
+    },
+    {
+      "chapter": 114,
+      "heading": "Chapter 114 — An Event Someone Else Leads",
+      "path": "chapters/en/114-an-event-someone-else-leads.md",
+      "words": 1834,
+      "sha256": "302e7f24554867f372e1363fedee222d7afb571841df1b7582ed6c96cad3881c",
+      "git_blob_sha1": "443972b50cfa8e9e229928039e2fe4dfba0fecee"
+    },
+    {
+      "chapter": 115,
+      "heading": "Chapter 115 — Next Time I'll Ask About You",
+      "path": "chapters/en/115-next-time-ill-ask-about-you.md",
+      "words": 1835,
+      "sha256": "e9a68ad37094cc3f679ff6f623f217dd8c0d6015a24d30c8a7ae911ab5a59a2b",
+      "git_blob_sha1": "fff8eb9f1c2be66d5ee91f3919cfbb6c4a5c9440"
+    }
+  ],
+  "publicationClaim": false
+}
