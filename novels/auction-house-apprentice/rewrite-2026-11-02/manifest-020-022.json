@@ -1,0 +1,34 @@
+{
+  "scope": "020-022完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 20,
+      "title": "# 第20章 全场翻盘",
+      "sha256": "cedec3c3226f914ddd4e9d3917b12bc8b67d8c75bbd87cbcc2bb2b449241ec22",
+      "source_sha256": "ed6798d6781239bf859e0461e443baa9f0a62d15ce7e9a083f24e96c280deec6",
+      "original_han": 3295,
+      "revised_han": 3474,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 21,
+      "title": "# 第21章 废玉开养",
+      "sha256": "4c21e71a34a9db6b19a2e7216c9334ab3f06bf1b048f1478b28b5c5bc316cc99",
+      "source_sha256": "0d45f12e47efe151c54af8cc5884cd2a2a62199abeb480598e293d8234ec6df0",
+      "original_han": 3228,
+      "revised_han": 2399,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 22,
+      "title": "# 第22章 温度、香灰、雨天",
+      "sha256": "35010a303a8473fc531cb81bae7422af2d3a8be4db102a3d99fad86fe5056dd5",
+      "source_sha256": "d54b097d98ba61866926308f164cc9b095fd36efb0af589a714520d5ddf12eb7",
+      "original_han": 3153,
+      "revised_han": 2359,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
