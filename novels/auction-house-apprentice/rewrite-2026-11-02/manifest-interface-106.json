@@ -1,0 +1,11 @@
+{
+  "chapter": 106,
+  "scope": "单句接口修订，原完整终审仍为106–110批，本记录覆盖本次一句差异",
+  "old_sha256": "dad92a996bea5ecd02368ecfb50b51054849611c819b9c982dda8e8d51d35ced",
+  "sha256": "e5ea8dcd7996c2fc6777be0b62e8d2fe854f6a34c53ab0a018b38247d2211a39",
+  "status": "PASS_INDEPENDENT_EXACT_DIFF_REVIEW",
+  "before": "流程上仍写着画押人未到场",
+  "after": "流程上仍写着画押未完成",
+  "reason": "104沈锈已到场确认未画押；到场与画押必须分开。",
+  "online_modified": false
+}

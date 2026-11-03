@@ -1,0 +1,25 @@
+{
+  "scope": "023-024完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 23,
+      "title": "# 第23章 幻听拍卖槌",
+      "sha256": "d8cf6f6dc5346757f421196d6633e19faa971177c4f62fe43be3d104846bc45f",
+      "source_sha256": "4b1f1142b410cc12c78f90d1b83460b34e6d7cbe8027096c012b13b7b659dd27",
+      "original_han": 3228,
+      "revised_han": 2336,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 24,
+      "title": "# 第24章 薄养规矩",
+      "sha256": "11e46b53a4c411cff0bff6d444ad45482fedf2ccf18556ba8a072de42cba9ac7",
+      "source_sha256": "c452eebe00c4362e0ef5a613337c933be790e253f05322281989255c097748d7",
+      "original_han": 3254,
+      "revised_han": 2614,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
