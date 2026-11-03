@@ -1,0 +1,35 @@
+{
+  "scope": "63–65完整精修终审通过；本63替代旧接口稿，旧manifest保留作为历史批次记录。",
+  "chapters": [
+    {
+      "chapter": 63,
+      "title": "# 第63章 假拍真夺",
+      "sha256": "593db375552e8f7ca8a4d63a590fa1997b77c84f058ba167a6d69232c307c0e6",
+      "source_sha256": "fe68ed2e79c44744048d149c4b6dfa929704da81152cf1fc4a6c2351bbf03dfd",
+      "original_han": 3844,
+      "revised_han": 4739,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 64,
+      "title": "# 第64章 黑灯三秒",
+      "sha256": "38a66086efa00bb64a8d287900005403d4aa0bd514c61f55e55ba7d9ef09b2c8",
+      "source_sha256": "c1653b184e08978596d4022ed9cf0aafcd9f0481fb113bc05bfe72fb0df92f52",
+      "original_han": 3865,
+      "revised_han": 3203,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 65,
+      "title": "# 第65章 敌人的敌人",
+      "sha256": "d767b0e5dfc18e3291a28b0e93fa256d70e2dbab9f2744dd3a6aaf8a3df49729",
+      "source_sha256": "13d15dd7bfbd79eba69665fba58ba5e1faa7528cd80c66c51db419a248fe0b38",
+      "original_han": 3868,
+      "revised_han": 4083,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "replaces_ch063_sha256": "e24200ee758dc94a871649a6c1e031cbde32281446f7aac49f87e1c2924a322f",
+  "counts": "基本汉字数，非平台字数",
+  "online_replaced": false
+}
