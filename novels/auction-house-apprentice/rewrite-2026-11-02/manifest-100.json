@@ -1,0 +1,23 @@
+{
+  "chapter": 100,
+  "title": "侧门九点",
+  "status": "COMPLETE_INDEPENDENTLY_REVIEWED_PASS",
+  "path": "ch100.md",
+  "source_path": "source/ch100.md",
+  "source_sha256": "2c75486cb9dd02fd220d5f7d67ab7aa2bede501af5de62a1e4ac8a7b51552831",
+  "sha256": "94a546e073ef0351bf3d04d0488fad2af7cb160d6cc53f5909375862056782fb",
+  "bytes": 9770,
+  "original_han_count": 3675,
+  "revised_han_count": 2645,
+  "count_scope": "basic Han characters including heading, not platform count",
+  "review": "REVIEW-100.md",
+  "changes": "changes-100.md",
+  "interface_sources_read": [
+    99,
+    100,
+    101
+  ],
+  "platform_changed": false,
+  "github_verified_at_manifest_creation": false,
+  "independent_full_review_passed": true
+}

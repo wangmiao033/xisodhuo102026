@@ -1,0 +1,36 @@
+{
+  "status": "independent_full_review_passed",
+  "chapters": [
+    {
+      "chapter": 58,
+      "title": "# 第58章 擦边探炉基",
+      "sha256": "28efc972d6fef5def190bc1e3889f8dae361cd56e855a2242b54c3184dbc6f8d",
+      "source_sha256": "dd7d77dbb1a17976a1e94f960b275db81f1ad58269b9204a14a2b4b54b04dc97",
+      "original_han": 3820,
+      "revised_han": 2722,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 59,
+      "title": "# 第59章 林小姐摊牌",
+      "sha256": "4c3e9259c050ce32f7abaef8382b711e48811f9c69811f78e0d156524f4c1e53",
+      "source_sha256": "cfd7ce88984be3ac628c3c342f8d218311c907a420992ff1c5685b15bd0cdef2",
+      "original_han": 3966,
+      "revised_han": 3078,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 60,
+      "title": "# 第60章 赝品区地震",
+      "sha256": "cb441f8b5ca8aedd01bb3b5ff88af20ebc55c280619c67f86ee488c9e19e2dd7",
+      "source_sha256": "f468bdef04bab12c8601a729cbdf70ef0238beea3bde503d8f80e780e21241e5",
+      "original_han": 4246,
+      "revised_han": 2769,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "count_scope": "基本汉字含标题，非平台字数",
+  "platform_changed": false,
+  "review": "REVIEW-058-060.md",
+  "changes": "CHANGES-058-060.md"
+}
