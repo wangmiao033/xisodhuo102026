@@ -1,0 +1,34 @@
+{
+  "scope": "025-027完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 25,
+      "title": "第25章 旧箩",
+      "sha256": "8ed6f8a8d174b94657e726018010f4e361462b2e399a3f47a06a1d74fe325838",
+      "source_sha256": "f9d7ba5ca2fe74d0b0e311495c66e06fdc213cbd7435eee8362175ace75d8f81",
+      "original_han": 3101,
+      "revised_han": 2263,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 26,
+      "title": "第26章 宝脉边角",
+      "sha256": "d04d6a9f8fcb6028f554483e0fd52e28ff4aa12acdc7681f5257018d4d9c7b1c",
+      "source_sha256": "aa12580463d0a0fc10d64f188d129faa213f5cae19651a91ef3af6c40b580cea",
+      "original_han": 3203,
+      "revised_han": 2564,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 27,
+      "title": "第27章 独家鉴宝权",
+      "sha256": "b3c2e1434c21d891dd76055cec1b73c30a4c0f9633bcabaa696adf31bab9f90d",
+      "source_sha256": "9a0ce5df5641ddb2631033aecec79fd7baa3bd4facaae8ae590aba54bdbc7761",
+      "original_han": 3217,
+      "revised_han": 2672,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
