@@ -1,0 +1,34 @@
+{
+  "scope": "028-030完整精修及独立全文终审",
+  "chapters": [
+    {
+      "chapter": 28,
+      "title": "第28章 文物修复基金",
+      "sha256": "142df832703133151464111157be2bfd885217ce23150cd80af376400772455d",
+      "source_sha256": "87af3de8a466c2860b4c9c53286272cba7f4cae84d88af3000e059c94a4f261d",
+      "original_han": 3111,
+      "revised_han": 2393,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 29,
+      "title": "第29章 血色纹",
+      "sha256": "cca1f3af1421c23a015843096ba392557835644da6182bffc52c798e6d67c93d",
+      "source_sha256": "09e81e18d332231a00a78f9618c140ecf92091b2be9b21da17a8fe990bbe15a5",
+      "original_han": 3083,
+      "revised_han": 2359,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    },
+    {
+      "chapter": 30,
+      "title": "第30章 认主温热",
+      "sha256": "eb5c9422abc643cd44f9c4896dd86b3deaeb803c4aa1d23e9fa36cea443a2822",
+      "source_sha256": "a56c20d78407abe121634bffb7203b9a3fd1932d304b1583129d729c4c54ed24",
+      "original_han": 3350,
+      "revised_han": 2753,
+      "status": "PASS_INDEPENDENT_FULL_CHAPTER"
+    }
+  ],
+  "counts": "基本汉字数，不等平台字数",
+  "online_replaced": false
+}
