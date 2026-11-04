@@ -1,0 +1,124 @@
+{
+  "novel": "You Look More Like Yourself: My Audience Is Rewriting Me",
+  "working_title_zh": "献身",
+  "writing_day": "2026-11-04",
+  "timezone": "Asia/Shanghai",
+  "repository": "wangmiao033/xisodhuo102026",
+  "scope": "Root novel only; new manuscripts and necessary records. No platform publication.",
+  "preflight_head": "4e405a8723e9fe743adff321952c1932c4d72432",
+  "inventory_before": {
+    "zh": 230,
+    "en": 230,
+    "continuous_through": 230
+  },
+  "daily_target_paired_chapters": 10,
+  "completed_paired_chapters": [
+    231,
+    232,
+    233,
+    234
+  ],
+  "new_paired_chapter_count": 4,
+  "unwritten_today_count": 6,
+  "inventory_after_this_batch": {
+    "zh": 234,
+    "en": 234,
+    "continuous_through": 234
+  },
+  "author_decision_pending": "Full memory restoration in231–240 vs irreversible deletion of lived autobiographical memory. This batch does not decide it or restore erased memories.",
+  "review_status": "Full independent bilingual read and final correction readback completed.",
+  "review_file": "planning/daily-2026-11-04-231-234/independent-full-review.md",
+  "review_sha256": "797ba26421112ab3ec30b72de052e8a3ccf4324881b18b084235e3e269e6ed55",
+  "counting": "Body only. Chinese Han characters; English internal apostrophe and hyphen compounds counted as one word.",
+  "source_fixing": "The Git commit adding this manifest fixes the exact raw UTF-8 files below. Remote verification is performed against that commit after push; it is not inferred from this manifest.",
+  "files": [
+    {
+      "chapter": 231,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/231-被截去的后半句.md",
+      "heading": "第231章 被截去的后半句",
+      "count": 3095,
+      "count_unit": "Han characters",
+      "bytes": 10843,
+      "sha256": "46217c89138f3b4b2ea72061f35cb407e790f70273880c739dc0476b6022be5d",
+      "git_blob_sha": "640b5b18779fb494e86167f8954b51fde98ecc56"
+    },
+    {
+      "chapter": 232,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/232-空座不能替人.md",
+      "heading": "第232章 空座不能替人",
+      "count": 3099,
+      "count_unit": "Han characters",
+      "bytes": 10776,
+      "sha256": "23c18155affd725bcb51b15abe43c0967eec756dc823ea4e33b1b8f83aa67cca",
+      "git_blob_sha": "236170f2e93c9bf37f6feb83f24df36e41a21524"
+    },
+    {
+      "chapter": 233,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/233-门外留着路.md",
+      "heading": "第233章 门外留着路",
+      "count": 3193,
+      "count_unit": "Han characters",
+      "bytes": 11013,
+      "sha256": "c646721f3b2f2112870079fb76da7c058446be83fb222f02cf07fe5ac3d12ccb",
+      "git_blob_sha": "9b9acdde807a92a0040ce22cc302a8d024c51b17"
+    },
+    {
+      "chapter": 234,
+      "language": "zh",
+      "path": "chapters/zh/volume-08/234-谁在续下一场.md",
+      "heading": "第234章 谁在续下一场",
+      "count": 3370,
+      "count_unit": "Han characters",
+      "bytes": 11756,
+      "sha256": "51bf94da64a7c746de3c16482e6a73461020fc7015d71fdc40c4f4a52f7016d0",
+      "git_blob_sha": "a330b925e7da64862d37dc0d88bfd97ad613555d"
+    },
+    {
+      "chapter": 231,
+      "language": "en",
+      "path": "chapters/en/volume-08/231-the-missing-half-of-the-sentence.md",
+      "heading": "Chapter 231: The Missing Half of the Sentence",
+      "count": 1951,
+      "count_unit": "words",
+      "bytes": 11327,
+      "sha256": "911a19cefaae9e50988d28f0c289e1bd1287b29a8784f829d9c992d227fa2e1f",
+      "git_blob_sha": "32fbb71a2af20fe779f0e9069f4b35730784f27b"
+    },
+    {
+      "chapter": 232,
+      "language": "en",
+      "path": "chapters/en/volume-08/232-an-empty-seat-is-not-a-person.md",
+      "heading": "Chapter 232: An Empty Seat Is Not a Person",
+      "count": 2054,
+      "count_unit": "words",
+      "bytes": 11974,
+      "sha256": "4de40b932ac3c8ce3bc44578effe3e1e40ccf9176ff15454d4ed87ad68648f6b",
+      "git_blob_sha": "3fbeea4d46eae4e8352f897badbfcf741748cc6b"
+    },
+    {
+      "chapter": 233,
+      "language": "en",
+      "path": "chapters/en/volume-08/233-keep-the-way-out-clear.md",
+      "heading": "Chapter 233: Keep the Way Out Clear",
+      "count": 2016,
+      "count_unit": "words",
+      "bytes": 11403,
+      "sha256": "6ebd1b32050fb4523f7a7e7c69d231fc323c682358f21de7cfb2e6d6ff751611",
+      "git_blob_sha": "a5baf9c2732f53d9e1ed6e53d0dba947e2563d12"
+    },
+    {
+      "chapter": 234,
+      "language": "en",
+      "path": "chapters/en/volume-08/234-who-keeps-the-next-show-going.md",
+      "heading": "Chapter 234: Who Keeps the Next Show Going?",
+      "count": 2132,
+      "count_unit": "words",
+      "bytes": 12350,
+      "sha256": "6d34ef3f52e40161af90ea32d38d27dc856e575b8e24cd3d2544c60267966a71",
+      "git_blob_sha": "3fdc1b15207190d3bea55d5003b2d2defae6ad84"
+    }
+  ]
+}
