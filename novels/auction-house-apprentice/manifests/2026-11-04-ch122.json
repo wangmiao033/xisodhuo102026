@@ -1,0 +1,15 @@
+{
+  "chapter": 122,
+  "title": "箭头朝哪边",
+  "date_bjt": "2026-11-04",
+  "han_characters": 3760,
+  "body_characters": 4778,
+  "body_paragraphs": 178,
+  "markdown_path": "novels/auction-house-apprentice/chapters/cn/122-jian-tou-chao-na-bian.md",
+  "markdown_sha256": "3818f58898aacbe4aa5997a803f3b6a95de8e12b32713ab7852712937f117220",
+  "publish_path": "novels/auction-house-apprentice/publication/publish-text/ch122.txt",
+  "publish_sha256": "8b713cef7f3b22fe98f67f446db2ac370750bbdf89daea67dd10e73984dc8482",
+  "independent_review": "PASS",
+  "platform_status": "not_submitted",
+  "source_base_commit": "dc6d3477593041563420567383344d048484f987"
+}

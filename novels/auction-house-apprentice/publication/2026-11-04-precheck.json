@@ -1,0 +1,36 @@
+{
+  "checked_utc_start": "2026-11-04T00:57:00Z",
+  "checked_utc_end": "2026-11-04T01:07:01Z",
+  "date_bjt": "2026-11-04",
+  "book_id": "7681620262432820248",
+  "author": "沉灯照骨",
+  "all_pages_checked": 8,
+  "listed_total": 120,
+  "published_total": 120,
+  "highest_chapter": 121,
+  "historical_missing_chapters": [
+    42
+  ],
+  "reviewing_count": 0,
+  "scheduled_or_waiting_count": 0,
+  "rejected_count": 0,
+  "draft_count": 13,
+  "drafts_unchanged": "September legacy drafts; no edits or deletion",
+  "new_published_today": 0,
+  "latest_published": {
+    "chapter": 121,
+    "title": "柜前那一步",
+    "display_time": "2026-11-03 12:52",
+    "platform_timezone": "not displayed",
+    "platform_words": 4420,
+    "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7703799931504427545",
+    "preview_paragraphs": 183,
+    "preview_chars": 4784,
+    "full_text_exact_fixed_source": true
+  },
+  "repository_today_path_commits_before_writing": 0,
+  "new_written_before_this_run": 0,
+  "source_base_commit": "dc6d3477593041563420567383344d048484f987",
+  "next_candidate": 122,
+  "session_login_reused": true
+}
