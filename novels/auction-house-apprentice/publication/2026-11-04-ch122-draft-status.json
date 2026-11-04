@@ -1,0 +1,79 @@
+{
+  "book": "拍卖行学徒，我捡漏捡到仙",
+  "book_id": "7681620262432820248",
+  "chapter": 122,
+  "title": "箭头朝哪边",
+  "observed_at_utc": "2026-11-04T01:20:39Z",
+  "beijing_date": "2026-11-04",
+  "state": "draft_saved_not_submitted",
+  "publicly_published": false,
+  "under_review": false,
+  "chapter_id": "7704118502939951678",
+  "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7704118502939951678",
+  "source_commit": "29f29535d8b34564302b6832873e74ec1a39acb9",
+  "publish_text_path": "novels/auction-house-apprentice/publication/publish-text/ch122.txt",
+  "publish_text_sha256": "8b713cef7f3b22fe98f67f446db2ac370750bbdf89daea67dd10e73984dc8482",
+  "han_characters": 3760,
+  "preview_nonempty_paragraphs": 178,
+  "preview_characters_with_paragraph_separators": 4778,
+  "preview_full_text_equals_fixed_source": true,
+  "editor_displayed_count": 4424,
+  "draft_list_displayed_count": 5365,
+  "display_count_note": "平台不同位置计数口径不一致，正文以已核验全文为准，未把平台计数当汉字数。",
+  "daily_new_writing_count": 1,
+  "daily_new_publication_count": 0,
+  "drafts_total_after_save": 14,
+  "old_september_drafts_untouched": 13,
+  "latest_public_chapter": 121,
+  "required_next_step": "本次拼写警告保留原文的确认尚待取得；随后如实处理使用AI声明与最终发布。确认前不提交，不创建第二份122，不新增123。",
+  "warning_text": "检测到你还有错别字未修改，是否确定提交？",
+  "spelling_flags_reviewed_as_contextual_false_positives": [
+    [
+      "仍",
+      "扔"
+    ],
+    [
+      "女客",
+      "旅客"
+    ],
+    [
+      "转完",
+      "转弯"
+    ],
+    [
+      "朝门",
+      "朝外"
+    ],
+    [
+      "册",
+      "车"
+    ],
+    [
+      "女客",
+      "旅客"
+    ],
+    [
+      "你",
+      "我"
+    ],
+    [
+      "底联",
+      "底梁"
+    ],
+    [
+      "铜屑",
+      "铜矿"
+    ],
+    [
+      "页",
+      "业"
+    ],
+    [
+      "柜前",
+      "柜台"
+    ]
+  ],
+  "platform_content_risk_flags": 0,
+  "ai_disclosure_selected": false,
+  "public_reader_url": null
+}
