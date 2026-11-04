@@ -1,0 +1,205 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_bjt": "2026-11-04",
+  "archive_only": true,
+  "new_bilingual_chapters": 10,
+  "chapter_range": [
+    307,
+    316
+  ],
+  "preflight_main": "f066203661dd97446cf74e856cdb6a423aaa8cf7",
+  "first_write_date_deduplicated": true,
+  "counting": "CN/EN same chapter counts once; headings excluded; CN Han characters; EN whitespace-separated words",
+  "chapters": [
+    {
+      "chapter": 307,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/307_The_Part_I_Added.md",
+        "title": "我加的那一部分",
+        "body_han_characters": 2561,
+        "utf8_bytes": 9029,
+        "sha256": "61c7d9ef95df24418c3ae49c74b763043f9df0e7a177a4ecb8bb19073a7c0a1a",
+        "git_blob_sha": "99de57153e47685bee9899e954ac66f129aff318"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/307_The_Part_I_Added.md",
+        "title": "The Part I Added",
+        "body_words_whitespace": 1668,
+        "utf8_bytes": 9861,
+        "sha256": "aa8b5b3896d64f36e93db383a8bf1000050c92cdfc5a7af78f3674b5b9d53bc9",
+        "git_blob_sha": "ab3c775b7dba2679368f8044d9320126d755d3ae"
+      }
+    },
+    {
+      "chapter": 308,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/308_Beside_the_Same_Picture.md",
+        "title": "站在同一幅画前",
+        "body_han_characters": 2573,
+        "utf8_bytes": 8923,
+        "sha256": "727deca65818f78987639d3f083cd85c3697d05c9e30d9010dd15ec98509d228",
+        "git_blob_sha": "bbe1a6635e0142561151c187f79af8c6694e6890"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/308_Beside_the_Same_Picture.md",
+        "title": "Beside the Same Picture",
+        "body_words_whitespace": 1735,
+        "utf8_bytes": 10010,
+        "sha256": "ea0be20bd8ec994cebcf6725c288cb60ad316edab82c1c0f9553be71e17d34ba",
+        "git_blob_sha": "2c36e147b9c68c1fcdb92c92d04564804ff4cb17"
+      }
+    },
+    {
+      "chapter": 309,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/309_Which_Part_Was_Me.md",
+        "title": "哪一部分是我",
+        "body_han_characters": 2385,
+        "utf8_bytes": 8475,
+        "sha256": "8dd83dbd43e970fdf5d5b916c752f6781bda54df9ac12b97fe37254b34475a83",
+        "git_blob_sha": "29b7f798c93cc66b94c509d89400d20bffcbee15"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/309_Which_Part_Was_Me.md",
+        "title": "Which Part Was Me",
+        "body_words_whitespace": 1587,
+        "utf8_bytes": 9311,
+        "sha256": "48a09eaf9565244949e971cae6484eea6591e7cd65553c2fd452be541061b723",
+        "git_blob_sha": "bfb67331bdae327741fd130a93c72c63c334e841"
+      }
+    },
+    {
+      "chapter": 310,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/310_Before_the_Second_Door.md",
+        "title": "第二扇门以前",
+        "body_han_characters": 2439,
+        "utf8_bytes": 8521,
+        "sha256": "831364f3fea786bd3d8fdb957f20c0b020ab1cedaec73be7d23d3be46fa17340",
+        "git_blob_sha": "e5d87387927f7b46b92d6518ab08fd213287ab37"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/310_Before_the_Second_Door.md",
+        "title": "Before the Second Door",
+        "body_words_whitespace": 1582,
+        "utf8_bytes": 9431,
+        "sha256": "1db92af9493721fa329cbdd7431aa121fbd4e27f86b08e33b46b74d64e6015b4",
+        "git_blob_sha": "3601543df08590574c5ee27cbde5b856ddeb83b9"
+      }
+    },
+    {
+      "chapter": 311,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/311_Our_Two_Names.md",
+        "title": "两个人的名字",
+        "body_han_characters": 2513,
+        "utf8_bytes": 8751,
+        "sha256": "fd3a3b8f18b8e6bf6ae94fba069cc9aa6fbb1b98735307853ced229d4ca8a39b",
+        "git_blob_sha": "6dc33201fae237223407c51694751c86951250fd"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/311_Our_Two_Names.md",
+        "title": "Our Two Names",
+        "body_words_whitespace": 1620,
+        "utf8_bytes": 9578,
+        "sha256": "a697a63110b563328bebdb1cc3e06825bab7b001dc651f25b1b69b966f9d186a",
+        "git_blob_sha": "3c9fb03bffcf45808ce25bdcb11da6614d612b31"
+      }
+    },
+    {
+      "chapter": 312,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/312_The_First_Sentence.md",
+        "title": "第一句话",
+        "body_han_characters": 2139,
+        "utf8_bytes": 7577,
+        "sha256": "448ad52958222c4ccacc600f3570c7bd83ae84cb4c72b3741c7a2348c481bf1a",
+        "git_blob_sha": "5515a22e2963d73d1c35368a4be35fdd70abb2f8"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/312_The_First_Sentence.md",
+        "title": "The First Sentence",
+        "body_words_whitespace": 1462,
+        "utf8_bytes": 8697,
+        "sha256": "e434145ad910fae75f92815313d52b647d0fda348008292eab94afd40b5fd368",
+        "git_blob_sha": "53ddd04b96bbbe9ec7c3171e0048c9fe0fb909f6"
+      }
+    },
+    {
+      "chapter": 313,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/313_A_Seat_in_the_Back.md",
+        "title": "后排的位置",
+        "body_han_characters": 2134,
+        "utf8_bytes": 7627,
+        "sha256": "739b5f3c7863505d32ed43d32546e7569dd3c2f42526ec9a359a1ef680af94c1",
+        "git_blob_sha": "a559c3479454a5af01e6eb93cf0262043cee1d51"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/313_A_Seat_in_the_Back.md",
+        "title": "A Seat in the Back",
+        "body_words_whitespace": 1403,
+        "utf8_bytes": 8333,
+        "sha256": "fa751c37c601b47e94f041ce3eec65df1cdcbae0a601c7f623621822869c3924",
+        "git_blob_sha": "2b2a85468ece7b3b7179e26281094eb215e69227"
+      }
+    },
+    {
+      "chapter": 314,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/314_The_Driver_Came_Back.md",
+        "title": "司机回来了",
+        "body_han_characters": 2190,
+        "utf8_bytes": 7782,
+        "sha256": "fcd4a78579f875d61c091038b95589abf996d05cbab33334b94f02f71c9e0559",
+        "git_blob_sha": "5a8473c4dad6b8dd24ce3ad56cc641ff43969415"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/314_The_Driver_Came_Back.md",
+        "title": "The Driver Came Back",
+        "body_words_whitespace": 1480,
+        "utf8_bytes": 8649,
+        "sha256": "abba7634b60d45a61a1b2a20293683d2882d15a3225c0073513921eb73a911a5",
+        "git_blob_sha": "b404c0d6fb42f6a6b395b7c050105138d1b45d4a"
+      }
+    },
+    {
+      "chapter": 315,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/315_What_I_Heard.md",
+        "title": "我听到的",
+        "body_han_characters": 2008,
+        "utf8_bytes": 7227,
+        "sha256": "2a671a4ed48b9945fcad2450027a8236cc4c2ba33722f63bd56e027aabf884f2",
+        "git_blob_sha": "7c7cb400df10ba3ab1937afa7cdfbf958cf15fce"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/315_What_I_Heard.md",
+        "title": "What I Heard",
+        "body_words_whitespace": 1327,
+        "utf8_bytes": 7950,
+        "sha256": "7b067ee9cb0957dcd5384310c7e71c2fba41a5f93f9eb2cc0ae558a47339c8d2",
+        "git_blob_sha": "7400ee002a70d3eb24349cdfb06a9ddb1607c7ec"
+      }
+    },
+    {
+      "chapter": 316,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/cn/316_When_the_Page_Was_Turned.md",
+        "title": "翻过那一页",
+        "body_han_characters": 2518,
+        "utf8_bytes": 8759,
+        "sha256": "341d53101c6b065d945a57bd8b3dc57677c1870b51bcc926efd92f191b4f1095",
+        "git_blob_sha": "da097450510bec1aa7cd9b3080ebf615ed492acb"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-04-307-316/en/316_When_the_Page_Was_Turned.md",
+        "title": "When the Page Was Turned",
+        "body_words_whitespace": 1660,
+        "utf8_bytes": 9882,
+        "sha256": "f0fed29087c21c5c92ceaf83240d89a2236427f10a3b158fb04b83277c89f8ab",
+        "git_blob_sha": "cb9b09c19fa54008849db0b60e85610f982f4dbf"
+      }
+    }
+  ]
+}
