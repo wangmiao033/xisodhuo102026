@@ -923,6 +923,86 @@
       "words": 1835,
       "sha256": "e9a68ad37094cc3f679ff6f623f217dd8c0d6015a24d30c8a7ae911ab5a59a2b",
       "git_blob_sha1": "fff8eb9f1c2be66d5ee91f3919cfbb6c4a5c9440"
+    },
+    {
+      "chapter": 116,
+      "heading": "Chapter 116 — Who Lives Where?",
+      "path": "chapters/en/116-who-lives-where.md",
+      "words": 1843,
+      "sha256": "738db24a5e99ce5b56cd06be4aae1df8ccf8eb13ca0f60231ddc8651a07f6a48",
+      "git_blob_sha1": "075831e00239f36fcd1fc8f4cab04502a212b7b9"
+    },
+    {
+      "chapter": 117,
+      "heading": "Chapter 117 — The Borrowed Charger",
+      "path": "chapters/en/117-the-borrowed-charger.md",
+      "words": 1859,
+      "sha256": "48082822d96714e41194bebe69b2bdfdd40b7f6ce8e0e364bda7742422c8f478",
+      "git_blob_sha1": "81c8948edebcafd910d6d155e99f3b9a488c2d92"
+    },
+    {
+      "chapter": 118,
+      "heading": "Chapter 118 — Going Home Is Not Breaking Up",
+      "path": "chapters/en/118-going-home-is-not-breaking-up.md",
+      "words": 1844,
+      "sha256": "d413dc236ccbcdf7eac075973ab8c45e83a6d09eadf7cc21fce7cd9283807a3e",
+      "git_blob_sha1": "789d834822480af056a54d740ea3bc4f6d19ad35"
+    },
+    {
+      "chapter": 119,
+      "heading": "Chapter 119 — The Cat Only Owns His Bed",
+      "path": "chapters/en/119-the-cat-only-owns-his-bed.md",
+      "words": 1868,
+      "sha256": "79c6bb74139c5baa173fc4e4abc8024819a8e853c4b67df23d724086429c88d3",
+      "git_blob_sha1": "aa418ea586dec5bc29994e3010fe3b2b41ad2918"
+    },
+    {
+      "chapter": 120,
+      "heading": "Chapter 120 — I'd Like You to Come Tonight",
+      "path": "chapters/en/120-id-like-you-to-come-tonight.md",
+      "words": 1890,
+      "sha256": "556145b1c682c01e74f2acd27fdff200bcd79b7f4469785421a09397a25b8af5",
+      "git_blob_sha1": "9a3b7c3bc9eca4850b657829fa7e5fa0633cc2ae"
+    },
+    {
+      "chapter": 121,
+      "heading": "Chapter 121 — What Will the Audience Pay For?",
+      "path": "chapters/en/121-what-will-the-audience-pay-for.md",
+      "words": 1861,
+      "sha256": "14cfeedab831e47998c7326e5331e46e7f33c71aaf90ccaac54c7878b68abdc7",
+      "git_blob_sha1": "530b293e12421028e476f6f918f69db98740da2c"
+    },
+    {
+      "chapter": 122,
+      "heading": "Chapter 122 — The First Session Doesn't Sell Out",
+      "path": "chapters/en/122-the-first-session-doesnt-sell-out.md",
+      "words": 1916,
+      "sha256": "8570a310b9250729b47900b643f5e3810fe149e4f393ce4083ec962bbff7fd26",
+      "git_blob_sha1": "011d9699f455af3902e0ce3f5bfb0c87b996d17e"
+    },
+    {
+      "chapter": 123,
+      "heading": "Chapter 123 — Don't Do the Expert's Job",
+      "path": "chapters/en/123-dont-do-the-experts-job.md",
+      "words": 1901,
+      "sha256": "572b43ef154c62aeb9598e633a570321a2d5065a53b5843945d93ba2d0855608",
+      "git_blob_sha1": "9eb170135b2296e2b7201ab91750b2e85b9a8179"
+    },
+    {
+      "chapter": 124,
+      "heading": "Chapter 124 — Refunds Are Business Too",
+      "path": "chapters/en/124-refunds-are-business-too.md",
+      "words": 1893,
+      "sha256": "88f3d89e08c97149cc812f69c64e40ba28f0534399f50cd8c9b452010b9a352a",
+      "git_blob_sha1": "5716fe41d0cd41e7808f5ba574d5bd68495d9b81"
+    },
+    {
+      "chapter": 125,
+      "heading": "Chapter 125 — A Room Borrowed for Now",
+      "path": "chapters/en/125-a-room-borrowed-for-now.md",
+      "words": 1900,
+      "sha256": "f9c14dc1c74c41a291fa00cd65e6d530eb6e46a0491b52214828e37178f7765e",
+      "git_blob_sha1": "1461dcab2a0662876e02eec975876c863b426c45"
     }
   ]
 }
