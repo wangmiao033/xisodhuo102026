@@ -1,0 +1,243 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "writing_date_beijing": "2026-11-04",
+  "source_main_at_preflight": "4e405a8723e9fe743adff321952c1932c4d72432",
+  "new_bilingual_chapters": [
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282
+  ],
+  "actual_new_chapter_count": 10,
+  "continuous_bilingual_manuscript_through": 282,
+  "count_method": "Heading excluded; Chinese U+4E00–U+9FFF Han characters; English Unicode word tokens including internal apostrophes and hyphens.",
+  "platform_publication": "Not performed. Manuscript storage is not platform release approval. Existing Novelpia 6692 publication remit unchanged.",
+  "files": [
+    {
+      "chapter": 273,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-273.md",
+      "heading": "# 第二百七十三章：先把难看的那一页翻出来",
+      "body_count": 3094,
+      "count_unit": "Han characters",
+      "sha256": "426bf572b74f4fc8dda2ec8576c431eba0949b54a3d0bef9af038882e880046f",
+      "git_blob_sha": "9ba995ad6c3bd9d2f24dc40707d9849ec2316c55",
+      "utf8_bytes": 10569
+    },
+    {
+      "chapter": 273,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-273.md",
+      "heading": "# Chapter 273: Show the Ugly Page First",
+      "body_count": 1823,
+      "count_unit": "English words",
+      "sha256": "2d6cdc4daf6da938b92ba1350d7b9da6deeeae750a016f865c311d81185bd40a",
+      "git_blob_sha": "f37b47298320117248a2ced4d2d16d38ec3cf965",
+      "utf8_bytes": 12079
+    },
+    {
+      "chapter": 274,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-274.md",
+      "heading": "# 第二百七十四章：家徽下面还有字",
+      "body_count": 3086,
+      "count_unit": "Han characters",
+      "sha256": "0032e00723325341d5b1c8407d045f95ff1fdc40dac243219610f7af36b45210",
+      "git_blob_sha": "020efb3f140c623ec667d5eb7689184f996a14c8",
+      "utf8_bytes": 10546
+    },
+    {
+      "chapter": 274,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-274.md",
+      "heading": "# Chapter 274: Words Beneath the Crest",
+      "body_count": 1832,
+      "count_unit": "English words",
+      "sha256": "a84797a1e7ee7f7f085a994c616c74ed0490910aa7a7376e53d3e93c53580bd4",
+      "git_blob_sha": "1dfb6943538d0247a49dbcd4e6cca71f8c154702",
+      "utf8_bytes": 12075
+    },
+    {
+      "chapter": 275,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-275.md",
+      "heading": "# 第二百七十五章：祷词没有替她回答",
+      "body_count": 3083,
+      "count_unit": "Han characters",
+      "sha256": "6a6e0d35a54c26b192abb962bd9709bdcedd98edec0bd1ebad258ce4ea028b4e",
+      "git_blob_sha": "908f43f92bbace7d81163dfa10442e07c7d1ece8",
+      "utf8_bytes": 10577
+    },
+    {
+      "chapter": 275,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-275.md",
+      "heading": "# Chapter 275: The Prayer Did Not Answer for Her",
+      "body_count": 1813,
+      "count_unit": "English words",
+      "sha256": "6ffa02654ac11a07625d737eb194b70f350c5fb5226ad843dda466898a546e67",
+      "git_blob_sha": "0ba2f042251eba9f9f8743c253d1367302239339",
+      "utf8_bytes": 11773
+    },
+    {
+      "chapter": 276,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-276.md",
+      "heading": "# 第二百七十六章：抵达不等于有人听见",
+      "body_count": 3085,
+      "count_unit": "Han characters",
+      "sha256": "eea854593093d3c26f9bdd4b1b6c4a561978a8ee311228701f3848454a539289",
+      "git_blob_sha": "cb0d939f22af254c50bcb09bde459d1d7627d960",
+      "utf8_bytes": 10541
+    },
+    {
+      "chapter": 276,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-276.md",
+      "heading": "# Chapter 276: Arrival Was Not the Same as Being Heard",
+      "body_count": 1843,
+      "count_unit": "English words",
+      "sha256": "5f8d447fee0a1921093748c4d84d9f56d89c87fdd71d2579e896d459fc582510",
+      "git_blob_sha": "c3fa4d007d233ef09c59a6b4c41209a3d305fc9f",
+      "utf8_bytes": 12054
+    },
+    {
+      "chapter": 277,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-277.md",
+      "heading": "# 第二百七十七章：裂痕也要见光",
+      "body_count": 3126,
+      "count_unit": "Han characters",
+      "sha256": "d92ab111ad03bee897f824c8f9a64226caa87f96d325e8643b640fc958d93ae3",
+      "git_blob_sha": "56c800b7d8b48d13fcb6bbfdb88d28a35746adf9",
+      "utf8_bytes": 10663
+    },
+    {
+      "chapter": 277,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-277.md",
+      "heading": "# Chapter 277: Let the Crack See Daylight Too",
+      "body_count": 1821,
+      "count_unit": "English words",
+      "sha256": "84b0cd8876ade0c9641f65a3e0831921e722e7a16a7907ec9da0e146c5de7a76",
+      "git_blob_sha": "48a312e9fc69cc29933274f7dfe7e2700d10f4bb",
+      "utf8_bytes": 12054
+    },
+    {
+      "chapter": 278,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-278.md",
+      "heading": "# 第二百七十八章：请把王冠往旁边放",
+      "body_count": 3210,
+      "count_unit": "Han characters",
+      "sha256": "cab0230c9d4c89d2065d364f31cdaedc0cf0feb82039c085af06e7098e038180",
+      "git_blob_sha": "13330080b4782c253f61250079510bac9f55d8c6",
+      "utf8_bytes": 11025
+    },
+    {
+      "chapter": 278,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-278.md",
+      "heading": "# Chapter 278: Please Move the Crown Aside",
+      "body_count": 1873,
+      "count_unit": "English words",
+      "sha256": "0a601af9e4e247793d6364f833eabfc1c7bbc7e11680cb6de3b95e2b9aa3965b",
+      "git_blob_sha": "1c254645bd405ff9ac4ba22389e35c7580fa97af",
+      "utf8_bytes": 12693
+    },
+    {
+      "chapter": 279,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-279.md",
+      "heading": "# 第二百七十九章：不肯消失的那根线",
+      "body_count": 3099,
+      "count_unit": "Han characters",
+      "sha256": "a6f643488572c5a40e31f8783068eca56307884ff332d7ac9adab2c97a4cf26d",
+      "git_blob_sha": "caf79da21f348c8c7ea0cd4425cbd544e21f9921",
+      "utf8_bytes": 10773
+    },
+    {
+      "chapter": 279,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-279.md",
+      "heading": "# Chapter 279: The Line That Wouldn't Disappear",
+      "body_count": 1843,
+      "count_unit": "English words",
+      "sha256": "9cf8b4b94aa430d990b31c213e7bfee02dd304a5d1f8329fe4101338ec00c225",
+      "git_blob_sha": "4e6f8cbd881c1d283bea4d29057a6b3dcaa80102",
+      "utf8_bytes": 11892
+    },
+    {
+      "chapter": 280,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-280.md",
+      "heading": "# 第二百八十章：谁来接明天的班",
+      "body_count": 3121,
+      "count_unit": "Han characters",
+      "sha256": "a043c74852791ebc7dc53ece8f8b1c641ad1d1f1cdea9e917188c83035552503",
+      "git_blob_sha": "b9e0d7bff7f9228f04cb962f4bf4be62b1e32695",
+      "utf8_bytes": 10775
+    },
+    {
+      "chapter": 280,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-280.md",
+      "heading": "# Chapter 280: Who Takes Tomorrow's Shift?",
+      "body_count": 1880,
+      "count_unit": "English words",
+      "sha256": "92681135956af1a5ed23cddc5bb6b71dfca6ac948305b84ef3989b2679195500",
+      "git_blob_sha": "d2135c81580bc49cccd612547345fd16f572a97f",
+      "utf8_bytes": 12320
+    },
+    {
+      "chapter": 281,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-281.md",
+      "heading": "# 第二百八十一章：空着的名字不是默许",
+      "body_count": 3134,
+      "count_unit": "Han characters",
+      "sha256": "7bdd45778f9806c38f73bd5bb8867bed9b4495ad533aebc652ffff308fb8583d",
+      "git_blob_sha": "ae7b80b9e63a1d51db0630272a3f89a6cd1f4032",
+      "utf8_bytes": 10778
+    },
+    {
+      "chapter": 281,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-281.md",
+      "heading": "# Chapter 281: A Blank Name Is Not Consent",
+      "body_count": 1835,
+      "count_unit": "English words",
+      "sha256": "2842fe76f6a36507d42407485d7f18dab72b53427e0c604d9557838c3fadf8ed",
+      "git_blob_sha": "52404fd7deb7600e2eac8446a611f05ad286eddd",
+      "utf8_bytes": 12292
+    },
+    {
+      "chapter": 282,
+      "language": "cn",
+      "path": "novels/villainesses/chapters/chapter-282.md",
+      "heading": "# 第二百八十二章：我的姓氏不能替谁答应",
+      "body_count": 3184,
+      "count_unit": "Han characters",
+      "sha256": "77e43d92473044caad422c0be6ce9aed402704258b227d20a73636542a13664e",
+      "git_blob_sha": "0f1ce3bf97a4b0eb1ed3b803045d99bf2c002578",
+      "utf8_bytes": 10974
+    },
+    {
+      "chapter": 282,
+      "language": "en",
+      "path": "novels/villainesses/en/chapter-282.md",
+      "heading": "# Chapter 282: My Surname Cannot Give Anyone's Consent",
+      "body_count": 1838,
+      "count_unit": "English words",
+      "sha256": "4d3c2437d616689321338ee3ac036b8afdf0cbe35b29dc022779cd93565552e5",
+      "git_blob_sha": "0e0d06fc6c95c9d27bd3610c42af36470c994652",
+      "utf8_bytes": 12127
+    }
+  ]
+}
