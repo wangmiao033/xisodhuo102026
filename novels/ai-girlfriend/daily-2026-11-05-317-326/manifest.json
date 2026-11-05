@@ -1,0 +1,211 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_bjt": "2026-11-05",
+  "archive_only": true,
+  "new_bilingual_chapters": 10,
+  "chapter_range": [
+    317,
+    326
+  ],
+  "preflight_main": "ded61b6510df6edbca3b28d33b2769fc1c6bf5f9",
+  "preflight_existing_continuous_bilingual_mainline": {
+    "first": 127,
+    "last": 316,
+    "pairs": 190
+  },
+  "first_write_date_deduplicated": true,
+  "independent_full_review": "passed_after_corrections",
+  "counting": "CN/EN same chapter counts once; headings excluded; CN Han characters; EN whitespace-separated words",
+  "chapters": [
+    {
+      "chapter": 317,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/317_The_Number_in_the_Notebook.md",
+        "title": "本子里的编号",
+        "body_han_characters": 2129,
+        "utf8_bytes": 7412,
+        "sha256": "acfc979ced73cfdb226925549f4828b8ab1a8c18a3466ed3cf59b812b00f38bb",
+        "git_blob_sha": "4e2657ff4f314f35b88201e89fea0f5852356266"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/317_The_Number_in_the_Notebook.md",
+        "title": "The Number in the Notebook",
+        "body_words_whitespace": 1454,
+        "utf8_bytes": 8491,
+        "sha256": "b138e53ec623642ea4d1b2089e63ba89acd96ba87f7737a42557f68308c59eab",
+        "git_blob_sha": "1a88bbe43c43da264bbab394c3a45b7b45e7c755"
+      }
+    },
+    {
+      "chapter": 318,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/318_What_the_Short_Line_Left_Out.md",
+        "title": "短短一行以外",
+        "body_han_characters": 2148,
+        "utf8_bytes": 7515,
+        "sha256": "a0ec788cd6251eebd0f85c6f9d563b00a815a5f61f62db03ce50f2d0a0d130f7",
+        "git_blob_sha": "ead2271d53d409393d2b5c32ed626b0348f14b96"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/318_What_the_Short_Line_Left_Out.md",
+        "title": "What the Short Line Left Out",
+        "body_words_whitespace": 1461,
+        "utf8_bytes": 8676,
+        "sha256": "e36a84aef78ff249bf71d3acb790f7dbcf005d5d64f5458bd8fb2a9df99373fa",
+        "git_blob_sha": "ea66437db09f530eff99ef5cd336b2c27c6c278f"
+      }
+    },
+    {
+      "chapter": 319,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/319_A_Cup_with_Marks.md",
+        "title": "带刻度的杯子",
+        "body_han_characters": 2231,
+        "utf8_bytes": 7843,
+        "sha256": "f2b1b7cee92b6ea342cc995e0c70dbc4754b55efdddee14da34bc9cbbc352cf0",
+        "git_blob_sha": "e45f870e65fb3dcb973bcd2131bbd5141ace88be"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/319_A_Cup_with_Marks.md",
+        "title": "A Cup with Marks",
+        "body_words_whitespace": 1566,
+        "utf8_bytes": 9071,
+        "sha256": "b964662cdb6b7a3a2bec94e8387ec7d4ec2d549b36e03a7ef817a1ee468354fb",
+        "git_blob_sha": "167c5595878060c631a98db1545152182248284e"
+      }
+    },
+    {
+      "chapter": 320,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/320_One_Name_in_the_Right_Box.md",
+        "title": "一格里的名字",
+        "body_han_characters": 2180,
+        "utf8_bytes": 7559,
+        "sha256": "c3616b03dd199c999a3c54c0eeca50fe976d56cd502c9c0941c3f232ac4b3e04",
+        "git_blob_sha": "0db9ce2cb4599ee1da217ea24c59fe8db2e4f549"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/320_One_Name_in_the_Right_Box.md",
+        "title": "One Name in the Right Box",
+        "body_words_whitespace": 1485,
+        "utf8_bytes": 8609,
+        "sha256": "6a211ea08e85505cf910d17fe706ecea5919c6d6fa7785d4fb95cd6123d12e94",
+        "git_blob_sha": "f97ed5f118f330430a4216853e6adc26bb65d3a3"
+      }
+    },
+    {
+      "chapter": 321,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/321_Enough_Water_for_This_Pan.md",
+        "title": "这一锅的水",
+        "body_han_characters": 2196,
+        "utf8_bytes": 7650,
+        "sha256": "2e17fff45be8cfcbd26e067681758708187bb4b6506053c47befd789dc4bca90",
+        "git_blob_sha": "f0cfefb872b75687ae7a9c051c068fc4ed791626"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/321_Enough_Water_for_This_Pan.md",
+        "title": "Enough Water for This Pan",
+        "body_words_whitespace": 1480,
+        "utf8_bytes": 8738,
+        "sha256": "7c06b7660035a4a8023259c860728a72fc76eaf76820030bbc724ae4061ac692",
+        "git_blob_sha": "d4c90227933c997a97953d9923033eb183326d5d"
+      }
+    },
+    {
+      "chapter": 322,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/322_The_Chair_He_Carried.md",
+        "title": "他搬的椅子",
+        "body_han_characters": 2247,
+        "utf8_bytes": 7903,
+        "sha256": "91a129c86f6dc8bb4567aadf8da7de4ef43eab1b355a7e53a9f5854b5b303044",
+        "git_blob_sha": "d4e2b844194f35715dcd8454ab3e7565d7cc99f3"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/322_The_Chair_He_Carried.md",
+        "title": "The Chair He Carried",
+        "body_words_whitespace": 1560,
+        "utf8_bytes": 9011,
+        "sha256": "32613fb699bf2ec0742a08463c9feca06554b93fc3b510cc6604fed79169b9ff",
+        "git_blob_sha": "b40c79c9896aaff6972b2a69852ab070d947f5d3"
+      }
+    },
+    {
+      "chapter": 323,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/323_He_Remembered_Her_Name.md",
+        "title": "他记得她的名字",
+        "body_han_characters": 2115,
+        "utf8_bytes": 7401,
+        "sha256": "715cb425d01f4d57bb5fa55b4d1633b59db73d93d92a2a501bb9f024799f2226",
+        "git_blob_sha": "98a34c4e3d72d592928347dbdca86726bfe7e3e5"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/323_He_Remembered_Her_Name.md",
+        "title": "He Remembered Her Name",
+        "body_words_whitespace": 1378,
+        "utf8_bytes": 8050,
+        "sha256": "c0cc978714d79ed33600c470aa19eab0aa2f0b3683ee7ed7d0fa1931cd7071ab",
+        "git_blob_sha": "e60e23ad1c621b9b66f9152dad6dc5457599baf8"
+      }
+    },
+    {
+      "chapter": 324,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/324_A_Greeting_For_Her.md",
+        "title": "给她的问候",
+        "body_han_characters": 1992,
+        "utf8_bytes": 7145,
+        "sha256": "dbff26f70dad8266fc47264f783d7eb111ac778cd4a2ec1e818b3342f188aee2",
+        "git_blob_sha": "9cf0d88c926bbd010cbeed9c07df50e62b5a937c"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/324_A_Greeting_For_Her.md",
+        "title": "A Greeting for Her",
+        "body_words_whitespace": 1263,
+        "utf8_bytes": 7586,
+        "sha256": "796d4716267393800303429fe2c844cbb87ccb3453cfc526052401a2c0c3e59b",
+        "git_blob_sha": "137344d8a517ef657f33be053b860f74ca969114"
+      }
+    },
+    {
+      "chapter": 325,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/325_One_Yellow_Flower.md",
+        "title": "一朵黄花",
+        "body_han_characters": 2200,
+        "utf8_bytes": 7894,
+        "sha256": "bd98c4ac9a7c9c599492c2352020d5e32bfe007ce05733b13892ace7871e2391",
+        "git_blob_sha": "6fc3c9153c2681b20fd7a5f6bcaf10b002d790e9"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/325_One_Yellow_Flower.md",
+        "title": "One Yellow Flower",
+        "body_words_whitespace": 1489,
+        "utf8_bytes": 8773,
+        "sha256": "8b36b8ce59fcb6e984201c5fec821a9aa98b1269f423afaf1df86997e5526a0f",
+        "git_blob_sha": "9e24e85697a0502f1f45ac83a7bae68196dd4996"
+      }
+    },
+    {
+      "chapter": 326,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/cn/326_The_Word_I_Used.md",
+        "title": "我用的那个词",
+        "body_han_characters": 2237,
+        "utf8_bytes": 8031,
+        "sha256": "00c32dce1c579b56862701c6a41c2df1b97bc354d77e088a73b01d6b7fcdc899",
+        "git_blob_sha": "9ebbdaa76bd1c47546b2669166165175567e06b9"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-05-317-326/en/326_The_Word_I_Used.md",
+        "title": "The Word I Used",
+        "body_words_whitespace": 1388,
+        "utf8_bytes": 8449,
+        "sha256": "e739aa3126c4b2a15ba949a5021e9d0ba4f5fb873f81a112b2ffa4a4e37f248b",
+        "git_blob_sha": "9105391996a6bb2ba4c2a22a4b26c03e6a0a8947"
+      }
+    }
+  ]
+}
