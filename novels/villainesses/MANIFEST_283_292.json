@@ -1,0 +1,246 @@
+{
+  "book": "villainesses",
+  "date": "2026-11-05",
+  "daily_quota_timezone": "Asia/Shanghai",
+  "source_main": "ded61b6510df6edbca3b28d33b2769fc1c6bf5f9",
+  "previous_contiguous_chapter": 282,
+  "existing_new_pairs_today_before_work": 0,
+  "new_chapter_range": [
+    283,
+    292
+  ],
+  "chapter_pairs": 10,
+  "manuscript_status": "complete, independently reviewed",
+  "body_count_method": {
+    "zh": "Unicode U+4E00–U+9FFF characters in body, excluding title",
+    "en": "Regex word tokens: [A-Za-z]+(?:['’-][A-Za-z]+)* in body, excluding title"
+  },
+  "totals": {
+    "zh_han": 31827,
+    "en_words": 18348
+  },
+  "files": [
+    {
+      "chapter": 283,
+      "language": "zh",
+      "path": "chapters/chapter-283.md",
+      "title": "第二百八十三章：圣女把自己的钥匙交了出去",
+      "body_count": 3121,
+      "count_unit": "Han characters",
+      "bytes": 10731,
+      "sha256": "1dd0e823d7045cd0f57539ff2b916702f67c0ef744a415afd30c2f2e39f123bc",
+      "git_blob_sha": "6eed92739263ee1ef7f9c2fa4bd16339bcdb88af"
+    },
+    {
+      "chapter": 283,
+      "language": "en",
+      "path": "en/chapter-283.md",
+      "title": "Chapter 283: The Saint Gives Away Her Key",
+      "body_count": 1805,
+      "count_unit": "English words",
+      "bytes": 11914,
+      "sha256": "d0f2a0c583f53f2555bc9baa3972076b027ef46fa16804cd11163accf4ecd527",
+      "git_blob_sha": "0dfe77c17799ea7b6ec86cfda6c01448e6eb7c1d"
+    },
+    {
+      "chapter": 284,
+      "language": "zh",
+      "path": "chapters/chapter-284.md",
+      "title": "第二百八十四章：女骑士招募了一个会说不的人",
+      "body_count": 3157,
+      "count_unit": "Han characters",
+      "bytes": 10778,
+      "sha256": "5fcc59f0b0dd0c140b108d5ed3df18e502c72d165a6784d913c1d399f31c0a86",
+      "git_blob_sha": "da65305fed7fc726d98ce216694f7ecba45a0ed7"
+    },
+    {
+      "chapter": 284,
+      "language": "en",
+      "path": "en/chapter-284.md",
+      "title": "Chapter 284: The Knight Recruits Someone Who Can Say No",
+      "body_count": 1817,
+      "count_unit": "English words",
+      "bytes": 11752,
+      "sha256": "7cc5010e673110b2466756fa65f8266efb2b843105dfc60e1998d3a6e5e4aba1",
+      "git_blob_sha": "9de6e97762daea09be5053d9511119df94db1088"
+    },
+    {
+      "chapter": 285,
+      "language": "zh",
+      "path": "chapters/chapter-285.md",
+      "title": "第二百八十五章：魔女允许别人说她错了",
+      "body_count": 3297,
+      "count_unit": "Han characters",
+      "bytes": 11147,
+      "sha256": "8d23b6f2c88bd7bfbb44721ed74b33da6042f23565bef43ac3e6fd1cf1469923",
+      "git_blob_sha": "ec4c7be7d62047dcd716ce06774b47ac5126f691"
+    },
+    {
+      "chapter": 285,
+      "language": "en",
+      "path": "en/chapter-285.md",
+      "title": "Chapter 285: The Witch Allows Someone to Call Her Wrong",
+      "body_count": 1811,
+      "count_unit": "English words",
+      "bytes": 12122,
+      "sha256": "de9cbba16f6c30ff752fa3a252069d4cabb930a5e4fe03eb947c974a1b062830",
+      "git_blob_sha": "843d7f875240a432e8d0c92e797007da14c9d50b"
+    },
+    {
+      "chapter": 286,
+      "language": "zh",
+      "path": "chapters/chapter-286.md",
+      "title": "第二百八十六章：公主没有那一票",
+      "body_count": 3088,
+      "count_unit": "Han characters",
+      "bytes": 10441,
+      "sha256": "f4837af96e434d65318fca8576540b05095918c43e39ca49952e840d25175c96",
+      "git_blob_sha": "e855e3d2981e8a75c8e678281efd607f64bd1e03"
+    },
+    {
+      "chapter": 286,
+      "language": "en",
+      "path": "en/chapter-286.md",
+      "title": "Chapter 286: The Princess Has No Vote",
+      "body_count": 1804,
+      "count_unit": "English words",
+      "bytes": 12277,
+      "sha256": "c07f54e4a40d0607665534529f192edf7c2328391978abe65fa6e120d512edda",
+      "git_blob_sha": "2c98cf252fb04248e792fd61f0bdfa1089ee99ff"
+    },
+    {
+      "chapter": 287,
+      "language": "zh",
+      "path": "chapters/chapter-287.md",
+      "title": "第二百八十七章：回执背面没有赦免",
+      "body_count": 3047,
+      "count_unit": "Han characters",
+      "bytes": 10467,
+      "sha256": "79ba7ed0f51f00d415a689596e3127318182425b3fa2db03eeda2badbb045969",
+      "git_blob_sha": "0ea03ce53b7e9803ea8552ffc36a987e0bb97153"
+    },
+    {
+      "chapter": 287,
+      "language": "en",
+      "path": "en/chapter-287.md",
+      "title": "Chapter 287: No Pardon on the Back of a Receipt",
+      "body_count": 1813,
+      "count_unit": "English words",
+      "bytes": 11887,
+      "sha256": "28c68a4735c3864c0c1f30ef79d58af0637313b0b0ebdab1deb853e9c5163672",
+      "git_blob_sha": "bb5e6f466833b07596311288f7e55b28f774b271"
+    },
+    {
+      "chapter": 288,
+      "language": "zh",
+      "path": "chapters/chapter-288.md",
+      "title": "第二百八十八章：王子的名字也要念完整",
+      "body_count": 3385,
+      "count_unit": "Han characters",
+      "bytes": 11456,
+      "sha256": "b84d19156e140b4d7bd763f55b73d77f0d46259425eca2cc8b275eeaba17a8e7",
+      "git_blob_sha": "8e92dcc41537bd72976679513e6e17bc275bacbd"
+    },
+    {
+      "chapter": 288,
+      "language": "en",
+      "path": "en/chapter-288.md",
+      "title": "Chapter 288: Read the Prince's Whole Name Too",
+      "body_count": 1894,
+      "count_unit": "English words",
+      "bytes": 12684,
+      "sha256": "5738622c822507cfa9314ee21f8b5c2b60064a2b7f37ab24d0d80f7e9b00830a",
+      "git_blob_sha": "5bda8b02c23d1ca5da729eaf9b779dbb6e2f8d98"
+    },
+    {
+      "chapter": 289,
+      "language": "zh",
+      "path": "chapters/chapter-289.md",
+      "title": "第二百八十九章：钥匙不再等一个人点头",
+      "body_count": 3267,
+      "count_unit": "Han characters",
+      "bytes": 10998,
+      "sha256": "3836da9f5f7cb10a9bb6facff90b5a1288f287aa960209f78f5d4c463d20a9fe",
+      "git_blob_sha": "66b543d369d852018a8de9e661a2cd73bf4f9fb6"
+    },
+    {
+      "chapter": 289,
+      "language": "en",
+      "path": "en/chapter-289.md",
+      "title": "Chapter 289: The Keys No Longer Wait for One Man",
+      "body_count": 1823,
+      "count_unit": "English words",
+      "bytes": 12658,
+      "sha256": "90811f7fe792885be4ec15f81bbdca681bfccff524a5b83928cc035d1647ee7e",
+      "git_blob_sha": "9b0ad7159ff551f33a5b6904ba5a524a5dbd0eef"
+    },
+    {
+      "chapter": 290,
+      "language": "zh",
+      "path": "chapters/chapter-290.md",
+      "title": "第二百九十章：第一件拆下来的东西",
+      "body_count": 3142,
+      "count_unit": "Han characters",
+      "bytes": 10745,
+      "sha256": "2d66e733e1f69821544e3069c60b0d5d80766c6a303d09daed31ad52acfc8c0d",
+      "git_blob_sha": "c52bc24fb49cbab82d63f9a1d2aed2ece47abe17"
+    },
+    {
+      "chapter": 290,
+      "language": "en",
+      "path": "en/chapter-290.md",
+      "title": "Chapter 290: The First Piece Removed",
+      "body_count": 1875,
+      "count_unit": "English words",
+      "bytes": 12383,
+      "sha256": "eab65fc140f5e4814d9cfd02a6f880fa064bce9eac3f8909c5ec22de60d1ceab",
+      "git_blob_sha": "b4ec490a0011a1905ac6665acb686be480c0fc1a"
+    },
+    {
+      "chapter": 291,
+      "language": "zh",
+      "path": "chapters/chapter-291.md",
+      "title": "第二百九十一章：留下历史，不留下等候",
+      "body_count": 3127,
+      "count_unit": "Han characters",
+      "bytes": 10731,
+      "sha256": "607c2baaf4c4bdcc409f49e2042b4a2151709acdb417be9018537eb28420c74e",
+      "git_blob_sha": "330e0dba3a6d82ce0cf5e21fdbd6a891f0e7e2a2"
+    },
+    {
+      "chapter": 291,
+      "language": "en",
+      "path": "en/chapter-291.md",
+      "title": "Chapter 291: Preserve the Past, Not the Waiting",
+      "body_count": 1866,
+      "count_unit": "English words",
+      "bytes": 12055,
+      "sha256": "86eb5734d47c0f424dc38d3bd1aecac224fdcc912c0c975014b8bab1592466c8",
+      "git_blob_sha": "b64f6bacaa6f26b41deca4963d91f6056d52d62d"
+    },
+    {
+      "chapter": 292,
+      "language": "zh",
+      "path": "chapters/chapter-292.md",
+      "title": "第二百九十二章：她们没有走向同一个门口",
+      "body_count": 3196,
+      "count_unit": "Han characters",
+      "bytes": 10976,
+      "sha256": "811c347093b676546739f2c143635b45f98d6a7ee39a0fac24bd05860ae8b000",
+      "git_blob_sha": "99f4865187db276caa0519cce5cbf6db575b072b"
+    },
+    {
+      "chapter": 292,
+      "language": "en",
+      "path": "en/chapter-292.md",
+      "title": "Chapter 292: They Didn't Leave Through the Same Door",
+      "body_count": 1840,
+      "count_unit": "English words",
+      "bytes": 11611,
+      "sha256": "5445b0b3a097a8178f2c207db4f0c91d8a738224dc9538744f77414e3389732b",
+      "git_blob_sha": "6e3e089ca16b53e2fe92e597b3934a4901d265f6"
+    }
+  ],
+  "remote_acceptance": "Requires post-push readback of every new file against these hashes; manifest itself records intended manuscript contents.",
+  "publication": "No platform publication action taken."
+}
