@@ -88,3 +88,11 @@ Complete English Chapters 116–125 passed independent full-text review. Active 
 ## Verified publication — 2026-11-04
 
 Chapters 116–125 were publicly released in Main/Public/Now and verified against the complete fixed-source English bodies at `dc6d3477593041563420567383344d048484f987`. Actual release interval: Beijing 09:01:39–09:11:36. Today: 10/10 new public chapters. Final inspection of all seven management pages found 125 unique consecutive Public chapters, no drafts or schedules. Every new reader page passed complete body/title/number verification. See `publication/2026-11-04.json`. Reviewed complete unpublished inventory: 0. Chapters 126–250 remain planning only. Old chapter text, author notes/images and book metadata were not modified.
+
+## Reviewed writing batch — 2026-11-05
+
+Complete English Chapters 126–135 passed independent full-text review and targeted corrections. Active manuscripts now 001–135. Each new chapter contains 1,800–2,200 English body words. See `reviews/2026-11-05.json`, `reviews/2026-11-05.md`, and `progress/2026-11-05.md`. Chapters 136–250 remain planning, not completed stock.
+
+## Publication blocked — 2026-11-05
+
+The current public page showed 125 chapters and ended at Chapter 125, A Room Borrowed for Now. The author manager redirected to the ordinary sign-in page, so current drafts, scheduled chapters, exact release timestamps, and the Beijing daily quota could not be verified. This run attempted no publication and made no platform changes. Newly reviewed 126–135 are repository manuscripts only and are not claimed public. Resume with fresh authenticated inventory, chapter-order and actual-time quota checks before releasing any chapter, at most ten new public chapters per Beijing natural day. See `publication/2026-11-05.json`.

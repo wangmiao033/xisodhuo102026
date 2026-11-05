@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "novelpiaId": 6408,
+  "status": "blocked-authentication-preflight",
+  "publicUrl": "https://global.novelpia.com/novel/6408",
+  "managerUrl": "https://global.novelpia.com/writer_room/novels/6408",
+  "checkedUtc": "2026-11-05T00:54:14Z",
+  "observedPublicTotal": 125,
+  "lastObservedPublicChapter": 125,
+  "lastObservedPublicTitle": "A Room Borrowed for Now",
+  "publicInventoryScope": "Header and first/last public list pages only; no full existing body reread.",
+  "managerOutcome": "Redirected to https://global.novelpia.com/?login_req=1; ordinary sign-in form shown.",
+  "currentDrafts": null,
+  "currentScheduled": null,
+  "todayActualPublicCount": null,
+  "preciseReleaseTimesVerified": false,
+  "thisRunNewPublications": 0,
+  "publicationAttempts": 0,
+  "platformWrites": 0,
+  "reviewedRepositoryRange": [
+    126,
+    135
+  ],
+  "newReviewedManuscriptCount": 10,
+  "publishedByThisRecord": false,
+  "resumeRequires": "Fresh authenticated inventory, consecutive order and actual-time daily quota; release reviewed stock before further drafting.",
+  "chapters": []
+}

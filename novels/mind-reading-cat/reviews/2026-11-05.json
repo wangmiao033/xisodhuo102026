@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-05",
+  "novelpiaId": 6408,
+  "range": [
+    126,
+    135
+  ],
+  "status": "independent-full-text-review-passed",
+  "reviewers": {
+    "126-130": "Independent complete-prose review by the writer of 131-135, not the author of 126-130",
+    "131-135": "Independent complete-prose review by the writer of 126-130, not the author of 131-135"
+  },
+  "leadFullTextRead": true,
+  "chapters": [
+    {
+      "chapter": 126,
+      "heading": "Chapter 126 — Ready at Last",
+      "path": "chapters/en/126-ready-at-last.md",
+      "words": 1864,
+      "sha256": "d3f19ad3777864c55cefb5c7d217f400773a077b71cd3eb172088b042edcfb4a",
+      "git_blob_sha1": "81af676decf2698dfa9d196716382695532b68d5"
+    },
+    {
+      "chapter": 127,
+      "heading": "Chapter 127 — The First Week Outside the Photographs",
+      "path": "chapters/en/127-the-first-week-outside-the-photographs.md",
+      "words": 1861,
+      "sha256": "d25987d0c950c4aacd8623cd75797189af256d7f4ed6b2d715f57644b2eaae0a",
+      "git_blob_sha1": "93c47d66c9eb45a6cfa47ae126cab608d379a521"
+    },
+    {
+      "chapter": 128,
+      "heading": "Chapter 128 — The Day She Wanted to Give the Dog Back",
+      "path": "chapters/en/128-the-day-she-wanted-to-give-the-dog-back.md",
+      "words": 1828,
+      "sha256": "93efc30787a8216dd8b895f3ebe31813bfa77a8f89da2a0c5732734b68049f18",
+      "git_blob_sha1": "eea89b9f3cbb5bd4f93148b15e18c8c7f0138a9e"
+    },
+    {
+      "chapter": 129,
+      "heading": "Chapter 129 — Which Part Can Someone Else Help With?",
+      "path": "chapters/en/129-which-part-can-someone-else-help-with.md",
+      "words": 1910,
+      "sha256": "ed915c74621d52431f418bfd658746bea84f102810f7cc14e3b2f0b27f9cb67d",
+      "git_blob_sha1": "c42cc91ad917579f125d9eefc0df32fb464eee2c"
+    },
+    {
+      "chapter": 130,
+      "heading": "Chapter 130 — A Photograph Without a Miracle",
+      "path": "chapters/en/130-a-photograph-without-a-miracle.md",
+      "words": 1895,
+      "sha256": "0b4dbf65c32760bdb27200ffb45418ee9d8c9236e5782a5518c4a92e0e79a425",
+      "git_blob_sha1": "7dc1dc61987c7ba7d397f320eaa3d22ab622a404"
+    },
+    {
+      "chapter": 131,
+      "heading": "Chapter 131 — He Is Not the Ideal Answer",
+      "path": "chapters/en/131-he-is-not-the-ideal-answer.md",
+      "words": 1861,
+      "sha256": "776e7da2f92bc41730fec39a73052c0a9e80b5539a1c63e64f3d02dcd3068344",
+      "git_blob_sha1": "c641430ef856b44d1b8e1a9c1765b5af2ca9a0c0"
+    },
+    {
+      "chapter": 132,
+      "heading": "Chapter 132 — Ordinary Questions They Cannot Answer",
+      "path": "chapters/en/132-ordinary-questions-they-cannot-answer.md",
+      "words": 1912,
+      "sha256": "2c4d12d05a02337a5afeedf9709d5b938fd55fc122f9128037a842b7a14c57d3",
+      "git_blob_sha1": "9f1297bd37b919395c9f17b4c716f4a3575a6424"
+    },
+    {
+      "chapter": 133,
+      "heading": "Chapter 133 — You Answered for Me Just Now",
+      "path": "chapters/en/133-you-answered-for-me-just-now.md",
+      "words": 1910,
+      "sha256": "7bec4620a9a41775c21b7559eb59d261411870b9eb3c87795ef10b415f52e5f8",
+      "git_blob_sha1": "9035a319ed9ec97200ce85d438f796f34946fa25"
+    },
+    {
+      "chapter": 134,
+      "heading": "Chapter 134 — Each Handles Their Own Side",
+      "path": "chapters/en/134-each-handles-their-own-side.md",
+      "words": 1905,
+      "sha256": "1901a58b7dff5cbdaa24877ad1e893643e0ed47d3a4c8af7276f0e233c90bcf7",
+      "git_blob_sha1": "325bf84fca775056753646627ef7fb5f84f80ccf"
+    },
+    {
+      "chapter": 135,
+      "heading": "Chapter 135 — The Place I Want to Show You",
+      "path": "chapters/en/135-the-place-i-want-to-show-you.md",
+      "words": 1839,
+      "sha256": "ea9e87c178cc163ed35af58e0afcb9b2892d2058f90d9fc416d0000d622b9482",
+      "git_blob_sha1": "463168a7791d07dcee837ca15ec46c2bae8efa77"
+    }
+  ],
+  "publicationClaim": false
+}
