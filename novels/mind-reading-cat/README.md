@@ -93,6 +93,8 @@ Chapters 116–125 were publicly released in Main/Public/Now and verified agains
 
 Complete English Chapters 126–135 passed independent full-text review and targeted corrections. Active manuscripts now 001–135. Each new chapter contains 1,800–2,200 English body words. See `reviews/2026-11-05.json`, `reviews/2026-11-05.md`, and `progress/2026-11-05.md`. Chapters 136–250 remain planning, not completed stock.
 
-## Publication blocked — 2026-11-05
+## Verified publication — 2026-11-05
 
-The current public page showed 125 chapters and ended at Chapter 125, A Room Borrowed for Now. The author manager redirected to the ordinary sign-in page, so current drafts, scheduled chapters, exact release timestamps, and the Beijing daily quota could not be verified. This run attempted no publication and made no platform changes. Newly reviewed 126–135 are repository manuscripts only and are not claimed public. Resume with fresh authenticated inventory, chapter-order and actual-time quota checks before releasing any chapter, at most ten new public chapters per Beijing natural day. See `publication/2026-11-05.json`.
+Chapters 126–135 were publicly released in order as Main/Public/Now and each complete reader body, title, and chapter number verified against reviewed manuscript commit `ee0afc477d0610a472e00cb7099f238ca4ce8860`. Actual release interval: Beijing 10:08:39–10:20:50. Today's new-public count is exactly 10/10. Final inspection of all seven management pages found 135 unique consecutive Public chapters, no drafts and no scheduled chapters. Reviewed complete manuscripts and public progress both reach 135; reviewed complete unpublished inventory is zero. Chapters 136–250 remain planning only. See `publication/2026-11-05.json` for chapter URLs, exact UTC/Beijing times, and source hashes.
+
+The initial sign-in blocker was resolved before publishing. A fresh authenticated preflight verified all 125 existing public entries, zero drafts/schedules, and zero Beijing November 5 releases before the first new publication. No previous-day shortfall or future quota was used. Old chapter text, author notes/images and book metadata were not modified.
