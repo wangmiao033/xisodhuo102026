@@ -1,0 +1,211 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "writing_date_bjt": "2026-11-06",
+  "archive_only": true,
+  "new_bilingual_chapters": 10,
+  "chapter_range": [
+    327,
+    336
+  ],
+  "preflight_main": "bfffebbfb1d1df402566b0d0450da099a41c2769",
+  "preflight_existing_continuous_bilingual_mainline": {
+    "first": 127,
+    "last": 326,
+    "pairs": 200
+  },
+  "first_write_date_deduplicated": true,
+  "independent_full_review": "passed_after_corrections",
+  "counting": "CN/EN same chapter counts once; headings excluded; CN Han characters; EN whitespace-separated words",
+  "chapters": [
+    {
+      "chapter": 327,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/327_A_Hello_Delivered.md",
+        "title": "送到的问候",
+        "body_han_characters": 1970,
+        "utf8_bytes": 6966,
+        "sha256": "5cabedc736ce1389d683ebc4c5c7020d5c3b812d7a03e33c01a1fdc4c7cdfd28",
+        "git_blob_sha": "5c9024b7f412b15ee6e63dc1ce13cff74421a529"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/327_A_Hello_Delivered.md",
+        "title": "A Hello Delivered",
+        "body_words_whitespace": 1355,
+        "utf8_bytes": 7808,
+        "sha256": "c0d734823a80c0ba1b290876261643c55b32eabc4fb5b4eab9e4e82b2c78cc26",
+        "git_blob_sha": "2e30433b20a6801c60fd105197850238e85b1865"
+      }
+    },
+    {
+      "chapter": 328,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/328_The_Copy_I_Could_Lend.md",
+        "title": "可以借出的那份",
+        "body_han_characters": 1940,
+        "utf8_bytes": 6804,
+        "sha256": "c07623589daba832f95adfec50627751e48a0251fb98d0cf9736545ca81dd462",
+        "git_blob_sha": "3f8bd09d84c0b2b52200489e27a2d526c703ac11"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/328_The_Copy_I_Could_Lend.md",
+        "title": "The Copy I Could Lend",
+        "body_words_whitespace": 1319,
+        "utf8_bytes": 7545,
+        "sha256": "6028092a25fa0d79baf6058ddee70448ffa55c5e2863736bab70aa0908ae0f95",
+        "git_blob_sha": "6fa454921c1112ce3da1c7578b4851fcec5e115a"
+      }
+    },
+    {
+      "chapter": 329,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/329_The_Listener_in_the_Back_Row.md",
+        "title": "后排的听众",
+        "body_han_characters": 1960,
+        "utf8_bytes": 6922,
+        "sha256": "e256da0cab5a6800abfe423b4ed67a869851494268cffda4431e4e68d8de4cd1",
+        "git_blob_sha": "d931a4622ccc7f08b95a8c95708b7676305bd084"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/329_The_Listener_in_the_Back_Row.md",
+        "title": "The Listener in the Back Row",
+        "body_words_whitespace": 1333,
+        "utf8_bytes": 7706,
+        "sha256": "e7bf011c5a25f78156a46566f8ed6c3e2e279a30bbc0093fe7b5d53ec11eacd4",
+        "git_blob_sha": "7baf53c551370b9e05269567a7352fcc44ccf1f2"
+      }
+    },
+    {
+      "chapter": 330,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/330_Where_Their_Feet_Were.md",
+        "title": "他们的脚放在哪里",
+        "body_han_characters": 1991,
+        "utf8_bytes": 6989,
+        "sha256": "f8588dd21e8375c4b6b33125560bb32951ac1c150a06e3309f49f8867ca18239",
+        "git_blob_sha": "4ba6d5ad05273b082119ac5e9d41bf337efeb201"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/330_Where_Their_Feet_Were.md",
+        "title": "Where Their Feet Were",
+        "body_words_whitespace": 1328,
+        "utf8_bytes": 7816,
+        "sha256": "aa528ba32ef9eb642003a833f13f8e4c8373e584b1608333b94e0dc2b44491f0",
+        "git_blob_sha": "0f4f8b0a5fa403ee5eb7e323696291579ba01bdf"
+      }
+    },
+    {
+      "chapter": 331,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/331_The_Empty_Bottle.md",
+        "title": "空下来的瓶子",
+        "body_han_characters": 1899,
+        "utf8_bytes": 6655,
+        "sha256": "91919b35ee195443b8271eba494f851edaee0c1311b3a4dc281792f4cac3f380",
+        "git_blob_sha": "684741af1138a17cbdcba0615afaa1f6473f73bd"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/331_The_Empty_Bottle.md",
+        "title": "The Empty Bottle",
+        "body_words_whitespace": 1333,
+        "utf8_bytes": 7590,
+        "sha256": "01aefd3f3560f6483bb110d8e78db506eb58d64213a20557744eaa05de986a79",
+        "git_blob_sha": "9cb0b4ff761ceedfc91027551e307a63977e010a"
+      }
+    },
+    {
+      "chapter": 332,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/332_The_Question_for_Monday.md",
+        "title": "留到星期一的问题",
+        "body_han_characters": 1898,
+        "utf8_bytes": 6717,
+        "sha256": "185f735c9ed827af13bb76eeb88a6c2ee3c72db86ab2ea7a342343436ad2f04b",
+        "git_blob_sha": "ad510c9e231f25639dc4a1abf985327371a55991"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/332_The_Question_for_Monday.md",
+        "title": "The Question for Monday",
+        "body_words_whitespace": 1358,
+        "utf8_bytes": 7869,
+        "sha256": "0bb6a717694d56c7917aa6c1dee0efe2b15a80eef68001e772b3bbb02a66a1e5",
+        "git_blob_sha": "8396d32e469f7df8acc9f1ceb74a1c180e87644b"
+      }
+    },
+    {
+      "chapter": 333,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/333_A_Time_I_Could_Keep.md",
+        "title": "我能在家的时间",
+        "body_han_characters": 1991,
+        "utf8_bytes": 6982,
+        "sha256": "41f3096c0d1d4e803f53a16d453b3d2805d9055fc91492a9bd8ffa00e67b80c7",
+        "git_blob_sha": "e5b234f077b584e35a42d054fe731b83ab2d0275"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/333_A_Time_I_Could_Keep.md",
+        "title": "A Time I Could Keep",
+        "body_words_whitespace": 1419,
+        "utf8_bytes": 8185,
+        "sha256": "58d28f6b8cd84574e2e929a880899a5fbffbf6477045c7ebe4660eb2c7ca4841",
+        "git_blob_sha": "67b466b1928120ebf1b511387191952139fe57cb"
+      }
+    },
+    {
+      "chapter": 334,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/334_A_Little_Less.md",
+        "title": "少一点就好",
+        "body_han_characters": 1913,
+        "utf8_bytes": 6795,
+        "sha256": "55de4c88c6f38f0b0d5f946a61c5f3a2675861685f71c01bfb0e4646d8ee5361",
+        "git_blob_sha": "3671bbc3ccd1a38f0a21a97a8994983a90c49f63"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/334_A_Little_Less.md",
+        "title": "A Little Less",
+        "body_words_whitespace": 1395,
+        "utf8_bytes": 7874,
+        "sha256": "4aded4b8670d9e69ee9f074ea7f5beb87c2ca9140791f788c34e073e4268bfd9",
+        "git_blob_sha": "2648c9553ef39f766d3ccbb435c2497b5ed5876d"
+      }
+    },
+    {
+      "chapter": 335,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/335_What_He_Could_See.md",
+        "title": "他能看见的部分",
+        "body_han_characters": 1939,
+        "utf8_bytes": 6719,
+        "sha256": "4d29c3a4441b928554675fde0d0a93d9ba19ce3429f14245b55c9988d203b9a7",
+        "git_blob_sha": "a542baa1aab26785f18245726266c2aef50ecb2a"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/335_What_He_Could_See.md",
+        "title": "What He Could See",
+        "body_words_whitespace": 1400,
+        "utf8_bytes": 8168,
+        "sha256": "2d2bbf5ba7eeb41575c3727211442082d66b091a70a5d5cd3853cc1446734330",
+        "git_blob_sha": "c613edfb01aea0e754cade062cd8348771b80c89"
+      }
+    },
+    {
+      "chapter": 336,
+      "cn": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/cn/336_An_Evening_Between.md",
+        "title": "中间的这个晚上",
+        "body_han_characters": 1916,
+        "utf8_bytes": 6822,
+        "sha256": "8d5e9abcf131a71cd5a2c62944d28b1898764dc49f542f4b06417c3470db5133",
+        "git_blob_sha": "9e21302b6a1c63ead33f7b426604552c5729dafa"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/daily-2026-11-06-327-336/en/336_An_Evening_Between.md",
+        "title": "An Evening Between",
+        "body_words_whitespace": 1400,
+        "utf8_bytes": 7958,
+        "sha256": "738a13b19638930595d0cff978a03ceddf011b0423038f88b8f90ada7eba46b4",
+        "git_blob_sha": "eb472743252ebf7eefebd8c77ec80a747b5dbe04"
+      }
+    }
+  ]
+}
