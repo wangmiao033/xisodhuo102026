@@ -1,0 +1,15 @@
+{
+  "chapter": 123,
+  "title": "谁认的这一页",
+  "date_bjt": "2026-11-06",
+  "han_characters": 3709,
+  "body_characters_without_final_newline": 4808,
+  "body_paragraphs": 204,
+  "markdown_path": "novels/auction-house-apprentice/chapters/cn/123-shui-ren-de-zhe-yi-ye.md",
+  "markdown_sha256": "2229a8e87252ee19722b5fc28fc4ae1ec86594b288c0dc3013609e38af8c14d0",
+  "publish_path": "novels/auction-house-apprentice/publication/publish-text/ch123.txt",
+  "publish_sha256": "2743c4cc97f282e51318895a8f800ea20c3464e06d03336614ce32357d4bcb07",
+  "independent_review": "PASS",
+  "platform_status_at_manuscript_commit": "not_submitted",
+  "source_base_commit": "bfffebbfb1d1df402566b0d0450da099a41c2769"
+}

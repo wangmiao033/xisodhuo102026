@@ -1,0 +1,36 @@
+{
+  "date_bjt": "2026-11-06",
+  "book_id": "7681620262432820248",
+  "author": "沉灯照骨",
+  "all_pages_checked": 9,
+  "listed_total": 121,
+  "published_total": 121,
+  "highest_chapter": 122,
+  "historical_missing_chapters": [
+    42
+  ],
+  "reviewing_count": 0,
+  "scheduled_or_waiting_count": 0,
+  "rejected_count": 0,
+  "draft_count": 13,
+  "drafts_unchanged": "September legacy drafts, untouched",
+  "new_published_today": 0,
+  "new_published_previous_day": 0,
+  "platform_calendar_nov5_words": 0,
+  "platform_calendar_nov6_words": 0,
+  "latest_published": {
+    "chapter": 122,
+    "title": "箭头朝哪边",
+    "display_time": "2026-11-04 10:08",
+    "platform_timezone": "not displayed",
+    "platform_words": 4424,
+    "preview_paragraphs": 178,
+    "full_text_exact_fixed_source": true
+  },
+  "repository_latest_book_commit": "ded61b6510df6edbca3b28d33b2769fc1c6bf5f9",
+  "repository_today_book_commits_before_writing": 0,
+  "next_candidate": 123,
+  "session_login_reused": true,
+  "authentication_requested_this_run": false,
+  "precheck_recorded_at_utc": "2026-11-06T00:53:15.137344+00:00"
+}
