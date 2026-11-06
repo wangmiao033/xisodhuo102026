@@ -1,0 +1,37 @@
+{
+  "date_bjt": "2026-11-06",
+  "candidate_chapter": 124,
+  "book_id": "7681620262432820248",
+  "author": "沉灯照骨",
+  "author_level": "Lv.2",
+  "book_mode": "连载模式",
+  "repository_main_before_work": "c7bceb0c8e21917614f80bfb3df617c18c75ebdd",
+  "repository_has_ch124": false,
+  "all_pages_checked": 9,
+  "published_total": 122,
+  "highest_chapter": 123,
+  "historical_missing_chapters": [
+    42
+  ],
+  "today_published": [
+    {
+      "chapter": 123,
+      "title": "谁认的这一页",
+      "platform_words": 4401,
+      "display_time": "2026-11-06 11:04"
+    }
+  ],
+  "yesterday_published_count": 0,
+  "reviewing_count": 0,
+  "pending_release_count": 0,
+  "draft_count": 13,
+  "drafts_note": "Only untouched September legacy drafts, no chapter124",
+  "user_daily_write_limit_current": 2,
+  "user_daily_public_limit_current": 2,
+  "today_write_used_before_124": 1,
+  "today_public_used_before_124": 1,
+  "platform_daily_char_limit_exclusive": 30000,
+  "platform_monthly_char_limit_exclusive": 600000,
+  "platform_rules_url": "https://fanqienovel.com/writer/zone/article/7639950766869839897",
+  "recorded_at_utc": "2026-11-06T03:47:40.159704+00:00"
+}

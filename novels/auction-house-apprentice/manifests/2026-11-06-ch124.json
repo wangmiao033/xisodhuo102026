@@ -1,0 +1,18 @@
+{
+  "chapter": 124,
+  "title": "留存的半联",
+  "date_bjt": "2026-11-06",
+  "han_characters": 3702,
+  "body_characters_without_final_newline": 4759,
+  "body_paragraphs": 190,
+  "markdown_path": "novels/auction-house-apprentice/chapters/cn/124-liu-cun-de-ban-lian.md",
+  "markdown_sha256": "a5055a3da9766c40197e66fb049b5a720da1309d6668945554050ca4ff0c33c5",
+  "publish_path": "novels/auction-house-apprentice/publication/publish-text/ch124.txt",
+  "publish_sha256": "0f70c950bbd9f3f355bef3b35ad9dc7b5d81dda829f8481dbc2b13d57ca8e81b",
+  "independent_review": "PASS",
+  "platform_status_at_manuscript_commit": "not_submitted",
+  "source_base_commit": "c7bceb0c8e21917614f80bfb3df617c18c75ebdd",
+  "current_daily_write_limit": 2,
+  "current_daily_public_limit": 2,
+  "today_first_chapter": 123
+}
