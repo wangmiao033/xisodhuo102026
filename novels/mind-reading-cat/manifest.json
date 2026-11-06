@@ -1083,6 +1083,86 @@
       "words": 1839,
       "sha256": "ea9e87c178cc163ed35af58e0afcb9b2892d2058f90d9fc416d0000d622b9482",
       "git_blob_sha1": "463168a7791d07dcee837ca15ec46c2bae8efa77"
+    },
+    {
+      "chapter": 136,
+      "heading": "Chapter 136 — The Blue Door Behind the Cups",
+      "path": "chapters/en/136-the-blue-door-behind-the-cups.md",
+      "words": 1852,
+      "sha256": "45ceee3bac3b4ad76ad10039d444375fa80578ff3370eca49ea071eb64772390",
+      "git_blob_sha1": "7bac339e88a48824254adf31682617b83c69c6ad"
+    },
+    {
+      "chapter": 137,
+      "heading": "Chapter 137 — A Familiar Tap Against a Bowl",
+      "path": "chapters/en/137-a-familiar-tap-against-a-bowl.md",
+      "words": 1890,
+      "sha256": "ccd612eae02ae9066997fa3ee4e75d15206212c22533c7279cb189f3862f00b6",
+      "git_blob_sha1": "36c8f6cf10705e7e8d37a6394ea84d3959ab40c0"
+    },
+    {
+      "chapter": 138,
+      "heading": "Chapter 138 — The Temporary Room, Emptied Out",
+      "path": "chapters/en/138-the-temporary-room-emptied-out.md",
+      "words": 1873,
+      "sha256": "58f655ecfebcdcc7e869c9d4cf04095027e29e7727838956db0158ea387fc198",
+      "git_blob_sha1": "d6c03625cf98759b2bdc544414c8953f31c0c24d"
+    },
+    {
+      "chapter": 139,
+      "heading": "Chapter 139 — There May Be No Villain",
+      "path": "chapters/en/139-there-may-be-no-villain.md",
+      "words": 1852,
+      "sha256": "36dcb8e9f04c7d798235c19b487bb4e395fcdccf99e37cf56428e7d7ba91de86",
+      "git_blob_sha1": "db2d01fd8737016cd855341ad444fcae8dff0055"
+    },
+    {
+      "chapter": 140,
+      "heading": "Chapter 140 — This Bed Does Not Require Good Behavior",
+      "path": "chapters/en/140-this-bed-does-not-require-good-behavior.md",
+      "words": 1873,
+      "sha256": "fd13edbf443b8c9e66f7567966799f053be0be644cfef09f7ee5a5eac12867f8",
+      "git_blob_sha1": "ee6b66329a71e53737dc1af89134c96a5efe61ba"
+    },
+    {
+      "chapter": 141,
+      "heading": "Chapter 141 — The Offer with a Calendar",
+      "path": "chapters/en/141-the-offer-with-a-calendar.md",
+      "words": 1946,
+      "sha256": "0a9c99b9a4380d25dc1e1a490b79f7cef111874c3b5a1ca10d02dd36598831fa",
+      "git_blob_sha1": "93e6fc203aa8c6f1c1ca3b4208cf0dea377ac4aa"
+    },
+    {
+      "chapter": 142,
+      "heading": "Chapter 142 — The Sentence They Wanted Gone",
+      "path": "chapters/en/142-the-sentence-they-wanted-gone.md",
+      "words": 1872,
+      "sha256": "0aaf62000b9a1b6dbddfc41d56d1cc624802c77e2a21adb7f875461fc6d0edde",
+      "git_blob_sha1": "2f54d092e1bb15c69e5f9ce8eac394fee01a2c15"
+    },
+    {
+      "chapter": 143,
+      "heading": "Chapter 143 — The Space Beside the Figures",
+      "path": "chapters/en/143-the-space-beside-the-figures.md",
+      "words": 1839,
+      "sha256": "4d0fda9ca1b8f0b3f4950e74804dcb6d88a833fe577e5837d9f82bd18661fcb4",
+      "git_blob_sha1": "a57aa90108c48f20962e6541ad781663b11a3a01"
+    },
+    {
+      "chapter": 144,
+      "heading": "Chapter 144 — Two Projects, Not the Whole Account",
+      "path": "chapters/en/144-two-projects-not-the-whole-account.md",
+      "words": 1832,
+      "sha256": "8b2c6d62662fddf80437d9ebe376e610bf05fd5b8e5a23a80a27e7aa316c75de",
+      "git_blob_sha1": "088905a08b8dc6476bb8c8896ac516fdb16e46dd"
+    },
+    {
+      "chapter": 145,
+      "heading": "Chapter 145 — The Next Six Places",
+      "path": "chapters/en/145-the-next-six-places.md",
+      "words": 1937,
+      "sha256": "34eb28256357535c32e5a46116569ab02a88efc53564d44c584d8a65541685c0",
+      "git_blob_sha1": "27498250c95a18eb6f7a74c48c16f508c495040e"
     }
   ]
 }

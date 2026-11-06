@@ -1,0 +1,383 @@
+{
+  "review_date": "2026-11-06",
+  "completed_utc": "2026-11-06T00:58:42.167862+00:00",
+  "status": "passed",
+  "novel": "My Mind-Reading Cat Is Trying to Set Me Up with the Vet",
+  "range": [
+    136,
+    145
+  ],
+  "independent_of_drafting": true,
+  "manuscript_edits_by_reviewer": false,
+  "scope": {
+    "complete_new_chapters_read": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "background_chapters_read": [
+      {
+        "chapter": 15,
+        "path": "chapters/en/015-not-today-is-not-never.md",
+        "sha256": "bb9ffcd310c2d2892f6011fa729efef53992b4c64c0279b6a50b62ccc8512a66",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 21,
+        "path": "chapters/en/021-boxes-again.md",
+        "sha256": "8c78a878a574a55f77f3caca1212e81b1ceb2fd47a5678a0c8edece9c6770314",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 22,
+        "path": "chapters/en/022-the-mark-beneath-the-fur.md",
+        "sha256": "570f4a32e41433061809913e214a83f3708cc86fa32ac4be466353f3a0b2655c",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 31,
+        "path": "chapters/en/031-a-proper-offer.md",
+        "sha256": "c595ff4055228ba7971134e16a372f1de9096fe08b3b5b68b61d0023bca7d2cb",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 32,
+        "path": "chapters/en/032-the-terms-in-brackets.md",
+        "sha256": "40ee8cd38efe54afbac5f0fb069d98a205d5b0d5a0ac4973c868f0ff744fd92c",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 33,
+        "path": "chapters/en/033-the-cat-is-closed-today.md",
+        "sha256": "0134569d34a1ca3b6e7ba9dab43b78d6b62980a14456ab435a8b6e0bf9333f6c",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 34,
+        "path": "chapters/en/034-more-than-the-cat.md",
+        "sha256": "e9202f45df8900cb5817f8f49591e2c5e4da8deafc64509c62198fb61a14ffff",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 35,
+        "path": "chapters/en/035-my-name-on-the-agreement.md",
+        "sha256": "0a12eb35a9b341c1c10edd6166817d01a17d47e5b0204897994be4a442c94608",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 71,
+        "path": "chapters/en/071-the-hidden-key-pouch.md",
+        "sha256": "61d35ee31726d337bdc86a94185aeff1c495d340ddeb1198e1125d6c6cb2e791",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 72,
+        "path": "chapters/en/072-the-evening-they-both-stayed.md",
+        "sha256": "aca588660031f049df92f86cd2905d37afe0c12f12fb2ce1e42e9e5f8518f820",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 73,
+        "path": "chapters/en/073-a-corner-of-an-old-photograph.md",
+        "sha256": "c4ec926d41539f97b8492d5a2c4cb4ba0936c82d72670927ef8ed849f53cace0",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 74,
+        "path": "chapters/en/074-fear-is-not-a-joke-to-film.md",
+        "sha256": "34ce07bfae3712792b45b25d251df56f06c9e5b803625281f2f5c1d49c8b1906",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 111,
+        "path": "chapters/en/111-shes-not-available.md",
+        "sha256": "c9fc889ab5dc85a2d4e8f77c3284c21ab409ba1d2c37e8186f4bb46067ad762e",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 112,
+        "path": "chapters/en/112-a-work-call-at-dinner.md",
+        "sha256": "09e21743e1371089a344d176a39381ead34e1df214903f5d2872b4c1e5114046",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 113,
+        "path": "chapters/en/113-a-weekend-without-cat-or-boyfriend.md",
+        "sha256": "0990683aa94f55bd5f4b45ac46c1520ef5f5ec4e6c2e4c51b56c10d12443423b",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 114,
+        "path": "chapters/en/114-an-event-someone-else-leads.md",
+        "sha256": "302e7f24554867f372e1363fedee222d7afb571841df1b7582ed6c96cad3881c",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 115,
+        "path": "chapters/en/115-next-time-ill-ask-about-you.md",
+        "sha256": "e9a68ad37094cc3f679ff6f623f217dd8c0d6015a24d30c8a7ae911ab5a59a2b",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 121,
+        "path": "chapters/en/121-what-will-the-audience-pay-for.md",
+        "sha256": "14cfeedab831e47998c7326e5331e46e7f33c71aaf90ccaac54c7878b68abdc7",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 122,
+        "path": "chapters/en/122-the-first-session-doesnt-sell-out.md",
+        "sha256": "8570a310b9250729b47900b643f5e3810fe149e4f393ce4083ec962bbff7fd26",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 123,
+        "path": "chapters/en/123-dont-do-the-experts-job.md",
+        "sha256": "572b43ef154c62aeb9598e633a570321a2d5065a53b5843945d93ba2d0855608",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 124,
+        "path": "chapters/en/124-refunds-are-business-too.md",
+        "sha256": "88f3d89e08c97149cc812f69c64e40ba28f0534399f50cd8c9b452010b9a352a",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 125,
+        "path": "chapters/en/125-a-room-borrowed-for-now.md",
+        "sha256": "f9c14dc1c74c41a291fa00cd65e6d530eb6e46a0491b52214828e37178f7765e",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 130,
+        "path": "chapters/en/130-a-photograph-without-a-miracle.md",
+        "sha256": "0b4dbf65c32760bdb27200ffb45418ee9d8c9236e5782a5518c4a92e0e79a425",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 131,
+        "path": "chapters/en/131-he-is-not-the-ideal-answer.md",
+        "sha256": "776e7da2f92bc41730fec39a73052c0a9e80b5539a1c63e64f3d02dcd3068344",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 132,
+        "path": "chapters/en/132-ordinary-questions-they-cannot-answer.md",
+        "sha256": "2c4d12d05a02337a5afeedf9709d5b938fd55fc122f9128037a842b7a14c57d3",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 133,
+        "path": "chapters/en/133-you-answered-for-me-just-now.md",
+        "sha256": "7bec4620a9a41775c21b7559eb59d261411870b9eb3c87795ef10b415f52e5f8",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 134,
+        "path": "chapters/en/134-each-handles-their-own-side.md",
+        "sha256": "1901a58b7dff5cbdaa24877ad1e893643e0ed47d3a4c8af7276f0e233c90bcf7",
+        "read_scope": "complete chapter"
+      },
+      {
+        "chapter": 135,
+        "path": "chapters/en/135-the-place-i-want-to-show-you.md",
+        "sha256": "ea9e87c178cc163ed35af58e0afcb9b2892d2058f90d9fc416d0000d622b9482",
+        "read_scope": "complete chapter"
+      }
+    ],
+    "guidance_read": [
+      "CANON.md",
+      "REVIEW.md",
+      "README.md",
+      "progress/2026-11-05.md"
+    ],
+    "planning_scope": "Relevant approved narrative, ability, chronology, foreshadowing, repetition, and publication safeguards; complete 136–150 and 228–235 plans, with surrounding 071–075, 111–135, and later venue dependencies checked.",
+    "final_reread": "After reporting issues, reread the corrected 140 sequence and all of corrected 142; rehashed every final manuscript. Other final chapter hashes remained identical to the full-read versions."
+  },
+  "checks": [
+    {
+      "area": "Continuity and names",
+      "result": "pass",
+      "finding": "The 073 photograph is developed through dated records and clearer images. Marion is the mistaken claimant in 136/139; Ruth remains the returning 122/145 participant. Sophie explicitly pursues a newer vacancy after declining the 115 role."
+    },
+    {
+      "area": "Viewpoint and ability limits",
+      "result": "pass",
+      "finding": "Narration remains limited to Eve. Dumpling provides no speech, remote reading, memory search, diagnosis, ownership verdict, contract judgment, or other shortcut. The bowl response remains observational and inconclusive."
+    },
+    {
+      "area": "History and deferred payoff",
+      "result": "pass",
+      "finding": "Daniel supplies bounded firsthand feeding evidence. Room-use records do not establish Dumpling's nightly residence or transfer history. No former primary caregiver reunion or resolved origin advances the 228–235 arc."
+    },
+    {
+      "area": "Relationship and venue milestones",
+      "result": "pass",
+      "finding": "Eve and Julian retain separate homes, finances, invitations, and professional responsibilities. There is no lease, venue name, business partnership, training result, proposal, or cohabitation milestone imported from later planning."
+    },
+    {
+      "area": "Permissions and privacy",
+      "result": "pass",
+      "finding": "142 now distinguishes Eve's later resource post from the group-published 015 film. The original group film is unchanged. Mia's 130 story remains within its approved use; the brand does not receive a reuse license or an altered story. Research photographs and records remain private and permission-bounded."
+    },
+    {
+      "area": "Commercial and community scope",
+      "result": "pass",
+      "finding": "The quarter package, its withdrawal, the prospective shortfall, Julian's refusal to fund it, and two later independent commissions remain distinct. The 141–145 conflict concerns editorial control, not a replay of the 031–035 cat-performance license problem. Room sessions remain owners-only, nonmedical, separately booked trials with six places at most."
+    },
+    {
+      "area": "Chronology and scene movement",
+      "result": "pass",
+      "finding": "Each chapter adds an evidence, care, relationship, work, or business choice with visible consequences. The six-week passage in 145 is explicit. The corrected 140 order/payment sequence is consistent."
+    },
+    {
+      "area": "English and repetition",
+      "result": "pass",
+      "finding": "The full prose reads naturally in the established English voice. Recurring motifs function as callbacks with changed outcomes; no blocking padding or repeated complete paragraph of at least twelve words was found in 136–145."
+    },
+    {
+      "area": "Length and file integrity",
+      "result": "pass",
+      "finding": "All ten complete English bodies meet 1,800–2,200 words under both stated counting rules. Sequential headings, unique titles, UTF-8 text, final newline, no CJK manuscript text, and exact final source hashes were checked."
+    }
+  ],
+  "corrections_required_by_this_review": [
+    {
+      "chapter": 140,
+      "issue": "A replacement-printing receipt was filed before the later print-shop payment.",
+      "repair": "Changed the early reference to a replacement printing order confirmation.",
+      "reread_scope": "Corrected paragraph and the complete surrounding order, lunch, collection, and payment sequence.",
+      "status": "resolved"
+    },
+    {
+      "chapter": 142,
+      "issue": "The adoption-readiness post could be mistaken for the original group-published film from 015. The quoted sentence is not a verbatim quotation verified in 015.",
+      "repair": "Clarified that the sentence belongs to Eve's later resource post linking to the group's Not Adopting Yet film; the original remains on the group page and excludes Mia's private decision.",
+      "reread_scope": "Complete 015 source and complete corrected 142 chapter, with 141–142 linkage checked.",
+      "status": "resolved"
+    }
+  ],
+  "unresolved_issues": [],
+  "word_count_method": {
+    "whitespace": "Body only, excluding the first Markdown heading, split on whitespace.",
+    "unicode": "Body only, regular expression \\b\\w+(?:['’\\-]\\w+)*\\b."
+  },
+  "sha256_method": "Exact complete UTF-8 source file bytes, including heading and final newline; no normalization.",
+  "total_body_words": 18766,
+  "minimum_body_words": 1832,
+  "maximum_body_words": 1946,
+  "chapters": [
+    {
+      "chapter": 136,
+      "title": "The Blue Door Behind the Cups",
+      "path": "chapters/en/136-the-blue-door-behind-the-cups.md",
+      "whitespace_body_words": 1852,
+      "unicode_body_words": 1852,
+      "sha256": "45ceee3bac3b4ad76ad10039d444375fa80578ff3370eca49ea071eb64772390",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 137,
+      "title": "A Familiar Tap Against a Bowl",
+      "path": "chapters/en/137-a-familiar-tap-against-a-bowl.md",
+      "whitespace_body_words": 1890,
+      "unicode_body_words": 1890,
+      "sha256": "ccd612eae02ae9066997fa3ee4e75d15206212c22533c7279cb189f3862f00b6",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 138,
+      "title": "The Temporary Room, Emptied Out",
+      "path": "chapters/en/138-the-temporary-room-emptied-out.md",
+      "whitespace_body_words": 1873,
+      "unicode_body_words": 1873,
+      "sha256": "58f655ecfebcdcc7e869c9d4cf04095027e29e7727838956db0158ea387fc198",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 139,
+      "title": "There May Be No Villain",
+      "path": "chapters/en/139-there-may-be-no-villain.md",
+      "whitespace_body_words": 1852,
+      "unicode_body_words": 1852,
+      "sha256": "36dcb8e9f04c7d798235c19b487bb4e395fcdccf99e37cf56428e7d7ba91de86",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 140,
+      "title": "This Bed Does Not Require Good Behavior",
+      "path": "chapters/en/140-this-bed-does-not-require-good-behavior.md",
+      "whitespace_body_words": 1873,
+      "unicode_body_words": 1873,
+      "sha256": "fd13edbf443b8c9e66f7567966799f053be0be644cfef09f7ee5a5eac12867f8",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 141,
+      "title": "The Offer with a Calendar",
+      "path": "chapters/en/141-the-offer-with-a-calendar.md",
+      "whitespace_body_words": 1946,
+      "unicode_body_words": 1946,
+      "sha256": "0a9c99b9a4380d25dc1e1a490b79f7cef111874c3b5a1ca10d02dd36598831fa",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 142,
+      "title": "The Sentence They Wanted Gone",
+      "path": "chapters/en/142-the-sentence-they-wanted-gone.md",
+      "whitespace_body_words": 1872,
+      "unicode_body_words": 1872,
+      "sha256": "0aaf62000b9a1b6dbddfc41d56d1cc624802c77e2a21adb7f875461fc6d0edde",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 143,
+      "title": "The Space Beside the Figures",
+      "path": "chapters/en/143-the-space-beside-the-figures.md",
+      "whitespace_body_words": 1839,
+      "unicode_body_words": 1839,
+      "sha256": "4d0fda9ca1b8f0b3f4950e74804dcb6d88a833fe577e5837d9f82bd18661fcb4",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 144,
+      "title": "Two Projects, Not the Whole Account",
+      "path": "chapters/en/144-two-projects-not-the-whole-account.md",
+      "whitespace_body_words": 1832,
+      "unicode_body_words": 1832,
+      "sha256": "8b2c6d62662fddf80437d9ebe376e610bf05fd5b8e5a23a80a27e7aa316c75de",
+      "complete_prose_read": true,
+      "result": "pass"
+    },
+    {
+      "chapter": 145,
+      "title": "The Next Six Places",
+      "path": "chapters/en/145-the-next-six-places.md",
+      "whitespace_body_words": 1937,
+      "unicode_body_words": 1937,
+      "sha256": "34eb28256357535c32e5a46116569ab02a88efc53564d44c584d8a65541685c0",
+      "complete_prose_read": true,
+      "result": "pass"
+    }
+  ],
+  "limitations": [
+    "This is a manuscript review, not a full reread of Chapters 001–135. Only the stated earlier chapters were read in full.",
+    "No GitHub, browser, platform, publication, schedule, or reader-body verification actions were performed by this reviewer.",
+    "Pass applies only to the exact ten source hashes recorded here. Any later manuscript change requires review of the changed text and refreshed hashes."
+  ]
+}
