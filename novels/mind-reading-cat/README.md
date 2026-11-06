@@ -102,3 +102,7 @@ The initial sign-in blocker was resolved before publishing. A fresh authenticate
 ## Reviewed writing batch — 2026-11-06
 
 Complete English Chapters 136–145 passed independent full-text review and corrections. Total new prose: 18,766 words; each chapter is 1,832–1,946 words. Active manuscripts now 001–145. See `reviews/2026-11-06-independent.json`, `reviews/2026-11-06-independent.md`, and `progress/2026-11-06.md`. Publication is recorded separately; this writing entry does not claim public release. Chapters 146–250 remain planning, not completed stock.
+
+## Verified public releases — 2026-11-06
+
+Chapters 136–145 were published in Main/Public/Now and each complete reader body matched fixed reviewed source `8d619ea6338f345c31e444aa4871bc0bfdc99f82`. Actual releases ran from Beijing 09:03:12 to 09:10:40. Final eight-page inspection at 09:11:29 Beijing confirmed 145 unique consecutive Public chapters, no drafts or schedules, and exactly ten new public releases today. Daily quota remaining: zero. See `publication/2026-11-06.json` for all titles, actual times, verified reader links, and source hashes. Complete manuscript and public ranges both reach 145; reviewed unpublished stock is zero. Chapters 146–250 remain planning only.
