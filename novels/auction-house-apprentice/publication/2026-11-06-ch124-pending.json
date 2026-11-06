@@ -1,0 +1,29 @@
+{
+  "date_bjt": "2026-11-06",
+  "book_id": "7681620262432820248",
+  "chapter": 124,
+  "title": "留存的半联",
+  "platform_status": "draft_saved",
+  "draft_id": "7704902515090784830",
+  "platform_editor_words": 4381,
+  "source_commit": "5cec3139354b9f0cfd2a15a2fcceacc4c9aeb209",
+  "body_sha256": "0f70c950bbd9f3f355bef3b35ad9dc7b5d81dda829f8481dbc2b13d57ca8e81b",
+  "draft_preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7704902515090784830",
+  "cloud_preview_nonempty_paragraphs": 190,
+  "cloud_preview_exact_match": true,
+  "draft_total": 14,
+  "untouched_legacy_drafts": 13,
+  "today_published_before_submission": [
+    123
+  ],
+  "reviewing_count_before_submission": 0,
+  "pending_release_count_before_submission": 0,
+  "spelling_flag_count": 21,
+  "spelling_review": "Reviewed all 21 flagged words in full context; retain intended wording. Examples: 经手人 is the handler, 通知 is the notice, 正联 is the receipt counterpart, 女客 is the established character.",
+  "pending_action": "Await user confirmation to retain the 21 flagged occurrences and accept the chapter-specific submit warning.",
+  "ai_declaration_authorized": true,
+  "ai_declaration": "是",
+  "submitted": false,
+  "public": false,
+  "recorded_at_utc": "2026-11-06T04:01:03.652Z"
+}
