@@ -1,0 +1,191 @@
+{
+  "book": "Why Do All the Villainesses Want to Marry Me?",
+  "date": "2026-11-06",
+  "date_timezone": "Asia/Shanghai",
+  "range": [
+    293,
+    300
+  ],
+  "chapter_pairs_added": 8,
+  "final_chapter": 300,
+  "planned_ending_reached": true,
+  "preflight_main": "8d619ea6338f345c31e444aa4871bc0bfdc99f82",
+  "previous_contiguous_range": [
+    1,
+    292
+  ],
+  "count_method": "Body excludes heading. Chinese counts U+4E00–U+9FFF. English uses words with optional internal apostrophes or hyphens.",
+  "totals": {
+    "chinese_han_characters": 25519,
+    "english_words": 14783
+  },
+  "files": [
+    {
+      "path": "novels/villainesses/chapters/chapter-293.md",
+      "chapter": 293,
+      "language": "zh-CN",
+      "body_count": 3129,
+      "count_unit": "Han characters",
+      "bytes": 10917,
+      "sha256": "7b2550897f0badc7b265becaccce447d20683354e862ecfde481af7e82d262ed",
+      "git_blob_sha": "7851598c46125e4e2fa99b7d2ddccad859f78887"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-294.md",
+      "chapter": 294,
+      "language": "zh-CN",
+      "body_count": 3091,
+      "count_unit": "Han characters",
+      "bytes": 10471,
+      "sha256": "14607b886514670cfa1a880efa8595727f8f1a19e9dbe41fdff5666af4010f15",
+      "git_blob_sha": "83afb9a0b9d201110c74a245090b0a552093c307"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-295.md",
+      "chapter": 295,
+      "language": "zh-CN",
+      "body_count": 3341,
+      "count_unit": "Han characters",
+      "bytes": 11430,
+      "sha256": "ab6f3980ddf69a2148e46f9060c6263214e71dabc4d9addc9a521965abf86e03",
+      "git_blob_sha": "2df8f21e5d8d35f8c8d00280d419dff7ec62e868"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-296.md",
+      "chapter": 296,
+      "language": "zh-CN",
+      "body_count": 3061,
+      "count_unit": "Han characters",
+      "bytes": 10402,
+      "sha256": "81da7e654941b49ad99f8e05aaa365795a93411db13dbba1039aca39ceff2653",
+      "git_blob_sha": "50e7ab28b1e283267bcef2cb7a6b32cac62550ce"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-297.md",
+      "chapter": 297,
+      "language": "zh-CN",
+      "body_count": 3104,
+      "count_unit": "Han characters",
+      "bytes": 10539,
+      "sha256": "ddb85e28b58865ff4df58ad7bd99be83fa687a38815bf5b78ae372c7e7bd083c",
+      "git_blob_sha": "626f99d40efb80f635b0307ac485c8d060471ce5"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-298.md",
+      "chapter": 298,
+      "language": "zh-CN",
+      "body_count": 3287,
+      "count_unit": "Han characters",
+      "bytes": 11150,
+      "sha256": "af3fad95bfefd9d2c6a57f1344ab21e9195ead80bf8e0b504b3de420dc17ead7",
+      "git_blob_sha": "62ba5b16a45c15e760768a1aa78e1a67ac51aefe"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-299.md",
+      "chapter": 299,
+      "language": "zh-CN",
+      "body_count": 3211,
+      "count_unit": "Han characters",
+      "bytes": 10924,
+      "sha256": "378f7918f9669f97d9bc1d69eaa0d2f00dc7377e179a596adc646c6d99da19be",
+      "git_blob_sha": "89a36ed559858781fa92b097c54722a2a3aaac05"
+    },
+    {
+      "path": "novels/villainesses/chapters/chapter-300.md",
+      "chapter": 300,
+      "language": "zh-CN",
+      "body_count": 3295,
+      "count_unit": "Han characters",
+      "bytes": 11351,
+      "sha256": "5ffa38f0d74e717f48888e1bcef3c6d6b32e4e82a50e77a4d5f6cd80e8babf9e",
+      "git_blob_sha": "d330015cc53665666bd022e32db0ac2c341e5bc4"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-293.md",
+      "chapter": 293,
+      "language": "en",
+      "body_count": 1830,
+      "count_unit": "English words",
+      "bytes": 11351,
+      "sha256": "ff618fa0052c683cf64d24ce5f1235357b50257a9e13705f0196a8dc5c772534",
+      "git_blob_sha": "d8b96bf42b921139601bf4ff065ec662bf9574fb"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-294.md",
+      "chapter": 294,
+      "language": "en",
+      "body_count": 1828,
+      "count_unit": "English words",
+      "bytes": 11939,
+      "sha256": "80d5c9aa10c0a1db50b8bd41d2ff9ba78cc38d12f0c417af7bf22b77bb3d65c7",
+      "git_blob_sha": "87af19526dc6a6c472602ec68e00b4f000816ffb"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-295.md",
+      "chapter": 295,
+      "language": "en",
+      "body_count": 1876,
+      "count_unit": "English words",
+      "bytes": 12591,
+      "sha256": "93052ec1bc27a9c51e0ecc9c87cd52d0ae6b81f2900be7a977daf85d7cc53928",
+      "git_blob_sha": "3ccbac151fc2465d6e105e17d57ae6fb2d9bb7bf"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-296.md",
+      "chapter": 296,
+      "language": "en",
+      "body_count": 1833,
+      "count_unit": "English words",
+      "bytes": 12099,
+      "sha256": "f8f1824e7f5fc9847f7a9885b12710f2be968ce3c7a20eb6ca8071d6192ae31c",
+      "git_blob_sha": "e90d766f255258de4d665108fe71648713ab97cf"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-297.md",
+      "chapter": 297,
+      "language": "en",
+      "body_count": 1811,
+      "count_unit": "English words",
+      "bytes": 11707,
+      "sha256": "254ab078190c3da64d8c0867f7bac377311dc3965f8cf87c3b2bd1d0c1b623ec",
+      "git_blob_sha": "54566d429d8a8ad46143442de60cc593097c8aa3"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-298.md",
+      "chapter": 298,
+      "language": "en",
+      "body_count": 1910,
+      "count_unit": "English words",
+      "bytes": 12715,
+      "sha256": "354205215f1ad3764c33bd231434a29581723d4fc8ed7c61881e4022f2d6580d",
+      "git_blob_sha": "f4952a64992aad8c603674ca1c2ee2d4f3765b03"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-299.md",
+      "chapter": 299,
+      "language": "en",
+      "body_count": 1822,
+      "count_unit": "English words",
+      "bytes": 11709,
+      "sha256": "b1747e55917b87bc616eadda57f14c26659589846f082b2319127001951cb1aa",
+      "git_blob_sha": "d6fac365987e5eef98062920837b3538a1b1e87d"
+    },
+    {
+      "path": "novels/villainesses/en/chapter-300.md",
+      "chapter": 300,
+      "language": "en",
+      "body_count": 1873,
+      "count_unit": "English words",
+      "bytes": 11530,
+      "sha256": "fc5b9dc16ceb7c5776780ce4483c23392524136c5db4b276b8ce9e3ca4197d5e",
+      "git_blob_sha": "edecfde8c75fafe60fe9330eddf04c4a1f30398d"
+    }
+  ],
+  "support_files": [
+    "CONTINUITY_NOTES_293_300.md",
+    "REVIEW_293_300_INDEPENDENT.md",
+    "MANIFEST_293_300.json",
+    "WRITING_LOG_2026-11-06.md"
+  ],
+  "acceptance": "Prepared after independent full-text review. Remote commit and exact-content readback must separately pass before reporting repository completion."
+}
