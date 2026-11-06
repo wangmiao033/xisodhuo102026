@@ -1,0 +1,29 @@
+{
+  "date_bjt": "2026-11-06",
+  "chapter": 123,
+  "title": "谁认的这一页",
+  "platform_chapter_id": "7704856796564816446",
+  "editor_url": "https://fanqienovel.com/main/writer/7681620262432820248/publish/7704856796564816446?enter_from=newchapter",
+  "platform_status": "saved_draft_not_submitted",
+  "platform_word_count": 4401,
+  "body_paragraphs": 204,
+  "editor_full_paragraph_exact_match": true,
+  "fixed_source_commit": "49037768fae17360accfa87fb4a2104714835a8f",
+  "fixed_body_sha256": "2743c4cc97f282e51318895a8f800ea20c3464e06d03336614ce32357d4bcb07",
+  "warning": "检测到你还有错别字未修改，是否确定提交？",
+  "highlighted_terms": [
+    "补清",
+    "不补",
+    "不让",
+    "页",
+    "填",
+    "要",
+    "联",
+    "夹口",
+    "改"
+  ],
+  "warning_submit_clicked": false,
+  "ai_declaration_not_yet_reached": true,
+  "new_drafts_this_run": 1,
+  "legacy_drafts_untouched": 13
+}
