@@ -110,3 +110,7 @@ Chapters 136–145 were published in Main/Public/Now and each complete reader bo
 ## Reviewed writing batch — 2026-11-07
 
 Complete English Chapters 146–155 passed independent full-text review and targeted corrections. Total new prose: 18,312 Unicode-token words (18,317 whitespace-delimited words), each chapter 1,812–1,866 words. Active manuscripts now 001–155. See `reviews/2026-11-07-independent.json`, `reviews/2026-11-07-independent.md`, and `progress/2026-11-07.md`. Publication is recorded separately; this writing entry does not claim public release. Chapters 156–250 remain planning, not completed stock.
+
+## Verified public releases — 2026-11-07
+
+Chapters 146–155 were published in Main/Public/Now and each full reader body, title and chapter number matched fixed reviewed manuscript source `e602fd4f2e8bd6c0da466412efd16e4c72f12a8c`. Actual releases ran from Beijing 09:03:54 to 09:07:42. Final eight-page inspection confirmed 155 unique consecutive Public chapters, no drafts or schedules, exactly ten new public releases today, and all titles matched the manifest. Daily quota remaining: zero. See `publication/2026-11-07.json` for all titles, verified reader links, actual times and source hashes. Complete manuscript and public ranges both reach155; reviewed complete unpublished stock is zero. Chapters156–250 remain planning only.

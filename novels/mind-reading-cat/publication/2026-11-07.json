@@ -1,0 +1,2021 @@
+{
+  "date": "2026-11-07",
+  "timezone": "Asia/Shanghai",
+  "novelpiaId": 6408,
+  "status": "published-and-fully-verified",
+  "manuscriptCommit": "e602fd4f2e8bd6c0da466412efd16e4c72f12a8c",
+  "preflight": {
+    "checkedUTC": "2026-11-07T00:47:54.611Z",
+    "rows": [
+      {
+        "number": 145,
+        "title": "The Next Six Places",
+        "status": "Public",
+        "time": "Nov,06,2026 01:10:40"
+      },
+      {
+        "number": 144,
+        "title": "Two Projects, Not the Whole Account",
+        "status": "Public",
+        "time": "Nov,06,2026 01:10:08"
+      },
+      {
+        "number": 143,
+        "title": "The Space Beside the Figures",
+        "status": "Public",
+        "time": "Nov,06,2026 01:09:16"
+      },
+      {
+        "number": 142,
+        "title": "The Sentence They Wanted Gone",
+        "status": "Public",
+        "time": "Nov,06,2026 01:08:35"
+      },
+      {
+        "number": 141,
+        "title": "The Offer with a Calendar",
+        "status": "Public",
+        "time": "Nov,06,2026 01:08:03"
+      },
+      {
+        "number": 140,
+        "title": "This Bed Does Not Require Good Behavior",
+        "status": "Public",
+        "time": "Nov,06,2026 01:07:19"
+      },
+      {
+        "number": 139,
+        "title": "There May Be No Villain",
+        "status": "Public",
+        "time": "Nov,06,2026 01:06:47"
+      },
+      {
+        "number": 138,
+        "title": "The Temporary Room, Emptied Out",
+        "status": "Public",
+        "time": "Nov,06,2026 01:06:09"
+      },
+      {
+        "number": 137,
+        "title": "A Familiar Tap Against a Bowl",
+        "status": "Public",
+        "time": "Nov,06,2026 01:04:56"
+      },
+      {
+        "number": 136,
+        "title": "The Blue Door Behind the Cups",
+        "status": "Public",
+        "time": "Nov,06,2026 01:03:12"
+      },
+      {
+        "number": 135,
+        "title": "The Place I Want to Show You",
+        "status": "Public",
+        "time": "Nov,05,2026 02:20:50"
+      },
+      {
+        "number": 134,
+        "title": "Each Handles Their Own Side",
+        "status": "Public",
+        "time": "Nov,05,2026 02:20:09"
+      },
+      {
+        "number": 133,
+        "title": "You Answered for Me Just Now",
+        "status": "Public",
+        "time": "Nov,05,2026 02:19:22"
+      },
+      {
+        "number": 132,
+        "title": "Ordinary Questions They Cannot Answer",
+        "status": "Public",
+        "time": "Nov,05,2026 02:18:40"
+      },
+      {
+        "number": 131,
+        "title": "He Is Not the Ideal Answer",
+        "status": "Public",
+        "time": "Nov,05,2026 02:18:00"
+      },
+      {
+        "number": 130,
+        "title": "A Photograph Without a Miracle",
+        "status": "Public",
+        "time": "Nov,05,2026 02:17:06"
+      },
+      {
+        "number": 129,
+        "title": "Which Part Can Someone Else Help With?",
+        "status": "Public",
+        "time": "Nov,05,2026 02:16:31"
+      },
+      {
+        "number": 128,
+        "title": "The Day She Wanted to Give the Dog Back",
+        "status": "Public",
+        "time": "Nov,05,2026 02:14:32"
+      },
+      {
+        "number": 127,
+        "title": "The First Week Outside the Photographs",
+        "status": "Public",
+        "time": "Nov,05,2026 02:13:26"
+      },
+      {
+        "number": 126,
+        "title": "Ready at Last",
+        "status": "Public",
+        "time": "Nov,05,2026 02:08:39"
+      },
+      {
+        "number": 125,
+        "title": "A Room Borrowed for Now",
+        "status": "Public",
+        "time": "Nov,04,2026 01:11:36"
+      },
+      {
+        "number": 124,
+        "title": "Refunds Are Business Too",
+        "status": "Public",
+        "time": "Nov,04,2026 01:11:06"
+      },
+      {
+        "number": 123,
+        "title": "Don't Do the Expert's Job",
+        "status": "Public",
+        "time": "Nov,04,2026 01:10:41"
+      },
+      {
+        "number": 122,
+        "title": "The First Session Doesn't Sell Out",
+        "status": "Public",
+        "time": "Nov,04,2026 01:10:12"
+      },
+      {
+        "number": 121,
+        "title": "What Will the Audience Pay For?",
+        "status": "Public",
+        "time": "Nov,04,2026 01:09:30"
+      },
+      {
+        "number": 120,
+        "title": "I'd Like You to Come Tonight",
+        "status": "Public",
+        "time": "Nov,04,2026 01:09:03"
+      },
+      {
+        "number": 119,
+        "title": "The Cat Only Owns His Bed",
+        "status": "Public",
+        "time": "Nov,04,2026 01:07:35"
+      },
+      {
+        "number": 118,
+        "title": "Going Home Is Not Breaking Up",
+        "status": "Public",
+        "time": "Nov,04,2026 01:05:46"
+      },
+      {
+        "number": 117,
+        "title": "The Borrowed Charger",
+        "status": "Public",
+        "time": "Nov,04,2026 01:03:52"
+      },
+      {
+        "number": 116,
+        "title": "Who Lives Where?",
+        "status": "Public",
+        "time": "Nov,04,2026 01:01:39"
+      },
+      {
+        "number": 115,
+        "title": "Next Time I'll Ask About You",
+        "status": "Public",
+        "time": "Nov,03,2026 01:08:09"
+      },
+      {
+        "number": 114,
+        "title": "An Event Someone Else Leads",
+        "status": "Public",
+        "time": "Nov,03,2026 01:08:00"
+      },
+      {
+        "number": 113,
+        "title": "A Weekend Without Cat or Boyfriend",
+        "status": "Public",
+        "time": "Nov,03,2026 01:07:39"
+      },
+      {
+        "number": 112,
+        "title": "A Work Call at Dinner",
+        "status": "Public",
+        "time": "Nov,03,2026 01:07:30"
+      },
+      {
+        "number": 111,
+        "title": "She's Not Available",
+        "status": "Public",
+        "time": "Nov,03,2026 01:07:21"
+      },
+      {
+        "number": 110,
+        "title": "A Different Way of Being Seen",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:57"
+      },
+      {
+        "number": 109,
+        "title": "A Film Without Enough Drama",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:47"
+      },
+      {
+        "number": 108,
+        "title": "She Doesn't Want an Inspirational Certificate",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:38"
+      },
+      {
+        "number": 107,
+        "title": "Everyone in the Queue Has Difficulties",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:19"
+      },
+      {
+        "number": 106,
+        "title": "Reception Is Not Background",
+        "status": "Public",
+        "time": "Nov,03,2026 01:04:52"
+      },
+      {
+        "number": 105,
+        "title": "Flowers After the Finish",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:55"
+      },
+      {
+        "number": 104,
+        "title": "Three Minutes Before Opening",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:47"
+      },
+      {
+        "number": 103,
+        "title": "Sophie Isn't an Emergency Service",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:29"
+      },
+      {
+        "number": 102,
+        "title": "A Beautiful Stall Can Be Wrong",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:21"
+      },
+      {
+        "number": 101,
+        "title": "No Vet Endorsement Included",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:59"
+      },
+      {
+        "number": 100,
+        "title": "A Kiss Without Guessing",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:51"
+      },
+      {
+        "number": 99,
+        "title": "You Can Ask What You Don't Know",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:09"
+      },
+      {
+        "number": 98,
+        "title": "We Don't Need More Proof",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:01"
+      },
+      {
+        "number": 97,
+        "title": "When He Gets It Wrong",
+        "status": "Public",
+        "time": "Nov,02,2026 01:13:35"
+      },
+      {
+        "number": 96,
+        "title": "An Experiment You Can Leave",
+        "status": "Public",
+        "time": "Nov,02,2026 01:12:31"
+      },
+      {
+        "number": 95,
+        "title": "You May Say No",
+        "status": "Public",
+        "time": "Nov,01,2026 00:45:10"
+      },
+      {
+        "number": 94,
+        "title": "Believing You Is Not Believing an Explanation",
+        "status": "Public",
+        "time": "Nov,01,2026 00:44:34"
+      },
+      {
+        "number": 93,
+        "title": "I Need to Explain Something",
+        "status": "Public",
+        "time": "Nov,01,2026 00:44:02"
+      },
+      {
+        "number": 92,
+        "title": "Even a Harmless Test Can Hurt",
+        "status": "Public",
+        "time": "Nov,01,2026 00:43:37"
+      },
+      {
+        "number": 91,
+        "title": "He Notices Her Waiting for the Cat",
+        "status": "Public",
+        "time": "Nov,01,2026 00:43:11"
+      },
+      {
+        "number": 90,
+        "title": "Officially My Boyfriend",
+        "status": "Public",
+        "time": "Nov,01,2026 00:42:30"
+      },
+      {
+        "number": 89,
+        "title": "Take Back That Joke",
+        "status": "Public",
+        "time": "Nov,01,2026 00:42:01"
+      },
+      {
+        "number": 88,
+        "title": "Three Months of Accounts",
+        "status": "Public",
+        "time": "Nov,01,2026 00:40:42"
+      },
+      {
+        "number": 87,
+        "title": "Not a Reason to Stay",
+        "status": "Public",
+        "time": "Nov,01,2026 00:40:07"
+      },
+      {
+        "number": 86,
+        "title": "Another Real Job",
+        "status": "Public",
+        "time": "Nov,01,2026 00:36:17"
+      },
+      {
+        "number": 85,
+        "title": "We Can Decide Slowly",
+        "status": "Public",
+        "time": "Oct,31,2026 00:48:19"
+      },
+      {
+        "number": 84,
+        "title": "A Photograph Just for You",
+        "status": "Public",
+        "time": "Oct,31,2026 00:47:48"
+      },
+      {
+        "number": 83,
+        "title": "Private Doesn't Mean Unreal",
+        "status": "Public",
+        "time": "Oct,31,2026 00:47:15"
+      },
+      {
+        "number": 82,
+        "title": "Why Is the Camera Still On?",
+        "status": "Public",
+        "time": "Oct,31,2026 00:46:36"
+      },
+      {
+        "number": 81,
+        "title": "The Audience Is More Impatient Than We Are",
+        "status": "Public",
+        "time": "Oct,31,2026 00:45:44"
+      },
+      {
+        "number": 80,
+        "title": "Write Down the Next Time",
+        "status": "Public",
+        "time": "Oct,31,2026 00:45:03"
+      },
+      {
+        "number": 79,
+        "title": "The Unexpected Call",
+        "status": "Public",
+        "time": "Oct,31,2026 00:43:45"
+      },
+      {
+        "number": 78,
+        "title": "That Sentence Had No Code",
+        "status": "Public",
+        "time": "Oct,31,2026 00:42:57"
+      },
+      {
+        "number": 77,
+        "title": "A Wrong Turn Without a Deadline",
+        "status": "Public",
+        "time": "Oct,31,2026 00:41:39"
+      },
+      {
+        "number": 76,
+        "title": "Eat Before the Date",
+        "status": "Public",
+        "time": "Oct,31,2026 00:36:56"
+      },
+      {
+        "number": 75,
+        "title": "We Arranged This One",
+        "status": "Public",
+        "time": "Oct,30,2026 00:33:19"
+      },
+      {
+        "number": 74,
+        "title": "Fear Is Not a Joke to Film",
+        "status": "Public",
+        "time": "Oct,30,2026 00:32:47"
+      },
+      {
+        "number": 73,
+        "title": "A Corner of an Old Photograph",
+        "status": "Public",
+        "time": "Oct,30,2026 00:31:40"
+      },
+      {
+        "number": 72,
+        "title": "The Evening They Both Stayed",
+        "status": "Public",
+        "time": "Oct,30,2026 00:31:05"
+      },
+      {
+        "number": 71,
+        "title": "The Hidden Key Pouch",
+        "status": "Public",
+        "time": "Oct,30,2026 00:30:42"
+      },
+      {
+        "number": 70,
+        "title": "You Can Ask Me to Come",
+        "status": "Public",
+        "time": "Oct,30,2026 00:30:17"
+      },
+      {
+        "number": 69,
+        "title": "Don't Call Him to Rescue Me",
+        "status": "Public",
+        "time": "Oct,30,2026 00:29:51"
+      },
+      {
+        "number": 68,
+        "title": "I Don't Have to Prove He's Awful",
+        "status": "Public",
+        "time": "Oct,30,2026 00:29:27"
+      },
+      {
+        "number": 67,
+        "title": "Not Bad, Just Not Right",
+        "status": "Public",
+        "time": "Oct,30,2026 00:28:44"
+      },
+      {
+        "number": 66,
+        "title": "A Call from Home",
+        "status": "Public",
+        "time": "Oct,30,2026 00:27:00"
+      },
+      {
+        "number": 65,
+        "title": "A Personal Question Today",
+        "status": "Public",
+        "time": "Oct,29,2026 01:05:13"
+      },
+      {
+        "number": 64,
+        "title": "Two Names in the Credits",
+        "status": "Public",
+        "time": "Oct,29,2026 01:04:21"
+      },
+      {
+        "number": 63,
+        "title": "It Isn't the Camera I Care About",
+        "status": "Public",
+        "time": "Oct,29,2026 01:03:21"
+      },
+      {
+        "number": 62,
+        "title": "A Challenge for a Colleague",
+        "status": "Public",
+        "time": "Oct,29,2026 01:02:29"
+      },
+      {
+        "number": 61,
+        "title": "Annoyingly Capable",
+        "status": "Public",
+        "time": "Oct,29,2026 01:01:47"
+      },
+      {
+        "number": 60,
+        "title": "Standing Together Through Ugly Words",
+        "status": "Public",
+        "time": "Oct,29,2026 01:00:56"
+      },
+      {
+        "number": 59,
+        "title": "The First Week Is Still Noisy",
+        "status": "Public",
+        "time": "Oct,29,2026 01:00:16"
+      },
+      {
+        "number": 58,
+        "title": "No Cat to Choose the Winner",
+        "status": "Public",
+        "time": "Oct,29,2026 00:59:32"
+      },
+      {
+        "number": 57,
+        "title": "A Night Worker's Morning",
+        "status": "Public",
+        "time": "Oct,29,2026 00:58:28"
+      },
+      {
+        "number": 56,
+        "title": "The Notice at the Door",
+        "status": "Public",
+        "time": "Oct,29,2026 00:56:35"
+      },
+      {
+        "number": 55,
+        "title": "Who Pays Tonight?",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:46"
+      },
+      {
+        "number": 54,
+        "title": "The Cat's Plan Is Too Obvious",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:38"
+      },
+      {
+        "number": 53,
+        "title": "Not on My Way",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:19"
+      },
+      {
+        "number": 52,
+        "title": "The Screen Fails at the Right Time",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:08"
+      },
+      {
+        "number": 51,
+        "title": "The Extra Third Mat",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:57"
+      },
+      {
+        "number": 50,
+        "title": "Not a Work Invitation",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:27"
+      },
+      {
+        "number": 49,
+        "title": "Help Has to Be Requested",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:19"
+      },
+      {
+        "number": 48,
+        "title": "Two Versions of the Same Mistake",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:11"
+      },
+      {
+        "number": 47,
+        "title": "Nobody Asked Me to Do That",
+        "status": "Public",
+        "time": "Oct,28,2026 01:04:33"
+      },
+      {
+        "number": 46,
+        "title": "A Full Weekend Grid",
+        "status": "Public",
+        "time": "Oct,28,2026 01:01:13"
+      },
+      {
+        "number": 45,
+        "title": "I Don't Know What He's Thinking",
+        "status": "Public",
+        "time": "Oct,27,2026 01:11:46"
+      },
+      {
+        "number": 44,
+        "title": "An Afternoon Without Questions",
+        "status": "Public",
+        "time": "Oct,27,2026 01:11:01"
+      },
+      {
+        "number": 43,
+        "title": "Whose Thought Was It?",
+        "status": "Public",
+        "time": "Oct,27,2026 01:10:25"
+      },
+      {
+        "number": 42,
+        "title": "Three Upside-Down Cups",
+        "status": "Public",
+        "time": "Oct,27,2026 01:09:34"
+      },
+      {
+        "number": 41,
+        "title": "My Friend Says She's Fine",
+        "status": "Public",
+        "time": "Oct,27,2026 01:07:57"
+      },
+      {
+        "number": 40,
+        "title": "Please Let Me Finish Too",
+        "status": "Public",
+        "time": "Oct,27,2026 01:06:35"
+      },
+      {
+        "number": 39,
+        "title": "An Imperfect Response",
+        "status": "Public",
+        "time": "Oct,27,2026 01:05:31"
+      },
+      {
+        "number": 38,
+        "title": "He Said Something Wrong Too",
+        "status": "Public",
+        "time": "Oct,27,2026 01:04:38"
+      },
+      {
+        "number": 37,
+        "title": "Not Every Explanation Is Yours to Give",
+        "status": "Public",
+        "time": "Oct,27,2026 01:03:11"
+      },
+      {
+        "number": 36,
+        "title": "The Cold Face in the Clip",
+        "status": "Public",
+        "time": "Oct,27,2026 00:58:52"
+      },
+      {
+        "number": 35,
+        "title": "My Name on the Agreement",
+        "status": "Public",
+        "time": "Sep,07,2026 18:03:11"
+      },
+      {
+        "number": 34,
+        "title": "More Than the Cat",
+        "status": "Public",
+        "time": "Sep,07,2026 18:01:39"
+      },
+      {
+        "number": 33,
+        "title": "The Cat Is Closed Today",
+        "status": "Public",
+        "time": "Sep,07,2026 17:59:15"
+      },
+      {
+        "number": 32,
+        "title": "The Terms in Brackets",
+        "status": "Public",
+        "time": "Sep,07,2026 17:57:17"
+      },
+      {
+        "number": 31,
+        "title": "A Proper Offer",
+        "status": "Public",
+        "time": "Sep,07,2026 17:55:29"
+      },
+      {
+        "number": 30,
+        "title": "A Slower Dinner",
+        "status": "Public",
+        "time": "Sep,07,2026 17:53:49"
+      },
+      {
+        "number": 29,
+        "title": "Off the Popular Route",
+        "status": "Public",
+        "time": "Sep,07,2026 17:52:21"
+      },
+      {
+        "number": 28,
+        "title": "The Camera Can Wait",
+        "status": "Public",
+        "time": "Sep,07,2026 17:50:45"
+      },
+      {
+        "number": 27,
+        "title": "The Broken Bench",
+        "status": "Public",
+        "time": "Sep,07,2026 17:40:44"
+      },
+      {
+        "number": 26,
+        "title": "She Doesn't Need Pity",
+        "status": "Public",
+        "time": "Sep,07,2026 17:38:11"
+      },
+      {
+        "number": 25,
+        "title": "You Don't Have to Earn It Back",
+        "status": "Public",
+        "time": "Sep,07,2026 17:34:48"
+      },
+      {
+        "number": 24,
+        "title": "No Sob Story This Time",
+        "status": "Public",
+        "time": "Sep,07,2026 17:32:38"
+      },
+      {
+        "number": 23,
+        "title": "I Might Get a Job",
+        "status": "Public",
+        "time": "Sep,07,2026 17:28:54"
+      },
+      {
+        "number": 22,
+        "title": "The Mark Beneath the Fur",
+        "status": "Public",
+        "time": "Sep,07,2026 17:21:38"
+      },
+      {
+        "number": 21,
+        "title": "Boxes Again",
+        "status": "Public",
+        "time": "Sep,07,2026 16:52:15"
+      },
+      {
+        "number": 20,
+        "title": "The People Who Came Back",
+        "status": "Public",
+        "time": "Sep,07,2026 16:48:14"
+      },
+      {
+        "number": 19,
+        "title": "The First Bad Comment",
+        "status": "Public",
+        "time": "Sep,07,2026 16:46:05"
+      },
+      {
+        "number": 18,
+        "title": "A Face Isn't an Answer",
+        "status": "Public",
+        "time": "Sep,07,2026 16:44:04"
+      },
+      {
+        "number": 17,
+        "title": "The Vet Who Wouldn't Smile",
+        "status": "Public",
+        "time": "Sep,07,2026 16:41:31"
+      },
+      {
+        "number": 16,
+        "title": "Cat Pays Rent",
+        "status": "Public",
+        "time": "Sep,07,2026 16:37:26"
+      },
+      {
+        "number": 15,
+        "title": "Not Today Is Not Never",
+        "status": "Public",
+        "time": "Sep,07,2026 16:24:26"
+      },
+      {
+        "number": 14,
+        "title": "An Interview Across a Box",
+        "status": "Public",
+        "time": "Sep,07,2026 16:21:30"
+      },
+      {
+        "number": 13,
+        "title": "The Third Time She Came",
+        "status": "Public",
+        "time": "Sep,07,2026 16:18:50"
+      },
+      {
+        "number": 12,
+        "title": "A Room for Everyone",
+        "status": "Public",
+        "time": "Sep,07,2026 14:54:16"
+      },
+      {
+        "number": 11,
+        "title": "Returned for Revision",
+        "status": "Public",
+        "time": "Sep,07,2026 14:50:48"
+      },
+      {
+        "number": 10,
+        "title": "Pay the Planner, Not the Cat",
+        "status": "Public",
+        "time": "Sep,07,2026 14:47:23"
+      },
+      {
+        "number": 9,
+        "title": "The Sandwich After Closing",
+        "status": "Public",
+        "time": "Sep,07,2026 14:43:48"
+      },
+      {
+        "number": 8,
+        "title": "The Cat Picked the Wrong Person",
+        "status": "Public",
+        "time": "Sep,07,2026 14:40:32"
+      },
+      {
+        "number": 7,
+        "title": "The Dog Outside the Frame",
+        "status": "Public",
+        "time": "Sep,07,2026 14:36:45"
+      },
+      {
+        "number": 6,
+        "title": "Not a Free Sample",
+        "status": "Public",
+        "time": "Sep,07,2026 14:27:36"
+      },
+      {
+        "number": 5,
+        "title": "The First New Job",
+        "status": "Public",
+        "time": "Sep,07,2026 14:24:17"
+      },
+      {
+        "number": 4,
+        "title": "I Found the Backup Myself",
+        "status": "Public",
+        "time": "Sep,07,2026 14:20:28"
+      },
+      {
+        "number": 3,
+        "title": "Temporary Resident",
+        "status": "Public",
+        "time": "Sep,07,2026 14:18:15"
+      },
+      {
+        "number": 2,
+        "title": "He Can't Take a Cab Himself",
+        "status": "Public",
+        "time": "Sep,07,2026 14:15:15"
+      },
+      {
+        "number": 1,
+        "title": "Three Oh Seven",
+        "status": "Public",
+        "time": "Sep,07,2026 12:08:29"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter": 146,
+      "heading": "Chapter 146 — The Window Next Door",
+      "title": "The Window Next Door",
+      "path": "chapters/en/146-the-window-next-door.md",
+      "words": 1813,
+      "whitespace_words": 1813,
+      "sha256": "05de2ef3f1b76074c81e12b8a16e738f0937e59b1816c96d0d9fffffe4a3d156",
+      "git_blob_sha1": "74e9bd5e9b6fe758b83273b7de71aa822791d27a",
+      "paragraphs": 109,
+      "readerUrl": "https://global.novelpia.com/viewer/856515",
+      "editPath": "/writer_room/novels/6408/episode/856515/edit",
+      "managementRow": "146\tThe Window Next Door\tPublic\tNov,07,2026 01:03:54\t\n0\n0\n0\n1.8K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:05:14.523Z",
+      "actualPublicUTC": "2026-11-07T01:03:54+00:00",
+      "actualPublicBeijing": "2026-11-07T09:03:54+08:00"
+    },
+    {
+      "chapter": 147,
+      "heading": "Chapter 147 — The Chair Someone Has to Fill",
+      "title": "The Chair Someone Has to Fill",
+      "path": "chapters/en/147-the-chair-someone-has-to-fill.md",
+      "words": 1833,
+      "whitespace_words": 1833,
+      "sha256": "b70a766d412eb7785d656a7054125bffb02676e0ed49918f2ec864b738df75a3",
+      "git_blob_sha1": "520a0b600f4e920849e4080028c9a328232d073b",
+      "paragraphs": 106,
+      "readerUrl": "https://global.novelpia.com/viewer/856516",
+      "editPath": "/writer_room/novels/6408/episode/856516/edit",
+      "managementRow": "147\tThe Chair Someone Has to Fill\tPublic\tNov,07,2026 01:05:38\t\n0\n0\n0\n1.9K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:05:44.417Z",
+      "actualPublicUTC": "2026-11-07T01:05:38+00:00",
+      "actualPublicBeijing": "2026-11-07T09:05:38+08:00"
+    },
+    {
+      "chapter": 148,
+      "heading": "Chapter 148 — A Business Without a Window",
+      "title": "A Business Without a Window",
+      "path": "chapters/en/148-a-business-without-a-window.md",
+      "words": 1815,
+      "whitespace_words": 1815,
+      "sha256": "4c31c21492cbf7f57e9b6f06ae22de41b8181121defbf6ecf727ee7acb470945",
+      "git_blob_sha1": "eedab953e65a76b0c08aa1198b8ed94c3401c873",
+      "paragraphs": 97,
+      "readerUrl": "https://global.novelpia.com/viewer/856517",
+      "editPath": "/writer_room/novels/6408/episode/856517/edit",
+      "managementRow": "148\tA Business Without a Window\tPublic\tNov,07,2026 01:06:04\t\n0\n0\n0\n1.8K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:06:08.619Z",
+      "actualPublicUTC": "2026-11-07T01:06:04+00:00",
+      "actualPublicBeijing": "2026-11-07T09:06:04+08:00"
+    },
+    {
+      "chapter": 149,
+      "heading": "Chapter 149 — Three Months from Here",
+      "title": "Three Months from Here",
+      "path": "chapters/en/149-three-months-from-here.md",
+      "words": 1814,
+      "whitespace_words": 1814,
+      "sha256": "d0e3e12b6bae6361c0cdcf73397efe4d74b2e3c1fea4020e19d89c509ff2878f",
+      "git_blob_sha1": "8ff62bf819f15fbc7cdafb5f6b05ac9453eaf59b",
+      "paragraphs": 75,
+      "readerUrl": "https://global.novelpia.com/viewer/856518",
+      "editPath": "/writer_room/novels/6408/episode/856518/edit",
+      "managementRow": "149\tThree Months from Here\tPublic\tNov,07,2026 01:06:14\t\n0\n0\n0\n1.8K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:06:19.007Z",
+      "actualPublicUTC": "2026-11-07T01:06:14+00:00",
+      "actualPublicBeijing": "2026-11-07T09:06:14+08:00"
+    },
+    {
+      "chapter": 150,
+      "heading": "Chapter 150 — You, Me, and Separate Doors",
+      "title": "You, Me, and Separate Doors",
+      "path": "chapters/en/150-you-me-and-separate-doors.md",
+      "words": 1813,
+      "whitespace_words": 1816,
+      "sha256": "b2b68049d06507d2f5f09fdcd23a178c3e55de1ec97b18eb165a0bbb51ad2419",
+      "git_blob_sha1": "e99637f3b921090db4408c1bdc178b9b1ac5644a",
+      "paragraphs": 107,
+      "readerUrl": "https://global.novelpia.com/viewer/856519",
+      "editPath": "/writer_room/novels/6408/episode/856519/edit",
+      "managementRow": "150\tYou, Me, and Separate Doors\tPublic\tNov,07,2026 01:06:24\t\n0\n0\n0\n1.8K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:06:28.239Z",
+      "actualPublicUTC": "2026-11-07T01:06:24+00:00",
+      "actualPublicBeijing": "2026-11-07T09:06:24+08:00"
+    },
+    {
+      "chapter": 151,
+      "heading": "Chapter 151 — Where the Sofa Goes",
+      "title": "Where the Sofa Goes",
+      "path": "chapters/en/151-where-the-sofa-goes.md",
+      "words": 1861,
+      "whitespace_words": 1862,
+      "sha256": "9b5fc5e66437e06c3ebb2895895edddd3dad69771f5c34c9d70d7d4465afe97c",
+      "git_blob_sha1": "b874988663aed3b6a2e980ef1662c11fb51633de",
+      "paragraphs": 108,
+      "readerUrl": "https://global.novelpia.com/viewer/856520",
+      "editPath": "/writer_room/novels/6408/episode/856520/edit",
+      "managementRow": "151\tWhere the Sofa Goes\tPublic\tNov,07,2026 01:06:49\t\n0\n0\n0\n1.9K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:06:53.440Z",
+      "actualPublicUTC": "2026-11-07T01:06:49+00:00",
+      "actualPublicBeijing": "2026-11-07T09:06:49+08:00"
+    },
+    {
+      "chapter": 152,
+      "heading": "Chapter 152 — The Welcome Outside",
+      "title": "The Welcome Outside",
+      "path": "chapters/en/152-the-welcome-outside.md",
+      "words": 1812,
+      "whitespace_words": 1812,
+      "sha256": "c924cd0455e83867d5d9b81ed9233576e7eb4b1fd1c96dab8fd665a90bcd2bdc",
+      "git_blob_sha1": "577fd872fa585da677860e251ab5e81dd7123d32",
+      "paragraphs": 129,
+      "readerUrl": "https://global.novelpia.com/viewer/856521",
+      "editPath": "/writer_room/novels/6408/episode/856521/edit",
+      "managementRow": "152\tThe Welcome Outside\tPublic\tNov,07,2026 01:06:58\t\n0\n0\n0\n1.9K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:07:02.786Z",
+      "actualPublicUTC": "2026-11-07T01:06:58+00:00",
+      "actualPublicBeijing": "2026-11-07T09:06:58+08:00"
+    },
+    {
+      "chapter": 153,
+      "heading": "Chapter 153 — The Cat Is Not on the Rota",
+      "title": "The Cat Is Not on the Rota",
+      "path": "chapters/en/153-the-cat-is-not-on-the-rota.md",
+      "words": 1850,
+      "whitespace_words": 1851,
+      "sha256": "3fdca85cf1aa33ae68cb77d4a2d85f0851a516079175aa810392603d57e18976",
+      "git_blob_sha1": "3dd6d9d2f27e8c50a3dff077b5083824ad891d65",
+      "paragraphs": 100,
+      "readerUrl": "https://global.novelpia.com/viewer/856522",
+      "editPath": "/writer_room/novels/6408/episode/856522/edit",
+      "managementRow": "153\tThe Cat Is Not on the Rota\tPublic\tNov,07,2026 01:07:08\t\n0\n0\n0\n1.9K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:07:12.157Z",
+      "actualPublicUTC": "2026-11-07T01:07:08+00:00",
+      "actualPublicBeijing": "2026-11-07T09:07:08+08:00"
+    },
+    {
+      "chapter": 154,
+      "heading": "Chapter 154 — The Argument About Five Outlets",
+      "title": "The Argument About Five Outlets",
+      "path": "chapters/en/154-the-argument-about-five-outlets.md",
+      "words": 1866,
+      "whitespace_words": 1866,
+      "sha256": "49dbaca5fca454534713dbf120b07480d1f4bcd36edffe5c86f0837a52c7248d",
+      "git_blob_sha1": "7e675eb721a53063f1fa9c043cd30b416c91a863",
+      "paragraphs": 126,
+      "readerUrl": "https://global.novelpia.com/viewer/856523",
+      "editPath": "/writer_room/novels/6408/episode/856523/edit",
+      "managementRow": "154\tThe Argument About Five Outlets\tPublic\tNov,07,2026 01:07:31\t\n0\n0\n0\n1.9K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:07:36.245Z",
+      "actualPublicUTC": "2026-11-07T01:07:31+00:00",
+      "actualPublicBeijing": "2026-11-07T09:07:31+08:00"
+    },
+    {
+      "chapter": 155,
+      "heading": "Chapter 155 — The Empty Corner",
+      "title": "The Empty Corner",
+      "path": "chapters/en/155-the-empty-corner.md",
+      "words": 1835,
+      "whitespace_words": 1835,
+      "sha256": "6e2bc80a33a6014c5c97634d87456fa7a711cbffe632d6afdbce25120b99b188",
+      "git_blob_sha1": "ad529fb0568cb5c65cba899f84fe03af5aae029a",
+      "paragraphs": 111,
+      "readerUrl": "https://global.novelpia.com/viewer/856524",
+      "editPath": "/writer_room/novels/6408/episode/856524/edit",
+      "managementRow": "155\tThe Empty Corner\tPublic\tNov,07,2026 01:07:42\t\n0\n0\n0\n1.9K",
+      "fullBodyMatches": true,
+      "verifiedUTC": "2026-11-07T01:07:47.671Z",
+      "actualPublicUTC": "2026-11-07T01:07:42+00:00",
+      "actualPublicBeijing": "2026-11-07T09:07:42+08:00"
+    }
+  ],
+  "todayActualPublicCount": 10,
+  "remainingDailyQuota": 0,
+  "reviewedManuscriptRange": [
+    1,
+    155
+  ],
+  "publicRange": [
+    1,
+    155
+  ],
+  "reviewedCompleteUnpublishedCount": 0,
+  "planningOnlyRange": [
+    156,
+    250
+  ],
+  "finalAudit": {
+    "checkedUTC": "2026-11-07T01:08:07.590Z",
+    "pages": 8,
+    "count": 155,
+    "unique": 155,
+    "public": 155,
+    "today": 10,
+    "titleMatches": true,
+    "rows": [
+      {
+        "chapter": 155,
+        "title": "The Empty Corner",
+        "status": "Public",
+        "time": "Nov,07,2026 01:07:42"
+      },
+      {
+        "chapter": 154,
+        "title": "The Argument About Five Outlets",
+        "status": "Public",
+        "time": "Nov,07,2026 01:07:31"
+      },
+      {
+        "chapter": 153,
+        "title": "The Cat Is Not on the Rota",
+        "status": "Public",
+        "time": "Nov,07,2026 01:07:08"
+      },
+      {
+        "chapter": 152,
+        "title": "The Welcome Outside",
+        "status": "Public",
+        "time": "Nov,07,2026 01:06:58"
+      },
+      {
+        "chapter": 151,
+        "title": "Where the Sofa Goes",
+        "status": "Public",
+        "time": "Nov,07,2026 01:06:49"
+      },
+      {
+        "chapter": 150,
+        "title": "You, Me, and Separate Doors",
+        "status": "Public",
+        "time": "Nov,07,2026 01:06:24"
+      },
+      {
+        "chapter": 149,
+        "title": "Three Months from Here",
+        "status": "Public",
+        "time": "Nov,07,2026 01:06:14"
+      },
+      {
+        "chapter": 148,
+        "title": "A Business Without a Window",
+        "status": "Public",
+        "time": "Nov,07,2026 01:06:04"
+      },
+      {
+        "chapter": 147,
+        "title": "The Chair Someone Has to Fill",
+        "status": "Public",
+        "time": "Nov,07,2026 01:05:38"
+      },
+      {
+        "chapter": 146,
+        "title": "The Window Next Door",
+        "status": "Public",
+        "time": "Nov,07,2026 01:03:54"
+      },
+      {
+        "chapter": 145,
+        "title": "The Next Six Places",
+        "status": "Public",
+        "time": "Nov,06,2026 01:10:40"
+      },
+      {
+        "chapter": 144,
+        "title": "Two Projects, Not the Whole Account",
+        "status": "Public",
+        "time": "Nov,06,2026 01:10:08"
+      },
+      {
+        "chapter": 143,
+        "title": "The Space Beside the Figures",
+        "status": "Public",
+        "time": "Nov,06,2026 01:09:16"
+      },
+      {
+        "chapter": 142,
+        "title": "The Sentence They Wanted Gone",
+        "status": "Public",
+        "time": "Nov,06,2026 01:08:35"
+      },
+      {
+        "chapter": 141,
+        "title": "The Offer with a Calendar",
+        "status": "Public",
+        "time": "Nov,06,2026 01:08:03"
+      },
+      {
+        "chapter": 140,
+        "title": "This Bed Does Not Require Good Behavior",
+        "status": "Public",
+        "time": "Nov,06,2026 01:07:19"
+      },
+      {
+        "chapter": 139,
+        "title": "There May Be No Villain",
+        "status": "Public",
+        "time": "Nov,06,2026 01:06:47"
+      },
+      {
+        "chapter": 138,
+        "title": "The Temporary Room, Emptied Out",
+        "status": "Public",
+        "time": "Nov,06,2026 01:06:09"
+      },
+      {
+        "chapter": 137,
+        "title": "A Familiar Tap Against a Bowl",
+        "status": "Public",
+        "time": "Nov,06,2026 01:04:56"
+      },
+      {
+        "chapter": 136,
+        "title": "The Blue Door Behind the Cups",
+        "status": "Public",
+        "time": "Nov,06,2026 01:03:12"
+      },
+      {
+        "chapter": 135,
+        "title": "The Place I Want to Show You",
+        "status": "Public",
+        "time": "Nov,05,2026 02:20:50"
+      },
+      {
+        "chapter": 134,
+        "title": "Each Handles Their Own Side",
+        "status": "Public",
+        "time": "Nov,05,2026 02:20:09"
+      },
+      {
+        "chapter": 133,
+        "title": "You Answered for Me Just Now",
+        "status": "Public",
+        "time": "Nov,05,2026 02:19:22"
+      },
+      {
+        "chapter": 132,
+        "title": "Ordinary Questions They Cannot Answer",
+        "status": "Public",
+        "time": "Nov,05,2026 02:18:40"
+      },
+      {
+        "chapter": 131,
+        "title": "He Is Not the Ideal Answer",
+        "status": "Public",
+        "time": "Nov,05,2026 02:18:00"
+      },
+      {
+        "chapter": 130,
+        "title": "A Photograph Without a Miracle",
+        "status": "Public",
+        "time": "Nov,05,2026 02:17:06"
+      },
+      {
+        "chapter": 129,
+        "title": "Which Part Can Someone Else Help With?",
+        "status": "Public",
+        "time": "Nov,05,2026 02:16:31"
+      },
+      {
+        "chapter": 128,
+        "title": "The Day She Wanted to Give the Dog Back",
+        "status": "Public",
+        "time": "Nov,05,2026 02:14:32"
+      },
+      {
+        "chapter": 127,
+        "title": "The First Week Outside the Photographs",
+        "status": "Public",
+        "time": "Nov,05,2026 02:13:26"
+      },
+      {
+        "chapter": 126,
+        "title": "Ready at Last",
+        "status": "Public",
+        "time": "Nov,05,2026 02:08:39"
+      },
+      {
+        "chapter": 125,
+        "title": "A Room Borrowed for Now",
+        "status": "Public",
+        "time": "Nov,04,2026 01:11:36"
+      },
+      {
+        "chapter": 124,
+        "title": "Refunds Are Business Too",
+        "status": "Public",
+        "time": "Nov,04,2026 01:11:06"
+      },
+      {
+        "chapter": 123,
+        "title": "Don't Do the Expert's Job",
+        "status": "Public",
+        "time": "Nov,04,2026 01:10:41"
+      },
+      {
+        "chapter": 122,
+        "title": "The First Session Doesn't Sell Out",
+        "status": "Public",
+        "time": "Nov,04,2026 01:10:12"
+      },
+      {
+        "chapter": 121,
+        "title": "What Will the Audience Pay For?",
+        "status": "Public",
+        "time": "Nov,04,2026 01:09:30"
+      },
+      {
+        "chapter": 120,
+        "title": "I'd Like You to Come Tonight",
+        "status": "Public",
+        "time": "Nov,04,2026 01:09:03"
+      },
+      {
+        "chapter": 119,
+        "title": "The Cat Only Owns His Bed",
+        "status": "Public",
+        "time": "Nov,04,2026 01:07:35"
+      },
+      {
+        "chapter": 118,
+        "title": "Going Home Is Not Breaking Up",
+        "status": "Public",
+        "time": "Nov,04,2026 01:05:46"
+      },
+      {
+        "chapter": 117,
+        "title": "The Borrowed Charger",
+        "status": "Public",
+        "time": "Nov,04,2026 01:03:52"
+      },
+      {
+        "chapter": 116,
+        "title": "Who Lives Where?",
+        "status": "Public",
+        "time": "Nov,04,2026 01:01:39"
+      },
+      {
+        "chapter": 115,
+        "title": "Next Time I'll Ask About You",
+        "status": "Public",
+        "time": "Nov,03,2026 01:08:09"
+      },
+      {
+        "chapter": 114,
+        "title": "An Event Someone Else Leads",
+        "status": "Public",
+        "time": "Nov,03,2026 01:08:00"
+      },
+      {
+        "chapter": 113,
+        "title": "A Weekend Without Cat or Boyfriend",
+        "status": "Public",
+        "time": "Nov,03,2026 01:07:39"
+      },
+      {
+        "chapter": 112,
+        "title": "A Work Call at Dinner",
+        "status": "Public",
+        "time": "Nov,03,2026 01:07:30"
+      },
+      {
+        "chapter": 111,
+        "title": "She's Not Available",
+        "status": "Public",
+        "time": "Nov,03,2026 01:07:21"
+      },
+      {
+        "chapter": 110,
+        "title": "A Different Way of Being Seen",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:57"
+      },
+      {
+        "chapter": 109,
+        "title": "A Film Without Enough Drama",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:47"
+      },
+      {
+        "chapter": 108,
+        "title": "She Doesn't Want an Inspirational Certificate",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:38"
+      },
+      {
+        "chapter": 107,
+        "title": "Everyone in the Queue Has Difficulties",
+        "status": "Public",
+        "time": "Nov,03,2026 01:06:19"
+      },
+      {
+        "chapter": 106,
+        "title": "Reception Is Not Background",
+        "status": "Public",
+        "time": "Nov,03,2026 01:04:52"
+      },
+      {
+        "chapter": 105,
+        "title": "Flowers After the Finish",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:55"
+      },
+      {
+        "chapter": 104,
+        "title": "Three Minutes Before Opening",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:47"
+      },
+      {
+        "chapter": 103,
+        "title": "Sophie Isn't an Emergency Service",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:29"
+      },
+      {
+        "chapter": 102,
+        "title": "A Beautiful Stall Can Be Wrong",
+        "status": "Public",
+        "time": "Nov,02,2026 01:15:21"
+      },
+      {
+        "chapter": 101,
+        "title": "No Vet Endorsement Included",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:59"
+      },
+      {
+        "chapter": 100,
+        "title": "A Kiss Without Guessing",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:51"
+      },
+      {
+        "chapter": 99,
+        "title": "You Can Ask What You Don't Know",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:09"
+      },
+      {
+        "chapter": 98,
+        "title": "We Don't Need More Proof",
+        "status": "Public",
+        "time": "Nov,02,2026 01:14:01"
+      },
+      {
+        "chapter": 97,
+        "title": "When He Gets It Wrong",
+        "status": "Public",
+        "time": "Nov,02,2026 01:13:35"
+      },
+      {
+        "chapter": 96,
+        "title": "An Experiment You Can Leave",
+        "status": "Public",
+        "time": "Nov,02,2026 01:12:31"
+      },
+      {
+        "chapter": 95,
+        "title": "You May Say No",
+        "status": "Public",
+        "time": "Nov,01,2026 00:45:10"
+      },
+      {
+        "chapter": 94,
+        "title": "Believing You Is Not Believing an Explanation",
+        "status": "Public",
+        "time": "Nov,01,2026 00:44:34"
+      },
+      {
+        "chapter": 93,
+        "title": "I Need to Explain Something",
+        "status": "Public",
+        "time": "Nov,01,2026 00:44:02"
+      },
+      {
+        "chapter": 92,
+        "title": "Even a Harmless Test Can Hurt",
+        "status": "Public",
+        "time": "Nov,01,2026 00:43:37"
+      },
+      {
+        "chapter": 91,
+        "title": "He Notices Her Waiting for the Cat",
+        "status": "Public",
+        "time": "Nov,01,2026 00:43:11"
+      },
+      {
+        "chapter": 90,
+        "title": "Officially My Boyfriend",
+        "status": "Public",
+        "time": "Nov,01,2026 00:42:30"
+      },
+      {
+        "chapter": 89,
+        "title": "Take Back That Joke",
+        "status": "Public",
+        "time": "Nov,01,2026 00:42:01"
+      },
+      {
+        "chapter": 88,
+        "title": "Three Months of Accounts",
+        "status": "Public",
+        "time": "Nov,01,2026 00:40:42"
+      },
+      {
+        "chapter": 87,
+        "title": "Not a Reason to Stay",
+        "status": "Public",
+        "time": "Nov,01,2026 00:40:07"
+      },
+      {
+        "chapter": 86,
+        "title": "Another Real Job",
+        "status": "Public",
+        "time": "Nov,01,2026 00:36:17"
+      },
+      {
+        "chapter": 85,
+        "title": "We Can Decide Slowly",
+        "status": "Public",
+        "time": "Oct,31,2026 00:48:19"
+      },
+      {
+        "chapter": 84,
+        "title": "A Photograph Just for You",
+        "status": "Public",
+        "time": "Oct,31,2026 00:47:48"
+      },
+      {
+        "chapter": 83,
+        "title": "Private Doesn't Mean Unreal",
+        "status": "Public",
+        "time": "Oct,31,2026 00:47:15"
+      },
+      {
+        "chapter": 82,
+        "title": "Why Is the Camera Still On?",
+        "status": "Public",
+        "time": "Oct,31,2026 00:46:36"
+      },
+      {
+        "chapter": 81,
+        "title": "The Audience Is More Impatient Than We Are",
+        "status": "Public",
+        "time": "Oct,31,2026 00:45:44"
+      },
+      {
+        "chapter": 80,
+        "title": "Write Down the Next Time",
+        "status": "Public",
+        "time": "Oct,31,2026 00:45:03"
+      },
+      {
+        "chapter": 79,
+        "title": "The Unexpected Call",
+        "status": "Public",
+        "time": "Oct,31,2026 00:43:45"
+      },
+      {
+        "chapter": 78,
+        "title": "That Sentence Had No Code",
+        "status": "Public",
+        "time": "Oct,31,2026 00:42:57"
+      },
+      {
+        "chapter": 77,
+        "title": "A Wrong Turn Without a Deadline",
+        "status": "Public",
+        "time": "Oct,31,2026 00:41:39"
+      },
+      {
+        "chapter": 76,
+        "title": "Eat Before the Date",
+        "status": "Public",
+        "time": "Oct,31,2026 00:36:56"
+      },
+      {
+        "chapter": 75,
+        "title": "We Arranged This One",
+        "status": "Public",
+        "time": "Oct,30,2026 00:33:19"
+      },
+      {
+        "chapter": 74,
+        "title": "Fear Is Not a Joke to Film",
+        "status": "Public",
+        "time": "Oct,30,2026 00:32:47"
+      },
+      {
+        "chapter": 73,
+        "title": "A Corner of an Old Photograph",
+        "status": "Public",
+        "time": "Oct,30,2026 00:31:40"
+      },
+      {
+        "chapter": 72,
+        "title": "The Evening They Both Stayed",
+        "status": "Public",
+        "time": "Oct,30,2026 00:31:05"
+      },
+      {
+        "chapter": 71,
+        "title": "The Hidden Key Pouch",
+        "status": "Public",
+        "time": "Oct,30,2026 00:30:42"
+      },
+      {
+        "chapter": 70,
+        "title": "You Can Ask Me to Come",
+        "status": "Public",
+        "time": "Oct,30,2026 00:30:17"
+      },
+      {
+        "chapter": 69,
+        "title": "Don't Call Him to Rescue Me",
+        "status": "Public",
+        "time": "Oct,30,2026 00:29:51"
+      },
+      {
+        "chapter": 68,
+        "title": "I Don't Have to Prove He's Awful",
+        "status": "Public",
+        "time": "Oct,30,2026 00:29:27"
+      },
+      {
+        "chapter": 67,
+        "title": "Not Bad, Just Not Right",
+        "status": "Public",
+        "time": "Oct,30,2026 00:28:44"
+      },
+      {
+        "chapter": 66,
+        "title": "A Call from Home",
+        "status": "Public",
+        "time": "Oct,30,2026 00:27:00"
+      },
+      {
+        "chapter": 65,
+        "title": "A Personal Question Today",
+        "status": "Public",
+        "time": "Oct,29,2026 01:05:13"
+      },
+      {
+        "chapter": 64,
+        "title": "Two Names in the Credits",
+        "status": "Public",
+        "time": "Oct,29,2026 01:04:21"
+      },
+      {
+        "chapter": 63,
+        "title": "It Isn't the Camera I Care About",
+        "status": "Public",
+        "time": "Oct,29,2026 01:03:21"
+      },
+      {
+        "chapter": 62,
+        "title": "A Challenge for a Colleague",
+        "status": "Public",
+        "time": "Oct,29,2026 01:02:29"
+      },
+      {
+        "chapter": 61,
+        "title": "Annoyingly Capable",
+        "status": "Public",
+        "time": "Oct,29,2026 01:01:47"
+      },
+      {
+        "chapter": 60,
+        "title": "Standing Together Through Ugly Words",
+        "status": "Public",
+        "time": "Oct,29,2026 01:00:56"
+      },
+      {
+        "chapter": 59,
+        "title": "The First Week Is Still Noisy",
+        "status": "Public",
+        "time": "Oct,29,2026 01:00:16"
+      },
+      {
+        "chapter": 58,
+        "title": "No Cat to Choose the Winner",
+        "status": "Public",
+        "time": "Oct,29,2026 00:59:32"
+      },
+      {
+        "chapter": 57,
+        "title": "A Night Worker's Morning",
+        "status": "Public",
+        "time": "Oct,29,2026 00:58:28"
+      },
+      {
+        "chapter": 56,
+        "title": "The Notice at the Door",
+        "status": "Public",
+        "time": "Oct,29,2026 00:56:35"
+      },
+      {
+        "chapter": 55,
+        "title": "Who Pays Tonight?",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:46"
+      },
+      {
+        "chapter": 54,
+        "title": "The Cat's Plan Is Too Obvious",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:38"
+      },
+      {
+        "chapter": 53,
+        "title": "Not on My Way",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:19"
+      },
+      {
+        "chapter": 52,
+        "title": "The Screen Fails at the Right Time",
+        "status": "Public",
+        "time": "Oct,28,2026 01:06:08"
+      },
+      {
+        "chapter": 51,
+        "title": "The Extra Third Mat",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:57"
+      },
+      {
+        "chapter": 50,
+        "title": "Not a Work Invitation",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:27"
+      },
+      {
+        "chapter": 49,
+        "title": "Help Has to Be Requested",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:19"
+      },
+      {
+        "chapter": 48,
+        "title": "Two Versions of the Same Mistake",
+        "status": "Public",
+        "time": "Oct,28,2026 01:05:11"
+      },
+      {
+        "chapter": 47,
+        "title": "Nobody Asked Me to Do That",
+        "status": "Public",
+        "time": "Oct,28,2026 01:04:33"
+      },
+      {
+        "chapter": 46,
+        "title": "A Full Weekend Grid",
+        "status": "Public",
+        "time": "Oct,28,2026 01:01:13"
+      },
+      {
+        "chapter": 45,
+        "title": "I Don't Know What He's Thinking",
+        "status": "Public",
+        "time": "Oct,27,2026 01:11:46"
+      },
+      {
+        "chapter": 44,
+        "title": "An Afternoon Without Questions",
+        "status": "Public",
+        "time": "Oct,27,2026 01:11:01"
+      },
+      {
+        "chapter": 43,
+        "title": "Whose Thought Was It?",
+        "status": "Public",
+        "time": "Oct,27,2026 01:10:25"
+      },
+      {
+        "chapter": 42,
+        "title": "Three Upside-Down Cups",
+        "status": "Public",
+        "time": "Oct,27,2026 01:09:34"
+      },
+      {
+        "chapter": 41,
+        "title": "My Friend Says She's Fine",
+        "status": "Public",
+        "time": "Oct,27,2026 01:07:57"
+      },
+      {
+        "chapter": 40,
+        "title": "Please Let Me Finish Too",
+        "status": "Public",
+        "time": "Oct,27,2026 01:06:35"
+      },
+      {
+        "chapter": 39,
+        "title": "An Imperfect Response",
+        "status": "Public",
+        "time": "Oct,27,2026 01:05:31"
+      },
+      {
+        "chapter": 38,
+        "title": "He Said Something Wrong Too",
+        "status": "Public",
+        "time": "Oct,27,2026 01:04:38"
+      },
+      {
+        "chapter": 37,
+        "title": "Not Every Explanation Is Yours to Give",
+        "status": "Public",
+        "time": "Oct,27,2026 01:03:11"
+      },
+      {
+        "chapter": 36,
+        "title": "The Cold Face in the Clip",
+        "status": "Public",
+        "time": "Oct,27,2026 00:58:52"
+      },
+      {
+        "chapter": 35,
+        "title": "My Name on the Agreement",
+        "status": "Public",
+        "time": "Sep,07,2026 18:03:11"
+      },
+      {
+        "chapter": 34,
+        "title": "More Than the Cat",
+        "status": "Public",
+        "time": "Sep,07,2026 18:01:39"
+      },
+      {
+        "chapter": 33,
+        "title": "The Cat Is Closed Today",
+        "status": "Public",
+        "time": "Sep,07,2026 17:59:15"
+      },
+      {
+        "chapter": 32,
+        "title": "The Terms in Brackets",
+        "status": "Public",
+        "time": "Sep,07,2026 17:57:17"
+      },
+      {
+        "chapter": 31,
+        "title": "A Proper Offer",
+        "status": "Public",
+        "time": "Sep,07,2026 17:55:29"
+      },
+      {
+        "chapter": 30,
+        "title": "A Slower Dinner",
+        "status": "Public",
+        "time": "Sep,07,2026 17:53:49"
+      },
+      {
+        "chapter": 29,
+        "title": "Off the Popular Route",
+        "status": "Public",
+        "time": "Sep,07,2026 17:52:21"
+      },
+      {
+        "chapter": 28,
+        "title": "The Camera Can Wait",
+        "status": "Public",
+        "time": "Sep,07,2026 17:50:45"
+      },
+      {
+        "chapter": 27,
+        "title": "The Broken Bench",
+        "status": "Public",
+        "time": "Sep,07,2026 17:40:44"
+      },
+      {
+        "chapter": 26,
+        "title": "She Doesn't Need Pity",
+        "status": "Public",
+        "time": "Sep,07,2026 17:38:11"
+      },
+      {
+        "chapter": 25,
+        "title": "You Don't Have to Earn It Back",
+        "status": "Public",
+        "time": "Sep,07,2026 17:34:48"
+      },
+      {
+        "chapter": 24,
+        "title": "No Sob Story This Time",
+        "status": "Public",
+        "time": "Sep,07,2026 17:32:38"
+      },
+      {
+        "chapter": 23,
+        "title": "I Might Get a Job",
+        "status": "Public",
+        "time": "Sep,07,2026 17:28:54"
+      },
+      {
+        "chapter": 22,
+        "title": "The Mark Beneath the Fur",
+        "status": "Public",
+        "time": "Sep,07,2026 17:21:38"
+      },
+      {
+        "chapter": 21,
+        "title": "Boxes Again",
+        "status": "Public",
+        "time": "Sep,07,2026 16:52:15"
+      },
+      {
+        "chapter": 20,
+        "title": "The People Who Came Back",
+        "status": "Public",
+        "time": "Sep,07,2026 16:48:14"
+      },
+      {
+        "chapter": 19,
+        "title": "The First Bad Comment",
+        "status": "Public",
+        "time": "Sep,07,2026 16:46:05"
+      },
+      {
+        "chapter": 18,
+        "title": "A Face Isn't an Answer",
+        "status": "Public",
+        "time": "Sep,07,2026 16:44:04"
+      },
+      {
+        "chapter": 17,
+        "title": "The Vet Who Wouldn't Smile",
+        "status": "Public",
+        "time": "Sep,07,2026 16:41:31"
+      },
+      {
+        "chapter": 16,
+        "title": "Cat Pays Rent",
+        "status": "Public",
+        "time": "Sep,07,2026 16:37:26"
+      },
+      {
+        "chapter": 15,
+        "title": "Not Today Is Not Never",
+        "status": "Public",
+        "time": "Sep,07,2026 16:24:26"
+      },
+      {
+        "chapter": 14,
+        "title": "An Interview Across a Box",
+        "status": "Public",
+        "time": "Sep,07,2026 16:21:30"
+      },
+      {
+        "chapter": 13,
+        "title": "The Third Time She Came",
+        "status": "Public",
+        "time": "Sep,07,2026 16:18:50"
+      },
+      {
+        "chapter": 12,
+        "title": "A Room for Everyone",
+        "status": "Public",
+        "time": "Sep,07,2026 14:54:16"
+      },
+      {
+        "chapter": 11,
+        "title": "Returned for Revision",
+        "status": "Public",
+        "time": "Sep,07,2026 14:50:48"
+      },
+      {
+        "chapter": 10,
+        "title": "Pay the Planner, Not the Cat",
+        "status": "Public",
+        "time": "Sep,07,2026 14:47:23"
+      },
+      {
+        "chapter": 9,
+        "title": "The Sandwich After Closing",
+        "status": "Public",
+        "time": "Sep,07,2026 14:43:48"
+      },
+      {
+        "chapter": 8,
+        "title": "The Cat Picked the Wrong Person",
+        "status": "Public",
+        "time": "Sep,07,2026 14:40:32"
+      },
+      {
+        "chapter": 7,
+        "title": "The Dog Outside the Frame",
+        "status": "Public",
+        "time": "Sep,07,2026 14:36:45"
+      },
+      {
+        "chapter": 6,
+        "title": "Not a Free Sample",
+        "status": "Public",
+        "time": "Sep,07,2026 14:27:36"
+      },
+      {
+        "chapter": 5,
+        "title": "The First New Job",
+        "status": "Public",
+        "time": "Sep,07,2026 14:24:17"
+      },
+      {
+        "chapter": 4,
+        "title": "I Found the Backup Myself",
+        "status": "Public",
+        "time": "Sep,07,2026 14:20:28"
+      },
+      {
+        "chapter": 3,
+        "title": "Temporary Resident",
+        "status": "Public",
+        "time": "Sep,07,2026 14:18:15"
+      },
+      {
+        "chapter": 2,
+        "title": "He Can't Take a Cab Himself",
+        "status": "Public",
+        "time": "Sep,07,2026 14:15:15"
+      },
+      {
+        "chapter": 1,
+        "title": "Three Oh Seven",
+        "status": "Public",
+        "time": "Sep,07,2026 12:08:29"
+      }
+    ]
+  },
+  "unchanged": "No old chapter text, author notes, images, metadata, other books or archives modified. No duplicates, drafts or schedules created."
+}
