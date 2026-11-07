@@ -1,0 +1,21 @@
+{
+  "chapter": 125,
+  "title": "接夹的人",
+  "date_bjt": "2026-11-07",
+  "han_characters": 3644,
+  "body_characters_without_final_newline": 4713,
+  "body_paragraphs": 187,
+  "markdown_path": "novels/auction-house-apprentice/chapters/cn/125-jie-jia-de-ren.md",
+  "markdown_sha256": "f4ff39f8713d8d0a708330b0dea2dd2e1dac908565f32796a8e59570d1ee0b8f",
+  "publish_path": "novels/auction-house-apprentice/publication/publish-text/ch125.txt",
+  "publish_sha256": "2c30cc7175cb8d0ac6e8189d0fb64f4a7215f6d453064d3ea3825b29824bb3e9",
+  "independent_review": "PASS",
+  "platform_status_at_manuscript_commit": "not_uploaded",
+  "source_base_commit": "5b02801548eab399ae7a9abe13a445b0a5d1c812",
+  "current_daily_write_limit": 2,
+  "current_daily_public_limit": 2,
+  "today_new_manuscript_chapters": [
+    125
+  ],
+  "existing_preferred_chapter": 124
+}
