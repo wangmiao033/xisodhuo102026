@@ -1,0 +1,231 @@
+{
+  "date_beijing": "2026-11-07",
+  "range": [
+    337,
+    346
+  ],
+  "new_chapter_pairs": 10,
+  "publication": false,
+  "files": [
+    {
+      "chapter": 337,
+      "language": "cn",
+      "path": "cn/337_The_Words_I_Left_Out.md",
+      "heading": "# 第337章 删掉的那几个字",
+      "han_characters": 1803,
+      "words": null,
+      "bytes": 6427,
+      "sha256": "2606ec365f449f29b193f4949c5ee4488dd0d89a2d3bfd0a87d360b0b1b03b9f",
+      "git_blob_sha": "767261828681859e26a6890434930285441ab257"
+    },
+    {
+      "chapter": 338,
+      "language": "cn",
+      "path": "cn/338_The_Pear_With_a_Mark.md",
+      "heading": "# 第338章 有一道印的梨",
+      "han_characters": 1807,
+      "words": null,
+      "bytes": 6376,
+      "sha256": "dd08ae7be82866627af9aaa6080692e2f07b58893015d768f5a9faca0b92ccf9",
+      "git_blob_sha": "648b492977b83d5bbd96a25e0808869a22c37b68"
+    },
+    {
+      "chapter": 339,
+      "language": "cn",
+      "path": "cn/339_Please_Ring.md",
+      "heading": "# 第339章 请按铃",
+      "han_characters": 1864,
+      "words": null,
+      "bytes": 6666,
+      "sha256": "abe020784221cb0984e5b38c780e32dc41b78df9c9b92db630ba61278566ca48",
+      "git_blob_sha": "6477f7e8f846a5cba6de65053f9b2833c2e32459"
+    },
+    {
+      "chapter": 340,
+      "language": "cn",
+      "path": "cn/340_The_Same_Work_Order.md",
+      "heading": "# 第340章 还是原来那张单",
+      "han_characters": 1795,
+      "words": null,
+      "bytes": 6273,
+      "sha256": "ef8e21e04b0572a2d6334a263eab7ee7790acb15be34e9f9d7df2a46e5ac3ca4",
+      "git_blob_sha": "a3e483c5fc6e165dfe90903470158acdd722fbe1"
+    },
+    {
+      "chapter": 341,
+      "language": "cn",
+      "path": "cn/341_Only_The_First_Line.md",
+      "heading": "# 第341章 只听第一句",
+      "han_characters": 1904,
+      "words": null,
+      "bytes": 6765,
+      "sha256": "42739cfabc2f5df7adc7efbb6dacc344fa2a7fe1747b4562c2c6e8342a5b5ad3",
+      "git_blob_sha": "13c72fd7dbd0f3fd8b2af35a56d221dfdb7af714"
+    },
+    {
+      "chapter": 342,
+      "language": "cn",
+      "path": "cn/342_The_Other_End_of_the_Box.md",
+      "heading": "# 第342章 箱子的另一边",
+      "han_characters": 1865,
+      "words": null,
+      "bytes": 6657,
+      "sha256": "1b31c248a0493f5db916e0bea13d9d66a7c5c5429c4a6643f4b16795671ff749",
+      "git_blob_sha": "08845bd0a0a1d4bf3bcb214484eef41cf7fc7fd6"
+    },
+    {
+      "chapter": 343,
+      "language": "cn",
+      "path": "cn/343_The_Shop_That_Sold_Nothing.md",
+      "heading": "# 第343章 什么也没卖出去的小店",
+      "han_characters": 1851,
+      "words": null,
+      "bytes": 6689,
+      "sha256": "acdb2261b1257faf27bd1d174e1e6b7d99acb7c095fa64857c3a6438258ceb95",
+      "git_blob_sha": "75eedecc50d772687cc03ec17b96bfaac099e4f8"
+    },
+    {
+      "chapter": 344,
+      "language": "cn",
+      "path": "cn/344_A_Question_for_Sunday.md",
+      "heading": "# 第344章 问一问星期日",
+      "han_characters": 1838,
+      "words": null,
+      "bytes": 6437,
+      "sha256": "ff4cde623d8f40b7405f5139bc7738266acc8045b49a3279104e9d657732b4f4",
+      "git_blob_sha": "49b6c9b20cdffa542382faa801e883fb7f38ee94"
+    },
+    {
+      "chapter": 345,
+      "language": "cn",
+      "path": "cn/345_What_I_Brought_Home.md",
+      "heading": "# 第345章 带回家的东西",
+      "han_characters": 1819,
+      "words": null,
+      "bytes": 6391,
+      "sha256": "fb8f6bb2536ffbd49d67e500b615f641f8d1948c5318c000f1f34e15d64161b8",
+      "git_blob_sha": "ac5241cc30b6ea5248141c247dcd204d5e267235"
+    },
+    {
+      "chapter": 346,
+      "language": "cn",
+      "path": "cn/346_The_Better_Piece.md",
+      "heading": "# 第346章 好一点的那块",
+      "han_characters": 1896,
+      "words": null,
+      "bytes": 6809,
+      "sha256": "654e8c7c67a04d2f9ad997d21ebaef102e40b06afa47e9cebd59aa3e291ed66e",
+      "git_blob_sha": "ce384b3ee384a7578679914e247be5624e0ec0ae"
+    },
+    {
+      "chapter": 337,
+      "language": "en",
+      "path": "en/337_The_Words_I_Left_Out.md",
+      "heading": "# Chapter 337: The Words I Left Out",
+      "han_characters": null,
+      "words": 1285,
+      "bytes": 7531,
+      "sha256": "6a8579ae0e4163fa724ab4b755ba68d6d5824d85abd655f5cb3d884c48432512",
+      "git_blob_sha": "3ce1a08941659e24ba7e4ca1290529d3141307ca"
+    },
+    {
+      "chapter": 338,
+      "language": "en",
+      "path": "en/338_The_Pear_With_a_Mark.md",
+      "heading": "# Chapter 338: The Pear With a Mark",
+      "han_characters": null,
+      "words": 1355,
+      "bytes": 7649,
+      "sha256": "fe299696049e0ec1b74bbc7a98a7a6a94991d2afeef2121e117812635ec27610",
+      "git_blob_sha": "04d6e61bfcd8e275c4aaf7f7a67251d676388556"
+    },
+    {
+      "chapter": 339,
+      "language": "en",
+      "path": "en/339_Please_Ring.md",
+      "heading": "# Chapter 339: Please Ring",
+      "han_characters": null,
+      "words": 1294,
+      "bytes": 7510,
+      "sha256": "e7e0a476c0e6dc6d7ac17bfdc8b1e6575c81dde2b26dc3a9658f14727cddb0e0",
+      "git_blob_sha": "e983a7f04bd456b470bd6b19d81eec4f4f61065e"
+    },
+    {
+      "chapter": 340,
+      "language": "en",
+      "path": "en/340_The_Same_Work_Order.md",
+      "heading": "# Chapter 340: The Same Work Order",
+      "han_characters": null,
+      "words": 1318,
+      "bytes": 7625,
+      "sha256": "e8b1b665748a40d7e6b9712346c03fce3b33b9cfde09af7884f74b922b672d12",
+      "git_blob_sha": "7c9ea0cdf622b202d8a8286c8647d49387ab8147"
+    },
+    {
+      "chapter": 341,
+      "language": "en",
+      "path": "en/341_Only_The_First_Line.md",
+      "heading": "# Chapter 341: Only the First Line",
+      "han_characters": null,
+      "words": 1385,
+      "bytes": 7919,
+      "sha256": "3cd31453a19f42d6c4f224a90bfc561c63d2bb506b5e5e677b681bbb27358761",
+      "git_blob_sha": "0c89d45ccf9f8f4d20b01a95f7c6be8884893632"
+    },
+    {
+      "chapter": 342,
+      "language": "en",
+      "path": "en/342_The_Other_End_of_the_Box.md",
+      "heading": "# Chapter 342: The Other End of the Box",
+      "han_characters": null,
+      "words": 1459,
+      "bytes": 8100,
+      "sha256": "88b89c073a41565ba7423a276e0715f57297ff71f3437ec34afa379d00c8d364",
+      "git_blob_sha": "0af4e88b53df6806dfd26bd83a232df545a0e682"
+    },
+    {
+      "chapter": 343,
+      "language": "en",
+      "path": "en/343_The_Shop_That_Sold_Nothing.md",
+      "heading": "# Chapter 343: The Shop That Sold Nothing",
+      "han_characters": null,
+      "words": 1378,
+      "bytes": 7936,
+      "sha256": "83731a28fa2cb12d98f1ec1c1afa115231bbdc86bc29c98562704c8a517c0fb5",
+      "git_blob_sha": "6726038c3a0232a8b9065e921222d8ef80fedf74"
+    },
+    {
+      "chapter": 344,
+      "language": "en",
+      "path": "en/344_A_Question_for_Sunday.md",
+      "heading": "# Chapter 344: A Question for Sunday",
+      "han_characters": null,
+      "words": 1337,
+      "bytes": 7623,
+      "sha256": "a5081ab6bfff0d13af5a4dcebff1670220b27c5eecb8cb93bd16e11b2903ac39",
+      "git_blob_sha": "7363fd75374758987a17b9ed04f867b0e09fd6bd"
+    },
+    {
+      "chapter": 345,
+      "language": "en",
+      "path": "en/345_What_I_Brought_Home.md",
+      "heading": "# Chapter 345: What I Brought Home",
+      "han_characters": null,
+      "words": 1347,
+      "bytes": 7729,
+      "sha256": "42c1ace8e536d40045ee00413a146bf4b4b64fe261d5aa1a5b59770368b2e4b3",
+      "git_blob_sha": "09d90dbc91ffb957f645d2253370e565b2b8a07e"
+    },
+    {
+      "chapter": 346,
+      "language": "en",
+      "path": "en/346_The_Better_Piece.md",
+      "heading": "# Chapter 346: The Better Piece",
+      "han_characters": null,
+      "words": 1436,
+      "bytes": 8069,
+      "sha256": "5b46b53247a0358edfa8ce73438d01bd35e8a14f5cd1a445c18fd38cb84e6480",
+      "git_blob_sha": "6f5aa99d4697d695979c75b8dfd35ea757bdb702"
+    }
+  ]
+}
