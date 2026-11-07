@@ -1,0 +1,153 @@
+{
+  "status": "PASS",
+  "scope": "Independent full-text review of chapters146–155, including rereading final146/147/151/152 and verifying all seven final local edits.",
+  "context": [
+    "CANON.md",
+    "PLANNING.md",
+    "prior chapters125,140,144,145"
+  ],
+  "files": [
+    {
+      "chapter": 146,
+      "file": "chapters/en/146-the-window-next-door.md",
+      "body_words": 1813,
+      "sha256": "05de2ef3f1b76074c81e12b8a16e738f0937e59b1816c96d0d9fffffe4a3d156",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 147,
+      "file": "chapters/en/147-the-chair-someone-has-to-fill.md",
+      "body_words": 1833,
+      "sha256": "b70a766d412eb7785d656a7054125bffb02676e0ed49918f2ec864b738df75a3",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 148,
+      "file": "chapters/en/148-a-business-without-a-window.md",
+      "body_words": 1815,
+      "sha256": "4c31c21492cbf7f57e9b6f06ae22de41b8181121defbf6ecf727ee7acb470945",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 149,
+      "file": "chapters/en/149-three-months-from-here.md",
+      "body_words": 1814,
+      "sha256": "d0e3e12b6bae6361c0cdcf73397efe4d74b2e3c1fea4020e19d89c509ff2878f",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 150,
+      "file": "chapters/en/150-you-me-and-separate-doors.md",
+      "body_words": 1816,
+      "sha256": "b2b68049d06507d2f5f09fdcd23a178c3e55de1ec97b18eb165a0bbb51ad2419",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 151,
+      "file": "chapters/en/151-where-the-sofa-goes.md",
+      "body_words": 1862,
+      "sha256": "9b5fc5e66437e06c3ebb2895895edddd3dad69771f5c34c9d70d7d4465afe97c",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 152,
+      "file": "chapters/en/152-the-welcome-outside.md",
+      "body_words": 1812,
+      "sha256": "c924cd0455e83867d5d9b81ed9233576e7eb4b1fd1c96dab8fd665a90bcd2bdc",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 153,
+      "file": "chapters/en/153-the-cat-is-not-on-the-rota.md",
+      "body_words": 1851,
+      "sha256": "3fdca85cf1aa33ae68cb77d4a2d85f0851a516079175aa810392603d57e18976",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 154,
+      "file": "chapters/en/154-the-argument-about-five-outlets.md",
+      "body_words": 1866,
+      "sha256": "49dbaca5fca454534713dbf120b07480d1f4bcd36edffe5c86f0837a52c7248d",
+      "full_text_read": true,
+      "status": "PASS"
+    },
+    {
+      "chapter": 155,
+      "file": "chapters/en/155-the-empty-corner.md",
+      "body_words": 1835,
+      "sha256": "6e2bc80a33a6014c5c97634d87456fa7a711cbffe632d6afdbce25120b99b188",
+      "full_text_read": true,
+      "status": "PASS"
+    }
+  ],
+  "checks": {
+    "continuity": "PASS",
+    "causality": "PASS",
+    "eve_limited_viewpoint": "PASS",
+    "ability_limits": "PASS",
+    "animal_health_and_welfare": "PASS",
+    "professional_roles": "PASS",
+    "relationship_pacing": "PASS",
+    "temporary_access_only": "PASS",
+    "english_prose": "PASS",
+    "word_count_1800_2200_excluding_heading": "PASS"
+  },
+  "edits": [
+    {
+      "chapter": 146,
+      "before": "She had seven minutes to spare.\n\nFor those seven minutes, she put out chairs with unusual speed.",
+      "after": "She waited out the remaining seven minutes beside her box.\n\nOnce her room slot began, she put out chairs with unusual speed.",
+      "reason": "Respect booked room access125/145."
+    },
+    {
+      "chapter": 149,
+      "before": "people bringing their own water",
+      "after": "people bringing their own drinks",
+      "reason": "Match takeaway tea150; no refreshment service."
+    },
+    {
+      "chapter": 153,
+      "before": "In reality, he had been waiting for Eve to remove a notebook from his preferred end of the sofa. She had taken the picture at home. Nothing in it showed the new unit, an activity, or any service a person could buy.",
+      "after": "In reality, he had been asleep on his blanket beside her materials box, having reclaimed his preferred end of the sofa. She had taken the picture at home. Nothing in it showed the new unit, an activity, or any service a person could buy.",
+      "reason": "Match promotional image150."
+    },
+    {
+      "chapter": 154,
+      "before": "“Did they change the closing shifts?”\n\n“Yes. Shared after the training block. I accepted.”",
+      "after": "“Have you decided to keep the new rota?”\n\n“Yes. The shared closing shifts worked during the trial. I accepted the longer-term role.”",
+      "reason": "Rota already discussed147/150; final acceptance is new."
+    },
+    {
+      "chapter": 151,
+      "before": "She sent that version to the access adviser whose short assessment she had included in her evaluation costs.",
+      "after": "She prepared that version for the access adviser whose short assessment she had included in her evaluation costs.",
+      "reason": "Plan amended before sending below."
+    },
+    {
+      "chapter": 152,
+      "before": "She showed her the sketch and asked whether she could include a small outdoor seating option in the future proposal.",
+      "after": "Eve showed the landlord the sketch and asked whether she could include a small outdoor seating option in the future proposal.",
+      "reason": "Clarify pronouns."
+    },
+    {
+      "chapter": 152,
+      "before": "She said she would need to consider the shared passage and what other occupiers used. She wrote that beside the drawing.",
+      "after": "The landlord said she would need to consider the shared passage and what other occupiers used. Eve wrote that beside the drawing.",
+      "reason": "Clarify decision-maker and note-taker."
+    }
+  ],
+  "prior_writer_corrections": [
+    "152 landlord restored female throughout",
+    "147 and151 meaningfully expanded above1800 body words"
+  ],
+  "remaining_blockers": [],
+  "publication_status": "Not assessed by this literary review; no external writes performed."
+}

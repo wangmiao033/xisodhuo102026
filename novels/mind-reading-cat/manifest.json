@@ -1163,6 +1163,86 @@
       "words": 1937,
       "sha256": "34eb28256357535c32e5a46116569ab02a88efc53564d44c584d8a65541685c0",
       "git_blob_sha1": "27498250c95a18eb6f7a74c48c16f508c495040e"
+    },
+    {
+      "chapter": 146,
+      "heading": "Chapter 146 — The Window Next Door",
+      "path": "chapters/en/146-the-window-next-door.md",
+      "words": 1813,
+      "sha256": "05de2ef3f1b76074c81e12b8a16e738f0937e59b1816c96d0d9fffffe4a3d156",
+      "git_blob_sha1": "74e9bd5e9b6fe758b83273b7de71aa822791d27a"
+    },
+    {
+      "chapter": 147,
+      "heading": "Chapter 147 — The Chair Someone Has to Fill",
+      "path": "chapters/en/147-the-chair-someone-has-to-fill.md",
+      "words": 1833,
+      "sha256": "b70a766d412eb7785d656a7054125bffb02676e0ed49918f2ec864b738df75a3",
+      "git_blob_sha1": "520a0b600f4e920849e4080028c9a328232d073b"
+    },
+    {
+      "chapter": 148,
+      "heading": "Chapter 148 — A Business Without a Window",
+      "path": "chapters/en/148-a-business-without-a-window.md",
+      "words": 1815,
+      "sha256": "4c31c21492cbf7f57e9b6f06ae22de41b8181121defbf6ecf727ee7acb470945",
+      "git_blob_sha1": "eedab953e65a76b0c08aa1198b8ed94c3401c873"
+    },
+    {
+      "chapter": 149,
+      "heading": "Chapter 149 — Three Months from Here",
+      "path": "chapters/en/149-three-months-from-here.md",
+      "words": 1814,
+      "sha256": "d0e3e12b6bae6361c0cdcf73397efe4d74b2e3c1fea4020e19d89c509ff2878f",
+      "git_blob_sha1": "8ff62bf819f15fbc7cdafb5f6b05ac9453eaf59b"
+    },
+    {
+      "chapter": 150,
+      "heading": "Chapter 150 — You, Me, and Separate Doors",
+      "path": "chapters/en/150-you-me-and-separate-doors.md",
+      "words": 1813,
+      "sha256": "b2b68049d06507d2f5f09fdcd23a178c3e55de1ec97b18eb165a0bbb51ad2419",
+      "git_blob_sha1": "e99637f3b921090db4408c1bdc178b9b1ac5644a"
+    },
+    {
+      "chapter": 151,
+      "heading": "Chapter 151 — Where the Sofa Goes",
+      "path": "chapters/en/151-where-the-sofa-goes.md",
+      "words": 1861,
+      "sha256": "9b5fc5e66437e06c3ebb2895895edddd3dad69771f5c34c9d70d7d4465afe97c",
+      "git_blob_sha1": "b874988663aed3b6a2e980ef1662c11fb51633de"
+    },
+    {
+      "chapter": 152,
+      "heading": "Chapter 152 — The Welcome Outside",
+      "path": "chapters/en/152-the-welcome-outside.md",
+      "words": 1812,
+      "sha256": "c924cd0455e83867d5d9b81ed9233576e7eb4b1fd1c96dab8fd665a90bcd2bdc",
+      "git_blob_sha1": "577fd872fa585da677860e251ab5e81dd7123d32"
+    },
+    {
+      "chapter": 153,
+      "heading": "Chapter 153 — The Cat Is Not on the Rota",
+      "path": "chapters/en/153-the-cat-is-not-on-the-rota.md",
+      "words": 1850,
+      "sha256": "3fdca85cf1aa33ae68cb77d4a2d85f0851a516079175aa810392603d57e18976",
+      "git_blob_sha1": "3dd6d9d2f27e8c50a3dff077b5083824ad891d65"
+    },
+    {
+      "chapter": 154,
+      "heading": "Chapter 154 — The Argument About Five Outlets",
+      "path": "chapters/en/154-the-argument-about-five-outlets.md",
+      "words": 1866,
+      "sha256": "49dbaca5fca454534713dbf120b07480d1f4bcd36edffe5c86f0837a52c7248d",
+      "git_blob_sha1": "7e675eb721a53063f1fa9c043cd30b416c91a863"
+    },
+    {
+      "chapter": 155,
+      "heading": "Chapter 155 — The Empty Corner",
+      "path": "chapters/en/155-the-empty-corner.md",
+      "words": 1835,
+      "sha256": "6e2bc80a33a6014c5c97634d87456fa7a711cbffe632d6afdbce25120b99b188",
+      "git_blob_sha1": "ad529fb0568cb5c65cba899f84fe03af5aae029a"
     }
   ]
 }
