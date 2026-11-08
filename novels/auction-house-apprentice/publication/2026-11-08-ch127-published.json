@@ -1,0 +1,27 @@
+{
+  "date_bjt": "2026-11-08",
+  "chapter": 127,
+  "title": "夹外的那行字",
+  "status": "已发布",
+  "published_time_bjt": "09:13",
+  "chapter_id": "7705602052377821758",
+  "han_characters": 3652,
+  "platform_characters": 4235,
+  "paragraphs": 159,
+  "fixed_source_commit": "e74dcba1ff278d7bb8b628c44274a8f108d5fd76",
+  "publish_text_path": "novels/auction-house-apprentice/publication/publish-text/ch127.txt",
+  "publish_text_sha256": "8b708128928b3f9f566cb340bd9c781766c39d0b6f554add36e30d9d679d0273",
+  "ai_used": "是",
+  "scheduled": false,
+  "verification": {
+    "management_status": "已发布",
+    "full_preview_exact_match": true,
+    "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7705602052377821758",
+    "independent_reader_url": null
+  },
+  "spelling_warning_review": {
+    "count": 12,
+    "result": "逐项核语境均为误报，保留正确文字；依据用户最新继续并按规则修改的授权确认"
+  },
+  "evidence": "平台执行者发布后完整回读；本地证据 platform-published-verification.json"
+}

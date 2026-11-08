@@ -1,0 +1,27 @@
+{
+  "date_bjt": "2026-11-08",
+  "chapter": 126,
+  "title": "压在折角下",
+  "status": "已发布",
+  "published_time_bjt": "09:10",
+  "chapter_id": "7705599800162386456",
+  "han_characters": 3687,
+  "platform_characters": 4323,
+  "paragraphs": 171,
+  "fixed_source_commit": "190f5a42398bf6ce6cdb5ff5e7f536342f3ca432",
+  "publish_text_path": "novels/auction-house-apprentice/publication/publish-text/ch126.txt",
+  "publish_text_sha256": "787528b9b088ea4790eac2a765070ed041d683835acaeed9caac9489d48f9e2f",
+  "ai_used": "是",
+  "scheduled": false,
+  "verification": {
+    "management_status": "已发布",
+    "full_preview_exact_match": true,
+    "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7705599800162386456",
+    "independent_reader_url": null
+  },
+  "spelling_warning_review": {
+    "count": 9,
+    "result": "逐项核语境均为误报，保留正确文字；依据用户最新继续并按规则修改的授权确认"
+  },
+  "evidence": "平台执行者发布后完整回读；本地证据 platform-published-verification.json"
+}
