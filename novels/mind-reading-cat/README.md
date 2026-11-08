@@ -114,3 +114,7 @@ Complete English Chapters 146–155 passed independent full-text review and targ
 ## Verified public releases — 2026-11-07
 
 Chapters 146–155 were published in Main/Public/Now and each full reader body, title and chapter number matched fixed reviewed manuscript source `e602fd4f2e8bd6c0da466412efd16e4c72f12a8c`. Actual releases ran from Beijing 09:03:54 to 09:07:42. Final eight-page inspection confirmed 155 unique consecutive Public chapters, no drafts or schedules, exactly ten new public releases today, and all titles matched the manifest. Daily quota remaining: zero. See `publication/2026-11-07.json` for all titles, verified reader links, actual times and source hashes. Complete manuscript and public ranges both reach155; reviewed complete unpublished stock is zero. Chapters156–250 remain planning only.
+
+## Reviewed writing batch — 2026-11-08
+
+Complete English Chapters156–165 passed independent full-text review and corrections. Active complete manuscripts now001–165, with each new chapter1815–1872 words. See `reviews/2026-11-08-independent.md`, its JSON companion, and `progress/2026-11-08.md`. Publication is recorded separately; this entry does not claim release. Chapters166–250 remain planning, not stock.

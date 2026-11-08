@@ -1243,6 +1243,86 @@
       "words": 1835,
       "sha256": "6e2bc80a33a6014c5c97634d87456fa7a711cbffe632d6afdbce25120b99b188",
       "git_blob_sha1": "ad529fb0568cb5c65cba899f84fe03af5aae029a"
+    },
+    {
+      "chapter": 156,
+      "heading": "Chapter 156 — The Nap Upstairs",
+      "path": "chapters/en/156-the-nap-upstairs.md",
+      "words": 1847,
+      "sha256": "9b4679396847d170e42ddbcbcbb1eff622839960002b6f3e16287b54ef0bb68e",
+      "git_blob_sha1": "199d0fab72590f1218c4fef6580bb28bce00fc33"
+    },
+    {
+      "chapter": 157,
+      "heading": "Chapter 157 — An Unromantic List",
+      "path": "chapters/en/157-an-unromantic-list.md",
+      "words": 1869,
+      "sha256": "6f5fbad1594f14657a06167f2535cf377e911f57d7b0b52df887cbdb321c4f8c",
+      "git_blob_sha1": "ca2e1998adf6221768ce7a906929063640180508"
+    },
+    {
+      "chapter": 158,
+      "heading": "Chapter 158 — Even the Quiet Ones Can Make Noise",
+      "path": "chapters/en/158-even-the-quiet-ones-can-make-noise.md",
+      "words": 1815,
+      "sha256": "eee90a37508fe0c4ff8c4721ef76944469b4ef4b51f876d7031029878a8df950",
+      "git_blob_sha1": "b2def7c1a316f6231ca54a2d59f3e189f26b7e70"
+    },
+    {
+      "chapter": 159,
+      "heading": "Chapter 159 — The Second Signature",
+      "path": "chapters/en/159-the-second-signature.md",
+      "words": 1824,
+      "sha256": "43e47ac6db2c31beab4c2106a326270404184167349d8b7b5073979d005b239a",
+      "git_blob_sha1": "a773d12d790631b3bac99d1e8d1f0b4add0f86d4"
+    },
+    {
+      "chapter": 160,
+      "heading": "Chapter 160 — After Receiving the Keys",
+      "path": "chapters/en/160-after-receiving-the-keys.md",
+      "words": 1839,
+      "sha256": "115364f96891fa659a24bf4cf77c2196357071feaf0c8f2dd1e4c7f8223ab1e1",
+      "git_blob_sha1": "f99554bb174cda750ff0cc50cd3d8d3486a8407b"
+    },
+    {
+      "chapter": 161,
+      "heading": "Chapter 161 — Friends Can Recommend Someone Else",
+      "path": "chapters/en/161-friends-can-recommend-someone-else.md",
+      "words": 1823,
+      "sha256": "29ce912c13a26b4527df563df1ec80f64eb724c2a1bfcbac3635a0cd82440df8",
+      "git_blob_sha1": "49e74436f2bd816d134750da2421f20a8bc7c14a"
+    },
+    {
+      "chapter": 162,
+      "heading": "Chapter 162 — The Doctor Sits in the Audience",
+      "path": "chapters/en/162-the-doctor-sits-in-the-audience.md",
+      "words": 1850,
+      "sha256": "34c02ea08cb172914d39c3027b7aded593d021fa5c9376956d7556ea6520764c",
+      "git_blob_sha1": "d83cd4ac4ffa78c342ed012c55cfc423c9c684ed"
+    },
+    {
+      "chapter": 163,
+      "heading": "Chapter 163 — Who Can Press Cancel?",
+      "path": "chapters/en/163-who-can-press-cancel.md",
+      "words": 1855,
+      "sha256": "5cbd3e4ca7a23af07692062564ddec5e7adaa5635e2c2fb2b66077de4bd1f52a",
+      "git_blob_sha1": "1bd1f256b5930e03a7db701c6123aedacacb6a76"
+    },
+    {
+      "chapter": 164,
+      "heading": "Chapter 164 — Four Takeout Meals for Three People",
+      "path": "chapters/en/164-four-takeout-meals-for-three-people.md",
+      "words": 1849,
+      "sha256": "95bd1fea11d04dac6a94198337ff02a742dfde54b0658ea5e9f3e113c9917d89",
+      "git_blob_sha1": "19fc1692f89c6af2e70492dd4b64a6e7f9c050c0"
+    },
+    {
+      "chapter": 165,
+      "heading": "Chapter 165 — Partnership on Paper",
+      "path": "chapters/en/165-partnership-on-paper.md",
+      "words": 1872,
+      "sha256": "9b9c9a20ec23eae463a6755c7269f40e3085ddb2d1c98702769b55a1b7a996b4",
+      "git_blob_sha1": "6b0003c2a55ed04136599768b34b2612c92dbcfe"
     }
   ]
 }
