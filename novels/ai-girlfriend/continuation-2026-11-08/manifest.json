@@ -1,0 +1,231 @@
+{
+  "date_beijing": "2026-11-08",
+  "range": [
+    347,
+    356
+  ],
+  "new_chapter_pairs": 10,
+  "publication": false,
+  "files": [
+    {
+      "chapter": 347,
+      "language": "cn",
+      "path": "cn/347_The_Next_Working_Day.md",
+      "heading": "# 第347章 下一个工作日",
+      "han_characters": 1806,
+      "words": null,
+      "bytes": 6342,
+      "sha256": "417fce6a8a5e4056c7de118aa87871e27a09beba2aa42004bb20f48ef60767e6",
+      "git_blob_sha": "4d85e530b0b426f02468bd2d898029f9e21be509"
+    },
+    {
+      "chapter": 348,
+      "language": "cn",
+      "path": "cn/348_A_Page_Still_to_Be_Checked.md",
+      "heading": "# 第348章 还要核对的一页",
+      "han_characters": 1871,
+      "words": null,
+      "bytes": 6525,
+      "sha256": "b3d396fe109ab0b660113a66636b4dd7bf9b206515dccdbc122faadf6cc807b2",
+      "git_blob_sha": "8fb86b5bf5941be738c9bb298b775db06e2c842a"
+    },
+    {
+      "chapter": 349,
+      "language": "cn",
+      "path": "cn/349_The_Hand_Writing_It_Down.md",
+      "heading": "# 第349章 写下来的那只手",
+      "han_characters": 1821,
+      "words": null,
+      "bytes": 6508,
+      "sha256": "8c80b53e164ec401d0f68d4256d20eb047ec381580f97b4f03f7b6753dbf106a",
+      "git_blob_sha": "dd083d8059d61b3ab213b2baa8b8658e6bc23f05"
+    },
+    {
+      "chapter": 350,
+      "language": "cn",
+      "path": "cn/350_One_Word_Under_the_Line.md",
+      "heading": "# 第350章 横线下面的一个词",
+      "han_characters": 1827,
+      "words": null,
+      "bytes": 6525,
+      "sha256": "7914a1de73fca9f87b76db4fcab3bf55e28e108e1c4eac6291ba5fadc7e96cbf",
+      "git_blob_sha": "468f7712adc2e72b5aabf600972f4c56ecc6646c"
+    },
+    {
+      "chapter": 351,
+      "language": "cn",
+      "path": "cn/351_Without_Taking_the_Envelope.md",
+      "heading": "# 第351章 不带那只信封",
+      "han_characters": 1812,
+      "words": null,
+      "bytes": 6393,
+      "sha256": "6e0d201af3645c836b0785ed9c357c36bd0e90de34336edbe9e5559ebdfb0a01",
+      "git_blob_sha": "81566de243729d61709dff5c1ec87c1bdf539455"
+    },
+    {
+      "chapter": 352,
+      "language": "cn",
+      "path": "cn/352_A_Page_Without_a_Story.md",
+      "heading": "# 第352章 没有故事的那一页",
+      "han_characters": 1809,
+      "words": null,
+      "bytes": 6256,
+      "sha256": "0443e933d9e3c8f99db29d7005030e014c925f06211bf542294ce3f53ef1403f",
+      "git_blob_sha": "66ce074f7818a127ece2ce473901a67f9235580e"
+    },
+    {
+      "chapter": 353,
+      "language": "cn",
+      "path": "cn/353_The_Tree_on_the_Left.md",
+      "heading": "# 第353章 左边那棵树",
+      "han_characters": 1792,
+      "words": null,
+      "bytes": 6224,
+      "sha256": "9051a9139dcadbde90001eca15d52b138aa227a798a5fe2765c0579f5ef4999e",
+      "git_blob_sha": "db2342a2ebdcb0c115a39060a00e7f078c76e8d1"
+    },
+    {
+      "chapter": 354,
+      "language": "cn",
+      "path": "cn/354_One_Drink_After_Work.md",
+      "heading": "# 第354章 下班后的一杯",
+      "han_characters": 1936,
+      "words": null,
+      "bytes": 6750,
+      "sha256": "49a55591932df43ca64c1e6b912a1906152040717a15612ea6e1dba9c22cac36",
+      "git_blob_sha": "b46423bbf01f81223e130d90651be90857e9216f"
+    },
+    {
+      "chapter": 355,
+      "language": "cn",
+      "path": "cn/355_Not_Every_Line_Needs_a_Joke.md",
+      "heading": "# 第355章 不必每句都接玩笑",
+      "han_characters": 1832,
+      "words": null,
+      "bytes": 6374,
+      "sha256": "63d354760f71dcb43f23e4faaf34c55e4c16813ad5730e7fc2042834f34c018e",
+      "git_blob_sha": "6b9151d012a6cf199707a242320213ca04d4f09b"
+    },
+    {
+      "chapter": 356,
+      "language": "cn",
+      "path": "cn/356_I_Was_Glad_to_Hear_You.md",
+      "heading": "# 第356章 听到你我很高兴",
+      "han_characters": 1823,
+      "words": null,
+      "bytes": 6378,
+      "sha256": "9beb170b45897c1795bdd3343cad11b3f0d2e8e11f38b0bccc56a1e67d1ebdab",
+      "git_blob_sha": "7fc2d3ad1b00f1445ece05dc15955be5e43dfcd3"
+    },
+    {
+      "chapter": 347,
+      "language": "en",
+      "path": "en/347_The_Next_Working_Day.md",
+      "heading": "# Chapter 347: The Next Working Day",
+      "han_characters": null,
+      "words": 1281,
+      "bytes": 7278,
+      "sha256": "afbdaae1a9f671a7cbb11f8f3e6c60d036efdab6e000b0c167d2fd4a214bdb16",
+      "git_blob_sha": "359a9825a9ff1135632951c2e0bac78c94491ccf"
+    },
+    {
+      "chapter": 348,
+      "language": "en",
+      "path": "en/348_A_Page_Still_to_Be_Checked.md",
+      "heading": "# Chapter 348: A Page Still to Be Checked",
+      "han_characters": null,
+      "words": 1349,
+      "bytes": 7869,
+      "sha256": "ca93cf2909b6e218dea6384e7eaf0d930bacf4523582d79aab8137e3064ea918",
+      "git_blob_sha": "e92978cbf3e5adbaf6276cbca860c6532ae42187"
+    },
+    {
+      "chapter": 349,
+      "language": "en",
+      "path": "en/349_The_Hand_Writing_It_Down.md",
+      "heading": "# Chapter 349: The Hand Writing It Down",
+      "han_characters": null,
+      "words": 1389,
+      "bytes": 7861,
+      "sha256": "147af6b443f4ea8680950f5a0dac29689db39163c18ef2307ea7a99d50b75a64",
+      "git_blob_sha": "8c5e8bc2b963190ee697203b1477e1d2c13425ec"
+    },
+    {
+      "chapter": 350,
+      "language": "en",
+      "path": "en/350_One_Word_Under_the_Line.md",
+      "heading": "# Chapter 350: The Words Under the Line",
+      "han_characters": null,
+      "words": 1384,
+      "bytes": 7869,
+      "sha256": "5aed042e2b5b4dfbb8778b3cacadb150d615edb82f5d24664bd155a54099338f",
+      "git_blob_sha": "d804490d40896410b8d5c7ec51287d3ce82ee57f"
+    },
+    {
+      "chapter": 351,
+      "language": "en",
+      "path": "en/351_Without_Taking_the_Envelope.md",
+      "heading": "# Chapter 351: Without Taking the Envelope",
+      "han_characters": null,
+      "words": 1303,
+      "bytes": 7565,
+      "sha256": "2a786e6892a5e05bb40af97714b36fe0e91a6e98c0633d73daee507460719cac",
+      "git_blob_sha": "4ef7a807859ac9af6ceb7a833298342c613249c5"
+    },
+    {
+      "chapter": 352,
+      "language": "en",
+      "path": "en/352_A_Page_Without_a_Story.md",
+      "heading": "# Chapter 352: A Page Without a Story",
+      "han_characters": null,
+      "words": 1250,
+      "bytes": 7154,
+      "sha256": "5f488b876c9b90362f396a6466dfdb5b118d5e451b1612669f3becb19494d0c0",
+      "git_blob_sha": "d3bef062bf74a922729c4a4df679c1f32850b45c"
+    },
+    {
+      "chapter": 353,
+      "language": "en",
+      "path": "en/353_The_Tree_on_the_Left.md",
+      "heading": "# Chapter 353: The Tree on the Left",
+      "han_characters": null,
+      "words": 1250,
+      "bytes": 7149,
+      "sha256": "dc2dd71df3ff90b14d1c1b5bea4ce2c7fc4756f4b4883ffb263f82af7ea8f4dc",
+      "git_blob_sha": "5fac4f4ac4d142b414e9319f9bd6fd24f60e98d3"
+    },
+    {
+      "chapter": 354,
+      "language": "en",
+      "path": "en/354_One_Drink_After_Work.md",
+      "heading": "# Chapter 354: One Drink After Work",
+      "han_characters": null,
+      "words": 1338,
+      "bytes": 7730,
+      "sha256": "1d3198782bc2fafcaf3465bd292064c82fc91475307518699e0d4b0ed8fbb96b",
+      "git_blob_sha": "a2258259dbbc32269dca7489c1d8c4393ca400d2"
+    },
+    {
+      "chapter": 355,
+      "language": "en",
+      "path": "en/355_Not_Every_Line_Needs_a_Joke.md",
+      "heading": "# Chapter 355: Not Every Line Needs a Joke",
+      "han_characters": null,
+      "words": 1298,
+      "bytes": 7449,
+      "sha256": "fb53f1aa6e31888a0c08df96c4c4235e0d8df8fcc34ba9a1a2ef077d77813127",
+      "git_blob_sha": "001543de191c90df653c86bf0dca2a1f5b44705f"
+    },
+    {
+      "chapter": 356,
+      "language": "en",
+      "path": "en/356_I_Was_Glad_to_Hear_You.md",
+      "heading": "# Chapter 356: I Was Glad to Hear You",
+      "han_characters": null,
+      "words": 1290,
+      "bytes": 7395,
+      "sha256": "4034c4f11b3089e9a29915f9cc41067d76e14ddbbadfaf700eaa697ca8e898cb",
+      "git_blob_sha": "a7803e10523dc19b1a32b4fc11fd9cd7fe5ec0a6"
+    }
+  ]
+}
