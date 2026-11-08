@@ -1,0 +1,16 @@
+{
+  "chapter": 126,
+  "title": "压在折角下",
+  "date_bjt": "2026-11-08",
+  "han_characters": 3687,
+  "body_characters_without_final_newline": 4663,
+  "body_paragraphs": 171,
+  "markdown_path": "novels/auction-house-apprentice/chapters/cn/126-ya-zai-zhe-jiao-xia.md",
+  "markdown_sha256": "0a23a9b94af03842a353b8aa7a3c7984b85daedba4759f69331d681ad45c10ac",
+  "publish_path": "novels/auction-house-apprentice/publication/publish-text/ch126.txt",
+  "publish_sha256": "787528b9b088ea4790eac2a765070ed041d683835acaeed9caac9489d48f9e2f",
+  "independent_review": "PASS after correction confirmed against full-text independent review",
+  "platform_status_at_manuscript_commit": "not_uploaded",
+  "current_daily_write_limit": 2,
+  "current_daily_public_limit": 2
+}
