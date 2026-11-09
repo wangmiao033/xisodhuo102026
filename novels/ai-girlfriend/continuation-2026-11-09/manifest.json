@@ -1,0 +1,217 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "batch_beijing_date": "2026-11-09",
+  "chapters": [
+    357,
+    366
+  ],
+  "pairs_added": 10,
+  "continuous_bilingual_continuation": [
+    127,
+    366
+  ],
+  "continuation_pairs_total": 240,
+  "platform_publication_authorized_by_this_batch": false,
+  "files": [
+    {
+      "chapter": 357,
+      "language": "cn",
+      "path": "cn/357_The_Coat_Needed_Time.md",
+      "title": "# 第357章 外套也要等一会儿",
+      "bytes": 8477,
+      "sha256": "6ce1dd2cf9568f0bbb097392b3103ee906bf8db098420d36e496607eb52fbd79",
+      "git_blob_sha": "8941b98ec24fdd3e68e9190f70c172017d6ab84c",
+      "hanzi": 2400
+    },
+    {
+      "chapter": 358,
+      "language": "cn",
+      "path": "cn/358_The_Color_I_Did_Not_Choose.md",
+      "title": "# 第358章 我没选的那个颜色",
+      "bytes": 8970,
+      "sha256": "c3301d9ab14b3bd882b29992796065eb2570dd3ab91ba1f303cbb4f3b30ba595",
+      "git_blob_sha": "4c016de9ff71e0193db0e6b4d7b897ef6728a907",
+      "hanzi": 2561
+    },
+    {
+      "chapter": 359,
+      "language": "cn",
+      "path": "cn/359_The_Seat_I_Found_Myself.md",
+      "title": "# 第359章 自己找到的座位",
+      "bytes": 8354,
+      "sha256": "f844a617a0ca9f1a9bc2ae929ec3e92aa0c3db85e6c892d788f3952f983e22e8",
+      "git_blob_sha": "28d3e799d397a033973b09ee9d397f99f6290682",
+      "hanzi": 2424
+    },
+    {
+      "chapter": 360,
+      "language": "cn",
+      "path": "cn/360_A_Handle_on_the_Wrong_Side.md",
+      "title": "# 第360章 画在另一边的把手",
+      "bytes": 8882,
+      "sha256": "348999c3c8b3a13045594351b82cbc1834b906e9b17c9cfa6271dd539fe9cdfb",
+      "git_blob_sha": "a7a24620f84b7c144fd9273ace0bfba02bccee2a",
+      "hanzi": 2544
+    },
+    {
+      "chapter": 361,
+      "language": "cn",
+      "path": "cn/361_After_the_Rain_Had_Stopped.md",
+      "title": "# 第361章 雨停以后",
+      "bytes": 9042,
+      "sha256": "1c4a7c3ff6f5aaee55cdc666e4220b94a6594389578e71cd59a289a069aeeb83",
+      "git_blob_sha": "6f63d1ea61f6fc61b5694b504b3db577e52ef9e7",
+      "hanzi": 2579
+    },
+    {
+      "chapter": 362,
+      "language": "cn",
+      "path": "cn/362_A_Pencil_Still_Worth_Selling.md",
+      "title": "# 第362章 仍然能卖的铅笔",
+      "bytes": 8476,
+      "sha256": "ffe78f5202106365cc0f643f10e7e0be7f8616b4ee471129f6d01834d5a6a072",
+      "git_blob_sha": "155aca6185c4be044e6ecfd171662f49d46a6510",
+      "hanzi": 2426
+    },
+    {
+      "chapter": 363,
+      "language": "cn",
+      "path": "cn/363_The_Part_I_Had_Already_Written.md",
+      "title": "# 第363章 我已经替她写好的部分",
+      "bytes": 8750,
+      "sha256": "ae07f1331847fb3aaf4da46d35ad59aaf3dd50444038a6c7ac9be986b4b6ed3f",
+      "git_blob_sha": "c58aae9f85ef02f773c4e73df07cc9257f2212ac",
+      "hanzi": 2499
+    },
+    {
+      "chapter": 364,
+      "language": "cn",
+      "path": "cn/364_When_the_Window_Closed.md",
+      "title": "# 第364章 窗口关上的时候",
+      "bytes": 8766,
+      "sha256": "3a83de3cb3de25a3f211e09ce7dc703ff9c7655787bd497695ed329cde8e2e12",
+      "git_blob_sha": "cc864c8bd229e77a76353fd3e60f553e5465b2e5",
+      "hanzi": 2505
+    },
+    {
+      "chapter": 365,
+      "language": "cn",
+      "path": "cn/365_Received_Is_Not_Checked.md",
+      "title": "# 第365章 收到还不等于核过",
+      "bytes": 8978,
+      "sha256": "f02885914bff2ec673587074e0a900c5ac041a0e22cd26fab5b64855504e1609",
+      "git_blob_sha": "b6e29235cc140a3f892ecdc509c22ec75cc95f8c",
+      "hanzi": 2626
+    },
+    {
+      "chapter": 366,
+      "language": "cn",
+      "path": "cn/366_A_Ticket_for_the_Tin.md",
+      "title": "# 第366章 给空罐的一张票",
+      "bytes": 8838,
+      "sha256": "b42b0edfe73d1b64dcda4624ca88a29d7bc72f9a298b5c4be0e29a448636e6e5",
+      "git_blob_sha": "e212327d2be89fe7c3c54e7cf14be35d427a21ed",
+      "hanzi": 2497
+    },
+    {
+      "chapter": 357,
+      "language": "en",
+      "path": "en/357_The_Coat_Needed_Time.md",
+      "title": "# Chapter 357: The Coat Needed Time",
+      "bytes": 10418,
+      "sha256": "ccfb3c75288019a02a9ad680abcd9714ac37d1b99c5346a122147e701f274760",
+      "git_blob_sha": "157351eaec4eff91a4c1c4c4cc75ef08a3d70125",
+      "words": 1814
+    },
+    {
+      "chapter": 358,
+      "language": "en",
+      "path": "en/358_The_Color_I_Did_Not_Choose.md",
+      "title": "# Chapter 358: The Color I Did Not Choose",
+      "bytes": 10438,
+      "sha256": "f96c5c840433b503da24359241779ecb2b97ad2d0009fd5a1962a2a79c0890e2",
+      "git_blob_sha": "88103eab3a66d400b0dccf63a05f09f6fe4ed56e",
+      "words": 1820
+    },
+    {
+      "chapter": 359,
+      "language": "en",
+      "path": "en/359_The_Seat_I_Found_Myself.md",
+      "title": "# Chapter 359: The Seat I Found Myself",
+      "bytes": 10256,
+      "sha256": "5ae786401cba7a659c3e93ffc711d30a211f3ff678ee3c42bd763a7ef3eb2a65",
+      "git_blob_sha": "2bf96185f1788587949680d55fe8aa51e5867b7e",
+      "words": 1818
+    },
+    {
+      "chapter": 360,
+      "language": "en",
+      "path": "en/360_A_Handle_on_the_Wrong_Side.md",
+      "title": "# Chapter 360: A Handle on the Wrong Side",
+      "bytes": 10478,
+      "sha256": "e54a889aed409095f9c92fa69371c460d74922dd92c2352f4b7820710153ec8f",
+      "git_blob_sha": "dedc1a074d6d51342732ee82034171e44c4815ee",
+      "words": 1827
+    },
+    {
+      "chapter": 361,
+      "language": "en",
+      "path": "en/361_After_the_Rain_Had_Stopped.md",
+      "title": "# Chapter 361: After the Rain Had Stopped",
+      "bytes": 10770,
+      "sha256": "7ecb977b7bd93139c8f62883bf6214b2b33c89cf724de3586443c1f517b67833",
+      "git_blob_sha": "44d89d94d90aacef03c0772925785eb007625cbb",
+      "words": 1816
+    },
+    {
+      "chapter": 362,
+      "language": "en",
+      "path": "en/362_A_Pencil_Still_Worth_Selling.md",
+      "title": "# Chapter 362: A Pencil Still Worth Selling",
+      "bytes": 10728,
+      "sha256": "4463cc65699f656e621ab64b651880802c9340339c0e533cffb4343bc6da2ab0",
+      "git_blob_sha": "928550af8f30ae968b1a24941e263fdd5b76e849",
+      "words": 1827
+    },
+    {
+      "chapter": 363,
+      "language": "en",
+      "path": "en/363_The_Part_I_Had_Already_Written.md",
+      "title": "# Chapter 363: The Part I Had Already Written",
+      "bytes": 10474,
+      "sha256": "99357493760d11bee3b3fb0729719bf6de463eac545b78b31ece79a754dc30d7",
+      "git_blob_sha": "50066ff17fc7c3d55c81cfcdd5306e4bf8df97fd",
+      "words": 1820
+    },
+    {
+      "chapter": 364,
+      "language": "en",
+      "path": "en/364_When_the_Window_Closed.md",
+      "title": "# Chapter 364: When the Window Closed",
+      "bytes": 10729,
+      "sha256": "c72a9b9b1d2cf276d34c2c58689931571f80b95e894cca7c25ff8daaaaddc5a9",
+      "git_blob_sha": "3d572e5a999a9fd3cd6d8e022bbca946db1769d7",
+      "words": 1832
+    },
+    {
+      "chapter": 365,
+      "language": "en",
+      "path": "en/365_Received_Is_Not_Checked.md",
+      "title": "# Chapter 365: Received Does Not Mean Verified",
+      "bytes": 10739,
+      "sha256": "bf241d9736c864acf7733b0204a93d920702902b6f28b5fe69a3a6b65976e273",
+      "git_blob_sha": "8200fe2fe277ecc875111e9aea64a6ed79b705ba",
+      "words": 1833
+    },
+    {
+      "chapter": 366,
+      "language": "en",
+      "path": "en/366_A_Ticket_for_the_Tin.md",
+      "title": "# Chapter 366: A Ticket for the Tin",
+      "bytes": 10670,
+      "sha256": "22e11236feed0fa2cebf033be2d482c301e45322982b264ef4bd5085d013f87a",
+      "git_blob_sha": "19cc26d9b54641026d4f8092985436e9e6df7084",
+      "words": 1826
+    }
+  ]
+}
