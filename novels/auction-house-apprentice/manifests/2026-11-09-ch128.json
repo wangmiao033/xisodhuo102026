@@ -1,0 +1,13 @@
+{
+  "date_bjt": "2026-11-09",
+  "chapter": 128,
+  "title": "缩在页边的字",
+  "han_characters": 3607,
+  "paragraphs": 186,
+  "body_characters": 4574,
+  "markdown_sha256": "2d0b58d95ce84367ec9c569039150e83b35c4f1b5a807e76f9adebcda2bc1c8b",
+  "publish_text_sha256": "40325a92d4c4973ec96675f1bba3fc41828bb685be744c84930cfe12f73be6bb",
+  "review": "PASS; independent full-text review by publication coordinator",
+  "platform_status_at_commit": "未上传",
+  "basis_commit": "bb6c3d201f3f4e8b91879b849495f22b7c2800c6"
+}
