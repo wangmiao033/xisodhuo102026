@@ -1,0 +1,27 @@
+{
+  "date_bjt": "2026-11-09",
+  "chapter": 128,
+  "title": "缩在页边的字",
+  "status": "已发布",
+  "published_time_bjt": "08:53",
+  "chapter_id": "7705967852292948505",
+  "han_characters": 3607,
+  "platform_characters": 4204,
+  "paragraphs": 186,
+  "fixed_source_commit": "077dfb4a2362b906270b7794d163a7a6b5e29fba",
+  "publish_text_path": "novels/auction-house-apprentice/publication/publish-text/ch128.txt",
+  "publish_text_sha256": "40325a92d4c4973ec96675f1bba3fc41828bb685be744c84930cfe12f73be6bb",
+  "ai_used": "是",
+  "scheduled": false,
+  "verification": {
+    "management_status": "已发布",
+    "full_preview_exact_match": true,
+    "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7705967852292948505",
+    "independent_reader_url": null
+  },
+  "spelling_warning_review": {
+    "count": 6,
+    "result": "逐项结合语境核实均为误报，依据用户最新授权保留正确文字后确认；未改定稿"
+  },
+  "evidence": "平台执行者完整回读；本地platform-published-verification.json"
+}

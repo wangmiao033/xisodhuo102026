@@ -1,0 +1,27 @@
+{
+  "date_bjt": "2026-11-09",
+  "chapter": 129,
+  "title": "谁来认那只手",
+  "status": "已发布",
+  "published_time_bjt": "08:55",
+  "chapter_id": "7705968649378480665",
+  "han_characters": 3639,
+  "platform_characters": 4234,
+  "paragraphs": 168,
+  "fixed_source_commit": "ed598dafe5054e5b52aebd4fe27602d450e2c055",
+  "publish_text_path": "novels/auction-house-apprentice/publication/publish-text/ch129.txt",
+  "publish_text_sha256": "03e278fc00ab2868218bb14b957fae29fa1a9d3f709c51f645d0140c2c29818b",
+  "ai_used": "是",
+  "scheduled": false,
+  "verification": {
+    "management_status": "已发布",
+    "full_preview_exact_match": true,
+    "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7705968649378480665",
+    "independent_reader_url": null
+  },
+  "spelling_warning_review": {
+    "count": 10,
+    "result": "逐项结合语境核实均为误报，依据用户最新授权保留正确文字后确认；未改定稿"
+  },
+  "evidence": "平台执行者完整回读；本地platform-published-verification.json"
+}
