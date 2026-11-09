@@ -1,0 +1,13 @@
+{
+  "date_bjt": "2026-11-09",
+  "chapter": 129,
+  "title": "谁来认那只手",
+  "han_characters": 3639,
+  "paragraphs": 168,
+  "body_characters": 4568,
+  "markdown_sha256": "b9bc735b5b529d3ac57dd27b6fb2da8365cbb840f67cc307b1e53f3337dc746b",
+  "publish_text_sha256": "03e278fc00ab2868218bb14b957fae29fa1a9d3f709c51f645d0140c2c29818b",
+  "review": "PASS; independent full-text review by publication coordinator",
+  "platform_status_at_commit": "未上传",
+  "previous_chapter_fixed_commit": "077dfb4a2362b906270b7794d163a7a6b5e29fba"
+}
