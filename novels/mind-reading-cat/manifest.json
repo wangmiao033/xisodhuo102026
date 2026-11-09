@@ -1323,6 +1323,86 @@
       "words": 1872,
       "sha256": "9b9c9a20ec23eae463a6755c7269f40e3085ddb2d1c98702769b55a1b7a996b4",
       "git_blob_sha1": "6b0003c2a55ed04136599768b34b2612c92dbcfe"
+    },
+    {
+      "chapter": 166,
+      "heading": "Chapter 166 — Who Will Feed Him for Three Days?",
+      "path": "chapters/en/166-who-will-feed-him-for-three-days.md",
+      "words": 1838,
+      "sha256": "7bd5732832e93b2dcd239431225370ba55d400b588e91bc3cb5e3fbd72c4e23d",
+      "git_blob_sha1": "d38704502980c5d1d91d96cee126587fad873447"
+    },
+    {
+      "chapter": 167,
+      "heading": "Chapter 167 — Pet Food in a Biscuit Tin",
+      "path": "chapters/en/167-pet-food-in-a-biscuit-tin.md",
+      "words": 1849,
+      "sha256": "d3ab278165e5579ad704dd07a48a92f9b79de2968d349f5b2324e6a269bac376",
+      "git_blob_sha1": "c90323ffb13af8ec78d03d3fae827e45ebbffa9c"
+    },
+    {
+      "chapter": 168,
+      "heading": "Chapter 168 — Even the Vet Guessed Wrong",
+      "path": "chapters/en/168-even-the-vet-guessed-wrong.md",
+      "words": 1846,
+      "sha256": "613d42e876b50ddc6999abfdc17e1a51c9faaf5101712fa4aabad8fbab7b09b4",
+      "git_blob_sha1": "a4afa886613b6e46d998f365ced9219869398412"
+    },
+    {
+      "chapter": 169,
+      "heading": "Chapter 169 — Not Everyone Can Have a Key",
+      "path": "chapters/en/169-not-everyone-can-have-a-key.md",
+      "words": 1853,
+      "sha256": "5e8c123830ae884ae767244a30686e9c1de36334b32639feb401c60cbfd58588",
+      "git_blob_sha1": "2ac80546898090a142a09094d8bfaffc85a93b7c"
+    },
+    {
+      "chapter": 170,
+      "heading": "Chapter 170 — A Fridge Magnet from Out of Town",
+      "path": "chapters/en/170-a-fridge-magnet-from-out-of-town.md",
+      "words": 1857,
+      "sha256": "0f072a26a25c10805d59e5677acca7cc19799f83ebea00261484419f337b2869",
+      "git_blob_sha1": "dc4bb184512d47b31f8e24722ab191dcd35bc421"
+    },
+    {
+      "chapter": 171,
+      "heading": "Chapter 171 — The Sign on Opening Eve",
+      "path": "chapters/en/171-the-sign-on-opening-eve.md",
+      "words": 1832,
+      "sha256": "24dadab85334e057a4354880abd1f0486a56a5f87467257c97fb30587efe4efd",
+      "git_blob_sha1": "227338c69eeed48efc572a6d5f6563a14150a74d"
+    },
+    {
+      "chapter": 172,
+      "heading": "Chapter 172 — The Earliest Complaint",
+      "path": "chapters/en/172-the-earliest-complaint.md",
+      "words": 1838,
+      "sha256": "e2519474a8bd72a95bca36584ec85d871fa84f4247bf3bb0daa093994f8522bd",
+      "git_blob_sha1": "100d6555b0f3ce136ae657d425c38dc68995ae54"
+    },
+    {
+      "chapter": 173,
+      "heading": "Chapter 173 — The Chair by the Door",
+      "path": "chapters/en/173-the-chair-by-the-door.md",
+      "words": 1842,
+      "sha256": "61dfd9c1f9a9732aa3b2a25d21d441baddb824a606047b9fb675c5a9c79d05cf",
+      "git_blob_sha1": "46d9c69911baa37d71636adebef6bfcc63ab2e4c"
+    },
+    {
+      "chapter": 174,
+      "heading": "Chapter 174 — Sold Out and Still Unsold",
+      "path": "chapters/en/174-sold-out-and-still-unsold.md",
+      "words": 1807,
+      "sha256": "b58db7e5c8a65c64902d751361dfb0e23c584facaa1e4def2edb714c90399ffd",
+      "git_blob_sha1": "778a45e0760948dc6075acb1d2292724cb187199"
+    },
+    {
+      "chapter": 175,
+      "heading": "Chapter 175 — Half the Lights Turned Off",
+      "path": "chapters/en/175-half-the-lights-turned-off.md",
+      "words": 1857,
+      "sha256": "251a8b647182fe6acd339ed8ebab06caf6cf7799a15464cca48811e18f8fdd71",
+      "git_blob_sha1": "b47de37b5f488520cb8ef941983ca25a878d3189"
     }
   ]
 }

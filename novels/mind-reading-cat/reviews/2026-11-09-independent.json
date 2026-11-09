@@ -1,0 +1,141 @@
+{
+  "book": "My Mind-Reading Cat Is Trying to Set Me Up with the Vet",
+  "date_bjt": "2026-11-09",
+  "reviewer_role": "independent reviewer, not either manuscript author",
+  "status": "PASS",
+  "scope": "Local full-text independent review only; no claim of Git remote verification or platform publication.",
+  "method": "Read CANON and relevant approved250 planning with full161–165 neighboring manuscripts, additional full130 and156 continuity references. Read each166–175 in full as delivered, then all ten in order again. Sent five specific time/headcount wording corrections to authors. Verified final changes are exactly those replacements by reversing them and matching pre-correction SHA256; no other byte changes.",
+  "resolved_findings": [
+    {
+      "chapter": 167,
+      "change": "morning -> visit at final reflection, matching166 after-lunch appointment"
+    },
+    {
+      "chapter": 169,
+      "change": "five -> six participants in retrospective, matching166 late arrival"
+    },
+    {
+      "chapter": 171,
+      "change": "afternoon -> opening day for Dumpling care, matching172 arrival before morning opening"
+    },
+    {
+      "chapter": 172,
+      "change": "two afternoon references -> outing/day, consistent morning session"
+    }
+  ],
+  "checks": [
+    "English full prose, body1800–2200 words, complete scenes/actions/dialogue",
+    "Eve close-third limited viewpoint and ordinary evidence",
+    "No remote/memory/diagnostic/device mind-reading; no forced cat performance",
+    "Names/identities/pronouns and prior130/156 continuity",
+    "Sequential165→166→175 causality; relationship/finances/homes remain separate",
+    "Animal care follows existing individual plans; full absence coverage tested and agreed",
+    "No new main-plot direction or premature176 training outcome",
+    "No duplicate complete body; no Chinese/outline/author-note placeholders"
+  ],
+  "word_count_method": "Regex \\b[\\w]+(?:['’\\-][\\w]+)*\\b on body after Markdown heading",
+  "total_body_words": 18416,
+  "chapters": [
+    {
+      "chapter": 166,
+      "title": "Who Will Feed Him for Three Days?",
+      "path": "chapters/en/166-who-will-feed-him-for-three-days.md",
+      "body_words": 1838,
+      "sha256": "7bd5732832e93b2dcd239431225370ba55d400b588e91bc3cb5e3fbd72c4e23d",
+      "bytes": 11186,
+      "status": "PASS",
+      "review_notes": "Door-sign exchange becomes a voluntary nonmedical household-instruction exercise. Existing Toby support remains; new three-day scope distinguished."
+    },
+    {
+      "chapter": 167,
+      "title": "Pet Food in a Biscuit Tin",
+      "path": "chapters/en/167-pet-food-in-a-biscuit-tin.md",
+      "body_words": 1849,
+      "sha256": "d3ab278165e5579ad704dd07a48a92f9b79de2968d349f5b2324e6a269bac376",
+      "bytes": 11128,
+      "status": "PASS",
+      "review_notes": "Owner-present pet-free kitchen rehearsal, original food packet and current care plan preserved; after-lunch continuity corrected."
+    },
+    {
+      "chapter": 168,
+      "title": "Even the Vet Guessed Wrong",
+      "path": "chapters/en/168-even-the-vet-guessed-wrong.md",
+      "body_words": 1846,
+      "sha256": "613d42e876b50ddc6999abfdc17e1a51c9faaf5101712fa4aabad8fbab7b09b4",
+      "bytes": 11019,
+      "status": "PASS",
+      "review_notes": "Julian misreads the rubbish-bin arrow; no expertise inflation. Household access details stay private; separate homes retained."
+    },
+    {
+      "chapter": 169,
+      "title": "Not Everyone Can Have a Key",
+      "path": "chapters/en/169-not-everyone-can-have-a-key.md",
+      "body_words": 1853,
+      "sha256": "5e8c123830ae884ae767244a30686e9c1de36334b32639feb401c60cbfd58588",
+      "bytes": 11153,
+      "status": "PASS",
+      "review_notes": "Leah absence, Rachel shifts, familiar paid carer expanded cover, household consent and trial precede confirmed travel; no automatic cure. Headcount corrected."
+    },
+    {
+      "chapter": 170,
+      "title": "A Fridge Magnet from Out of Town",
+      "path": "chapters/en/170-a-fridge-magnet-from-out-of-town.md",
+      "body_words": 1857,
+      "sha256": "0f072a26a25c10805d59e5677acca7cc19799f83ebea00261484419f337b2869",
+      "bytes": 11252,
+      "status": "PASS",
+      "review_notes": "Trip completion known through Mia report; ugly dog magnet introduced; actual return bookings distinguished from interest."
+    },
+    {
+      "chapter": 171,
+      "title": "The Sign on Opening Eve",
+      "path": "chapters/en/171-the-sign-on-opening-eve.md",
+      "body_words": 1830,
+      "sha256": "24dadab85334e057a4354880abd1f0486a56a5f87467257c97fb30587efe4efd",
+      "bytes": 11153,
+      "status": "PASS",
+      "review_notes": "Opening-eve sign repair preserves Sophie bounded paid time. Cat opening-day care wording aligned to next chapter."
+    },
+    {
+      "chapter": 172,
+      "title": "The Earliest Complaint",
+      "path": "chapters/en/172-the-earliest-complaint.md",
+      "body_words": 1838,
+      "sha256": "e2519474a8bd72a95bca36584ec85d871fa84f4247bf3bb0daa093994f8522bd",
+      "bytes": 10919,
+      "status": "PASS",
+      "review_notes": "Morning complaint does not force cat performance or medical service. Misleading profile corrected, critic need not convert. Time wording corrected."
+    },
+    {
+      "chapter": 173,
+      "title": "The Chair by the Door",
+      "path": "chapters/en/173-the-chair-by-the-door.md",
+      "body_words": 1842,
+      "sha256": "61dfd9c1f9a9732aa3b2a25d21d441baddb824a606047b9fb675c5a9c79d05cf",
+      "bytes": 11088,
+      "status": "PASS",
+      "review_notes": "Alex they/them and rotating night shifts match156; Biscuit may stay outside; access route and staffing constraints enforced."
+    },
+    {
+      "chapter": 174,
+      "title": "Sold Out and Still Unsold",
+      "path": "chapters/en/174-sold-out-and-still-unsold.md",
+      "body_words": 1806,
+      "sha256": "b58db7e5c8a65c64902d751361dfb0e23c584facaa1e4def2edb714c90399ffd",
+      "bytes": 10955,
+      "status": "PASS",
+      "review_notes": "Six label packs sold, twelve keepsake cards unsold; actual figures/refund/inquiries distinguished; no financial miracle."
+    },
+    {
+      "chapter": 175,
+      "title": "Half the Lights Turned Off",
+      "path": "chapters/en/175-half-the-lights-turned-off.md",
+      "body_words": 1857,
+      "sha256": "251a8b647182fe6acd339ed8ebab06caf6cf7799a15464cca48811e18f8fdd71",
+      "bytes": 10884,
+      "status": "PASS",
+      "review_notes": "Private closing scene follows clearing; uncertainty admitted, weekly nonwork time chosen; separate homes/funds, no176 training reveal."
+    }
+  ],
+  "unresolved_findings": []
+}
