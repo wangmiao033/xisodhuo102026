@@ -1,0 +1,22 @@
+{
+  "chapter": 130,
+  "title": "隔门传来的声音",
+  "beijing_date": "2026-11-10",
+  "hanzi": 3724,
+  "review": "PASS",
+  "publication_status": "not_submitted",
+  "files": [
+    {
+      "path": "chapters/cn/130-ge-men-chuan-lai-de-sheng-yin.md",
+      "sha256": "c772d3c35f12e42cb107cd3db7e2040f34f9c4f002f4e5ab2c1ffefa640a1cea"
+    },
+    {
+      "path": "publication/publish-text/ch130.txt",
+      "sha256": "42efa2abc4d25fe2cf7a843b98248210fb3df137d14c69698407ec6a58fb3bb9"
+    },
+    {
+      "path": "reviews/2026-11-10-ch130.md",
+      "sha256": "cb97d851f7e400dc26ab75c8782e2cd2d998da405ca9147ddbdc7188ec109a70"
+    }
+  ]
+}

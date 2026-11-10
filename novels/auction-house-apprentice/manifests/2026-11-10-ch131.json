@@ -1,0 +1,22 @@
+{
+  "chapter": 131,
+  "title": "领条背面",
+  "beijing_date": "2026-11-10",
+  "hanzi": 3666,
+  "review": "PASS",
+  "publication_status": "not_submitted",
+  "files": [
+    {
+      "path": "chapters/cn/131-ling-tiao-bei-mian.md",
+      "sha256": "8b1fbe0b43923209bc5c72bbc725750d1516bf675947191d7642fff44718962f"
+    },
+    {
+      "path": "publication/publish-text/ch131.txt",
+      "sha256": "d68f60090befac7290cf75abbf27b6edd8331a91bb05a2637dca6e1e76bf2770"
+    },
+    {
+      "path": "reviews/2026-11-10-ch131.md",
+      "sha256": "3c90ef955f1bfe3aa6f0d92ff1c146121200249801573661f4db47b252060d7a"
+    }
+  ]
+}
