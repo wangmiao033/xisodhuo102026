@@ -1,0 +1,102 @@
+{
+  "date_beijing": "2026-11-10",
+  "review_type": "independent full-text",
+  "chapters": [
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185
+  ],
+  "result": "passed_after_corrections",
+  "reviewer": "coordinating agent, independent of two drafting workers",
+  "full_text_read": true,
+  "total_words": 18496,
+  "entries": [
+    {
+      "chapter": 176,
+      "heading": "Chapter 176 — The Invitation Buried Under Everything",
+      "path": "chapters/en/176-the-invitation-buried-under-everything.md",
+      "words": 1816,
+      "sha256": "246160e370e4450c885f34d3be4b675e40dfda716f923894217745c5d8095602",
+      "git_blob_sha1": "ee46c29d9d8660cd9d08f82f12ec4fc699450511"
+    },
+    {
+      "chapter": 177,
+      "heading": "Chapter 177 — Do Not Give It Up for Me",
+      "path": "chapters/en/177-do-not-give-it-up-for-me.md",
+      "words": 1882,
+      "sha256": "cbfbaaaadf5e27ce5d6efef785fcd127efa723bf937c99d304b6dec97931d80e",
+      "git_blob_sha1": "b31d9bfcfbcbd8d4ad1bbadf52f59cedc3ee0271"
+    },
+    {
+      "chapter": 178,
+      "heading": "Chapter 178 — Dumpling Does Not Sign Consent Forms",
+      "path": "chapters/en/178-dumpling-does-not-sign-consent-forms.md",
+      "words": 1904,
+      "sha256": "571a6f5a7ea98dffe1df7a23a601cdade148241f7373688126be547d99a4aeb3",
+      "git_blob_sha1": "c4b503f0c0265be0878d5569022cb64e15660b33"
+    },
+    {
+      "chapter": 179,
+      "heading": "Chapter 179 — An Ordinary Day Before Leaving",
+      "path": "chapters/en/179-an-ordinary-day-before-leaving.md",
+      "words": 1866,
+      "sha256": "43c654cd0bfe5aa66408ebbc8f646fc74a692ca479fa3dabbeab0c2a94c5088b",
+      "git_blob_sha1": "ebe00389e20fa94e013ce8f3e816dc463bc0fdf8"
+    },
+    {
+      "chapter": 180,
+      "heading": "Chapter 180 — Dinner Beyond the Station",
+      "path": "chapters/en/180-dinner-beyond-the-station.md",
+      "words": 1820,
+      "sha256": "ba1b40b5ae03ae0d5595e8183a834dc70a3280c03725da2937a3da984375bd48",
+      "git_blob_sha1": "274bf2417ce42a08a80f67d82f002c47e983f0d9"
+    },
+    {
+      "chapter": 181,
+      "heading": "Chapter 181 — The Missed Video Call",
+      "path": "chapters/en/181-the-missed-video-call.md",
+      "words": 1863,
+      "sha256": "0b477d090b275537d61b306c40c7f80dc5fb06b8fdabaa876d687047ae695019",
+      "git_blob_sha1": "2acc2960b8e75af6b99b8ea58faa94ddd27f39ed"
+    },
+    {
+      "chapter": 182,
+      "heading": "Chapter 182 — A Gift in the Wrong Size",
+      "path": "chapters/en/182-a-gift-in-the-wrong-size.md",
+      "words": 1819,
+      "sha256": "1b841585038c5b9808e3dbf972ad5303edbf82c7c5cd2fe546429e2308f0c905",
+      "git_blob_sha1": "bc2607a06d4e8cb6a29266e556356fd450f14ada"
+    },
+    {
+      "chapter": 183,
+      "heading": "Chapter 183 — The Cheapest Traveling Companion",
+      "path": "chapters/en/183-the-cheapest-traveling-companion.md",
+      "words": 1811,
+      "sha256": "5620c6f26f6d8d30f9d75b067576d06dea9f9614093a8497fc3f154c9b5a5709",
+      "git_blob_sha1": "4e1312d78748c46593b9d701f94d9c541b3eac01"
+    },
+    {
+      "chapter": 184,
+      "heading": "Chapter 184 — His New Colleagues",
+      "path": "chapters/en/184-his-new-colleagues.md",
+      "words": 1844,
+      "sha256": "d03bd61673c8d946f5e884681995da04ec9d2eff5c9140db138e4c3775081bd3",
+      "git_blob_sha1": "5232aa41c01db73afb811764e96fec5a626a608d"
+    },
+    {
+      "chapter": 185,
+      "heading": "Chapter 185 — Only One Supermarket",
+      "path": "chapters/en/185-only-one-supermarket.md",
+      "words": 1871,
+      "sha256": "cb0df3b0ed136e22341e742a87001a6ec0bd516f67df4cf234ca075aee1527a5",
+      "git_blob_sha1": "ee0cab2334d3aaf67016ae2be9ef8b3828aa49da"
+    }
+  ]
+}
