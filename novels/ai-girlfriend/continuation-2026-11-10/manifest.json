@@ -1,0 +1,217 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "batch_beijing_date": "2026-11-10",
+  "chapters": [
+    367,
+    376
+  ],
+  "pairs_added": 10,
+  "continuous_bilingual_continuation": [
+    127,
+    376
+  ],
+  "continuation_pairs_total": 250,
+  "platform_publication_authorized_by_this_batch": false,
+  "files": [
+    {
+      "chapter": 367,
+      "language": "cn",
+      "path": "cn/367_The_Bench_Behind_the_Pot.md",
+      "title": "# 第367章 花盆后面的长椅",
+      "bytes": 8719,
+      "sha256": "c4371254c1af6e69634fb0a49b31aeff3d2e18fa62300a7af362887de33e37d5",
+      "git_blob_sha": "318035227a705f558b5255a005389bc95ce56e42",
+      "hanzi": 2492
+    },
+    {
+      "chapter": 368,
+      "language": "cn",
+      "path": "cn/368_Thread_That_Was_Already_Here.md",
+      "title": "# 第368章 家里已有的线",
+      "bytes": 8436,
+      "sha256": "c084375f6f5c3c47ef81e31e97bc5fd2f98f3db8788451edb03508ab46dd9c86",
+      "git_blob_sha": "7428010f4dec8cf17320913fcc5b0637bb7d73d4",
+      "hanzi": 2396
+    },
+    {
+      "chapter": 369,
+      "language": "cn",
+      "path": "cn/369_A_Dinner_Without_a_Performance.md",
+      "title": "# 第369章 不用表演的晚饭",
+      "bytes": 8541,
+      "sha256": "4e60b5d7758c5c76150a6147bdf3c1d1c437458d3a89280ab96c5cbec13c0cb6",
+      "git_blob_sha": "cb3faba3fc32504e721ba0be0d616978e99624eb",
+      "hanzi": 2432
+    },
+    {
+      "chapter": 370,
+      "language": "cn",
+      "path": "cn/370_The_Drawing_I_Could_Show.md",
+      "title": "# 第370章 我能拿出来的画",
+      "bytes": 9110,
+      "sha256": "9977126f5c16c8891e9fa00261a111c82186bc4f1809f310d21295abce07f3b1",
+      "git_blob_sha": "517f8b2860946a55ec380980ec390384111ca5ba",
+      "hanzi": 2567
+    },
+    {
+      "chapter": 371,
+      "language": "cn",
+      "path": "cn/371_Room_for_the_Second_Leg.md",
+      "title": "# 第371章 留给另一根椅腿的地方",
+      "bytes": 8946,
+      "sha256": "af712d0e194c1535efe44f7c6a7feea4b1fcbcebd331c500baf8b17dce0edc71",
+      "git_blob_sha": "f154eecbd2a0dd7a83e123e0170787da74cddeb8",
+      "hanzi": 2505
+    },
+    {
+      "chapter": 372,
+      "language": "cn",
+      "path": "cn/372_Three_Pears_in_a_Paper_Bag.md",
+      "title": "# 第372章 纸袋里的三只梨",
+      "bytes": 8670,
+      "sha256": "7183e7920f9b204160fa8b9948f6e969a1cf18940d04fb6e6c7939c130f3ed16",
+      "git_blob_sha": "c00e815907b6e113a63584af69848cfa593c9729",
+      "hanzi": 2457
+    },
+    {
+      "chapter": 373,
+      "language": "cn",
+      "path": "cn/373_The_Stall_Was_Still_Open.md",
+      "title": "# 第373章 摊位还没收",
+      "bytes": 8720,
+      "sha256": "96fa509bcb98381d98d31755132387658e28ffbc2b3ff71fbab641361adec28d",
+      "git_blob_sha": "3876fd42c2ae3178da68eaf9df427358ad45a37c",
+      "hanzi": 2514
+    },
+    {
+      "chapter": 374,
+      "language": "cn",
+      "path": "cn/374_The_Model_Was_Lunch.md",
+      "title": "# 第374章 模特要当午饭",
+      "bytes": 8748,
+      "sha256": "afa22979d89d94129d21dd642d199155afeef492f02742d72cc4302538af54b0",
+      "git_blob_sha": "288e60fd350d38237e899da01901d638c9423901",
+      "hanzi": 2456
+    },
+    {
+      "chapter": 375,
+      "language": "cn",
+      "path": "cn/375_A_Table_for_Four.md",
+      "title": "# 第375章 四个人的桌子",
+      "bytes": 9014,
+      "sha256": "c986c58b328b46767a33f4644d1b38c3c57ef970dc1460193f93552e872a9246",
+      "git_blob_sha": "aca9ff65c4ce02e603a5a9781712e90039085e1c",
+      "hanzi": 2579
+    },
+    {
+      "chapter": 376,
+      "language": "cn",
+      "path": "cn/376_Four_Days_Early.md",
+      "title": "# 第376章 提前四天",
+      "bytes": 9131,
+      "sha256": "222608433d361a0d4e16f99c4d43e8eff37677e5047c883e143f73f302a75c7c",
+      "git_blob_sha": "4ae3ebcbabdca017095d67e70e8e3b55821eb014",
+      "hanzi": 2618
+    },
+    {
+      "chapter": 367,
+      "language": "en",
+      "path": "en/367_The_Bench_Behind_the_Pot.md",
+      "title": "# Chapter 367: The Bench Behind the Pot",
+      "bytes": 10559,
+      "sha256": "8281b7be0c4239ff1e8fcb483a5d5cc65c880f82397d587915b53055e40fc80b",
+      "git_blob_sha": "d7ecb89d06751fd7fa79242b6ff082c3d2a297ce",
+      "words": 1855
+    },
+    {
+      "chapter": 368,
+      "language": "en",
+      "path": "en/368_Thread_That_Was_Already_Here.md",
+      "title": "# Chapter 368: Thread That Was Already Here",
+      "bytes": 10438,
+      "sha256": "8948eab66364aa804deef845770178f1dd60f1f08af898e88aa90f2301bc4a4f",
+      "git_blob_sha": "c8075c66ed4b0348fd77218f6fbd52ec45a4ec30",
+      "words": 1819
+    },
+    {
+      "chapter": 369,
+      "language": "en",
+      "path": "en/369_A_Dinner_Without_a_Performance.md",
+      "title": "# Chapter 369: A Dinner Without a Performance",
+      "bytes": 10498,
+      "sha256": "0e2c62884fbaddd2558a81355592fa769fb99647a26784b49d8769a3b9af404a",
+      "git_blob_sha": "116eebaf4a1cb12608a87ca5a0e15d1af16a4dd8",
+      "words": 1824
+    },
+    {
+      "chapter": 370,
+      "language": "en",
+      "path": "en/370_The_Drawing_I_Could_Show.md",
+      "title": "# Chapter 370: The Drawing I Could Show",
+      "bytes": 10722,
+      "sha256": "11e4e9bc7980390bd1be2e614857e6bce3d12d5e0ee35f4a59a62469c1a8df8b",
+      "git_blob_sha": "8e031c489d87e44ef3ecdbf9e8026c2efb3d471b",
+      "words": 1853
+    },
+    {
+      "chapter": 371,
+      "language": "en",
+      "path": "en/371_Room_for_the_Second_Leg.md",
+      "title": "# Chapter 371: Room for the Second Leg",
+      "bytes": 10614,
+      "sha256": "9d1bbdc8f9dccea65344cddd974bed76b2ce381e2bea11d484dc50f1611e1e9e",
+      "git_blob_sha": "082c35bd6dd85a8f02dca16460ee0aa4b161662a",
+      "words": 1820
+    },
+    {
+      "chapter": 372,
+      "language": "en",
+      "path": "en/372_Three_Pears_in_a_Paper_Bag.md",
+      "title": "# Chapter 372: Three Pears in a Paper Bag",
+      "bytes": 10471,
+      "sha256": "8581124211084268d03283a04c2fb990c6a3dcd83cf1408379a16aa772f1fe67",
+      "git_blob_sha": "3ffa06675d83fb59f50f13b0959a140c17c3a737",
+      "words": 1810
+    },
+    {
+      "chapter": 373,
+      "language": "en",
+      "path": "en/373_The_Stall_Was_Still_Open.md",
+      "title": "# Chapter 373: The Stall Was Still Open",
+      "bytes": 10478,
+      "sha256": "fdbbb34b56322ca571f2cbc1667851ba8c0b5e43700937eb30ba96e24fc0d73e",
+      "git_blob_sha": "1ed0a3fb342dbfeb0de7bd3c124ce2d332e0b54b",
+      "words": 1828
+    },
+    {
+      "chapter": 374,
+      "language": "en",
+      "path": "en/374_The_Model_Was_Lunch.md",
+      "title": "# Chapter 374: The Model Was Lunch",
+      "bytes": 10489,
+      "sha256": "92f726978cce964b012b1967fafefdf650798d77b736d00cd7549da331c74233",
+      "git_blob_sha": "2f3a7fa479dee372f7bd27bf3ab2d1f78260c620",
+      "words": 1820
+    },
+    {
+      "chapter": 375,
+      "language": "en",
+      "path": "en/375_A_Table_for_Four.md",
+      "title": "# Chapter 375: A Table for Four",
+      "bytes": 10456,
+      "sha256": "41d9b2f66526ec63ec82b6dabafba421ba5c0a6d8c055e12ec9ce76fd2832b25",
+      "git_blob_sha": "18a4d6de2f4dcfd701f75651acf6a7a788763bd8",
+      "words": 1818
+    },
+    {
+      "chapter": 376,
+      "language": "en",
+      "path": "en/376_Four_Days_Early.md",
+      "title": "# Chapter 376: Four Days Early",
+      "bytes": 10452,
+      "sha256": "42a14366b6c7858f9a0ba813942f9b867019d1fb193920d1cf7fb6586f8e61ec",
+      "git_blob_sha": "d83d0dbcb1a046b9da0ecc1ccbd6f67c6a800ba9",
+      "words": 1831
+    }
+  ]
+}
