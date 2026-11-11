@@ -1,0 +1,17 @@
+{
+ "checked_at_utc":"2026-11-11T00:11:39Z",
+ "beijing_date":"2026-11-11",
+ "remote_head":"0027266321b4a2153f34cfc60df496ee687bea39",
+ "highest_remote_chapter":131,
+ "platform_highest_chapter":131,
+ "platform_published_rows":130,
+ "historical_missing_chapter":42,
+ "all_nine_pages_checked":true,
+ "all_chapter_rows_status":"已发布",
+ "today_publications_before_run":0,
+ "drafts":13,
+ "drafts_all_last_modified":"2026-09",
+ "old_drafts_modified":false,
+ "recent_chapters_130_131_full_preview_matches_remote":true,
+ "next_candidates":[132,133]
+}
