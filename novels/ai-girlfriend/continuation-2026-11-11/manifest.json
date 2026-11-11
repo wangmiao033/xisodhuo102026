@@ -1,0 +1,217 @@
+{
+  "book": "My AI Girlfriend Is Too Obsessive",
+  "batch_beijing_date": "2026-11-11",
+  "chapters": [
+    377,
+    386
+  ],
+  "pairs_added": 10,
+  "continuous_bilingual_continuation": [
+    127,
+    386
+  ],
+  "continuation_pairs_total": 260,
+  "platform_publication_authorized_by_this_batch": false,
+  "files": [
+    {
+      "chapter": 377,
+      "language": "cn",
+      "path": "cn/377_A_Chair_That_Could_Move.md",
+      "title": "# 第377章 能挪开的那把椅子",
+      "bytes": 8314,
+      "sha256": "b932cb589ed946d932dd8b0253c80e1b313242b1624c159375d8d1ebef45e318",
+      "git_blob_sha": "2c197aa1ac11ee6643a0f622c56fb0c9b5780493",
+      "hanzi": 2387
+    },
+    {
+      "chapter": 378,
+      "language": "cn",
+      "path": "cn/378_The_Seventh_Sentence.md",
+      "title": "# 第378章 第七句",
+      "bytes": 8258,
+      "sha256": "ceda0d1d40fff499ab6a9a9b690941898f57734ab6de28cf4a5a64c23ec41542",
+      "git_blob_sha": "36f86d3d62a69172c40e0449ef997c302a2c93ca",
+      "hanzi": 2357
+    },
+    {
+      "chapter": 379,
+      "language": "cn",
+      "path": "cn/379_The_Wrong_Chair.md",
+      "title": "# 第379章 坐错的椅子",
+      "bytes": 8353,
+      "sha256": "8089a046ffce3e29616d698322867d3eda48b17b28c91f206c88af48e9f3fdde",
+      "git_blob_sha": "607b17674144c1cc31efbbedd3de47c553b23429",
+      "hanzi": 2410
+    },
+    {
+      "chapter": 380,
+      "language": "cn",
+      "path": "cn/380-the-pale-step.md",
+      "title": "# 第380章 浅色的那级台阶",
+      "bytes": 9754,
+      "sha256": "899b6ac4ac455a1f4fd8fd693534bc556dcea55662ddd9e44e25c03e9582aace",
+      "git_blob_sha": "f6967eef4fc3a482401d466520cec388fca0aa67",
+      "hanzi": 2763
+    },
+    {
+      "chapter": 381,
+      "language": "cn",
+      "path": "cn/381-the-near-end.md",
+      "title": "# 第381章 桥的近端",
+      "bytes": 9260,
+      "sha256": "5b3068d137738dc330d6885f301f4084b79fc83bab8c282b903172663ef1dc17",
+      "git_blob_sha": "360dbd86eeb4f4caea4a5cbc15a2adb1f8684ce9",
+      "hanzi": 2626
+    },
+    {
+      "chapter": 382,
+      "language": "cn",
+      "path": "cn/382_Six_Places_at_a_Table.md",
+      "title": "# 第382章 一张桌子的六个位子",
+      "bytes": 9265,
+      "sha256": "e40f06bb527569da11601e935e228252945903911cb31ce3216864c804a61521",
+      "git_blob_sha": "11a0d0bad5b5794ebaa8891bd644f4d1f0319ba2",
+      "hanzi": 2679
+    },
+    {
+      "chapter": 383,
+      "language": "cn",
+      "path": "cn/383_One_Question_in_the_Folder.md",
+      "title": "# 第383章 夹子里只有一个问题",
+      "bytes": 8966,
+      "sha256": "4887494ca631d78d7dd9022dffea1ed44a0e92343215ae24a0912273c2763eba",
+      "git_blob_sha": "cb5b9bb385bc91fb4bd5ce4653b1ad8726f67cd7",
+      "hanzi": 2624
+    },
+    {
+      "chapter": 384,
+      "language": "cn",
+      "path": "cn/384_The_View_from_This_Chair.md",
+      "title": "# 第384章 从这把椅子看过去",
+      "bytes": 8425,
+      "sha256": "6894553cc222d66bd6122a44e432eec345af9c4b55d74a470d5ea5a5be42a93f",
+      "git_blob_sha": "b5bebf6c40e7843987bf7b1942cd01d7afe50c45",
+      "hanzi": 2451
+    },
+    {
+      "chapter": 385,
+      "language": "cn",
+      "path": "cn/385_A_Chair_for_the_Pencil.md",
+      "title": "# 第385章 给铅笔留的椅子",
+      "bytes": 8573,
+      "sha256": "348a6b0080cd3c8d7dbf4abf15667c44f379cd0790f9da1f7099c24c72886633",
+      "git_blob_sha": "09239db7a4abdd5662c6462eb2bf210f699d7f2a",
+      "hanzi": 2478
+    },
+    {
+      "chapter": 386,
+      "language": "cn",
+      "path": "cn/386_The_Chair_Is_Still_Empty.md",
+      "title": "# 第386章 椅子还空着",
+      "bytes": 8713,
+      "sha256": "62a7a8f4b91e23b1d67df795fdefab34309ba61536a41158be08156eb6aef011",
+      "git_blob_sha": "89c1333913e1c4b885550897174959b06c0b3982",
+      "hanzi": 2550
+    },
+    {
+      "chapter": 377,
+      "language": "en",
+      "path": "en/377_A_Chair_That_Could_Move.md",
+      "title": "# Chapter 377: A Chair That Could Move",
+      "bytes": 10212,
+      "sha256": "c206690ff5108304c07604b33ab344f0562af5a07d8ef60c2db083256fcd732c",
+      "git_blob_sha": "892df788c92d1e39ff5f3230a8316f306017c418",
+      "words": 1809
+    },
+    {
+      "chapter": 378,
+      "language": "en",
+      "path": "en/378_The_Seventh_Sentence.md",
+      "title": "# Chapter 378: The Seventh Sentence",
+      "bytes": 10231,
+      "sha256": "f287a0932d927635b1d0542b5c9da5ab60637fa6b0664021f606235b004cd80b",
+      "git_blob_sha": "44b1c01264bcb7c17912969a5932ad755cb9a576",
+      "words": 1852
+    },
+    {
+      "chapter": 379,
+      "language": "en",
+      "path": "en/379_The_Wrong_Chair.md",
+      "title": "# Chapter 379: The Wrong Chair",
+      "bytes": 10146,
+      "sha256": "7f9d9f6bf5be94fefeabe01451ec4859adf6e8d5bd2a726fc28eeaea2b878a36",
+      "git_blob_sha": "241259ffbf716f6592d06486c872f8fce317ee4d",
+      "words": 1814
+    },
+    {
+      "chapter": 380,
+      "language": "en",
+      "path": "en/380-the-pale-step.md",
+      "title": "# Chapter 380: The Pale Step",
+      "bytes": 10637,
+      "sha256": "e890ff0885d247c2f5b29f93d14f9fe406726494f4a2653a894c024ba8c9dd64",
+      "git_blob_sha": "1a1889401e374f495c1e91336bc5d30d047a8a43",
+      "words": 1813
+    },
+    {
+      "chapter": 381,
+      "language": "en",
+      "path": "en/381-the-near-end.md",
+      "title": "# Chapter 381: The Near End",
+      "bytes": 10761,
+      "sha256": "8ab04424dc267575425164257015f26d38450560fec5d3e477acd1e5ac49b838",
+      "git_blob_sha": "4ce415fdb145be3ea3f25f68bd1588713f3932be",
+      "words": 1820
+    },
+    {
+      "chapter": 382,
+      "language": "en",
+      "path": "en/382_Six_Places_at_a_Table.md",
+      "title": "# Chapter 382: Six Places at a Table",
+      "bytes": 10756,
+      "sha256": "a5b3c8ff67fd52e1cb7203f470de5ff16f9a276da9d3943f77764ed5fe31bac6",
+      "git_blob_sha": "f4bf9448173ad733fd72ff122b4f1be3ae6ca662",
+      "words": 1840
+    },
+    {
+      "chapter": 383,
+      "language": "en",
+      "path": "en/383_One_Question_in_the_Folder.md",
+      "title": "# Chapter 383: One Question in the Folder",
+      "bytes": 10778,
+      "sha256": "520cbe22a0b6fb7f35717a7a250a77f9134f063dbc63b5e69871050c819486c4",
+      "git_blob_sha": "bc1a07bffee2364eeb4759ae700697cdb333af26",
+      "words": 1853
+    },
+    {
+      "chapter": 384,
+      "language": "en",
+      "path": "en/384_The_View_from_This_Chair.md",
+      "title": "# Chapter 384: The View from This Chair",
+      "bytes": 10326,
+      "sha256": "19b99e31e34ad841345231778f5c58e96aab98d707a7a2d9fe8a917fe9bb35e5",
+      "git_blob_sha": "10ec84b17945a5cdfffc03edea96206aea5dec41",
+      "words": 1823
+    },
+    {
+      "chapter": 385,
+      "language": "en",
+      "path": "en/385_A_Chair_for_the_Pencil.md",
+      "title": "# Chapter 385: A Chair for the Pencil",
+      "bytes": 10352,
+      "sha256": "f5c0ba20a3c5488e0cad132f78edc9ca9a5d1c6033c0131396cfd9957977d643",
+      "git_blob_sha": "ff273a2a87c9fdc92d59ffd5ed9bd91f5c248587",
+      "words": 1838
+    },
+    {
+      "chapter": 386,
+      "language": "en",
+      "path": "en/386_The_Chair_Is_Still_Empty.md",
+      "title": "# Chapter 386: The Chair Is Still Empty",
+      "bytes": 10530,
+      "sha256": "c0b1e2343f8760d4ae7b6f34382eb748c307cee3845c9c94e7357e5b982d7a83",
+      "git_blob_sha": "c5458ff15973dd7eeda5a3c478b6fe2588303c74",
+      "words": 1831
+    }
+  ]
+}
