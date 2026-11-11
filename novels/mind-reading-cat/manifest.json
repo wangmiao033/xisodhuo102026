@@ -1483,6 +1483,86 @@
       "words": 1871,
       "sha256": "cb0df3b0ed136e22341e742a87001a6ec0bd516f67df4cf234ca075aee1527a5",
       "git_blob_sha1": "ee0cab2334d3aaf67016ae2be9ef8b3828aa49da"
+    },
+    {
+      "chapter": 186,
+      "heading": "Chapter 186 — Two Suitcases Do Not Make One Household",
+      "path": "chapters/en/186-two-suitcases-do-not-make-one-household.md",
+      "words": 1843,
+      "sha256": "c76487e6ff83a37fb5a65a8f28beb4ca21f948889f38bc3a2d4466a360cd7f75",
+      "git_blob_sha1": "25f62fb526828c87ac29338c302682aa4fe8b659"
+    },
+    {
+      "chapter": 187,
+      "heading": "Chapter 187 — A Territorial Dispute in the Fridge",
+      "path": "chapters/en/187-a-territorial-dispute-in-the-fridge.md",
+      "words": 1838,
+      "sha256": "22e051269a4a260eff4243a2d7a544ef9767617ef5734779e65569d271645820",
+      "git_blob_sha1": "c5050e4f57cc33f33c5906b38f597030f83e3605"
+    },
+    {
+      "chapter": 188,
+      "heading": "Chapter 188 — You Do Not Have to Be There for Everything",
+      "path": "chapters/en/188-you-do-not-have-to-be-there-for-everything.md",
+      "words": 1811,
+      "sha256": "7b7d7283c91e9af64a7a49a1f6a1d72b60e5fcaee666d88f46599cecf5bd92c5",
+      "git_blob_sha1": "632f4a02ad9c4de13e3eeb193814f99620e049a6"
+    },
+    {
+      "chapter": 189,
+      "heading": "Chapter 189 — Whose Signature Dish?",
+      "path": "chapters/en/189-whose-signature-dish.md",
+      "words": 1808,
+      "sha256": "ad5eac2fa37b422c4e73327f7c5cb6b6f84ef7b4a64b10f01bfdcd848627ed5c",
+      "git_blob_sha1": "bf7e5dbde844fe47f4e2cd3ed9b31d3c76216d60"
+    },
+    {
+      "chapter": 190,
+      "heading": "Chapter 190 — Spare Sheets Stay This Time",
+      "path": "chapters/en/190-spare-sheets-stay-this-time.md",
+      "words": 1807,
+      "sha256": "374488caf825888f1ed62880fb4af6b7f799abd65990e8d6b52c43266dedb4ea",
+      "git_blob_sha1": "b4867672df9b9c9deb92ed44d7bb4724f03a1e12"
+    },
+    {
+      "chapter": 191,
+      "heading": "Chapter 191 — Between Staying Over and Moving In",
+      "path": "chapters/en/191-between-staying-over-and-moving-in.md",
+      "words": 1848,
+      "sha256": "7a5160cc2c7f02c7ab27cad4dd768a583ad141d83e1e46ffe83d38c34d813ebe",
+      "git_blob_sha1": "f35d478fa338cea7d2a00194f9be60d0a7adaf26"
+    },
+    {
+      "chapter": 192,
+      "heading": "Chapter 192 — Whose Bookshelf Cannot Move?",
+      "path": "chapters/en/192-whose-bookshelf-cannot-move.md",
+      "words": 1853,
+      "sha256": "f8c5a0b9125b7840bd26dd2dc14af7077c53292ed19823b55102bdefd094fb86",
+      "git_blob_sha1": "8baebc2ce563081ac1c32940cc7f8cfcf19c38a1"
+    },
+    {
+      "chapter": 193,
+      "heading": "Chapter 193 — How Much Each Pays Is Not an Exam",
+      "path": "chapters/en/193-how-much-each-pays-is-not-an-exam.md",
+      "words": 1845,
+      "sha256": "d951a8072b8f62c5aded146f88b2a7f895e8b3c411caf56a2d02f9e1ed370644",
+      "git_blob_sha1": "65a51517a2464f948aa48d28961687dd881693ec"
+    },
+    {
+      "chapter": 194,
+      "heading": "Chapter 194 — The Third Day of a Trial Stay",
+      "path": "chapters/en/194-the-third-day-of-a-trial-stay.md",
+      "words": 1839,
+      "sha256": "63e3acd507676967fcf58f70be4b255188b9b28b03c64a51bb602717076a8649",
+      "git_blob_sha1": "10d471d4f36a47e49b005eef7290387811805f72"
+    },
+    {
+      "chapter": 195,
+      "heading": "Chapter 195 — Moving In Does Not Mean Swallowing You Whole",
+      "path": "chapters/en/195-moving-in-does-not-mean-swallowing-you-whole.md",
+      "words": 1842,
+      "sha256": "dd78a6bc048ff29e3656d6efd3b220676f7924b2f92b964ba38e0ac39d7b52fb",
+      "git_blob_sha1": "8e7099da388a9ae1d6a990e9206ba165f61b4924"
     }
   ]
 }
