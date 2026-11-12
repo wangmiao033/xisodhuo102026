@@ -1,0 +1,34 @@
+{
+  "date_beijing": "2026-11-12",
+  "checked_utc": "2026-11-12T00:31:52Z",
+  "book_id": "7681620262432820248",
+  "new_chapters": 2,
+  "public_verified": 2,
+  "chapters": [
+    {
+      "number": 134,
+      "title": "他还在侧门",
+      "hanzi": 3703,
+      "platform_count": 4298,
+      "status": "已发布",
+      "platform_time": "2026-11-12 08:27",
+      "fixed_commit": "3340cc5b0ea002b52db048b1c7e6c5a43b2bea7b",
+      "preview": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7707073742962164286",
+      "paragraphs": 139,
+      "full_body_exact": true
+    },
+    {
+      "number": 135,
+      "title": "写在到场之前",
+      "hanzi": 3662,
+      "platform_count": 4208,
+      "status": "已发布",
+      "platform_time": "2026-11-12 08:31",
+      "fixed_commit": "922fef75149b74630fa21423b3e03b5408a3ec62",
+      "preview": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7707075410411913790",
+      "paragraphs": 121,
+      "full_body_exact": true
+    }
+  ],
+  "notes": "管理列表与完整管理预览核验；独立公开读者页未获得。平台时间未标时区，与实时北京时间吻合。AI是，未预约、无作者留言、旧13草稿未动。历史缺42不补。"
+}
