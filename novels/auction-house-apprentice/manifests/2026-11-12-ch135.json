@@ -1,0 +1,20 @@
+{
+  "chapter": 135,
+  "title": "写在到场之前",
+  "hanzi": 3662,
+  "date_beijing": "2026-11-12",
+  "source_base": "e5cc8bdd681018af7ea8da69b215dc8f2967ef83",
+  "files": {
+    "chapters/cn/135-xie-zai-dao-chang-zhi-qian.md": {
+      "sha256": "2ffe86243bc7009f4b151b3e3de82cda87a25138222bb833412b14da4cd4138f"
+    },
+    "publication/publish-text/ch135.txt": {
+      "sha256": "ab8365837944428d2438ef1d390cf67931afbad2879606b003c72cb79098c94e"
+    },
+    "reviews/2026-11-12-ch135.md": {
+      "sha256": "ae4f65f49e9edfece1465d8c53e5f9106c48af13c99969f40b5b2e318c414153"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
