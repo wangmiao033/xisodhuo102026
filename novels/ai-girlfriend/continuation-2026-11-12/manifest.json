@@ -1,0 +1,182 @@
+{
+  "novel": "My AI Girlfriend Is Too Obsessive",
+  "beijing_date": "2026-11-12",
+  "scope": "new complete bilingual writing only; no platform publication authorization change",
+  "range": [
+    387,
+    396
+  ],
+  "new_chapters": 10,
+  "chapters": [
+    {
+      "chapter": 387,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/387_The_Other_Pair.md",
+        "heading": "# 第387章 另一双鞋",
+        "body_count": 2569,
+        "sha256": "62ff9c964e730dc8aab3022f5a0ee028cead8329c9af679888616dad74587a59",
+        "git_blob_sha": "3c3262023619b0d6b6d5c8a41c041c8c7754f9a7"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/387_The_Other_Pair.md",
+        "heading": "# Chapter 387: The Other Pair",
+        "body_count": 1814,
+        "sha256": "32d9fc8f408dba82b9bd69eec4142a33cf3905d53d27cd58130760f98c69b3d6",
+        "git_blob_sha": "a33c15c06a13801b4731fe28f51b6679e781bc09"
+      }
+    },
+    {
+      "chapter": 388,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/388_The_First_One_Broke.md",
+        "heading": "# 第388章 第一张散了",
+        "body_count": 2615,
+        "sha256": "af84924c27b6624af091f0274528a9aea0605c4ed30c586a07b81c4942002a71",
+        "git_blob_sha": "42b081bb423fdc9fa1288b68ec3dfe60a4db2e06"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/388_The_First_One_Broke.md",
+        "heading": "# Chapter 388: The First One Broke",
+        "body_count": 1801,
+        "sha256": "a843d859bb03cecd2e5ced7a3e618550ed4af0eb2b8fee140e8b14f0cee5351c",
+        "git_blob_sha": "3c2104ce5d58838b315b5674350e108d56c2b64b"
+      }
+    },
+    {
+      "chapter": 389,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/389_The_Ten_Minute_Walk.md",
+        "heading": "# 第389章 十分钟的路",
+        "body_count": 2740,
+        "sha256": "3008a285278eeba2bb86f376841c9ccd4b0defb8e166a8fdab81f7c9c408183d",
+        "git_blob_sha": "d97e22ea6cc75d9bdc5242f2b0cb7fc137c05dea"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/389_The_Ten_Minute_Walk.md",
+        "heading": "# Chapter 389: The Ten-Minute Walk",
+        "body_count": 1809,
+        "sha256": "11ec5bc21dc46e2950ab10198ffb4d4c6dbf4e8de0469a3a52d3a7e2c54494e6",
+        "git_blob_sha": "410957d6f07c0d64678370d73e17c776fd6fd5ca"
+      }
+    },
+    {
+      "chapter": 390,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/390_The_Arrow_on_the_Wall.md",
+        "heading": "# 第390章 墙上的箭头",
+        "body_count": 2709,
+        "sha256": "d306853c593770b6d156eeaa23e47a253c8c727f765da27579f51d6748320b17",
+        "git_blob_sha": "f37292170c2801d138c699af4a522567092ea8ef"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/390_The_Arrow_on_the_Wall.md",
+        "heading": "# Chapter 390: The Arrow on the Wall",
+        "body_count": 1825,
+        "sha256": "324c83b1e4f0eac31b57340389e30df5d796433fd6f370c55af912cfe262c24d",
+        "git_blob_sha": "a288d3a515a2fe4e339f46b3be040e594eb137b2"
+      }
+    },
+    {
+      "chapter": 391,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/391_A_Few_Steps_First.md",
+        "heading": "# 第391章 先走几步",
+        "body_count": 2706,
+        "sha256": "d1228a8f68ec29e48bd111a56f818c6d2848679b3e689f272ecbc5f2ed55e5d8",
+        "git_blob_sha": "939340fa89e248aaedc30db8c6183661755a3dcf"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/391_A_Few_Steps_First.md",
+        "heading": "# Chapter 391: A Few Steps First",
+        "body_count": 1819,
+        "sha256": "d67bf6d2fb697ac0bfc4ddc42a023e8cba21a5a317f1368748072a57dc5be89c",
+        "git_blob_sha": "3d1ac599981a6e0e9ef45580f4415b49fdf99528"
+      }
+    },
+    {
+      "chapter": 392,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/392_One_Ticket_for_Saturday.md",
+        "heading": "# 第392章 星期六的一张票",
+        "body_count": 2675,
+        "sha256": "2c9b50cf32747a864782b390ddcb9a00c612bf37bd95e802585006bcb0a8a0f0",
+        "git_blob_sha": "595c49a3acbcda07f71c82145264f583e487cad0"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/392_One_Ticket_for_Saturday.md",
+        "heading": "# Chapter 392: One Ticket for Saturday",
+        "body_count": 1815,
+        "sha256": "da2fb2d6aee5b811b4c19d47e50c34c0f1c23789ccd142b237472f9cddd2630b",
+        "git_blob_sha": "c4193609af2a800902726f2f325fb36fc39d94a6"
+      }
+    },
+    {
+      "chapter": 393,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/393_An_Evening_of_Our_Own.md",
+        "heading": "# 第393章 我们自己的晚上",
+        "body_count": 2724,
+        "sha256": "20908f1d3c6b5b5e908c7bf0a50512a23a70d3e0a5f51de31a058b436c42c849",
+        "git_blob_sha": "9727620398c57012f001df5711000bdfe8573c5c"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/393_An_Evening_of_Our_Own.md",
+        "heading": "# Chapter 393: An Evening of Our Own",
+        "body_count": 1836,
+        "sha256": "c414254337fb3e84c415040ab65e4d4abc12080d1525197c5674b4cff8a47fde",
+        "git_blob_sha": "87614116db3ea81016736fdb9581d3e4f3383a67"
+      }
+    },
+    {
+      "chapter": 394,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/394_The_Glass_Did_Not_Fall.md",
+        "heading": "# 第394章 玻璃没有掉",
+        "body_count": 2693,
+        "sha256": "055c180f62b29dcd82119ab079148c987b4e468132ac6ef6a4989c0071da5c55",
+        "git_blob_sha": "26762ce35c7c365d438ebf2f256ba13da7906ede"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/394_The_Glass_Did_Not_Fall.md",
+        "heading": "# Chapter 394: The Glass Did Not Fall",
+        "body_count": 1827,
+        "sha256": "f44d2094d138ceaf0ad5657e4c466586db3e8c99003649d79e85dbe06be0b21e",
+        "git_blob_sha": "343d6663a987f3618294f03b09541d474758364e"
+      }
+    },
+    {
+      "chapter": 395,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/395_Do_Not_Make_It_Smaller.md",
+        "heading": "# 第395章 别把它说小",
+        "body_count": 2862,
+        "sha256": "e06a615e5b86aa8b64915a2b6afba75d3a33a2097ec48eaab55cd79357e2671e",
+        "git_blob_sha": "813abad824816bc69b2764567afefae5254cddb9"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/395_Do_Not_Make_It_Smaller.md",
+        "heading": "# Chapter 395: Do Not Make It Smaller",
+        "body_count": 1826,
+        "sha256": "9bff28477e6ee2ba38be4700f9ac567478c49ef4bc3831abff38dfd3b731e5aa",
+        "git_blob_sha": "ffb76d4c8f2a8d606f14a4fd82165bfe67c6f3a2"
+      }
+    },
+    {
+      "chapter": 396,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/cn/396_After_the_New_Sign.md",
+        "heading": "# 第396章 新牌子以后",
+        "body_count": 2696,
+        "sha256": "9871d45df5236c414787d2f44674faf92948eff47098b6396e1b38d7e295040b",
+        "git_blob_sha": "6cbe7a11c23fe5e8d712cc97f01b0f3b63f97e9a"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-12/en/396_After_the_New_Sign.md",
+        "heading": "# Chapter 396: After the New Sign",
+        "body_count": 1842,
+        "sha256": "f08ca41eecc990368584f7688334a8facb4259bb3b2b4d697791fba7e07a0407",
+        "git_blob_sha": "3ff67bdf6689482d9ff9228376f58833a89a6e9e"
+      }
+    }
+  ]
+}
