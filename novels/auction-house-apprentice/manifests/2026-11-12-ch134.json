@@ -1,0 +1,20 @@
+{
+  "chapter": 134,
+  "title": "他还在侧门",
+  "hanzi": 3703,
+  "date_beijing": "2026-11-12",
+  "source_base": "e5cc8bdd681018af7ea8da69b215dc8f2967ef83",
+  "files": {
+    "chapters/cn/134-ta-hai-zai-ce-men.md": {
+      "sha256": "2de281c86ee9039ec6a62afd1a4930d80c20c3f58af3ff2cf6649299829f05ea"
+    },
+    "publication/publish-text/ch134.txt": {
+      "sha256": "9c9fd3745a16fcac8d4f2557896d50004e17f887af335e41ba85d3775e30ef6a"
+    },
+    "reviews/2026-11-12-ch134.md": {
+      "sha256": "940d80e56a2d517c23a68f73cfe45f0166ebe7df425fee5290ab11ec1a002b66"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
