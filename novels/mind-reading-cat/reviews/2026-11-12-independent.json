@@ -1,0 +1,121 @@
+{
+  "book": "My Mind-Reading Cat Is Trying to Set Me Up with the Vet",
+  "date_bjt": "2026-11-12",
+  "status": "PASS",
+  "scope": "Independent full manuscript review, no publication claim.",
+  "independence": "Coordinator authored none of these ten chapters and independently read every complete manuscript against canon, approved planning and recent191–195. No required corrections found.",
+  "source_reading": [
+    "CANON.md",
+    "PLANNING.md full approved250 plan",
+    "README.md",
+    "manifest.json",
+    "191–195 complete fixed source"
+  ],
+  "method": "Complete per-chapter reading immediately on author completion, adjacent causality checks, final byte-hash lock verification. Automated title/number/word/Chinese/duplicate-body checks supplement, not replace, reading.",
+  "resolved_findings": [],
+  "unresolved_required_fixes": [],
+  "word_count_method": "Body after heading; regex \\b[\\w]+(?:['’\\-][\\w]+)*\\b",
+  "total_body_words": 18627,
+  "chapters": [
+    {
+      "chapter": 196,
+      "title": "Alone Together at Home for the First Time",
+      "path": "chapters/en/196-alone-together-at-home-for-the-first-time.md",
+      "body_words": 1827,
+      "sha256": "080e2cc148333f7f008383dc6cf71bd66e772e508705e0344913cf0cdd2b7126",
+      "utf8_bytes": 11000,
+      "status": "PASS",
+      "specific_review": "Full independent reading: completed old-tenancy handovers and settled cat follow195 without an abrupt time claim. Shared free day turns hosting anxiety into separate reading and ordinary meal, with concrete comic actions; Eve limited viewpoint, animal safety and separate quiet space retained."
+    },
+    {
+      "chapter": 197,
+      "title": "Who Remembers the Tissues?",
+      "path": "chapters/en/197-who-remembers-the-tissues.md",
+      "body_words": 1851,
+      "sha256": "74e1f076198b759bd4c0c31983d43d2a2a5096eccf4b4c802e50a9bc9a056528",
+      "utf8_bytes": 11109,
+      "status": "PASS",
+      "specific_review": "Full independent reading: concrete dinner shortage reveals unequal remembering despite existing dish/noise agreements; whole responsibilities chosen and tested through next-day shopping/laundry and changed cat-delivery slot. Income, professional autonomy, and animal care retained; change provisional rather than perfect cure."
+    },
+    {
+      "chapter": 198,
+      "title": "Whose Side Is the Cat On?",
+      "path": "chapters/en/198-whose-side-is-the-cat-on.md",
+      "body_words": 1868,
+      "sha256": "8c1d8a77712b4daca2e50473207d1c52228b76316ae2a9731bc00952283b33ba",
+      "utf8_bytes": 11300,
+      "status": "PASS",
+      "specific_review": "Full independent reading: distinct curtain/frame disagreements reveal unspoken scorekeeping; cat movement not proof of fairness or informed preference. Observed vibration/traffic motivates returning box to quiet spot, no forced placement or claimed cure. Eve viewpoint intact, household negotiation through action."
+    },
+    {
+      "chapter": 199,
+      "title": "A Date Without Work",
+      "path": "chapters/en/199-a-date-without-work.md",
+      "body_words": 1874,
+      "sha256": "ef49a5c77e1f6f516db3a684f050148736fc778a3688e3a351e487bc49b8fd3f",
+      "utf8_bytes": 11477,
+      "status": "PASS",
+      "specific_review": "Full independent reading: venue and clinic handovers precede actual off-duty dinner; Robin paid hours and family contact remain bounded. Complete comic walking-tour anecdote, ordinary food and bookshop advance intimacy without work replacing scene. Dumpling remains safe at home, no proposal or cat omniscience."
+    },
+    {
+      "chapter": 200,
+      "title": "The Future Is More Than One Word",
+      "path": "chapters/en/200-the-future-is-more-than-one-word.md",
+      "body_words": 1833,
+      "sha256": "13967343078c1ba2b4bf799f1faaeae66440daa683047fd037b6345bb13e7430",
+      "utf8_bytes": 10876,
+      "status": "PASS",
+      "specific_review": "Full independent reading:199 walking book leads naturally to market/cafe/park future discussion. Work mobility retains venue obligations and previous training lesson; children explicitly undecided, no current attempt or engagement. Separate agency and genuine incompatibility possibility acknowledged without premature milestone."
+    },
+    {
+      "chapter": 201,
+      "title": "Cancellation Notices Are Harder Than Promotion",
+      "path": "chapters/en/201-cancellation-notices-are-harder-than-promotion.md",
+      "body_words": 1864,
+      "sha256": "f3e1cf53504836c58c71697d4d8428a9c07221eed4f945d4b57b8db1d628ea8f",
+      "utf8_bytes": 11383,
+      "status": "PASS",
+      "specific_review": "Full independent reading: Thursday cancellations of Friday/Saturday follow weather/travel and supplier evidence; direct notices before account post, refunds accurately include pending provider item. Robin paid bounded hours, supplier revised invoice, public-entrance responsibility and safe journey clear; no hero rescue or spectacle."
+    },
+    {
+      "chapter": 202,
+      "title": "It Is Not Canned Food That Is Missing",
+      "path": "chapters/en/202-it-is-not-canned-food-that-is-missing.md",
+      "body_words": 1867,
+      "sha256": "3a4696c62a84c33bb876b150cda3a24f8f95f389a9e7650d9b9dd958603546f7",
+      "utf8_bytes": 11462,
+      "status": "PASS",
+      "specific_review": "Full independent reading: Friday limited help follows cancelled sessions. New regular customer Nina needs sealed boxes carried on dry interior stairs; verifies paid caretaker directly. Mia arranges known short visit and shifts work rather than using closed venue as daycare. No private-address relay or transport/rescue guarantee; Eve preserves paid independent editing."
+    },
+    {
+      "chapter": 203,
+      "title": "No Heroes in the Shop",
+      "path": "chapters/en/203-no-heroes-in-the-shop.md",
+      "body_words": 1873,
+      "sha256": "d30d0551bc216d6c80e7504ff99e2e20a8d97f47274420bc3ff535926e63c182",
+      "utf8_bytes": 11173,
+      "status": "PASS",
+      "specific_review": "Full independent reading: Saturday small rear-window leak separated from cleared front room, manager/contractor handle electrical safety and exterior assessment. Proposed extra clinical-call service is refused before public promise; Eve recognizes pressure, takes actual rest, then declines own new care visit. Sunday dry-stock access explicitly limited, Monday repair pending."
+    },
+    {
+      "chapter": 204,
+      "title": "A Group Photograph That Stays Unposted",
+      "path": "chapters/en/204-a-group-photograph-that-stays-unposted.md",
+      "body_words": 1876,
+      "sha256": "b88b99d2e02619412e2b34464f032e0dec6bc955afefb80d7e37024e3808982e",
+      "utf8_bytes": 11481,
+      "status": "PASS",
+      "specific_review": "Full independent reading: Sunday dry-front inventory keeps damaged recess untouched. Four-person private photo audience explicit, later public suggestion declined, customer anecdotes separately withheld. Actual costs/refunds and unpaid editing invoice kept distinct; Wednesday customer receives Monday-afternoon decision deadline rather than premature reopening promise."
+    },
+    {
+      "chapter": 205,
+      "title": "Monday After the Leak",
+      "path": "chapters/en/205-monday-after-the-leak.md",
+      "body_words": 1894,
+      "sha256": "a7e4dc47ad14909c4862f14e7b090d4ae18eca5e38efe5a04460b3ccbea2edf0",
+      "utf8_bytes": 11587,
+      "status": "PASS",
+      "specific_review": "Full independent reading: Monday assessment separates landlord window/wall repair from Eve stock/furniture, electrical clearance limited, recess stays isolated through drying. Affordable staged repair and tested clear-route small table preserve empty-corner payoff. All four Wednesday customers informed before deadline, one refunded and three retain places; no complete restoration or expanded premises claim."
+    }
+  ]
+}

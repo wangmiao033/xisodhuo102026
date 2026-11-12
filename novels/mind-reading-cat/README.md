@@ -148,3 +148,7 @@ Complete English Chapters 186–195 passed independent full-text review and targ
 ## Verified publication — 2026-11-11
 
 Chapters186–195 were publicly released Main/Public/Now and individually verified against fixed manuscript commit `8eeb483780a5ca9d906c6300c0c3f4c070c704af` through full reader-page body comparison and management-list checks. Actual release times:09:10:56–09:19:13 Asia/Shanghai. Today10/10 public quota used. All195 consecutive chapters are Public; no drafts or scheduled chapters were found. Reviewed complete unpublished stock:0. Next chapter196;196–250 remain planning, not inventory. See `publication/2026-11-11.json`.
+
+## Reviewed writing batch — 2026-11-12
+
+Complete English Chapters 196–205 passed independent full-text review. Active manuscripts now 001–205. Every new chapter contains 1,800–2,200 body words. See `reviews/2026-11-12-independent.md`, its JSON companion, and `progress/2026-11-12.md`. Publication is recorded separately; this entry does not claim release. Chapters 206–250 remain planning, not stock.

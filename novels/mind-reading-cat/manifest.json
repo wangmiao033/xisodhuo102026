@@ -1563,6 +1563,86 @@
       "words": 1842,
       "sha256": "dd78a6bc048ff29e3656d6efd3b220676f7924b2f92b964ba38e0ac39d7b52fb",
       "git_blob_sha1": "8e7099da388a9ae1d6a990e9206ba165f61b4924"
+    },
+    {
+      "chapter": 196,
+      "heading": "Chapter 196 — Alone Together at Home for the First Time",
+      "path": "chapters/en/196-alone-together-at-home-for-the-first-time.md",
+      "words": 1827,
+      "sha256": "080e2cc148333f7f008383dc6cf71bd66e772e508705e0344913cf0cdd2b7126",
+      "git_blob_sha1": "37c94ac0c3d7c4acf3cc3ce0bc4b1558c1b37a3f"
+    },
+    {
+      "chapter": 197,
+      "heading": "Chapter 197 — Who Remembers the Tissues?",
+      "path": "chapters/en/197-who-remembers-the-tissues.md",
+      "words": 1851,
+      "sha256": "74e1f076198b759bd4c0c31983d43d2a2a5096eccf4b4c802e50a9bc9a056528",
+      "git_blob_sha1": "9eda0b4a85d971e7003afcbcf7ae62a797884ec3"
+    },
+    {
+      "chapter": 198,
+      "heading": "Chapter 198 — Whose Side Is the Cat On?",
+      "path": "chapters/en/198-whose-side-is-the-cat-on.md",
+      "words": 1868,
+      "sha256": "8c1d8a77712b4daca2e50473207d1c52228b76316ae2a9731bc00952283b33ba",
+      "git_blob_sha1": "54e63e8dfea7ade2be7a8f82280a8bca235caded"
+    },
+    {
+      "chapter": 199,
+      "heading": "Chapter 199 — A Date Without Work",
+      "path": "chapters/en/199-a-date-without-work.md",
+      "words": 1874,
+      "sha256": "ef49a5c77e1f6f516db3a684f050148736fc778a3688e3a351e487bc49b8fd3f",
+      "git_blob_sha1": "d14a74c33bec4ff68b14040791d83b4a13a93723"
+    },
+    {
+      "chapter": 200,
+      "heading": "Chapter 200 — The Future Is More Than One Word",
+      "path": "chapters/en/200-the-future-is-more-than-one-word.md",
+      "words": 1833,
+      "sha256": "13967343078c1ba2b4bf799f1faaeae66440daa683047fd037b6345bb13e7430",
+      "git_blob_sha1": "926ee795df64c52364c3cc065052c0a7f059cd87"
+    },
+    {
+      "chapter": 201,
+      "heading": "Chapter 201 — Cancellation Notices Are Harder Than Promotion",
+      "path": "chapters/en/201-cancellation-notices-are-harder-than-promotion.md",
+      "words": 1864,
+      "sha256": "f3e1cf53504836c58c71697d4d8428a9c07221eed4f945d4b57b8db1d628ea8f",
+      "git_blob_sha1": "a14d0dc19a34e164fc2c67b726a7b5085a57ab5e"
+    },
+    {
+      "chapter": 202,
+      "heading": "Chapter 202 — It Is Not Canned Food That Is Missing",
+      "path": "chapters/en/202-it-is-not-canned-food-that-is-missing.md",
+      "words": 1867,
+      "sha256": "3a4696c62a84c33bb876b150cda3a24f8f95f389a9e7650d9b9dd958603546f7",
+      "git_blob_sha1": "55140c937220ae43148a4c87f8027a646f19cd58"
+    },
+    {
+      "chapter": 203,
+      "heading": "Chapter 203 — No Heroes in the Shop",
+      "path": "chapters/en/203-no-heroes-in-the-shop.md",
+      "words": 1873,
+      "sha256": "d30d0551bc216d6c80e7504ff99e2e20a8d97f47274420bc3ff535926e63c182",
+      "git_blob_sha1": "899b3b398b7978d610edc64818627f2d7f0650c6"
+    },
+    {
+      "chapter": 204,
+      "heading": "Chapter 204 — A Group Photograph That Stays Unposted",
+      "path": "chapters/en/204-a-group-photograph-that-stays-unposted.md",
+      "words": 1876,
+      "sha256": "b88b99d2e02619412e2b34464f032e0dec6bc955afefb80d7e37024e3808982e",
+      "git_blob_sha1": "f84f62ea553340f826786ddd2fe593c9d109b3be"
+    },
+    {
+      "chapter": 205,
+      "heading": "Chapter 205 — Monday After the Leak",
+      "path": "chapters/en/205-monday-after-the-leak.md",
+      "words": 1894,
+      "sha256": "a7e4dc47ad14909c4862f14e7b090d4ae18eca5e38efe5a04460b3ccbea2edf0",
+      "git_blob_sha1": "3c63449333ee8601befa0f9185ccc2100e90679c"
     }
   ]
 }
