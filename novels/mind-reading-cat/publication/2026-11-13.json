@@ -1,0 +1,137 @@
+{
+  "beijing_date": "2026-11-13",
+  "novelpia_id": 6408,
+  "source_commit": "b350b649ae3ab498584c6cf01c5988aa705da35b",
+  "preflight": {
+    "public": 195,
+    "drafts": 0,
+    "scheduled": 0,
+    "today_public": 0,
+    "all_numbers_present": true
+  },
+  "published": [
+    {
+      "chapter": 196,
+      "url": "https://global.novelpia.com/viewer/860644",
+      "utc": "2026-11-13T01:02:09Z",
+      "paragraphs": 136,
+      "match": true,
+      "title": "Alone Together at Home for the First Time",
+      "source_path": "chapters/en/196-alone-together-at-home-for-the-first-time.md",
+      "source_sha256": "080e2cc148333f7f008383dc6cf71bd66e772e508705e0344913cf0cdd2b7126",
+      "status": "Public",
+      "beijing": "2026-11-13T09:02:09+08:00"
+    },
+    {
+      "chapter": 197,
+      "url": "https://global.novelpia.com/viewer/860645",
+      "utc": "2026-11-13T01:04:19Z",
+      "paragraphs": 139,
+      "match": true,
+      "title": "Who Remembers the Tissues?",
+      "source_path": "chapters/en/197-who-remembers-the-tissues.md",
+      "source_sha256": "74e1f076198b759bd4c0c31983d43d2a2a5096eccf4b4c802e50a9bc9a056528",
+      "status": "Public",
+      "beijing": "2026-11-13T09:04:19+08:00"
+    },
+    {
+      "chapter": 198,
+      "url": "https://global.novelpia.com/viewer/860646",
+      "utc": "2026-11-13T01:05:23Z",
+      "paragraphs": 131,
+      "match": true,
+      "title": "Whose Side Is the Cat On?",
+      "source_path": "chapters/en/198-whose-side-is-the-cat-on.md",
+      "source_sha256": "8c1d8a77712b4daca2e50473207d1c52228b76316ae2a9731bc00952283b33ba",
+      "status": "Public",
+      "beijing": "2026-11-13T09:05:23+08:00"
+    },
+    {
+      "chapter": 199,
+      "title": "A Date Without Work",
+      "url": "https://global.novelpia.com/viewer/860647",
+      "paragraphs": 135,
+      "match": true,
+      "source_path": "chapters/en/199-a-date-without-work.md",
+      "source_sha256": "ef49a5c77e1f6f516db3a684f050148736fc778a3688e3a351e487bc49b8fd3f",
+      "status": "Public",
+      "utc": "2026-11-13T01:06:59Z",
+      "beijing": "2026-11-13T09:06:59+08:00"
+    },
+    {
+      "chapter": 200,
+      "title": "The Future Is More Than One Word",
+      "url": "https://global.novelpia.com/viewer/860648",
+      "paragraphs": 109,
+      "match": true,
+      "source_path": "chapters/en/200-the-future-is-more-than-one-word.md",
+      "source_sha256": "13967343078c1ba2b4bf799f1faaeae66440daa683047fd037b6345bb13e7430",
+      "status": "Public",
+      "utc": "2026-11-13T01:07:08Z",
+      "beijing": "2026-11-13T09:07:08+08:00"
+    },
+    {
+      "chapter": 201,
+      "title": "Cancellation Notices Are Harder Than Promotion",
+      "url": "https://global.novelpia.com/viewer/860649",
+      "paragraphs": 102,
+      "match": true,
+      "source_path": "chapters/en/201-cancellation-notices-are-harder-than-promotion.md",
+      "source_sha256": "f3e1cf53504836c58c71697d4d8428a9c07221eed4f945d4b57b8db1d628ea8f",
+      "status": "Public",
+      "utc": "2026-11-13T01:07:17Z",
+      "beijing": "2026-11-13T09:07:17+08:00"
+    },
+    {
+      "chapter": 202,
+      "title": "It Is Not Canned Food That Is Missing",
+      "url": "https://global.novelpia.com/viewer/860650",
+      "paragraphs": 110,
+      "match": true,
+      "source_path": "chapters/en/202-it-is-not-canned-food-that-is-missing.md",
+      "source_sha256": "3a4696c62a84c33bb876b150cda3a24f8f95f389a9e7650d9b9dd958603546f7",
+      "status": "Public",
+      "utc": "2026-11-13T01:08:15Z",
+      "beijing": "2026-11-13T09:08:15+08:00"
+    },
+    {
+      "chapter": 203,
+      "title": "No Heroes in the Shop",
+      "url": "https://global.novelpia.com/viewer/860651",
+      "paragraphs": 112,
+      "match": true,
+      "source_path": "chapters/en/203-no-heroes-in-the-shop.md",
+      "source_sha256": "d30d0551bc216d6c80e7504ff99e2e20a8d97f47274420bc3ff535926e63c182",
+      "status": "Public",
+      "utc": "2026-11-13T01:08:24Z",
+      "beijing": "2026-11-13T09:08:24+08:00"
+    },
+    {
+      "chapter": 204,
+      "title": "A Group Photograph That Stays Unposted",
+      "url": "https://global.novelpia.com/viewer/860652",
+      "paragraphs": 105,
+      "match": true,
+      "source_path": "chapters/en/204-a-group-photograph-that-stays-unposted.md",
+      "source_sha256": "b88b99d2e02619412e2b34464f032e0dec6bc955afefb80d7e37024e3808982e",
+      "status": "Public",
+      "utc": "2026-11-13T01:08:33Z",
+      "beijing": "2026-11-13T09:08:33+08:00"
+    },
+    {
+      "chapter": 205,
+      "title": "Monday After the Leak",
+      "url": "https://global.novelpia.com/viewer/860653",
+      "paragraphs": 94,
+      "match": true,
+      "source_path": "chapters/en/205-monday-after-the-leak.md",
+      "source_sha256": "a7e4dc47ad14909c4862f14e7b090d4ae18eca5e38efe5a04460b3ccbea2edf0",
+      "status": "Public",
+      "utc": "2026-11-13T01:08:42Z",
+      "beijing": "2026-11-13T09:08:42+08:00"
+    }
+  ],
+  "daily_public_count": 10,
+  "remaining_daily_slots": 0,
+  "verification": "Each complete reader page paragraph compared in order to fixed-source body after stripping Markdown heading; all match. Management list verifies number/title/Public/release time."
+}
