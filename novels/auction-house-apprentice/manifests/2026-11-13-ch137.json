@@ -1,0 +1,20 @@
+{
+  "chapter": 137,
+  "title": "少了一张空表",
+  "hanzi": 3784,
+  "date_beijing": "2026-11-13",
+  "source_base": "b350b649ae3ab498584c6cf01c5988aa705da35b",
+  "files": {
+    "chapters/cn/137-shao-le-yi-zhang-kong-biao.md": {
+      "sha256": "234ebd76df2cb4c098021cb011fe2efaf332ac0bb6aaa2e2fbe667d500a1cda4"
+    },
+    "publication/publish-text/ch137.txt": {
+      "sha256": "73df3a7d3c802770dfc397754109f45091e1043bf3e0055fc32927c9511f88df"
+    },
+    "reviews/2026-11-13-ch137.md": {
+      "sha256": "ee7dc95759ed70116e00de4e3cb4182b077af76ca2553a5416b87bb5ab97d102"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
