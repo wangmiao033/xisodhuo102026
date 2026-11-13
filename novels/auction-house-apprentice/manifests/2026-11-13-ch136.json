@@ -1,0 +1,20 @@
+{
+  "chapter": 136,
+  "title": "回执没有那一栏",
+  "hanzi": 3709,
+  "date_beijing": "2026-11-13",
+  "source_base": "b350b649ae3ab498584c6cf01c5988aa705da35b",
+  "files": {
+    "chapters/cn/136-hui-zhi-mei-you-na-yi-lan.md": {
+      "sha256": "e161b422b2848a8fbf3b81af4cda3df6d2d0ef1b77cfbb4841c25f00e72589de"
+    },
+    "publication/publish-text/ch136.txt": {
+      "sha256": "faa5f8811271489f8a74e079436d4613b4e493888100a31028f872ad6f0a2034"
+    },
+    "reviews/2026-11-13-ch136.md": {
+      "sha256": "ec325a0a12db37be64973ad33c751968ff34acba1a601db1f387eb7f670c0036"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
