@@ -1643,6 +1643,86 @@
       "words": 1894,
       "sha256": "a7e4dc47ad14909c4862f14e7b090d4ae18eca5e38efe5a04460b3ccbea2edf0",
       "git_blob_sha1": "3c63449333ee8601befa0f9185ccc2100e90679c"
+    },
+    {
+      "chapter": 206,
+      "heading": "Chapter 206 — Thank You Does Not Wash Dishes",
+      "path": "chapters/en/206-thank-you-does-not-wash-dishes.md",
+      "words": 1947,
+      "sha256": "f1c08f6afe9c360959879f12ec475617908b80218863b94ca4d3c008cdb86716",
+      "git_blob_sha1": "efd5cba1c8c10ca25a84f5673baa42fcfd1ca5e4"
+    },
+    {
+      "chapter": 207,
+      "heading": "Chapter 207 — She Is Not His Receptionist",
+      "path": "chapters/en/207-she-is-not-his-receptionist.md",
+      "words": 1836,
+      "sha256": "20da8901d41ccbd7ecc1a5582c84724fead5f3f416c17b1b748222fbd572e013",
+      "git_blob_sha1": "58aeef0453287d9f0d12e977781be90fc298e98c"
+    },
+    {
+      "chapter": 208,
+      "heading": "Chapter 208 — He Is Not Her Insurance",
+      "path": "chapters/en/208-he-is-not-her-insurance.md",
+      "words": 1835,
+      "sha256": "95fda6c2925349037392fab8577294feb75229931f9105cca7f022b6b997baa4",
+      "git_blob_sha1": "13168e7831dde96765cefcf68b5acc110b99f489"
+    },
+    {
+      "chapter": 209,
+      "heading": "Chapter 209 — A Very Short Apology",
+      "path": "chapters/en/209-a-very-short-apology.md",
+      "words": 1833,
+      "sha256": "01fe5a0c1c3e21a299c5cddc9f4a9933f8335f6c457f8a0be29dedb52a1905f1",
+      "git_blob_sha1": "45e1de2329f79cddcf589f57dae4ab55410d046e"
+    },
+    {
+      "chapter": 210,
+      "heading": "Chapter 210 — Returning the Weekend",
+      "path": "chapters/en/210-returning-the-weekend.md",
+      "words": 1821,
+      "sha256": "fbebcc4228cfbac6d1dbd3492c28a2f74da4f5937618252117d159e09711569f",
+      "git_blob_sha1": "e1b8d94a3b40b5449d8e0e22666c107631679e32"
+    },
+    {
+      "chapter": 211,
+      "heading": "Chapter 211 — The Most Popular Event Loses the Most Money",
+      "path": "chapters/en/211-the-most-popular-event-loses-the-most-money.md",
+      "words": 1833,
+      "sha256": "0b8e04add8d744be4ac6f7a197fc4b4e8f0545d2beee8bf21af69a88fa0f4b2e",
+      "git_blob_sha1": "26e5d1ea0826502328fe1330461225992c5ab221"
+    },
+    {
+      "chapter": 212,
+      "heading": "Chapter 212 — Everyone Voted for the Ugliest Dog",
+      "path": "chapters/en/212-everyone-voted-for-the-ugliest-dog.md",
+      "words": 1849,
+      "sha256": "edd3d118622939d965fd9aa24add0b29ca043579c0f983c9fb3145c35fb7adfc",
+      "git_blob_sha1": "5735c6f505bc4e6e87e19ed6e46fad63d1836505"
+    },
+    {
+      "chapter": 213,
+      "heading": "Chapter 213 — She Is Not the Only One Who Can Do It",
+      "path": "chapters/en/213-she-is-not-the-only-one-who-can-do-it.md",
+      "words": 1878,
+      "sha256": "d4ba54c36e8990d3c8b77d81620d4f945c7b46692211992cbfd2d84bbe6815e0",
+      "git_blob_sha1": "eb5040b2d9e0fa8b1894112a5bbd24f5b09cbed4"
+    },
+    {
+      "chapter": 214,
+      "heading": "Chapter 214 — The Final Old Program",
+      "path": "chapters/en/214-the-final-old-program.md",
+      "words": 1856,
+      "sha256": "da5b9744ab45377301fe5ddac2fc3df10312456c5ae6a63d09e8cade437cba1d",
+      "git_blob_sha1": "5a2306be3cc0efebe4a8891ab5b4967102a7ca73"
+    },
+    {
+      "chapter": 215,
+      "heading": "Chapter 215 — An Empty Saturday",
+      "path": "chapters/en/215-an-empty-saturday.md",
+      "words": 1894,
+      "sha256": "10ba6941fd26f685a213b8cc4a89cd2ea89012aea92bf91bf9f64ba380eae640",
+      "git_blob_sha1": "5d4f7239f3ef225c5ce8fba2c4b3e34e71373339"
     }
   ]
 }
