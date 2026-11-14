@@ -1,0 +1,36 @@
+{
+  "fixedCommit": "a96cecfd9eccb9263e2baef79669303fc7ee500d",
+  "chapter138": {
+    "id": "7707839679483085336",
+    "title": "没有墨的字",
+    "status": "已发布",
+    "platformTime": "2026-11-14 10:00",
+    "platformWords": 4190,
+    "hanCount": 3676,
+    "paragraphs": 125,
+    "previewEqualsSource": true,
+    "sha256": "4adbb1efc036d04be8d51754d25da7eed396d71fe9219e189d4af1af03130128",
+    "ai": true,
+    "scheduled": false,
+    "preview": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7707839679483085336"
+  },
+  "chapter139": {
+    "id": "7707841417975972376",
+    "title": "板上的四个字",
+    "status": "已发布",
+    "platformTime": "2026-11-14 10:02",
+    "hanCount": 3679,
+    "paragraphs": 118,
+    "previewEqualsSource": true,
+    "sha256": "0b374d5e64fde83ef30e5a5e1b08e50ab705787f73e7f5fb1b82520b2b11cfde",
+    "ai": true,
+    "scheduled": false,
+    "preview": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7707841417975972376",
+    "platformWords": 4196
+  },
+  "finalPublicToday": 2,
+  "oldDraftCount": 13,
+  "independent_public_reader_url": null,
+  "page_timezone": "not explicitly labelled",
+  "verification": "Platform author management status and complete preview checked. Do not call management preview independent public reader page."
+}
