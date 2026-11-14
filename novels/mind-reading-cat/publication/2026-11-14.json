@@ -1,0 +1,116 @@
+{
+  "beijing_date": "2026-11-14",
+  "novel_id": 6408,
+  "source_commit": "0351da7d604e732b8bb7fd4d80bbe549e51ca7a0",
+  "preflight": {
+    "all_205_existing_entries_checked": true,
+    "public": 205,
+    "drafts": 0,
+    "scheduled": 0,
+    "today_public": 0
+  },
+  "new_public_count": 10,
+  "daily_limit": 10,
+  "remaining_quota": 0,
+  "public_through": 215,
+  "reviewed_complete_through": 225,
+  "reviewed_unpublished": {
+    "from": 216,
+    "to": 225,
+    "count": 10,
+    "source_commit": "2f0e413147685fc95e076df01731bcc1e6b2fecc"
+  },
+  "verification": "Each new management row and complete reader-page prose was read back. Every body paragraph matched the fixed raw manuscript exactly after removing only the Markdown title; title and number matched. Main/Public/Now, no author note. Final first-page management inspection confirmed the ten dated releases. No old chapters or metadata edited.",
+  "chapters": [
+    {
+      "number": 206,
+      "title": "Thank You Does Not Wash Dishes",
+      "reader_url": "https://global.novelpia.com/viewer/861616",
+      "release_utc": "2026-11-14T01:50:04Z",
+      "release_beijing": "2026-11-14T09:50:04+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 207,
+      "title": "She Is Not His Receptionist",
+      "reader_url": "https://global.novelpia.com/viewer/861618",
+      "release_utc": "2026-11-14T01:53:19Z",
+      "release_beijing": "2026-11-14T09:53:19+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 208,
+      "title": "He Is Not Her Insurance",
+      "reader_url": "https://global.novelpia.com/viewer/861619",
+      "release_utc": "2026-11-14T01:54:09Z",
+      "release_beijing": "2026-11-14T09:54:09+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 209,
+      "title": "A Very Short Apology",
+      "reader_url": "https://global.novelpia.com/viewer/861621",
+      "release_utc": "2026-11-14T01:54:54Z",
+      "release_beijing": "2026-11-14T09:54:54+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 210,
+      "title": "Returning the Weekend",
+      "reader_url": "https://global.novelpia.com/viewer/861622",
+      "release_utc": "2026-11-14T01:55:23Z",
+      "release_beijing": "2026-11-14T09:55:23+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 211,
+      "title": "The Most Popular Event Loses the Most Money",
+      "reader_url": "https://global.novelpia.com/viewer/861623",
+      "release_utc": "2026-11-14T01:55:52Z",
+      "release_beijing": "2026-11-14T09:55:52+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 212,
+      "title": "Everyone Voted for the Ugliest Dog",
+      "reader_url": "https://global.novelpia.com/viewer/861624",
+      "release_utc": "2026-11-14T01:56:27Z",
+      "release_beijing": "2026-11-14T09:56:27+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 213,
+      "title": "She Is Not the Only One Who Can Do It",
+      "reader_url": "https://global.novelpia.com/viewer/861625",
+      "release_utc": "2026-11-14T01:57:05Z",
+      "release_beijing": "2026-11-14T09:57:05+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 214,
+      "title": "The Final Old Program",
+      "reader_url": "https://global.novelpia.com/viewer/861626",
+      "release_utc": "2026-11-14T01:57:42Z",
+      "release_beijing": "2026-11-14T09:57:42+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 215,
+      "title": "An Empty Saturday",
+      "reader_url": "https://global.novelpia.com/viewer/861627",
+      "release_utc": "2026-11-14T01:58:16Z",
+      "release_beijing": "2026-11-14T09:58:16+08:00",
+      "full_reader_body_match": true,
+      "public_verified": true
+    }
+  ]
+}

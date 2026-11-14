@@ -163,4 +163,8 @@ Published and fully reread196–205 on November13, Beijing09:02:09–09:08:42; d
 
 Complete English Chapters 216–225 passed independent full-text review, with 1,821–1,914 body words per chapter. Active complete manuscript range: 001–225; Chapters 226–250 remain planning. See reviews/2026-11-14-independent.md, its JSON companion, and progress/2026-11-14.md.
 
-No platform publication was attempted in this run because live browser access and therefore public/draft/scheduled inventory and quota could not be verified. The last recorded public verification is still November 13, Chapters 001–205; do not interpret this writing entry as an updated public count. Relative to that dated verification, reviewed manuscripts 206–225 total 20 chapters; live remaining stock awaits platform verification.
+At the writing-archive checkpoint, publication had not yet been attempted and live access was believed unavailable. That assessment was subsequently corrected; see the verified publication follow-up below.
+
+## Verified publication follow-up — 2026-11-14
+
+The earlier browser-unavailable assessment was a tool-discovery error, not a platform failure; direct cloud-browser access succeeded. A fresh full 11-page preflight found 205 consecutive Public entries, no drafts or schedules and zero releases today. Chapters 206–215 were then published in sequence as Main/Public/Now, Beijing 09:50:04–09:58:16. Each complete reader body matched fixed source `0351da7d604e732b8bb7fd4d80bbe549e51ca7a0` paragraph for paragraph; titles, numbers, Public status and actual times were checked. Today's quota is 10/10. Current public progress: 001–215. Reviewed complete unpublished inventory: 216–225, ten chapters (one day at ten per day), fixed manuscript commit `2f0e413147685fc95e076df01731bcc1e6b2fecc`. Chapters 226–250 remain planning. See `publication/2026-11-14.json`. No old chapters, author notes/images or book metadata were edited.
