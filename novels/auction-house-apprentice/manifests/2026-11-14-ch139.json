@@ -1,0 +1,20 @@
+{
+  "chapter": 139,
+  "title": "板上的四个字",
+  "hanzi": 3679,
+  "date_beijing": "2026-11-14",
+  "source_base": "0fc645e8a4f0b6545ebfbe939320726142229bd5",
+  "files": {
+    "chapters/cn/139-ban-shang-de-si-ge-zi.md": {
+      "sha256": "e3a99735222e5145df4cb289fe55f9c354d39d415998394a31308e94177cdbde"
+    },
+    "publication/publish-text/ch139.txt": {
+      "sha256": "0b374d5e64fde83ef30e5a5e1b08e50ab705787f73e7f5fb1b82520b2b11cfde"
+    },
+    "reviews/2026-11-14-ch139.md": {
+      "sha256": "aeb4b93e19d517a245fb4e9aec8edaa4e8ca4196e8b2652b99975972507916c9"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
