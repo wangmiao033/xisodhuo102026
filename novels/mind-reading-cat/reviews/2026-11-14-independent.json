@@ -1,0 +1,140 @@
+{
+  "date_beijing": "2026-11-14",
+  "scope": "Complete English chapters216–225 only",
+  "status": "PASS after revisions",
+  "review_method": "Independent reviewer (not a manuscript author) fully read all ten complete new chapters, entire CANON/PLANNING, preceding206–215, full200, and fetched full159 from fixed0351da7d604e732b8bb7fd4d80bbe549e51ca7a0 to check investment recall. Specific revisions requested from authors; changed passages and adjacent continuity reread. Mechanical counts/hashes complement, not replace, full review.",
+  "source_before_batch": "0351da7d604e732b8bb7fd4d80bbe549e51ca7a0",
+  "body_word_count_method": "Unicode word tokens; internal apostrophes/hyphens retained; Markdown heading excluded",
+  "checks": {
+    "numbering": "216–225 consecutive, unique English manuscripts",
+    "length": "Each1800–2200 English body words",
+    "duplicate_long_paragraphs": 0,
+    "viewpoint": "Eve close limited; Julian intentions expressed in speech/actions; no unlicensed head-hopping",
+    "cat": "Nearby present-emotion anomaly only; uncertain loss/return, no tests/distant reading/memory/diagnosis/device powers",
+    "continuity": "215Saturday→216Sunday/Monday→217Tuesday→218Wednesday→219Thursday→220Friday→221Sunday; later marriage discussions before Friday225. Household duties/venue repair/paid work preserved.",
+    "romance": "221–224 mutual discussions precede225 formal accepted proposal; wedding not yet, children not yet chosen for present attempt",
+    "local_status": "All ten local English manuscripts independently reviewed PASS. Remote archive and platform publication NOT verified by this report; coordinator must verify separately."
+  },
+  "chapters": [
+    {
+      "chapter": 216,
+      "file": "216-a-morning-without-hints.md",
+      "path": "chapters/en/216-a-morning-without-hints.md",
+      "heading": "Chapter 216 — A Morning Without Hints",
+      "words": 1914,
+      "sha256": "4f27c84cbce7252fcdedf6242343e47b7855e8c4b7339666ded7dc541155d5e1",
+      "git_blob_sha1": "836f563a93a572ba67879edaa6cdb7b14cd4ce74",
+      "utf8_bytes": 11442,
+      "status": "PASS",
+      "specific_review": "Read full manuscript and revised passage. Sunday after215 and Monday normal examination with Dr.Clark; no magical diagnosis, health guarantee or pressured stimulus. Clarified storage-box film as separately commissioned paid follow-up after earlier completed work, preserving213/215. Rear reopened matches214."
+    },
+    {
+      "chapter": 217,
+      "file": "217-it-is-all-right-to-miss-something.md",
+      "path": "chapters/en/217-it-is-all-right-to-miss-something.md",
+      "heading": "Chapter 217 — It Is All Right to Miss Something",
+      "words": 1824,
+      "sha256": "4a6ac45c6468248502b44a90f464d19b1aa8c8ceb20f9c4a651cd311788669cd",
+      "git_blob_sha1": "3720b0e4c9479592042d503206e456a3859f9a69",
+      "utf8_bytes": 11100,
+      "status": "PASS",
+      "specific_review": "Read full manuscript. Tuesday free twenty-minute consultation respects Ruth refusal to explain and refusal to book; cat absent, no privacy shortcut or automatic follow-up. Other purchases remain separate rather than rewarding respectful conduct with a miraculous sale. Concrete sample-board repair anchors work."
+    },
+    {
+      "chapter": 218,
+      "file": "218-the-thing-that-was-not-read-out-of-him.md",
+      "path": "chapters/en/218-the-thing-that-was-not-read-out-of-him.md",
+      "heading": "Chapter 218 — The Thing That Was Not Read Out of Him",
+      "words": 1882,
+      "sha256": "7cbbd2ae88e6856821a9957044e00b7108ee353e14fc7ef42eec93451abb775d",
+      "git_blob_sha1": "4c5abae0c285b1029d6605ad165c7b687895f0ec",
+      "utf8_bytes": 11293,
+      "status": "PASS",
+      "specific_review": "Read full manuscript. Wednesday delivers new216 clip. Clinical-teaching course is distinct from former clinical training, not enrolled or paid; fee, practice and protected clinic time unresolved. Julian volunteers a wish rather than having it extracted by cat. Library walk and unfinished book support intimacy without new powers."
+    },
+    {
+      "chapter": 219,
+      "file": "219-still-the-cat-who-steals-the-pillow.md",
+      "path": "chapters/en/219-still-the-cat-who-steals-the-pillow.md",
+      "heading": "Chapter 219 — Still the Cat Who Steals the Pillow",
+      "words": 1821,
+      "sha256": "d5059d8b541273d560b2c0520d78b29543a69be876052817b0ddbd75b82c37c4",
+      "git_blob_sha1": "119c041f624b327518967431d2d021d83220b61b",
+      "utf8_bytes": 11190,
+      "status": "PASS",
+      "specific_review": "Read full manuscript and all revised passages. Thursday Sophie gift, children and sock comedy retain ordinary-cat life. Corrected first-sock custody to Eve handing it to Julian before his misplacement. Removed unverified last-year bed purchase; preserved Sophie awareness from earlier tests without explaining secrets to public. Plural pronoun corrected. Toy supervised, no chase/tug or fabric left for chewing."
+    },
+    {
+      "chapter": 220,
+      "file": "220-no-need-to-take-the-test-again.md",
+      "path": "chapters/en/220-no-need-to-take-the-test-again.md",
+      "heading": "Chapter 220 — No Need to Take the Test Again",
+      "words": 1847,
+      "sha256": "e6dbbc3ff179e9a1213da8c3ab1e813ffd329176d9f778fbb82a43e4280a89ff",
+      "git_blob_sha1": "68962bf0756d4370b9eaada03c2e5f676a826e1c",
+      "utf8_bytes": 11056,
+      "status": "PASS",
+      "specific_review": "Read full manuscript and revised ending. Friday care-record sorting provokes current emotion; single nearby apparently precise comfort is not memory-reading or proof of recovered powers. Old test notes left untouched, normal veterinary care separate. Ending corrected from Saturday side-table repair to Sunday kitchen-chair fastening to match221, with chair already removed from use."
+    },
+    {
+      "chapter": 221,
+      "file": "221-not-because-things-are-going-well.md",
+      "path": "chapters/en/221-not-because-things-are-going-well.md",
+      "heading": "Chapter 221 — Not Because Things Are Going Well",
+      "words": 1864,
+      "sha256": "f829dcc7708951231af3a958db0f992ee16572dc793d44e540a911137d3d0175",
+      "git_blob_sha1": "f19054e0befe9fa82e3ba1a312376469b279e688",
+      "utf8_bytes": 11386,
+      "status": "PASS",
+      "specific_review": "Read full manuscript and both revisions. Sunday chair scene leads to serious marriage discussion, not formal proposal. Independent work and existing future conversations retained. Verified full159 fixed source: investor demanded Julian approval rather than speaking to him in person while Eve sat there; revised recall accurate. Removed inaccurate final question count."
+    },
+    {
+      "chapter": 222,
+      "file": "222-the-unfinished-items-of-shared-life.md",
+      "path": "chapters/en/222-the-unfinished-items-of-shared-life.md",
+      "heading": "Chapter 222 — The Unfinished Items of Shared Life",
+      "words": 1853,
+      "sha256": "fcbdfc9328eec5b2cf4e648210cbbb1d7c960a6d50a2db12a572a6331277cafd",
+      "git_blob_sha1": "9bc5caa25f3aba8b5bbaf14241042b32efc2f3ba",
+      "utf8_bytes": 11372,
+      "status": "PASS",
+      "specific_review": "Read full manuscript, cross-checked218 and200. Shelf arrangement concretizes personal autonomy; training remains tentative. Separate accounts maintained, no automatic underwriting of business/training loss or family care. Shared-impact commitments need discussion but individual ambition does not need permission. Unresolved actual differences remain."
+    },
+    {
+      "chapter": 223,
+      "file": "223-do-we-want-children.md",
+      "path": "chapters/en/223-do-we-want-children.md",
+      "heading": "Chapter 223 — Do We Want Children?",
+      "words": 1891,
+      "sha256": "ae088606f508a55cdc44d9d02c74117f98497fed6d4a349e1e66773c6e502ce4",
+      "git_blob_sha1": "b67a04ab1a2e96c5cf4a32411abce2b7fccce216",
+      "utf8_bytes": 11421,
+      "status": "PASS",
+      "specific_review": "Read full manuscript against full200. Puppet outing and agreed conversation explicitly acknowledge former maybe. Stronger shared possible future parenting remains optional, not trying now, no date or guarantee. Both work/care burdens and possibility of disagreement addressed; no pregnancy, destiny or automatic marital duty."
+    },
+    {
+      "chapter": 224,
+      "file": "224-the-cat-cannot-choose-for-me.md",
+      "path": "chapters/en/224-the-cat-cannot-choose-for-me.md",
+      "heading": "Chapter 224 — The Cat Cannot Choose for Me",
+      "words": 1836,
+      "sha256": "7249edecc3c96f2b7c319c94294e4d04dd0ef000ed61bca83f4b44cf6c3b19b2",
+      "git_blob_sha1": "0084770ecf16258c2e6b354c0ddb9195925b8f78",
+      "utf8_bytes": 11045,
+      "status": "PASS",
+      "specific_review": "Read full manuscript. Accidental sizing-paper sighting, closed box not opened, cat not oracle. Self-made bookmark recalls verified214 cardboard ears and groceries. Friday noodle booking is ordinary, no audience or invented specific early restaurant incident. Incorrect printer scale leads to later proper fitting."
+    },
+    {
+      "chapter": 225,
+      "file": "225-this-time-i-am-asking-you.md",
+      "path": "chapters/en/225-this-time-i-am-asking-you.md",
+      "heading": "Chapter 225 — This Time I Am Asking You",
+      "words": 1853,
+      "sha256": "90a9f83ad046e59824ee1be7a2761303450d0491e1077d5c488f3d0c1a76780e",
+      "git_blob_sha1": "d1ed74935c8e95236d6fa186f21e5f06abefdab6",
+      "utf8_bytes": 10983,
+      "status": "PASS",
+      "specific_review": "Read full manuscript and224 adjacency. Friday dinner at revised booking time then private home proposal, explicit yes. Ring stays boxed pending proper fit, handmade bookmark and exact line match224. No wedding date, shared-business funds or unasked friend labor. Cat sleeps securely, no ring theft or manufactured delay."
+    }
+  ]
+}

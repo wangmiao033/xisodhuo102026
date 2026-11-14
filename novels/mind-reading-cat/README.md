@@ -158,3 +158,9 @@ Complete English Chapters 196–205 passed independent full-text review. Active 
 Independently reviewed full English Chapters206–215 added; complete manuscript range001–215. Chapters216–250 remain planning. See reviews/2026-11-13-independent.md and its JSON companion.
 
 Published and fully reread196–205 on November13, Beijing09:02:09–09:08:42; daily10/10. Current verified public range001–205; reviewed unpublished stock206–215,10chapters. See publication/2026-11-13.json and progress/2026-11-13.md.
+
+## Reviewed writing batch — 2026-11-14
+
+Complete English Chapters 216–225 passed independent full-text review, with 1,821–1,914 body words per chapter. Active complete manuscript range: 001–225; Chapters 226–250 remain planning. See reviews/2026-11-14-independent.md, its JSON companion, and progress/2026-11-14.md.
+
+No platform publication was attempted in this run because live browser access and therefore public/draft/scheduled inventory and quota could not be verified. The last recorded public verification is still November 13, Chapters 001–205; do not interpret this writing entry as an updated public count. Relative to that dated verification, reviewed manuscripts 206–225 total 20 chapters; live remaining stock awaits platform verification.
