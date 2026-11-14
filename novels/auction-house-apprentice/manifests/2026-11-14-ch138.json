@@ -1,0 +1,20 @@
+{
+  "chapter": 138,
+  "title": "没有墨的字",
+  "hanzi": 3672,
+  "date_beijing": "2026-11-14",
+  "source_base": "0fc645e8a4f0b6545ebfbe939320726142229bd5",
+  "files": {
+    "chapters/cn/138-mei-you-mo-de-zi.md": {
+      "sha256": "b2567db7b0054c2160a2f9a8398011e7ba8404efc14c08cc5a45c7fa54b0408c"
+    },
+    "publication/publish-text/ch138.txt": {
+      "sha256": "fe27471785a1df69cb208f77205ef638c78f852211d3fcdd3439a10c0d3429ac"
+    },
+    "reviews/2026-11-14-ch138.md": {
+      "sha256": "e4f0fc918c45b70b11b30d5a603a4fc09a6065c75dbea0d784a6a3cd14f6642a"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}

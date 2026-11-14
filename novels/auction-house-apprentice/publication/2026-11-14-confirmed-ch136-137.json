@@ -1,0 +1,32 @@
+{
+  "verified_beijing_date": "2026-11-14",
+  "chapter136": {
+    "title": "回执没有那一栏",
+    "chapter_id": "7707445371684782617",
+    "status": "已发布",
+    "platform_time": "2026-11-13 08:28",
+    "platform_count": 4265,
+    "hanzi": 3709,
+    "source_commit": "2012d17af3cb564a3878db92042e94dad71b5c22",
+    "body_sha256": "faa5f8811271489f8a74e079436d4613b4e493888100a31028f872ad6f0a2034",
+    "full_preview_verified_on": "2026-11-13",
+    "preview": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7707445371684782617"
+  },
+  "chapter137": {
+    "title": "少了一张空表",
+    "chapter_id": "7707446610417959449",
+    "status": "已发布",
+    "platform_time": "2026-11-13 08:30",
+    "platform_count": 4374,
+    "hanzi": 3784,
+    "source_commit": "49e4c3d495fa2063041edb85af113eb528f3ac5e",
+    "body_sha256": "73df3a7d3c802770dfc397754109f45091e1043bf3e0055fc32927c9511f88df",
+    "full_preview_verified_on": "2026-11-14",
+    "paragraphs": 131,
+    "exact_match": true,
+    "preview": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7707446610417959449"
+  },
+  "page_timezone": "not explicitly labelled",
+  "independent_public_reader_url": null,
+  "notes": "136 published was already verified Nov13;137 last Nov13 observation was under review and final state now confirmed. Neither was resubmitted. Both actual platform dates Nov13, not Nov14 quota."
+}
