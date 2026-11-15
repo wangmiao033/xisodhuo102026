@@ -172,3 +172,7 @@ The earlier browser-unavailable assessment was a tool-discovery error, not a pla
 ## Verified publication — 2026-11-15
 
 Chapters 216–225 were published Main/Public/Now and individually verified by complete reader-body comparison against fixed reviewed source `2f0e413147685fc95e076df01731bcc1e6b2fecc`. Actual release interval: Beijing 08:27:36–08:32:46. Today 10/10 new-public quota used. Preflight read all 215 existing entries: all Public, no drafts/schedules, zero November 15 releases. Final management list confirmed ten new releases and public progress through 225. At this publication checkpoint the reviewed complete unpublished inventory is zero; 226–235 are being drafted and are not stock until review and archival verification finish. See `publication/2026-11-15.json`. No old chapters, notes/images, or book metadata edited.
+
+## Reviewed writing batch — 2026-11-15
+
+Ten complete English manuscripts, Chapters 226–235, passed independent full-text review and corrections. Each contains 1,805–1,877 body words; exact final hashes and counts are in manifest.json and reviews/2026-11-15-independent.json. Complete reviewed manuscripts now reach 235. Current verified public progress remains 225 (today's quota 10/10); reviewed complete unpublished inventory is 226–235, ten chapters, one day at ten per day. Chapters 236–250 remain planning, not stock. No extra public release was performed after the daily quota was filled. See progress/2026-11-15.md.
