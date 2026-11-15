@@ -1,0 +1,20 @@
+{
+  "chapter": 140,
+  "title": "侧门还留着人",
+  "hanzi": 3636,
+  "date_beijing": "2026-11-15",
+  "source_base": "f63ad2592537815c429dbfc5f570e0ba7f61d84e",
+  "files": {
+    "chapters/cn/140-ce-men-hai-liu-zhe-ren.md": {
+      "sha256": "80423e94f84dddb2d1ec7ae78708a0efd3e24c10892fa824c893662754f463bd"
+    },
+    "publication/publish-text/ch140.txt": {
+      "sha256": "d1da4252a15425eca88abb33b164fb030caa92d1bd09ae1cfaa8a12777e020da"
+    },
+    "reviews/2026-11-15-ch140.md": {
+      "sha256": "36ce91bf2cecfe8c80ee2c797ad7603aac38f555eafbe6d2520a63d054883336"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
