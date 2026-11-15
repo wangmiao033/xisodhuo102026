@@ -1,0 +1,47 @@
+{
+  "date_beijing": "2026-11-15",
+  "new_written": 2,
+  "new_published_verified": 2,
+  "chapters": [
+    {
+      "chapter": 140,
+      "title": "侧门还留着人",
+      "hanzi": 3636,
+      "platform_characters": 4134,
+      "platform_status": "已发布",
+      "displayed_time": "2026-11-15 08:18",
+      "time_zone_page_label": null,
+      "fixed_commit": "089e9809242fdad47557f27238907105d58f246c",
+      "body_sha256": "d1da4252a15425eca88abb33b164fb030caa92d1bd09ae1cfaa8a12777e020da",
+      "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7708184868953276990",
+      "paragraphs": 116,
+      "preview_full_text_matches": true,
+      "ai_used": true,
+      "scheduled": false,
+      "author_note_added": false,
+      "independent_public_reader_url": null
+    },
+    {
+      "chapter": 141,
+      "title": "原页不跟人走",
+      "hanzi": 3663,
+      "platform_characters": 4115,
+      "platform_status": "已发布",
+      "displayed_time": "2026-11-15 08:22",
+      "time_zone_page_label": null,
+      "fixed_commit": "51c11e7a6a258a8ea9d454a7f20932e87331392b",
+      "body_sha256": "53d1375f51950192e07a6cdf69f21faa378c6420b6b45bf6cd5c7ca5af219f38",
+      "preview_url": "https://fanqienovel.com/main/writer/preview/7681620262432820248&7708186679567204926",
+      "paragraphs": 109,
+      "preview_full_text_matches": true,
+      "ai_used": true,
+      "scheduled": false,
+      "author_note_added": false,
+      "independent_public_reader_url": null
+    }
+  ],
+  "prior_drafts": "13 September drafts left untouched",
+  "historical_gap": 42,
+  "next_chapter": 142,
+  "daily_quota": "2/2 filled; do not add or resubmit today"
+}
