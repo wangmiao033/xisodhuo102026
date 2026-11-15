@@ -1,0 +1,129 @@
+{
+  "beijing_date": "2026-11-15",
+  "novel_id": 6408,
+  "source_commit": "2f0e413147685fc95e076df01731bcc1e6b2fecc",
+  "preflight": {
+    "all_entries_checked": 215,
+    "public": 215,
+    "drafts": 0,
+    "scheduled": 0,
+    "today_public": 0
+  },
+  "new_public_count": 10,
+  "daily_limit": 10,
+  "remaining_quota": 0,
+  "public_through": 225,
+  "chapters": [
+    {
+      "number": 216,
+      "title": "A Morning Without Hints",
+      "reader_url": "https://global.novelpia.com/viewer/862104",
+      "release_utc": "2026-11-15T00:27:36Z",
+      "release_beijing": "2026-11-15T08:27:36+08:00",
+      "source_path": "chapters/en/216-a-morning-without-hints.md",
+      "sha256": "4f27c84cbce7252fcdedf6242343e47b7855e8c4b7339666ded7dc541155d5e1",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 217,
+      "title": "It Is All Right to Miss Something",
+      "reader_url": "https://global.novelpia.com/viewer/862105",
+      "release_utc": "2026-11-15T00:28:15Z",
+      "release_beijing": "2026-11-15T08:28:15+08:00",
+      "source_path": "chapters/en/217-it-is-all-right-to-miss-something.md",
+      "sha256": "4a6ac45c6468248502b44a90f464d19b1aa8c8ceb20f9c4a651cd311788669cd",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 218,
+      "title": "The Thing That Was Not Read Out of Him",
+      "reader_url": "https://global.novelpia.com/viewer/862106",
+      "release_utc": "2026-11-15T00:28:40Z",
+      "release_beijing": "2026-11-15T08:28:40+08:00",
+      "source_path": "chapters/en/218-the-thing-that-was-not-read-out-of-him.md",
+      "sha256": "7cbbd2ae88e6856821a9957044e00b7108ee353e14fc7ef42eec93451abb775d",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 219,
+      "title": "Still the Cat Who Steals the Pillow",
+      "reader_url": "https://global.novelpia.com/viewer/862107",
+      "release_utc": "2026-11-15T00:29:54Z",
+      "release_beijing": "2026-11-15T08:29:54+08:00",
+      "source_path": "chapters/en/219-still-the-cat-who-steals-the-pillow.md",
+      "sha256": "d5059d8b541273d560b2c0520d78b29543a69be876052817b0ddbd75b82c37c4",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 220,
+      "title": "No Need to Take the Test Again",
+      "reader_url": "https://global.novelpia.com/viewer/862108",
+      "release_utc": "2026-11-15T00:30:25Z",
+      "release_beijing": "2026-11-15T08:30:25+08:00",
+      "source_path": "chapters/en/220-no-need-to-take-the-test-again.md",
+      "sha256": "e6dbbc3ff179e9a1213da8c3ab1e813ffd329176d9f778fbb82a43e4280a89ff",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 221,
+      "title": "Not Because Things Are Going Well",
+      "reader_url": "https://global.novelpia.com/viewer/862109",
+      "release_utc": "2026-11-15T00:30:58Z",
+      "release_beijing": "2026-11-15T08:30:58+08:00",
+      "source_path": "chapters/en/221-not-because-things-are-going-well.md",
+      "sha256": "f829dcc7708951231af3a958db0f992ee16572dc793d44e540a911137d3d0175",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 222,
+      "title": "The Unfinished Items of Shared Life",
+      "reader_url": "https://global.novelpia.com/viewer/862110",
+      "release_utc": "2026-11-15T00:31:24Z",
+      "release_beijing": "2026-11-15T08:31:24+08:00",
+      "source_path": "chapters/en/222-the-unfinished-items-of-shared-life.md",
+      "sha256": "fcbdfc9328eec5b2cf4e648210cbbb1d7c960a6d50a2db12a572a6331277cafd",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 223,
+      "title": "Do We Want Children?",
+      "reader_url": "https://global.novelpia.com/viewer/862111",
+      "release_utc": "2026-11-15T00:31:47Z",
+      "release_beijing": "2026-11-15T08:31:47+08:00",
+      "source_path": "chapters/en/223-do-we-want-children.md",
+      "sha256": "ae088606f508a55cdc44d9d02c74117f98497fed6d4a349e1e66773c6e502ce4",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 224,
+      "title": "The Cat Cannot Choose for Me",
+      "reader_url": "https://global.novelpia.com/viewer/862112",
+      "release_utc": "2026-11-15T00:32:20Z",
+      "release_beijing": "2026-11-15T08:32:20+08:00",
+      "source_path": "chapters/en/224-the-cat-cannot-choose-for-me.md",
+      "sha256": "7249edecc3c96f2b7c319c94294e4d04dd0ef000ed61bca83f4b44cf6c3b19b2",
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 225,
+      "title": "This Time I Am Asking You",
+      "reader_url": "https://global.novelpia.com/viewer/862113",
+      "release_utc": "2026-11-15T00:32:46Z",
+      "release_beijing": "2026-11-15T08:32:46+08:00",
+      "source_path": "chapters/en/225-this-time-i-am-asking-you.md",
+      "sha256": "90a9f83ad046e59824ee1be7a2761303450d0491e1077d5c488f3d0c1a76780e",
+      "full_reader_body_match": true,
+      "public_verified": true
+    }
+  ],
+  "verification": "All 11 management pages inspected before first publication. Each chapter published Main/Public/Now and complete reader-page prose matched fixed source after removing only title. Final list confirmed ten November 15 releases. No old chapter, author note, image or book metadata edited."
+}
