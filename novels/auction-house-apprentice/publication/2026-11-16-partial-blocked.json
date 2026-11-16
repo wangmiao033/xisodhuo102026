@@ -1,0 +1,51 @@
+{
+  "date_beijing": "2026-11-16",
+  "checked_beijing": "2026-11-16 08:38",
+  "observer": "parent root; report relayed to Git-only worker",
+  "status": "blocked_before_submission",
+  "published_rows": 140,
+  "latest_published_chapter": 141,
+  "latest_published_time": "2026-11-15 08:22",
+  "today_submitted": 0,
+  "today_published": 0,
+  "new_chapters_in_published_or_review_list": [],
+  "drafts_total": 14,
+  "old_september_drafts": 13,
+  "old_drafts_untouched": true,
+  "chapters": [
+    {
+      "number": 142,
+      "title": "那个字是我写的",
+      "hanzi": 3686,
+      "state": "corrected complete title/body autosaved in existing draft, not submitted",
+      "editor_id": "7708560625735057945",
+      "source_commit": "f91318d5ea6c09ea5b37b31464ee04a6d1c16e0d",
+      "body_path": "novels/auction-house-apprentice/publication/publish-text/ch142.txt",
+      "body_sha256": "30f85ec9faa1ec76454b771a9c9eb61653387145a9c68d087aa3c1d4dabdff47"
+    },
+    {
+      "number": 143,
+      "title": "收回去的细丝",
+      "hanzi": 3708,
+      "state": "Git-only, not submitted or published",
+      "source_commit": "1226721f9e357c722c4a7f1e23a9c34a5aa6e9c2",
+      "body_path": "novels/auction-house-apprentice/publication/publish-text/ch143.txt",
+      "body_sha256": "df79cbbedc8c3053df9c141e296056ed1cb2dab1ef62aeeb6ac7527c9103e74a"
+    }
+  ],
+  "corrections142": [
+    "右臂的麻没有随这两步退开。 → 灰褂退开后，林澈右臂仍旧发麻。",
+    "工作人员重新读完整句，他才确认并署名。 → 工作人员从头到尾重读了一遍，他才确认并署名。"
+  ],
+  "remaining_typo_prompts_contextually_reviewed_false_positives": [
+    "册",
+    "记",
+    "先露",
+    "不信",
+    "一齐",
+    "灰褂",
+    "再"
+  ],
+  "blocker": "Submission safety check blocked twice before submission. Parent has asked the user for explicit confirmation of current exact chapter 142. No approval or publication success inferred.",
+  "resume": "Await parent resolution; recheck platform and quota, reuse existing 142 draft. Do not recreate, resubmit blindly, or count drafts as published."
+}
