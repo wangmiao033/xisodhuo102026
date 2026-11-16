@@ -1,0 +1,138 @@
+{
+  "beijing_date": "2026-11-16",
+  "novel_id": 6408,
+  "source_commit": "f8f72bbab28d5205ecd5466a190c8715a5bdc61f",
+  "preflight": {
+    "all_entries_checked": 225,
+    "public": 225,
+    "drafts": 0,
+    "scheduled": 0,
+    "today_public": 0
+  },
+  "new_public_count": 10,
+  "daily_limit": 10,
+  "remaining_quota": 0,
+  "public_through": 235,
+  "chapters": [
+    {
+      "number": 226,
+      "title": "Whose Wedding Template?",
+      "reader_url": "https://global.novelpia.com/viewer/862560",
+      "release_utc": "2026-11-16T00:07:20Z",
+      "release_beijing": "2026-11-16T08:07:20+08:00",
+      "source_path": "chapters/en/226-whose-wedding-template.md",
+      "sha256": "612375d2b026fa7938f7fcbb058d7c846bb6e9367381f1a7e4b2c2eba237af7c",
+      "reader_paragraphs": 131,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 227,
+      "title": "Dinner in the Budget",
+      "reader_url": "https://global.novelpia.com/viewer/862561",
+      "release_utc": "2026-11-16T00:10:19Z",
+      "release_beijing": "2026-11-16T08:10:19+08:00",
+      "source_path": "chapters/en/227-dinner-in-the-budget.md",
+      "sha256": "570db129e2037ba9dbea77b6045e9ad69f1cde700daa9366ae3c9f6fc841efe1",
+      "reader_paragraphs": 127,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 228,
+      "title": "The Curtain in an Old Photograph",
+      "reader_url": "https://global.novelpia.com/viewer/862563",
+      "release_utc": "2026-11-16T00:10:45Z",
+      "release_beijing": "2026-11-16T08:10:45+08:00",
+      "source_path": "chapters/en/228-the-curtain-in-an-old-photograph.md",
+      "sha256": "3e9aed6b726e12eb2d5809c6f2b8e00c7e5745ff8bc2cb3d52688e82da519f17",
+      "reader_paragraphs": 99,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 229,
+      "title": "Ask Whether They Want to Meet First",
+      "reader_url": "https://global.novelpia.com/viewer/862564",
+      "release_utc": "2026-11-16T00:10:55Z",
+      "release_beijing": "2026-11-16T08:10:55+08:00",
+      "source_path": "chapters/en/229-ask-whether-they-want-to-meet-first.md",
+      "sha256": "de2464e44755bbb51d881d7c164fc4e39a5ff3e7f6e8eb673f3719fc3088e07b",
+      "reader_paragraphs": 104,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 230,
+      "title": "Absent from the Wedding Photographs",
+      "reader_url": "https://global.novelpia.com/viewer/862565",
+      "release_utc": "2026-11-16T00:11:06Z",
+      "release_beijing": "2026-11-16T08:11:06+08:00",
+      "source_path": "chapters/en/230-absent-from-the-wedding-photographs.md",
+      "sha256": "453f15c330a9fa7f906dfe958d59d6595f99b03c789a2bb27d888da8ef23ba25",
+      "reader_paragraphs": 120,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 231,
+      "title": "Not Here to Take Him Away",
+      "reader_url": "https://global.novelpia.com/viewer/862566",
+      "release_utc": "2026-11-16T00:11:24Z",
+      "release_beijing": "2026-11-16T08:11:24+08:00",
+      "source_path": "chapters/en/231-not-here-to-take-him-away.md",
+      "sha256": "cd2231232cdf9de95186b63ed4d6ba1a6dc58f31c97e52a4c29a9ab1c25d6a48",
+      "reader_paragraphs": 110,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 232,
+      "title": "The Moves He Lived Through",
+      "reader_url": "https://global.novelpia.com/viewer/862567",
+      "release_utc": "2026-11-16T00:11:40Z",
+      "release_beijing": "2026-11-16T08:11:40+08:00",
+      "source_path": "chapters/en/232-the-moves-he-lived-through.md",
+      "sha256": "4045dece2c836d96c8fa6a7d03e223dd60ea2040f5a406ff12077f84a64be429",
+      "reader_paragraphs": 103,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 233,
+      "title": "An Old Rhythm, a New Bowl",
+      "reader_url": "https://global.novelpia.com/viewer/862568",
+      "release_utc": "2026-11-16T00:11:50Z",
+      "release_beijing": "2026-11-16T08:11:50+08:00",
+      "source_path": "chapters/en/233-an-old-rhythm-a-new-bowl.md",
+      "sha256": "e2bf5ff2f01ed49f5aad0d5511bbe32805feec40fc383e2723c42670beb2ebfe",
+      "reader_paragraphs": 112,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 234,
+      "title": "Leave the Back of the Photograph Blank",
+      "reader_url": "https://global.novelpia.com/viewer/862569",
+      "release_utc": "2026-11-16T00:12:09Z",
+      "release_beijing": "2026-11-16T08:12:09+08:00",
+      "source_path": "chapters/en/234-leave-the-back-of-the-photograph-blank.md",
+      "sha256": "2cda96744855b8a092252f361eb2dde12f0e84149eea5c289eb29596854bf578",
+      "reader_paragraphs": 111,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 235,
+      "title": "The Box Will Not Send You Away",
+      "reader_url": "https://global.novelpia.com/viewer/862570",
+      "release_utc": "2026-11-16T00:12:19Z",
+      "release_beijing": "2026-11-16T08:12:19+08:00",
+      "source_path": "chapters/en/235-the-box-will-not-send-you-away.md",
+      "sha256": "10beebf337a7ee34a1e276f587b4f8800d3215e64721e8ec6e5a225001976b32",
+      "reader_paragraphs": 100,
+      "full_reader_body_match": true,
+      "public_verified": true
+    }
+  ]
+}
