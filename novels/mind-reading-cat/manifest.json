@@ -1883,6 +1883,86 @@
       "words": 1812,
       "sha256": "10beebf337a7ee34a1e276f587b4f8800d3215e64721e8ec6e5a225001976b32",
       "git_blob_sha1": "afbb02f4c2c99e3219a975122c8dd156655ddb42"
+    },
+    {
+      "chapter": 236,
+      "heading": "Chapter 236 — A Day Without Her",
+      "path": "chapters/en/236-a-day-without-her.md",
+      "words": 1988,
+      "sha256": "231d74e592514c584a40d544417dc221831fae57d1fc12a3340aceb9234301d9",
+      "git_blob_sha1": "96536c8d2f180b4ce3c5dd303ee6fbc61f6e3014"
+    },
+    {
+      "chapter": 237,
+      "heading": "Chapter 237 — Sophie's New Business Card",
+      "path": "chapters/en/237-sophies-new-business-card.md",
+      "words": 2030,
+      "sha256": "f9ca0eda6dd1d3c58dd5ef8cf30bf66aaadccf5e135b1e54c1a1d47c48564be1",
+      "git_blob_sha1": "b28c8657a3a256cb919cf7b6db3de3f4227ed798"
+    },
+    {
+      "chapter": 238,
+      "heading": "Chapter 238 — The New Doctor at the Clinic Door",
+      "path": "chapters/en/238-the-new-doctor-at-the-clinic-door.md",
+      "words": 1929,
+      "sha256": "4689de162cec058cd0c101abe820643f4f01ca3ec44a63bc5c3b3e7d92b49022",
+      "git_blob_sha1": "4a7935a71ab51ebb2082efaf26f6f5fd810dc313"
+    },
+    {
+      "chapter": 239,
+      "heading": "Chapter 239 — Vows They Have Not Rehearsed Perfectly",
+      "path": "chapters/en/239-vows-they-have-not-rehearsed-perfectly.md",
+      "words": 1943,
+      "sha256": "1af36a39e67950a45b4a8aee0f6bb19c1bf8f286fdb2b2e6787fd6577e1ea1fc",
+      "git_blob_sha1": "df9f0f0e7c36219bdc92930c1d96a3b60964d72a"
+    },
+    {
+      "chapter": 240,
+      "heading": "Chapter 240 — The Cat Did Not Bring the Rings",
+      "path": "chapters/en/240-the-cat-did-not-bring-the-rings.md",
+      "words": 1958,
+      "sha256": "aa6543a32cbdc076209be44ca20462af3bfa5fc3bc23345b7081a526f4cf417d",
+      "git_blob_sha1": "4ae723e76680244558956c78561eace2096a416e"
+    },
+    {
+      "chapter": 241,
+      "heading": "Chapter 241 — The Title Changed, Not the Alarm",
+      "path": "chapters/en/241-the-title-changed-not-the-alarm.md",
+      "words": 2006,
+      "sha256": "811f19076257347d15598b5fbfb9f9697e8ff83ad7bf700d6b7eb84f3a2a50f0",
+      "git_blob_sha1": "ad0aac53ed2637071934ff2c665068ba75078c2a"
+    },
+    {
+      "chapter": 242,
+      "heading": "Chapter 242 — No Need for a Second Branch",
+      "path": "chapters/en/242-no-need-for-a-second-branch.md",
+      "words": 1951,
+      "sha256": "a70a773e0ef0b21107d0b8cafe02d3dc482ca15c42f9bb889d0deec330925284",
+      "git_blob_sha1": "97ebccaa25cac47e3f79fa274200b4a1de5689fd"
+    },
+    {
+      "chapter": 243,
+      "heading": "Chapter 243 — The Dog Who Still Will Not Come In",
+      "path": "chapters/en/243-the-dog-who-still-will-not-come-in.md",
+      "words": 2005,
+      "sha256": "f0bd4a2f252823db897b9ebfb32aedfc6b309dd3a9c37160db18ba6c29094677",
+      "git_blob_sha1": "61a718170747faccbee2cfc627f4b6913eac90bb"
+    },
+    {
+      "chapter": 244,
+      "heading": "Chapter 244 — Beyond the First Anniversary",
+      "path": "chapters/en/244-beyond-the-first-anniversary.md",
+      "words": 1983,
+      "sha256": "5eb84c94f5a9570768849e1f3d67b4cb985702cbd6099be60e7a9c9439bc9f3e",
+      "git_blob_sha1": "9baabea3a754593acb1266959a5ef050c87c1b6c"
+    },
+    {
+      "chapter": 245,
+      "heading": "Chapter 245 — Make One Decision First",
+      "path": "chapters/en/245-make-one-decision-first.md",
+      "words": 2087,
+      "sha256": "2127c67517ce0791a8db2bb567a55b1ab36ad49389deb33f458260813b6c895c",
+      "git_blob_sha1": "6d4c12aeac7a8f958170cb7c98ba7f23d5eeac33"
     }
   ]
 }

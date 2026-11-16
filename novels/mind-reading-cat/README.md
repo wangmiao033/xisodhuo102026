@@ -176,3 +176,7 @@ Chapters 216–225 were published Main/Public/Now and individually verified by c
 ## Reviewed writing batch — 2026-11-15
 
 Ten complete English manuscripts, Chapters 226–235, passed independent full-text review and corrections. Each contains 1,805–1,877 body words; exact final hashes and counts are in manifest.json and reviews/2026-11-15-independent.json. Complete reviewed manuscripts now reach 235. Current verified public progress remains 225 (today's quota 10/10); reviewed complete unpublished inventory is 226–235, ten chapters, one day at ten per day. Chapters 236–250 remain planning, not stock. No extra public release was performed after the daily quota was filled. See progress/2026-11-15.md.
+
+## Reviewed writing batch — 2026-11-16
+
+Ten complete English manuscripts, Chapters 236–245, passed independent full-text review and corrections (1,929–2,087 body words each). The active completed manuscript range is 001–245. Chapters 246–250 remain planning, not completed stock; 250 is the final chapter. See `progress/2026-11-16-writing.md`, `reviews/2026-11-16-independent.md`, and its JSON companion for exact chapter details. This writing record does not claim any public release.
