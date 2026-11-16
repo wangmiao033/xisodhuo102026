@@ -1,18 +1,18 @@
 {
   "chapter": 142,
   "title": "那个字是我写的",
-  "hanzi": 3682,
+  "hanzi": 3686,
   "date_beijing": "2026-11-16",
   "source_base": "f67b6ab5ab0752455efad0f2f7cf059ed98438d2",
   "files": {
     "chapters/cn/142-na-ge-zi-shi-wo-xie-de.md": {
-      "sha256": "89eafbe82b9c97b2397f0adce0d3b72f9ba1566ea5cd87fd1c24e401bf1e3e09"
+      "sha256": "be6e94b4f080644ef423e8f50c0bc8f7c5a8eb3e571be5f5e567083cc773f4df"
     },
     "publication/publish-text/ch142.txt": {
-      "sha256": "5df52c99e23c74803c9da365e18a72fdb54c894d4cfb458ce3705f6dc6f915f8"
+      "sha256": "30f85ec9faa1ec76454b771a9c9eb61653387145a9c68d087aa3c1d4dabdff47"
     },
     "reviews/2026-11-16-ch142.md": {
-      "sha256": "2c25ff657e8a248227fd21e44abb315965e0e95f0d53d78e34a872100151cd11"
+      "sha256": "383d59a262a5464f8b69458150d9b81509c2d49677d196d166138ea4fdd23a27"
     }
   },
   "independent_review": "PASS",
