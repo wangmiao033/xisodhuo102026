@@ -1,0 +1,20 @@
+{
+  "chapter": 143,
+  "title": "收回去的细丝",
+  "hanzi": 3708,
+  "date_beijing": "2026-11-16",
+  "source_base": "f67b6ab5ab0752455efad0f2f7cf059ed98438d2",
+  "files": {
+    "chapters/cn/143-shou-hui-qu-de-xi-si.md": {
+      "sha256": "b39db5de4d9c63dfa62f6a1c2ac3b70e44272d42ff1c4cefca64106169bcb493"
+    },
+    "publication/publish-text/ch143.txt": {
+      "sha256": "df79cbbedc8c3053df9c141e296056ed1cb2dab1ef62aeeb6ac7527c9103e74a"
+    },
+    "reviews/2026-11-16-ch143.md": {
+      "sha256": "8efc45efab29e5cbe60d8f0a50e165d069b62b7e1431e375e531d8c2abc8d6db"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
