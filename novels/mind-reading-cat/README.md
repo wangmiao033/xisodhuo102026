@@ -180,3 +180,11 @@ Ten complete English manuscripts, Chapters 226–235, passed independent full-te
 ## Reviewed writing batch — 2026-11-16
 
 Ten complete English manuscripts, Chapters 236–245, passed independent full-text review and corrections (1,929–2,087 body words each). The active completed manuscript range is 001–245. Chapters 246–250 remain planning, not completed stock; 250 is the final chapter. See `progress/2026-11-16-writing.md`, `reviews/2026-11-16-independent.md`, and its JSON companion for exact chapter details. This writing record does not claim any public release.
+
+## Verified public releases — 2026-11-17
+
+Public Chapters 236–245 were released Main/Public/Now between Beijing 08:33:03 and 08:39:15. Complete reader pages matched the fixed reviewed text (Markdown emphasis rendered as italics); the management list confirmed titles, sequence, actual release times and Public status. The daily quota is 10/10 and the Public range is 001–245. See publication/2026-11-17.json.
+
+## Reviewed writing batch — 2026-11-17
+
+Complete English Chapters 246–250 finished the approved manuscript and passed independent full-text review. All 250 manuscripts are complete; no Chapter 251. Chapters 246–250 are the remaining five complete reviewed chapters awaiting a later allowed release window. Public progress is separate and remains 001–245. See progress/2026-11-17-writing.md and the dated review and manifest for exact chapter hashes.

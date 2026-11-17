@@ -1,0 +1,139 @@
+{
+  "beijing_date": "2026-11-17",
+  "novel_id": 6408,
+  "source_commit": "312d36708e1c07cd4ef7cbfc1370ba53a2551e25",
+  "preflight": {
+    "all_entries_checked": 235,
+    "public": 235,
+    "drafts": 0,
+    "scheduled": 0,
+    "today_public": 0
+  },
+  "new_public_count": 10,
+  "daily_limit": 10,
+  "remaining_quota": 0,
+  "public_through": 245,
+  "chapters": [
+    {
+      "number": 236,
+      "title": "A Day Without Her",
+      "reader_url": "https://global.novelpia.com/viewer/863038",
+      "release_utc": "2026-11-17T00:33:03Z",
+      "release_beijing": "2026-11-17T08:33:03+08:00",
+      "source_path": "chapters/en/236-a-day-without-her.md",
+      "sha256": "231d74e592514c584a40d544417dc221831fae57d1fc12a3340aceb9234301d9",
+      "paragraphs": 67,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 237,
+      "title": "Sophie's New Business Card",
+      "reader_url": "https://global.novelpia.com/viewer/863039",
+      "release_utc": "2026-11-17T00:35:21Z",
+      "release_beijing": "2026-11-17T08:35:21+08:00",
+      "source_path": "chapters/en/237-sophies-new-business-card.md",
+      "sha256": "f9ca0eda6dd1d3c58dd5ef8cf30bf66aaadccf5e135b1e54c1a1d47c48564be1",
+      "paragraphs": 84,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 238,
+      "title": "The New Doctor at the Clinic Door",
+      "reader_url": "https://global.novelpia.com/viewer/863040",
+      "release_utc": "2026-11-17T00:35:50Z",
+      "release_beijing": "2026-11-17T08:35:50+08:00",
+      "source_path": "chapters/en/238-the-new-doctor-at-the-clinic-door.md",
+      "sha256": "4689de162cec058cd0c101abe820643f4f01ca3ec44a63bc5c3b3e7d92b49022",
+      "paragraphs": 79,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 239,
+      "title": "Vows They Have Not Rehearsed Perfectly",
+      "reader_url": "https://global.novelpia.com/viewer/863041",
+      "release_utc": "2026-11-17T00:36:12Z",
+      "release_beijing": "2026-11-17T08:36:12+08:00",
+      "source_path": "chapters/en/239-vows-they-have-not-rehearsed-perfectly.md",
+      "sha256": "1af36a39e67950a45b4a8aee0f6bb19c1bf8f286fdb2b2e6787fd6577e1ea1fc",
+      "paragraphs": 85,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 240,
+      "title": "The Cat Did Not Bring the Rings",
+      "reader_url": "https://global.novelpia.com/viewer/863042",
+      "release_utc": "2026-11-17T00:36:42Z",
+      "release_beijing": "2026-11-17T08:36:42+08:00",
+      "source_path": "chapters/en/240-the-cat-did-not-bring-the-rings.md",
+      "sha256": "aa6543a32cbdc076209be44ca20462af3bfa5fc3bc23345b7081a526f4cf417d",
+      "paragraphs": 49,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 241,
+      "title": "The Title Changed, Not the Alarm",
+      "reader_url": "https://global.novelpia.com/viewer/863043",
+      "release_utc": "2026-11-17T00:37:03Z",
+      "release_beijing": "2026-11-17T08:37:03+08:00",
+      "source_path": "chapters/en/241-the-title-changed-not-the-alarm.md",
+      "sha256": "811f19076257347d15598b5fbfb9f9697e8ff83ad7bf700d6b7eb84f3a2a50f0",
+      "paragraphs": 82,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 242,
+      "title": "No Need for a Second Branch",
+      "reader_url": "https://global.novelpia.com/viewer/863044",
+      "release_utc": "2026-11-17T00:37:41Z",
+      "release_beijing": "2026-11-17T08:37:41+08:00",
+      "source_path": "chapters/en/242-no-need-for-a-second-branch.md",
+      "sha256": "a70a773e0ef0b21107d0b8cafe02d3dc482ca15c42f9bb889d0deec330925284",
+      "paragraphs": 65,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 243,
+      "title": "The Dog Who Still Will Not Come In",
+      "reader_url": "https://global.novelpia.com/viewer/863045",
+      "release_utc": "2026-11-17T00:38:02Z",
+      "release_beijing": "2026-11-17T08:38:02+08:00",
+      "source_path": "chapters/en/243-the-dog-who-still-will-not-come-in.md",
+      "sha256": "f0bd4a2f252823db897b9ebfb32aedfc6b309dd3a9c37160db18ba6c29094677",
+      "paragraphs": 73,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 244,
+      "title": "Beyond the First Anniversary",
+      "reader_url": "https://global.novelpia.com/viewer/863046",
+      "release_utc": "2026-11-17T00:38:54Z",
+      "release_beijing": "2026-11-17T08:38:54+08:00",
+      "source_path": "chapters/en/244-beyond-the-first-anniversary.md",
+      "sha256": "5eb84c94f5a9570768849e1f3d67b4cb985702cbd6099be60e7a9c9439bc9f3e",
+      "paragraphs": 91,
+      "full_reader_body_match": true,
+      "public_verified": true
+    },
+    {
+      "number": 245,
+      "title": "Make One Decision First",
+      "reader_url": "https://global.novelpia.com/viewer/863047",
+      "release_utc": "2026-11-17T00:39:15Z",
+      "release_beijing": "2026-11-17T08:39:15+08:00",
+      "source_path": "chapters/en/245-make-one-decision-first.md",
+      "sha256": "2127c67517ce0791a8db2bb567a55b1ab36ad49389deb33f458260813b6c895c",
+      "paragraphs": 81,
+      "full_reader_body_match": true,
+      "public_verified": true
+    }
+  ],
+  "verification": "Twelve management pages checked before first publication. Each new chapter released Main/Public/Now. Every nonempty reader paragraph and italic span matched the fixed source text (source Markdown italics rendered as italics). Final management page matches all ten actual November 17 release times, titles, sequence and Public statuses. No old chapters, notes or metadata edited."
+}

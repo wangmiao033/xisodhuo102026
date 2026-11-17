@@ -1,0 +1,47 @@
+{
+  "date_beijing": "2026-11-17",
+  "scope": "final original English manuscripts, independently read and corrected against approved canon",
+  "conclusion": "PASS",
+  "chapters": [
+    {
+      "chapter": 246,
+      "heading": "Chapter 246 — A Room for the Future",
+      "path": "chapters/en/246-a-room-for-the-future.md",
+      "words": 1986,
+      "sha256": "76787ea634511177e8f8e22b3bb9832cd655cb1ca06ee16adb49599142250da4",
+      "git_blob_sha1": "d9688bc22b982fa27a4658b85558e48928fc099b"
+    },
+    {
+      "chapter": 247,
+      "heading": "Chapter 247 — Two Different Cries, the Same Chaos",
+      "path": "chapters/en/247-two-different-cries-the-same-chaos.md",
+      "words": 1963,
+      "sha256": "15e0232c8f4c79ebee28c1349cef2b0780c3558a3e42e86cad0d4d0fa18ca1cf",
+      "git_blob_sha1": "90d499b1ea8e3f3f601aea85790d4a7f5582eab1"
+    },
+    {
+      "chapter": 248,
+      "heading": "Chapter 248 — She Still Has Her Own Name",
+      "path": "chapters/en/248-she-still-has-her-own-name.md",
+      "words": 2055,
+      "sha256": "918b0faba9c80eaf9409a86de58049809435865cd2ad0384669003ff3518a204",
+      "git_blob_sha1": "afbad53c360e639943225b8b770ea13b63459917"
+    },
+    {
+      "chapter": 249,
+      "heading": "Chapter 249 — The First Bowl Is Still Here",
+      "path": "chapters/en/249-the-first-bowl-is-still-here.md",
+      "words": 2005,
+      "sha256": "2ad186136bc53100760257bb8911dfc48cf4799a664b0d64b4ca26cfc839a7c6",
+      "git_blob_sha1": "62d03a305105f7595439046d2d163ec140147daf"
+    },
+    {
+      "chapter": 250,
+      "heading": "Chapter 250 — Someone Else in the House Can Hear",
+      "path": "chapters/en/250-someone-else-in-the-house-can-hear.md",
+      "words": 2029,
+      "sha256": "3e6b5ddfc64c5ead60f0a610ec2d3dffca0349ccdcf6c66ea2d47791b6fd360c",
+      "git_blob_sha1": "dc33e0f2afd67edf83845d8c4e24ade9034c0c30"
+    }
+  ]
+}
