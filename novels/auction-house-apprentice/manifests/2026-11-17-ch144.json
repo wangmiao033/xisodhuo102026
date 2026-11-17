@@ -1,0 +1,23 @@
+{
+  "chapter": 144,
+  "title": "两下响",
+  "hanzi": 3670,
+  "date_beijing": "2026-11-17",
+  "source_base": "2295f30200a41771fcf0ca25468293b2d23ac79d",
+  "files": {
+    "chapters/cn/144-liang-xia-xiang.md": {
+      "sha256": "6bdba31c1d23b1a59640848d85dce388ec1de30e826ceb998bd22b6128bdfcdf"
+    },
+    "publication/publish-text/ch144.txt": {
+      "sha256": "f351f31bae2a62f8a328e1a02a9c9127a45ab429e3a4aa41b00319032b92078d"
+    },
+    "reviews/2026-11-17-ch144.md": {
+      "sha256": "163debb202404105b493171f401750d29c4f6e75b5da13d58b229cecd8d59fe8"
+    },
+    "progress/2026-11-17-ch144.md": {
+      "sha256": "2add0fd5e6a25cd44debe4548e888a40d8b0c46e63bd8b9bafffe9e7458d2ca4"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}

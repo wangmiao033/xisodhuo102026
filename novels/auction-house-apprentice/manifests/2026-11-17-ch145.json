@@ -1,0 +1,23 @@
+{
+  "chapter": 145,
+  "title": "在落印以前",
+  "hanzi": 3678,
+  "date_beijing": "2026-11-17",
+  "source_base": "2295f30200a41771fcf0ca25468293b2d23ac79d",
+  "files": {
+    "chapters/cn/145-zai-luo-yin-yi-qian.md": {
+      "sha256": "40f7565328c7488ec599fb3e7251ba31f11538cc80d2e390112d168b73488eac"
+    },
+    "publication/publish-text/ch145.txt": {
+      "sha256": "56ce8cf8a22cf646dd6d487c706b5ca4e35d268d2cd40441293b977266250fa5"
+    },
+    "reviews/2026-11-17-ch145.md": {
+      "sha256": "b6b82c9b52f71847804ff3a475cd8a363b89d9b877e81c5ec2a653643d79960d"
+    },
+    "progress/2026-11-17-ch145.md": {
+      "sha256": "1cfd09fec908d423b0fbe506b424e51de741852655c130e4359d98d3a2111798"
+    }
+  },
+  "independent_review": "PASS",
+  "publication": "not submitted"
+}
