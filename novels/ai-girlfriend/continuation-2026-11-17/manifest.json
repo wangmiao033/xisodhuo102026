@@ -1,0 +1,182 @@
+{
+  "novel": "My AI Girlfriend Is Too Obsessive",
+  "beijing_date": "2026-11-17",
+  "scope": "new complete bilingual writing only; no platform publication authorization change",
+  "range": [
+    427,
+    436
+  ],
+  "new_chapters": 10,
+  "chapters": [
+    {
+      "chapter": 427,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/427_Not_For_Sitting.md",
+        "heading": "# 第427章 暂不宜坐",
+        "body_count": 2591,
+        "sha256": "bbc062e19cb311261222208256c7402a649f1512762f1458b54963840afc6af9",
+        "git_blob_sha": "e5ced4c82e860d23afdad4369632a6bf85578d8a"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/427_Not_For_Sitting.md",
+        "heading": "# Chapter 427: Not for Sitting",
+        "body_count": 2160,
+        "sha256": "63db7610f60f9717e0d27d354d8aed4714303cd1b092595a3141a4dbf8cc9518",
+        "git_blob_sha": "81a391ba381c382071380b2531667c176abff8ff"
+      }
+    },
+    {
+      "chapter": 428,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/428_Where_To_Breathe.md",
+        "heading": "# 第428章 该在哪里换气",
+        "body_count": 2574,
+        "sha256": "29e5047fe7946027564cb8c82fc4ef09f946dd75dce8d1b3b7451f9b42703a9b",
+        "git_blob_sha": "0ba8e0ad85411985453e76c491b56dc6af78080d"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/428_Where_To_Breathe.md",
+        "heading": "# Chapter 428: Where to Breathe",
+        "body_count": 2025,
+        "sha256": "4392e5a58d4ecff66779735e42059e64502cae38761ee6982b77e3ec3fba04a1",
+        "git_blob_sha": "b1ff97c1ce71d16ea5053d53eda0e90b6732afc5"
+      }
+    },
+    {
+      "chapter": 429,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/429_The_Door_By_The_Back_Row.md",
+        "heading": "# 第429章 后排那扇门",
+        "body_count": 2421,
+        "sha256": "cb137634f0dc3b3db74edcf6f302bb374c1380844f9f24385e4663d857b6f0ae",
+        "git_blob_sha": "eebd84f30ba228c39f3b2b01478ff00ea6a1f789"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/429_The_Door_By_The_Back_Row.md",
+        "heading": "# Chapter 429: The Door by the Back Row",
+        "body_count": 1980,
+        "sha256": "e9b765cd513b4312d8f7ec92db5648ed2b253fc24033cb81a3920180af7701ea",
+        "git_blob_sha": "8e1441b438b25658fd0bf1ef37ddce08d17229b2"
+      }
+    },
+    {
+      "chapter": 430,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/430_The_Pocket_Stays_With_Me.md",
+        "heading": "# 第430章 口袋跟我走",
+        "body_count": 2508,
+        "sha256": "fd89c843744d8c7ff4e7947c95ca3f303dc9ad5550b9f9bbe7d63a57a4c6aabd",
+        "git_blob_sha": "7cc04989e2e1b899069811095b6c5db319676031"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/430_The_Pocket_Stays_With_Me.md",
+        "heading": "# Chapter 430: The Pocket Stays With Me",
+        "body_count": 2173,
+        "sha256": "7f5b037ac9452af106c891e558bfccade0b4401d36006de17c61a745e052f749",
+        "git_blob_sha": "09a166ec5be4696b4520eeb1d25ce2581eef0a95"
+      }
+    },
+    {
+      "chapter": 431,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/431_The_Second_Entrance.md",
+        "heading": "# 第431章 第二次进拍",
+        "body_count": 2531,
+        "sha256": "1e2c40bc22dc26f53bb3b2468b3f4add37f9c03cb917efdf4b08868d3bb797c2",
+        "git_blob_sha": "f5a8048e26e7c38309500805048821acacc33460"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/431_The_Second_Entrance.md",
+        "heading": "# Chapter 431: The Second Entrance",
+        "body_count": 2094,
+        "sha256": "9f470c23fab79603816ed84192fe96f631fb84e710061cf8eea673108d0aba43",
+        "git_blob_sha": "19c32b0ecd44035b4d6eff0779bf20ede235574f"
+      }
+    },
+    {
+      "chapter": 432,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/432_The_Unfinished_Line.md",
+        "heading": "# 第432章 没走完的线",
+        "body_count": 2420,
+        "sha256": "bbe344f58a75dca936d82f67a157146dea4318d5751dfa7957154c810d9de81d",
+        "git_blob_sha": "7b79c732a1f44e8943c96d36f5e550ce18d072a0"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/432_The_Unfinished_Line.md",
+        "heading": "# Chapter 432: The Unfinished Line",
+        "body_count": 2056,
+        "sha256": "501d605163ba208269a1354292722746a12ec04441b2ddc540a9c35257fadadc",
+        "git_blob_sha": "ca36e74c90d80cfa666e32ff6bf0f2efb5c6523f"
+      }
+    },
+    {
+      "chapter": 433,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/433_The_Sound_on_the_Landing.md",
+        "heading": "# 第433章 楼梯平台上的声音",
+        "body_count": 2430,
+        "sha256": "62953ed096accd12869041da857f6503d24c8f58029b01c15589569ee64b9064",
+        "git_blob_sha": "85aaf7ccdb35a96bec2e8f739ef348e59c8fb706"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/433_The_Sound_on_the_Landing.md",
+        "heading": "# Chapter 433: The Sound on the Landing",
+        "body_count": 2119,
+        "sha256": "d6796de290df435fc363ae62f6f40389e7f0228519c770955be2ab338e045ecd",
+        "git_blob_sha": "c38abc135d1904e09b81457b0eeea41b4ee25816"
+      }
+    },
+    {
+      "chapter": 434,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/434_A_Chair_Facing_the_Door.md",
+        "heading": "# 第434章 朝着门的椅子",
+        "body_count": 2417,
+        "sha256": "ac0dc1efdbde57ec268f0afac626390abe2ec938b7e2f78c08e373b02facd94d",
+        "git_blob_sha": "8f32044570c5782fdfa6bc139669449e7825d700"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/434_A_Chair_Facing_the_Door.md",
+        "heading": "# Chapter 434: A Chair Facing the Door",
+        "body_count": 2149,
+        "sha256": "be1d9a0555cc7325ca37ae4710c72e53e1721e3dff98c80cb9f867c41ce83d76",
+        "git_blob_sha": "5ba1efb24ddc13e0e63e6457fe11d9dd86447ef5"
+      }
+    },
+    {
+      "chapter": 435,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/435_The_Half_Turn.md",
+        "heading": "# 第435章 半圈",
+        "body_count": 2467,
+        "sha256": "aa1b2d6ca2c166bc81ead7c42c89253e245d23791dbbaab3d9bb0bf7f771ff7c",
+        "git_blob_sha": "c2432bd354c573140e101b757e7724f340942819"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/435_The_Half_Turn.md",
+        "heading": "# Chapter 435: The Half Turn",
+        "body_count": 2128,
+        "sha256": "95a167440ee8f53ac0d8ea4a096aea424227f0b21e1269d27bd2c23272e1929d",
+        "git_blob_sha": "e503841b78ca6523fc68034e966f4eb1026de08c"
+      }
+    },
+    {
+      "chapter": 436,
+      "cn": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/cn/436_A_Little_While.md",
+        "heading": "# 第436章 一小会儿",
+        "body_count": 2492,
+        "sha256": "fb7c9cb1bcff9f6e6138bb89e755b77299cdea40e4f325d89d50abba548f8f17",
+        "git_blob_sha": "86f01184739880fabb8498b1d0b51b47661710de"
+      },
+      "en": {
+        "path": "novels/ai-girlfriend/continuation-2026-11-17/en/436_A_Little_While.md",
+        "heading": "# Chapter 436: A Little While",
+        "body_count": 2152,
+        "sha256": "3b38ce66e98ceab032c3e73240ee19627093f1d985de36892ceff3fc88e641ec",
+        "git_blob_sha": "8536a5e103ffab162d88104373ec0daeecf66414"
+      }
+    }
+  ]
+}
