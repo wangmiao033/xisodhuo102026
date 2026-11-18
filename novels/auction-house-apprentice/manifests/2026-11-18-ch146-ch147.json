@@ -1,0 +1,51 @@
+{
+  "date_beijing": "2026-11-18",
+  "timezone": "Asia/Shanghai",
+  "source_base": "ee6521f173c5842e6e02a072822c01d146ddf4ec",
+  "scope": "Two newly written chapters and necessary archival records; no older revisions or platform submissions.",
+  "new_chapters": 2,
+  "chapters": [
+    {
+      "chapter": 146,
+      "title": "桌脚那一侧",
+      "hanzi": 3689,
+      "markdown": {
+        "path": "chapters/cn/146-zhuo-jiao-na-yi-ce.md",
+        "sha256": "6bccd7149e70c7a77f593542a4be19ce0548de58e46f36889a79ae9f127e47bc",
+        "bytes": 12537,
+        "git_blob_sha1": "4a2c1501f451a610d83b4ea45363d8f5d72f5747"
+      },
+      "publish_text": {
+        "path": "publication/publish-text/ch146.txt",
+        "sha256": "d60a8211bbf2c105e3b95df8982e409c3a98fdc324b2db39f5eeaf6bd73cebcf",
+        "bytes": 12507,
+        "git_blob_sha1": "ea45c25bdd5d730acd4c606567dcefc7133c2262"
+      }
+    },
+    {
+      "chapter": 147,
+      "title": "槽口朝哪边",
+      "hanzi": 3858,
+      "markdown": {
+        "path": "chapters/cn/147-cao-kou-chao-na-bian.md",
+        "sha256": "a33d9bc3a47b481571b99b1c26732d57624f947583e391fc8177e2b38084dfb7",
+        "bytes": 13158,
+        "git_blob_sha1": "f543e8f8ee685285d7e334a14d1c4b803df29d58"
+      },
+      "publish_text": {
+        "path": "publication/publish-text/ch147.txt",
+        "sha256": "f74810b2bcee0014031d4f0a948a5091501eb35de3ecb6621626409413aef54e",
+        "bytes": 13128,
+        "git_blob_sha1": "75fc05ab303c94f405a7f6ad035ffc8a09bed7d9"
+      }
+    }
+  ],
+  "independent_review": {
+    "result": "PASS",
+    "path": "reviews/2026-11-18-ch146-ch147-independent.md",
+    "sha256": "2d50e95f9138cec9750a38e3c95b0d0f5d2d6c334a42d5a93a74431d4f339163",
+    "bytes": 3540,
+    "git_blob_sha1": "e93778888355d4320e488301e09da23d29f069fa"
+  },
+  "publication": "not submitted"
+}
