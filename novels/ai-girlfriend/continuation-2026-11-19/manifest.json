@@ -1,0 +1,154 @@
+{
+  "date_beijing": "2026-11-19",
+  "chapters": [
+    447,
+    456
+  ],
+  "previous_completed": 446,
+  "next": 457,
+  "files": [
+    {
+      "n": 447,
+      "kind": "cn",
+      "title": "盘子归位",
+      "body_count": 2409,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/447_Back_in_Its_Place.md"
+    },
+    {
+      "n": 447,
+      "kind": "en",
+      "title": "Back in Its Place",
+      "body_count": 2126,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/447_Back_in_Its_Place.md"
+    },
+    {
+      "n": 448,
+      "kind": "cn",
+      "title": "不代签",
+      "body_count": 2505,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/448_My_Own_Signature.md"
+    },
+    {
+      "n": 448,
+      "kind": "en",
+      "title": "My Own Signature",
+      "body_count": 2125,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/448_My_Own_Signature.md"
+    },
+    {
+      "n": 449,
+      "kind": "cn",
+      "title": "说多少算多少",
+      "body_count": 2495,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/449_As_Much_as_I_Wanted_to_Say.md"
+    },
+    {
+      "n": 449,
+      "kind": "en",
+      "title": "As Much as I Wanted to Say",
+      "body_count": 2150,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/449_As_Much_as_I_Wanted_to_Say.md"
+    },
+    {
+      "n": 450,
+      "kind": "cn",
+      "title": "按住这一角",
+      "body_count": 2444,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/450_Hold_This_Corner.md"
+    },
+    {
+      "n": 450,
+      "kind": "en",
+      "title": "Hold This Corner",
+      "body_count": 2131,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/450_Hold_This_Corner.md"
+    },
+    {
+      "n": 451,
+      "kind": "cn",
+      "title": "两个朝向",
+      "body_count": 2442,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/451_Two_Ways_to_Face.md"
+    },
+    {
+      "n": 451,
+      "kind": "en",
+      "title": "Two Ways to Face",
+      "body_count": 2108,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/451_Two_Ways_to_Face.md"
+    },
+    {
+      "n": 452,
+      "kind": "cn",
+      "title": "没有画出来的路",
+      "body_count": 2423,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/452_The_Road_That_Wasnt_Drawn.md"
+    },
+    {
+      "n": 452,
+      "kind": "en",
+      "title": "The Road That Wasn't Drawn",
+      "body_count": 2005,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/452_The_Road_That_Wasnt_Drawn.md"
+    },
+    {
+      "n": 453,
+      "kind": "cn",
+      "title": "袋底",
+      "body_count": 2569,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/453_The_Bottom_of_the_Bag.md"
+    },
+    {
+      "n": 453,
+      "kind": "en",
+      "title": "The Bottom of the Bag",
+      "body_count": 2113,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/453_The_Bottom_of_the_Bag.md"
+    },
+    {
+      "n": 454,
+      "kind": "cn",
+      "title": "围巾的另一头",
+      "body_count": 2615,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/454_The_Other_End_of_the_Scarf.md"
+    },
+    {
+      "n": 454,
+      "kind": "en",
+      "title": "The Other End of the Scarf",
+      "body_count": 2094,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/454_The_Other_End_of_the_Scarf.md"
+    },
+    {
+      "n": 455,
+      "kind": "cn",
+      "title": "板子够长",
+      "body_count": 2556,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/455_The_Board_Is_Long_Enough.md"
+    },
+    {
+      "n": 455,
+      "kind": "en",
+      "title": "The Board Is Long Enough",
+      "body_count": 2179,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/455_The_Board_Is_Long_Enough.md"
+    },
+    {
+      "n": 456,
+      "kind": "cn",
+      "title": "门没有问",
+      "body_count": 2418,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/cn/456_The_Door_Didnt_Ask.md"
+    },
+    {
+      "n": 456,
+      "kind": "en",
+      "title": "The Door Didn't Ask",
+      "body_count": 2140,
+      "path": "novels/ai-girlfriend/continuation-2026-11-19/en/456_The_Door_Didnt_Ask.md"
+    }
+  ],
+  "release_scope_changed": false,
+  "platform_actions": false,
+  "preflight_parent": "42d07a841f33c23114108314c6ced8ae27d03a40"
+}
