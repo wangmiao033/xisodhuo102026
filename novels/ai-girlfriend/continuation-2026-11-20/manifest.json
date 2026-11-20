@@ -1,0 +1,151 @@
+{
+  "date_beijing": "2026-11-20",
+  "chapters": [
+    457,
+    466
+  ],
+  "previous_completed": 456,
+  "next": 467,
+  "files": [
+    {
+      "n": 457,
+      "kind": "cn",
+      "title": "关门前的那一本",
+      "body_count": 2411,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/457_The_Book_Before_Closing.md"
+    },
+    {
+      "n": 457,
+      "kind": "en",
+      "title": "The Book Before Closing",
+      "body_count": 2188,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/457_The_Book_Before_Closing.md"
+    },
+    {
+      "n": 458,
+      "kind": "cn",
+      "title": "推到墙边",
+      "body_count": 2396,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/458_Against_the_Wall.md"
+    },
+    {
+      "n": 458,
+      "kind": "en",
+      "title": "Against the Wall",
+      "body_count": 2118,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/458_Against_the_Wall.md"
+    },
+    {
+      "n": 459,
+      "kind": "cn",
+      "title": "整箱两个字",
+      "body_count": 2424,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/459_The_Words_AS_A_LOT.md"
+    },
+    {
+      "n": 459,
+      "kind": "en",
+      "title": "The Words AS A LOT",
+      "body_count": 2084,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/459_The_Words_AS_A_LOT.md"
+    },
+    {
+      "n": 460,
+      "kind": "cn",
+      "title": "箱子不卖",
+      "body_count": 2418,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/460_The_Box_Isnt_for_Sale.md"
+    },
+    {
+      "n": 460,
+      "kind": "en",
+      "title": "The Box Isn't for Sale",
+      "body_count": 2119,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/460_The_Box_Isnt_for_Sale.md"
+    },
+    {
+      "n": 461,
+      "kind": "cn",
+      "title": "烘干机上的九分钟",
+      "body_count": 2448,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/461_Nine_Minutes_on_the_Dryer.md"
+    },
+    {
+      "n": 461,
+      "kind": "en",
+      "title": "Nine Minutes on the Dryer",
+      "body_count": 2092,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/461_Nine_Minutes_on_the_Dryer.md"
+    },
+    {
+      "n": 462,
+      "kind": "cn",
+      "title": "脚朝大门",
+      "body_count": 2487,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/462_Feet_Towards_the_Front_Door.md"
+    },
+    {
+      "n": 462,
+      "kind": "en",
+      "title": "Feet Towards the Front Door",
+      "body_count": 2110,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/462_Feet_Towards_the_Front_Door.md"
+    },
+    {
+      "n": 463,
+      "kind": "cn",
+      "title": "纸盒朝下的时候",
+      "body_count": 2447,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/463_With_the_Box_Turned_Over.md"
+    },
+    {
+      "n": 463,
+      "kind": "en",
+      "title": "With the Box Turned Over",
+      "body_count": 1957,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/463_With_the_Box_Turned_Over.md"
+    },
+    {
+      "n": 464,
+      "kind": "cn",
+      "title": "袖口的一点黄",
+      "body_count": 2537,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/464_A_Dot_of_Yellow_at_the_Cuff.md"
+    },
+    {
+      "n": 464,
+      "kind": "en",
+      "title": "A Dot of Yellow at the Cuff",
+      "body_count": 2186,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/464_A_Dot_of_Yellow_at_the_Cuff.md"
+    },
+    {
+      "n": 465,
+      "kind": "cn",
+      "title": "价签还干着",
+      "body_count": 2421,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/465_The_Price_Tag_Was_Dry.md"
+    },
+    {
+      "n": 465,
+      "kind": "en",
+      "title": "The Price Tag Was Dry",
+      "body_count": 2201,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/465_The_Price_Tag_Was_Dry.md"
+    },
+    {
+      "n": 466,
+      "kind": "cn",
+      "title": "画里没有人",
+      "body_count": 2399,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/cn/466_Nobody_in_the_Picture.md"
+    },
+    {
+      "n": 466,
+      "kind": "en",
+      "title": "Nobody in the Picture",
+      "body_count": 2131,
+      "path": "novels/ai-girlfriend/continuation-2026-11-20/en/466_Nobody_in_the_Picture.md"
+    }
+  ]
+}
