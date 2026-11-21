@@ -1,0 +1,197 @@
+{
+  "day_beijing": "2026-11-21",
+  "novel": "My AI Girlfriend Is Too Obsessive",
+  "chapters": [
+    {
+      "chapter": 467,
+      "cn": {
+        "path": "cn/467_The_Extra_Corner.md",
+        "title": "多出来的一只角",
+        "body_count": 1803,
+        "bytes": 6163,
+        "sha256": "8bb6b17dc535f6ce70f915ce77b98a92c4d9a8500a92f01b7fa1e8092b4ef84a",
+        "git_blob": "3a080e3c08f7e9be3c2ee929fa372bfcb055b8ca"
+      },
+      "en": {
+        "path": "en/467_The_Extra_Corner.md",
+        "title": "The Extra Corner",
+        "body_count": 1603,
+        "bytes": 8022,
+        "sha256": "3d5a4641f35419277b745c927cf2062cf76187c95ad9018e9e25e18a2791b06c",
+        "git_blob": "52700c38e58fe2c555b9cad6882b6a1cdb74a1a5"
+      }
+    },
+    {
+      "chapter": 468,
+      "cn": {
+        "path": "cn/468_The_Lid_That_Sang.md",
+        "title": "会唱的锅盖",
+        "body_count": 1711,
+        "bytes": 5805,
+        "sha256": "637eeb5cabb3b6ffc4a1e7b6ed55e4f5fbbe30ec772b48b44a5d4cc379e4ea51",
+        "git_blob": "c13a41488428ef73c5ac800a618110fcaa97adb9"
+      },
+      "en": {
+        "path": "en/468_The_Lid_That_Sang.md",
+        "title": "The Lid That Sang",
+        "body_count": 1584,
+        "bytes": 7677,
+        "sha256": "154df7e1327643c2acfef54d468fb52895b78387d8c4924db21502e278ca1d11",
+        "git_blob": "540cb780665fb4bd0b30b237a36b6e1bbd0df57c"
+      }
+    },
+    {
+      "chapter": 469,
+      "cn": {
+        "path": "cn/469_I_Had_a_Spoon.md",
+        "title": "我带了勺子",
+        "body_count": 1667,
+        "bytes": 5637,
+        "sha256": "27d4a8a22c4f8d423ca585ec317b623a4181ba4ea93c213fb9f351e368cbfe28",
+        "git_blob": "98b9a77c7ad537b895f5de4ef8ff7a88c6923224"
+      },
+      "en": {
+        "path": "en/469_I_Had_a_Spoon.md",
+        "title": "I Had a Spoon",
+        "body_count": 1462,
+        "bytes": 7143,
+        "sha256": "1a91c069ec219791a5b26ec197c7b7023f3a78d729d64ff57571813d8626c0c9",
+        "git_blob": "3dff1f6d5e17e573372b026c5ce296c7c70a16c0"
+      }
+    },
+    {
+      "chapter": 470,
+      "cn": {
+        "path": "cn/470_The_Lid_Outside.md",
+        "title": "盖子在外面",
+        "body_count": 1939,
+        "bytes": 6591,
+        "sha256": "aeff1b2231682496a41ba073d4bb6d98425024f1ea0e5f1e6e389cc4d70ecc1a",
+        "git_blob": "2c66a43825005b6ccd3ee68d626395923f44ea10"
+      },
+      "en": {
+        "path": "en/470_The_Lid_Outside.md",
+        "title": "The Lid Outside",
+        "body_count": 1845,
+        "bytes": 9006,
+        "sha256": "adc6b4cd1af5f6e09c96d57c30dd8ab3651e93514edf2d821a032282b1faa8b4",
+        "git_blob": "122b42e4416f147568bc9c56f0c342b95a384127"
+      }
+    },
+    {
+      "chapter": 471,
+      "cn": {
+        "path": "cn/471_Only_the_Lid.md",
+        "title": "风只拿走了盖子",
+        "body_count": 2042,
+        "bytes": 6928,
+        "sha256": "a799932d5d7f6baee9747f9e7616b1149eab797237146f94626d2ed9b9bf8b96",
+        "git_blob": "79ad24f53601519874d9f81495a0a23c31a81c25"
+      },
+      "en": {
+        "path": "en/471_Only_the_Lid.md",
+        "title": "Only the Lid",
+        "body_count": 1800,
+        "bytes": 8857,
+        "sha256": "a0aafea6ed9ce5f2bc218ec37ca5964ab3f3e124307d242a0f26fd9c996f6386",
+        "git_blob": "f8bebe59983178d3e7ce0ae284db6737e4f8afae"
+      }
+    },
+    {
+      "chapter": 472,
+      "cn": {
+        "path": "cn/472_The_Empty_Column.md",
+        "title": "空一栏",
+        "body_count": 2170,
+        "bytes": 7283,
+        "sha256": "81c335f441daee9a3cce18bb46022e9790e95b3d53e8aba9dc4397085eb568bb",
+        "git_blob": "081b81971e9e103f6734ee5bed13a14829845377"
+      },
+      "en": {
+        "path": "en/472_The_Empty_Column.md",
+        "title": "The Empty Column",
+        "body_count": 1978,
+        "bytes": 9521,
+        "sha256": "372aa46e8dc91af887799c3917f9f68edfebb9e5732b50d602711e759a743cfc",
+        "git_blob": "ffb19d91526630e5697dab70a1aafb8965ff3fd9"
+      }
+    },
+    {
+      "chapter": 473,
+      "cn": {
+        "path": "cn/473_A_Chair_Out_of_Line.md",
+        "title": "不在一排的椅子",
+        "body_count": 1452,
+        "bytes": 4985,
+        "sha256": "617e4a3bc047faa529ab71836ca1a8c6bde3d4b011ff2ef6d2f3f2d44b3b4954",
+        "git_blob": "7a31b4a0bbf4113a0ec7a8d66e54897db9ac0ad5"
+      },
+      "en": {
+        "path": "en/473_A_Chair_Out_of_Line.md",
+        "title": "A Chair Out of Line",
+        "body_count": 1263,
+        "bytes": 6247,
+        "sha256": "1f3336a19a8b2c5846e5e8359a07532296b1849d432481a56bb61ba221cff596",
+        "git_blob": "da0c344c92f1405f3781eede63cce41348c8e960"
+      }
+    },
+    {
+      "chapter": 474,
+      "cn": {
+        "path": "cn/474_The_Other_Side_of_the_Board.md",
+        "title": "黑板的另一面",
+        "body_count": 1398,
+        "bytes": 4784,
+        "sha256": "499390f04040e4e1e805b6cd5d00620a8f57d3c312595390d15b291dca42f262",
+        "git_blob": "4c0fb1406d7b1fa381c72e009047a38829fb4e39"
+      },
+      "en": {
+        "path": "en/474_The_Other_Side_of_the_Board.md",
+        "title": "The Other Side of the Board",
+        "body_count": 1242,
+        "bytes": 6220,
+        "sha256": "c92c96382f8d782b5b04b375e9dd213cd51d53f93c34c83a1c32d654dcdfa022",
+        "git_blob": "d45b4889a1780c8797ff3ecab888e9dd1db40776"
+      }
+    },
+    {
+      "chapter": 475,
+      "cn": {
+        "path": "cn/475_The_Sound_of_a_Bowl.md",
+        "title": "碗放下去的声音",
+        "body_count": 1814,
+        "bytes": 6161,
+        "sha256": "b79dd8cccff685904e5e4ed62ddad1edf86361ec06496e27205be0202c831cbd",
+        "git_blob": "7cabeb81f1e7f3c3ddb01c3df65589f823db5f1c"
+      },
+      "en": {
+        "path": "en/475_The_Sound_of_a_Bowl.md",
+        "title": "The Sound of a Bowl",
+        "body_count": 1648,
+        "bytes": 7808,
+        "sha256": "d6df9d36f89ed06920f2774c2bdd736cbaf93a743eefc8c4760678d1cc4fadc2",
+        "git_blob": "426d0c1dbffef991671b3816129a1b44a6da45b7"
+      }
+    },
+    {
+      "chapter": 476,
+      "cn": {
+        "path": "cn/476_The_Door_That_Stayed_Still.md",
+        "title": "不动的那扇门",
+        "body_count": 2220,
+        "bytes": 7620,
+        "sha256": "06278115f788790990fe59b10ee4d66121a8a996689b4e4d66d6626a21949cd0",
+        "git_blob": "e2877370cb0ed9c1566718de0730871ef88a241e"
+      },
+      "en": {
+        "path": "en/476_The_Door_That_Stayed_Still.md",
+        "title": "The Door That Stayed Still",
+        "body_count": 2038,
+        "bytes": 10001,
+        "sha256": "44ceee6aeddea1469c9f57faa0316f1fc869be5782a04a9c6bfc8ba3e7d996f5",
+        "git_blob": "d33583d560052ca62515c581a4e758caebb4ff10"
+      }
+    }
+  ],
+  "publishing_scope": "repository manuscripts only"
+}
