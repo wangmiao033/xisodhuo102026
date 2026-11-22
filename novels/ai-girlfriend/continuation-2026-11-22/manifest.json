@@ -1,0 +1,199 @@
+{
+  "novel_id": 6505,
+  "date": "2026-11-22",
+  "chapters": [
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486
+  ],
+  "novelpia_published": false,
+  "files": [
+    {
+      "path": "cn/477_The_Ticket_in_the_Hem.md",
+      "chapter": 477,
+      "language": "cn",
+      "title": "掉进下摆的号票",
+      "bytes": 5787,
+      "sha256": "f460ae91436f23c3160d4b92d4f6bf752544bd63aac7b5fddc715d76551b14ba",
+      "git_blob": "2e116ec209f87ac860cdf5dbef42ef8872ae2484"
+    },
+    {
+      "path": "cn/478_A_Little_More_Room.md",
+      "chapter": 478,
+      "language": "cn",
+      "title": "多一点地方",
+      "bytes": 5967,
+      "sha256": "8f325cf7739a11a8cd262fc56adacf7b136be684b6e7345f56c9d278ab952a73",
+      "git_blob": "7b6025c3d0169bac39937d6a85db9ba4c010021e"
+    },
+    {
+      "path": "cn/479_The_Key_Was_Not_Mine.md",
+      "chapter": 479,
+      "language": "cn",
+      "title": "不是我的钥匙",
+      "bytes": 5893,
+      "sha256": "9bc9606216a2fed8281624496e45d5237222a9fa37b015752b13285ee7aa00c8",
+      "git_blob": "8cbc8db6e9a798518b14b7c7f523c879604bea67"
+    },
+    {
+      "path": "cn/480_The_Far_Pavement.md",
+      "chapter": 480,
+      "language": "cn",
+      "title": "马路的另一边",
+      "bytes": 5784,
+      "sha256": "66cafe577622d7d696d6be9f23285716c6a2ad8480d93e519a0672b4eef28fb4",
+      "git_blob": "b542918a0e920bea4c928691c27b446e89f04b5b"
+    },
+    {
+      "path": "cn/481_The_Shade_Goes_First.md",
+      "chapter": 481,
+      "language": "cn",
+      "title": "先过去的是树荫",
+      "bytes": 5134,
+      "sha256": "baab9ea8110070c8f36d6aa8170331b5451853d44c533d4808c03eb5ba9fa04d",
+      "git_blob": "922267352a1cb174ab83687e28cba06fd560af06"
+    },
+    {
+      "path": "cn/482_No_Second_Laugh.md",
+      "chapter": 482,
+      "language": "cn",
+      "title": "只笑一遍",
+      "bytes": 5272,
+      "sha256": "4e12e00ef9c0764c1118f2ba1a0a5e20d13306e1b80761b616068d701aa1e381",
+      "git_blob": "95405f647fea949fcfa412e2b0b6b210a9bf4472"
+    },
+    {
+      "path": "cn/483_Which_Monday.md",
+      "chapter": 483,
+      "language": "cn",
+      "title": "星期一是哪一个",
+      "bytes": 6537,
+      "sha256": "332dd5f87b7380ac0374ce473ba8a3f0f5df7d51ce6db7dc930e624d006b5614",
+      "git_blob": "cf289e993cc468e6d6507df2f055bf28452375f5"
+    },
+    {
+      "path": "cn/484_Do_I_Still_Get_a_Turn.md",
+      "chapter": 484,
+      "language": "cn",
+      "title": "还轮得到我",
+      "bytes": 6858,
+      "sha256": "dc7168df9a03ab058b595d5518bac18f94c66927f4cbc528dc60254efee73df4",
+      "git_blob": "2d849b0f1eea39ae9afa2ef844bef99f97009b76"
+    },
+    {
+      "path": "cn/485_Almost_at_the_Door.md",
+      "chapter": 485,
+      "language": "cn",
+      "title": "差一点到门口",
+      "bytes": 5932,
+      "sha256": "088f86af933559af5db9432fe173d684bd6a7937591f8be08de102ce52a47b68",
+      "git_blob": "4ddf18e46e4533c08bc63b8774e0f9b6b8c11630"
+    },
+    {
+      "path": "cn/486_Say_It_a_Little_Closer.md",
+      "chapter": 486,
+      "language": "cn",
+      "title": "走近一点再说",
+      "bytes": 5542,
+      "sha256": "16938b44e8845606e3b6fc89f9c53b3e73e0c41d02d24fa41e3203dd4b5523d0",
+      "git_blob": "be137924ba34eaeef80560bc36a59f370ec5fe5b"
+    },
+    {
+      "path": "en/477_The_Ticket_in_the_Hem.md",
+      "chapter": 477,
+      "language": "en",
+      "title": "The Ticket in the Hem",
+      "bytes": 7065,
+      "sha256": "55e9c2f6b8e7042684bab4f60986ab5b402eee04b2f862184d648ebeefd76aff",
+      "git_blob": "d76093036668cf3a1919d45f587257bd312cd624"
+    },
+    {
+      "path": "en/478_A_Little_More_Room.md",
+      "chapter": 478,
+      "language": "en",
+      "title": "A Little More Room",
+      "bytes": 7439,
+      "sha256": "4f26951cdc9a030fd8210d803de78d1f0736306ef3e145b31e33c1d1beefb69c",
+      "git_blob": "b350d836c628574c84747cd5c2a1f6a7cc20142c"
+    },
+    {
+      "path": "en/479_The_Key_Was_Not_Mine.md",
+      "chapter": 479,
+      "language": "en",
+      "title": "The Key Was Not Mine",
+      "bytes": 7212,
+      "sha256": "a0f8a9ee42306666393371ee8e284963fc9b01f5fd84ba951429cd7b5d891f9c",
+      "git_blob": "e4f2d6818e55ce04451a8fd24486eb3ec4e50dcd"
+    },
+    {
+      "path": "en/480_The_Far_Pavement.md",
+      "chapter": 480,
+      "language": "en",
+      "title": "The Far Pavement",
+      "bytes": 7537,
+      "sha256": "38d79bf74c73ea0bf319e6bf26a2081f1c53a5c2231d2f1a01c140d9df0d81e0",
+      "git_blob": "c44794c9bdad183a17f1ea860fd4d7c62b7440f1"
+    },
+    {
+      "path": "en/481_The_Shade_Goes_First.md",
+      "chapter": 481,
+      "language": "en",
+      "title": "The Shade Goes First",
+      "bytes": 6760,
+      "sha256": "5ece6958d40a0c473daf70991b5ce458c529bd931efeb261776962bae98647ec",
+      "git_blob": "8f3a3866a003f330109d30ecfc973f5acc5be980"
+    },
+    {
+      "path": "en/482_No_Second_Laugh.md",
+      "chapter": 482,
+      "language": "en",
+      "title": "No Second Laugh",
+      "bytes": 7012,
+      "sha256": "259d4de25cb13ae6db61888ab3ed893498316096d454bf9321a8b756735ff467",
+      "git_blob": "54a5842997dfaddab90d9419b12f51d6284bd81c"
+    },
+    {
+      "path": "en/483_Which_Monday.md",
+      "chapter": 483,
+      "language": "en",
+      "title": "Which Monday?",
+      "bytes": 8208,
+      "sha256": "775ea9df5dd469dc7a2119351d0d4968fb086ee34ef27a87e85534d86ad0e0e3",
+      "git_blob": "742bc4cbaea8cde06452718dd5022d7aa29f8f34"
+    },
+    {
+      "path": "en/484_Do_I_Still_Get_a_Turn.md",
+      "chapter": 484,
+      "language": "en",
+      "title": "Do I Still Get a Turn?",
+      "bytes": 8738,
+      "sha256": "d2cd59df7c9a45a1135f1c5a21497142167d8686678939210430288ea8a77582",
+      "git_blob": "bcd46137d03c5f234c554475c19c5213c0d604ce"
+    },
+    {
+      "path": "en/485_Almost_at_the_Door.md",
+      "chapter": 485,
+      "language": "en",
+      "title": "Almost at the Door",
+      "bytes": 7535,
+      "sha256": "777035c5405c65518591537de548f5ab6bf7b3a5930d57d9a407bb7ce27e90ab",
+      "git_blob": "999c55068b69fdbe678d1f9afacdaf6afae7fabc"
+    },
+    {
+      "path": "en/486_Say_It_a_Little_Closer.md",
+      "chapter": 486,
+      "language": "en",
+      "title": "Say It a Little Closer",
+      "bytes": 7336,
+      "sha256": "751b2ae2d109a3d0f396863e738d67091c257068eabdc55a208d781febb0daaa",
+      "git_blob": "1b46d3155d45561c72a427196f7ec8e6cd9b9bbf"
+    }
+  ]
+}
