@@ -1,0 +1,199 @@
+{
+  "novel_id": 6505,
+  "date": "2026-11-23",
+  "chapters": [
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496
+  ],
+  "novelpia_published": false,
+  "files": [
+    {
+      "path": "cn/487_The_Unmarked_End.md",
+      "chapter": 487,
+      "language": "cn",
+      "title": "不带刻度的那一头",
+      "bytes": 6837,
+      "sha256": "4b1b69e1b2c811a270ec0b75ae25c596d26f1509776a967d7634dc99d0814364",
+      "git_blob": "c6b44e7d280f787b54d325f80fd5b1ca37f8f60e"
+    },
+    {
+      "path": "cn/488_From_the_Far_End.md",
+      "chapter": 488,
+      "language": "cn",
+      "title": "从另一头看",
+      "bytes": 5918,
+      "sha256": "c96646f52f67f6869ca4005d3e33b41a129e610bb150a0657747d7a6ef8ee040",
+      "git_blob": "0c91ae4f7dbf25d6f046b5763a5d9634d01c88c5"
+    },
+    {
+      "path": "cn/489_Half_a_Turn.md",
+      "chapter": 489,
+      "language": "cn",
+      "title": "半圈",
+      "bytes": 5739,
+      "sha256": "7bfd35c4ee6f4a4470b4ad7a22de1c8c4cf3a7813ad12fb26e210ac81e11ea7d",
+      "git_blob": "30d69aa5ae895e7318155f78d55e1851bea8c3fa"
+    },
+    {
+      "path": "cn/490_The_Cup_With_No_Handle.md",
+      "chapter": 490,
+      "language": "cn",
+      "title": "没有把手的杯子",
+      "bytes": 5905,
+      "sha256": "f6fac2e0a5e1f6f12725a55f5be5dc61da1c4c8e31e577cfcb9827c0c90a9423",
+      "git_blob": "d7b9c2c32f5305f16bdb57b6b302a6d8fe48dfd5"
+    },
+    {
+      "path": "cn/491_The_Price_on_the_Pavement.md",
+      "chapter": 491,
+      "language": "cn",
+      "title": "人行道上的价钱",
+      "bytes": 5749,
+      "sha256": "20bdc309328a60c67bb78ad09fc7961e47ce9f90c3955f604e315904d5da5d4a",
+      "git_blob": "a145e735c7b47364ff01817fbd189b9c50872a75"
+    },
+    {
+      "path": "cn/492_An_Impolite_Colour.md",
+      "chapter": 492,
+      "language": "cn",
+      "title": "一种不客气的颜色",
+      "bytes": 5727,
+      "sha256": "d272e601894509929b489b7d7429a4e59280c41b4a583ec60c5d646915573d29",
+      "git_blob": "83111512192df63c218c53a485ab0d2d4c73a6db"
+    },
+    {
+      "path": "cn/493_The_Note_Under_the_Bridge.md",
+      "chapter": 493,
+      "language": "cn",
+      "title": "桥下那个音",
+      "bytes": 6757,
+      "sha256": "fe540b83cad08c09946a5a700cff3215e34a4fe08dce0f57c0bfbcbe77054b74",
+      "git_blob": "3b6c919caae40c7993609b2ce1a33cdd6191abed"
+    },
+    {
+      "path": "cn/494_The_Line_Along_the_Heel.md",
+      "chapter": 494,
+      "language": "cn",
+      "title": "后跟边上那一道",
+      "bytes": 6578,
+      "sha256": "857d3db9e1da54a4d87b3d715310d36fddf1ea4c37bc706db51e5180081ca21f",
+      "git_blob": "2dd743b536c9eb3e453b30d56ef4361b926712e3"
+    },
+    {
+      "path": "cn/495_The_Other_Half_of_the_Table.md",
+      "chapter": 495,
+      "language": "cn",
+      "title": "桌子的另一半",
+      "bytes": 7609,
+      "sha256": "4887a6befc33b0c15d5e937a39c9fe83311b29c4cf0942ce30418245f32b599b",
+      "git_blob": "a7733d3b94f043e7000442de00f196a4b69e5519"
+    },
+    {
+      "path": "cn/496_Not_Calling_You_Back.md",
+      "chapter": 496,
+      "language": "cn",
+      "title": "不是在叫你回来",
+      "bytes": 6108,
+      "sha256": "6060798b7d9c0235db7e112e28328f16dd2757033959534bb6c8e97a1758c3c0",
+      "git_blob": "801ae19d0cdab6b51ca4bd83405c8f2ee1953035"
+    },
+    {
+      "path": "en/487_The_Unmarked_End.md",
+      "chapter": 487,
+      "language": "en",
+      "title": "The Unmarked End",
+      "bytes": 8197,
+      "sha256": "406a2ab812243efe4e2fe1c8984f8309f8c3bf137652f67a8c8af8b4d6f9d5fe",
+      "git_blob": "d84ed8ee6b0397bc4a145fedb56c78d39e38f119"
+    },
+    {
+      "path": "en/488_From_the_Far_End.md",
+      "chapter": 488,
+      "language": "en",
+      "title": "From the Far End",
+      "bytes": 7208,
+      "sha256": "a25f33cea4e1d2e01a0000d9c1547d4954fcbcc5f4b5ccdbf2d4e45550e6e5ca",
+      "git_blob": "ba904bdb125041496bd6f2904f8d1642aa22424e"
+    },
+    {
+      "path": "en/489_Half_a_Turn.md",
+      "chapter": 489,
+      "language": "en",
+      "title": "Half a Turn",
+      "bytes": 7056,
+      "sha256": "d33f6a2c9ad5dad954bedcd9bf8e0fae5c6ec9734f43fc0315cedf9d7e5e5fd8",
+      "git_blob": "e94450244f896f2d3a845271796cfca195947f3e"
+    },
+    {
+      "path": "en/490_The_Cup_With_No_Handle.md",
+      "chapter": 490,
+      "language": "en",
+      "title": "The Cup with No Handle",
+      "bytes": 7340,
+      "sha256": "e24d9876e39ec8b4c232a47cb7a2d8def87141765f5fff8f227f6ad1c3afd4de",
+      "git_blob": "b34b53e5102819688cae256a441f527e694d4dbb"
+    },
+    {
+      "path": "en/491_The_Price_on_the_Pavement.md",
+      "chapter": 491,
+      "language": "en",
+      "title": "The Price on the Pavement",
+      "bytes": 7463,
+      "sha256": "6931777ffb83f539624542c3777f13da5344cd21c99e0275f256398d1cd7707f",
+      "git_blob": "7e625ed8ba612a67040e69899c43798f184c784c"
+    },
+    {
+      "path": "en/492_An_Impolite_Colour.md",
+      "chapter": 492,
+      "language": "en",
+      "title": "An Impolite Colour",
+      "bytes": 7398,
+      "sha256": "ed42cc1a9271b71845146d0d96a3e988620c744a5ade9584e4bfd78c91e768c2",
+      "git_blob": "18139e640caf15fec8cea851247aec87a1ac8797"
+    },
+    {
+      "path": "en/493_The_Note_Under_the_Bridge.md",
+      "chapter": 493,
+      "language": "en",
+      "title": "The Note Under the Bridge",
+      "bytes": 8292,
+      "sha256": "72d2b55c502806bd66e43cfd30295f3016ae12c47fe2a724a5b48fa4019a7a81",
+      "git_blob": "949090c29e1378a1530c77b9e236326395208c68"
+    },
+    {
+      "path": "en/494_The_Line_Along_the_Heel.md",
+      "chapter": 494,
+      "language": "en",
+      "title": "The Line Along the Heel",
+      "bytes": 7832,
+      "sha256": "aa897870febdcce06e7d22fc4740424066cf13a42e02250b5238c354b214a46e",
+      "git_blob": "625d0f9be68d73d5095ff45d9e6426ff83b9538d"
+    },
+    {
+      "path": "en/495_The_Other_Half_of_the_Table.md",
+      "chapter": 495,
+      "language": "en",
+      "title": "The Other Half of the Table",
+      "bytes": 9012,
+      "sha256": "ee945a597e37665a3796f65eae4245de58d572b803bbe28a0ba8ce1514af2170",
+      "git_blob": "a0bed82cc251bd6f5bbeef9dfee13464557d9ede"
+    },
+    {
+      "path": "en/496_Not_Calling_You_Back.md",
+      "chapter": 496,
+      "language": "en",
+      "title": "Not Calling You Back",
+      "bytes": 7405,
+      "sha256": "1755830417725d99b6b269d2795960fb0fdce9b9fc187d019a31f4b7ac7a5bda",
+      "git_blob": "8a5b259f17cd091c27c4c16e532889453e4101ae"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# Chapter 491: The Price on the Pavement
+
+On my way home on Tuesday the soup shop on the corner put its prices on the pavement. It wasn't done in chalk. The owner was crouching in front of the board by the street. As he started to pull a white card out of the frame, the one behind it came out too and fell. It landed across a join in the pavement with one corner pushed into the crack. Two soups and two prices were written on it. Somebody came along wheeling a bike and nearly got the corner under the back tyre. The owner said wait a second and picked it up without getting to his feet. He held the card at his chest and knocked the dirt off with the back of his hand. One of the numbers in the price of the second soup was missing a stroke. I was standing right beside the board and even I couldn't see what it had been before.
+
+The shop had only sold one kind of soup before. They didn't even change it in the summer. Now there was a new notice on the glass about one with hot cream in it. Some people had lined up as far as the door. Others read the paper and kept walking. I looked from the card in his hand to a clear patch just inside. The people waiting outside didn't seem to want to stand there. It wasn't that they were leaving room for anybody to come out. The low sun came across that bit of floor so brightly you couldn't see the person in front of you.
+
+“New prices go in the front?” I asked him.
+
+He was still crouching. He said the two cards were stuck together. He still had to clean the new one up and take the old one out. That was when I saw the card in his hand wasn't being held up for me. He hadn't asked me to lend a hand either. I pointed out the other card. It had only come halfway out of the channel. A piece the length of my thumb stuck up with the writing upside down.
+
+“If you're waiting for soup you can go on in,” he said. “There are prices by the till. I've got to find a cloth first.”
+
+I said I had to make up my mind whether I was having soup. He nodded and went in through the sunlight. The man with the bike had got round the board by now. He stopped beside a low post, held the wheel with his leg, and started turning up his trouser cuff. I stood along the wall. He realized the handlebars were across half the pavement and drew the bike back a couple of inches farther than he needed to. Now there was room for a pushchair as well.
+
+Beyond the glass, another member of staff was serving soup with a ladle that looked hard to hold. It had such a long handle that her hand was a good way above the pot. The woman in the door asked whether she could get hers without bread. The girl looked down at the bags and said the bread wasn't included anyway. Two of the coins the woman had brought up went back into her pocket. She came out with both hands around a paper cup and didn't turn her face away from the sunlight. It wasn't until she'd gone a little way down the street that I noticed she hadn't used a lid. A bit of steam hung in front of her chin.
+
+The board had two sides. I'd always thought of it as a board with bare wood on the back. When they changed this side, nobody turned to see what was on the other. I took two steps towards the door and saw that both soups were listed on the back, with a price under each. One was vegetarian and one had meat in it. I didn't have to guess the stroke that was missing from the other side. The one with cream was the vegetarian one, and it was a little cheaper than I'd thought. I didn't really want the cream. When it was my turn I ordered the soup with meat, no bread. The girl wrapped the ladle handle in a cloth before she dipped it and was able to bring her hand lower. I paid, left the plastic spoon in the box by the counter and said I had a spoon at home. She fitted the lid in front of me, pressed it once, then a second time. She didn't make me check it with my own hand.
+
+I carried the cup back through the patch of sunlight. The owner was coming out with a blue cloth. I told him you could read the prices on the back. I didn't tell him to turn the board around. He said he'd done the back in the morning. Now there was only this side left. In the morning people came in without stopping. Later on there were more people who read the street side first. He put the cloth over his shoulder and braced a foot of the board with his leg. The card came out easily. Seeing I was still there, he asked if I'd wanted to say something. I said I'd wanted to see whether the card he was taking out had the old soup on it.
+
+“Have a look then,” he said. He turned it upright and handed it to me. There was only the one soup: the one with meat, the same price as now. I gave him the card back. I'd seen two pieces of print on top of each other and been so sure something underneath must have changed.
+
+By the next crossing the soup wasn't as hot. I didn't need both hands on it anymore. For a moment I thought of using the free hand to look for my keys, but there was no point yet. Home was still a fair way round the corner. Two people standing at the crossing looked like they knew one another, though they were looking in opposite directions. When the light changed, a child with a paper bag went first. The bag almost came to the child's knees and flipped against one leg. I crossed behind the others. At my door I put the cup on the sill and used one hand to let myself in. The wisp of steam from the edge of the lid disappeared at once.
+
+After eating I opened the old voice channel. At first I only told Lumi I’d hesitated outside the shop before I bought the soup. I didn’t mention the price. She asked if it had cost more than I expected. No, I said. It was something else I'd got wrong. I'd seen the old card and the new one together and thought both prices must have changed. It turned out the old one was still the same. She asked what the other one used to cost. I said they hadn't sold it before. She laughed quietly. She didn't give me the words back like a joke I'd intended to tell.
+
+“Have you ever stood in a light so bright you couldn't see who was talking?” I asked.
+
+“Not what you're describing.” She waited. “I could try to imagine it from what you've said. But I'd rather know first if the light was on your face.”
+
+I said I hadn't stood in it. I watched from one side and only passed through it when I came out with the soup. The sun was quite warm on my face. The odd thing was I was only thinking about not putting my foot on the white card. The owner had already picked it up. I told her that part too.
+
+“You didn't have to keep that bit of ground clear for anybody by then,” she said. After a while she told me she'd been talking to herself. She'd very nearly put together the step she thought I might have taken, even though she knew I hadn't. The step might have been all right. She felt as though she'd been crouching over it too long. I asked if she'd stood back up now.
+
+“A little,” she said. “You don't have to tell me which side to put my foot down on.”
+
+The empty cup was still in front of me. I pressed on its lid. I'd done the same thing before I ate, but only now did I notice the click came from the far side. I took the lid off and put the two pieces where each went according to the bins in our building. Lumi had said goodbye by the time I turned off the channel. I said it back. There was nothing left on the sill. The steam I'd seen at the door was long gone. The glass didn't need wiping.
