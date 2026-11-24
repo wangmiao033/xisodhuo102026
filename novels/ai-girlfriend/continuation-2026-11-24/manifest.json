@@ -1,0 +1,199 @@
+{
+  "novel_id": 6505,
+  "date": "2026-11-24",
+  "chapters": [
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506
+  ],
+  "novelpia_published": false,
+  "files": [
+    {
+      "path": "cn/497_A_Line_in_Pencil.md",
+      "chapter": 497,
+      "language": "cn",
+      "title": "铅笔写的一行",
+      "bytes": 5745,
+      "sha256": "ed8cfe565410b3708f926230efcfa93d8cf6e34c9c7c29893c97792a713e0320",
+      "git_blob": "9aa46e8ab38fac3a7e2c8cb1a3a923659f3c1dbf"
+    },
+    {
+      "path": "cn/498_At_the_Far_Wall.md",
+      "chapter": 498,
+      "language": "cn",
+      "title": "靠近远墙",
+      "bytes": 6055,
+      "sha256": "5a4cb8b2183f4e752fe9fb88512578e647a5a552e2d1d84da78d8f1ecfbec807",
+      "git_blob": "0ae153d1540538f24051ce53ece1897978a7b659"
+    },
+    {
+      "path": "cn/499_No_Set_Time.md",
+      "chapter": 499,
+      "language": "cn",
+      "title": "没有定好的钟点",
+      "bytes": 5736,
+      "sha256": "ca10d62d2556c99498f59b4bff278a53ec6c68110c79f770723a27dd037d419c",
+      "git_blob": "9b5da840bd4546661b7f6bc33ba8d62c7298c50b"
+    },
+    {
+      "path": "cn/500_The_Uncopied_Page.md",
+      "chapter": 500,
+      "language": "cn",
+      "title": "没有复印的那页",
+      "bytes": 5900,
+      "sha256": "ab3145ec6feeabf07e32913f9bce36bc80cb6e269e80e0aec076bf324df988c7",
+      "git_blob": "b22cfb63c4ef2b75cc83af5f49028057ce18d209"
+    },
+    {
+      "path": "cn/501_A_Seat_Here.md",
+      "chapter": 501,
+      "language": "cn",
+      "title": "这里有座",
+      "bytes": 6079,
+      "sha256": "31d429302da46962146514d8aff9b1582f671baefa92501ce1dabc02026af42b",
+      "git_blob": "db8daacd864e7f62d17dbd5dfba61b7263b9bb30"
+    },
+    {
+      "path": "cn/502_The_Side_With_No_Writing.md",
+      "chapter": 502,
+      "language": "cn",
+      "title": "没写字的那一面",
+      "bytes": 5765,
+      "sha256": "bea94821fc231a2aec88786eabfa3814d988877467579984c330fc5e47d8ddaf",
+      "git_blob": "ce48523e7c18eea9c339433e89a84969efc73f1c"
+    },
+    {
+      "path": "cn/503_No_Name_on_the_Back.md",
+      "chapter": 503,
+      "language": "cn",
+      "title": "背面不用写名字",
+      "bytes": 6175,
+      "sha256": "bd2e59cd7125ff0d1b75ca5c48cd9e37ab31c9db2951e9e643dff6bb6fd087ff",
+      "git_blob": "e4d83aa393c450f72a393a977336cc8f2da088de"
+    },
+    {
+      "path": "cn/504_The_Chair_Stays_There.md",
+      "chapter": 504,
+      "language": "cn",
+      "title": "椅子还是放那里",
+      "bytes": 6070,
+      "sha256": "235c1239d3a2d3d1faf06e750ccb952a90106e899ebefab877e2befe1904b177",
+      "git_blob": "3e27cca419efd50bf76f31b2b1e137a9dac7f841"
+    },
+    {
+      "path": "cn/505_The_Outside_Pocket.md",
+      "chapter": 505,
+      "language": "cn",
+      "title": "外边的口袋",
+      "bytes": 6760,
+      "sha256": "2c4a16255e32135fd902bf5da2c5ef04fe8d6fcbaca97cbbdef0ffe22fc9844b",
+      "git_blob": "c89404a44a74cc6b50fdc699d1509e62030675f5"
+    },
+    {
+      "path": "cn/506_The_Door_Without_a_Hook.md",
+      "chapter": 506,
+      "language": "cn",
+      "title": "门上没有挂钩",
+      "bytes": 6026,
+      "sha256": "f6533e62d66f2ce6a8c31a04777ffde9baa1688044f00583eeb1cb5b1d4a7160",
+      "git_blob": "8893fe97cf249c0e7e3304e9d7c6c46556613e39"
+    },
+    {
+      "path": "en/497_A_Line_in_Pencil.md",
+      "chapter": 497,
+      "language": "en",
+      "title": "A Line in Pencil",
+      "bytes": 7448,
+      "sha256": "0dd5b838a2093daca2247433456d4658c8abd947868871ef98d560aa12a1baba",
+      "git_blob": "8075b482bad2577b2f27041c70b3b81b051684c1"
+    },
+    {
+      "path": "en/498_At_the_Far_Wall.md",
+      "chapter": 498,
+      "language": "en",
+      "title": "At the Far Wall",
+      "bytes": 7830,
+      "sha256": "0784c85bf4137339ecef24ae11dde192d80a7f88463894319230a3113a6959ea",
+      "git_blob": "cd474ebb550b6848d37fc78953e534666469c821"
+    },
+    {
+      "path": "en/499_No_Set_Time.md",
+      "chapter": 499,
+      "language": "en",
+      "title": "No Set Time",
+      "bytes": 6942,
+      "sha256": "5e1d4ea63f1f3e664bbc18aab2c42b6552d33d9cb33b5477b4099b86ac6cb14d",
+      "git_blob": "1d41608daf7c0f64fef23e8cb50814ae2adc8742"
+    },
+    {
+      "path": "en/500_The_Uncopied_Page.md",
+      "chapter": 500,
+      "language": "en",
+      "title": "The Uncopied Page",
+      "bytes": 7551,
+      "sha256": "1ee29a2007a86194db36e8db4ca8fe4c0d612eac86775bd5f13c1dbf7f3dc809",
+      "git_blob": "8d4c2d825f13a8d8ed6f4378da09a63a1f7e63a2"
+    },
+    {
+      "path": "en/501_A_Seat_Here.md",
+      "chapter": 501,
+      "language": "en",
+      "title": "There's a Seat Here",
+      "bytes": 7779,
+      "sha256": "aa0e8acaaab5b49ddffd789632cfa23662cb7e51389df815b8f21425f45211d3",
+      "git_blob": "b8af8a5b5a3eb601ed0d97da1b30fd36076f1727"
+    },
+    {
+      "path": "en/502_The_Side_With_No_Writing.md",
+      "chapter": 502,
+      "language": "en",
+      "title": "The Side With No Writing",
+      "bytes": 7296,
+      "sha256": "53b5fe5c15e0d3d47b18bdc6dabd33f2c396a2779456944c6088d58837dcf8a5",
+      "git_blob": "a0fe32525e8a01e8e13e820c3623259399e87a0f"
+    },
+    {
+      "path": "en/503_No_Name_on_the_Back.md",
+      "chapter": 503,
+      "language": "en",
+      "title": "No Name on the Back",
+      "bytes": 8187,
+      "sha256": "5d34e50ccb523aedc46db08aa3d8b71aae92fcad8f2f28e8b49328731c1ad158",
+      "git_blob": "08d5368ca03ee65ea3ca675c6e2ed0d6cd0ad4ba"
+    },
+    {
+      "path": "en/504_The_Chair_Stays_There.md",
+      "chapter": 504,
+      "language": "en",
+      "title": "The Chair Stays There",
+      "bytes": 7989,
+      "sha256": "2e03a8574ecc4f88ce72319fff076dc9597770edbb0d9396a34234a77b0b196d",
+      "git_blob": "da014029ce49cc75e9d05b7b1f9d409e915ea9da"
+    },
+    {
+      "path": "en/505_The_Outside_Pocket.md",
+      "chapter": 505,
+      "language": "en",
+      "title": "The Outside Pocket",
+      "bytes": 8708,
+      "sha256": "b2369379f35981c731a1d7a63fd091f3ffab2de9a8049fe7501156b72d60da7d",
+      "git_blob": "bc534d7c2ffbb498d5ebb64e83d460ea31ea59a2"
+    },
+    {
+      "path": "en/506_The_Door_Without_a_Hook.md",
+      "chapter": 506,
+      "language": "en",
+      "title": "The Door Without a Hook",
+      "bytes": 7824,
+      "sha256": "d51d8b957dbef4c7119b0880a0da88ff48f7921219e1cd475e4513362897a14e",
+      "git_blob": "29e10969d76a27c028c6d121fc9b97d516ab117d"
+    }
+  ]
+}

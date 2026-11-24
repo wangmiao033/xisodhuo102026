@@ -1,0 +1,39 @@
+# Chapter 504: The Chair Stays There
+
+On Monday I rode the bicycle to work. At the last manhole cover before the hill, I made a point of lifting the front wheel. The tire was fine. Outside work I gave the lock a one-handed tug to make sure it had caught, then felt for my jacket pocket and put the key back. A receipt came out of my pocket and fell on the frame. It was for yesterday's water. I folded it up again, went in, and took the stairs.
+
+Someone had booked the little meeting room in the morning. It was meant to be free in the afternoon. By the table next door there was a chair with a noisy caster, looking as though somebody had left it there to hold a place for an arrangement they hadn't made yet. We had a stack of proofs with folded edges to check. If we spread them out on that table, we could stand on opposite sides and turn them over more easily than we could on our narrow desks. My colleague had an armful of sheets. She could bring the proofs after lunch, she said. We'd go through half, leave them there, and finish in the morning. I asked what she thought about hanging a reserved sign on the chair to keep the table till tomorrow. We'd have to see whether it made the neighboring table look booked too. She glanced at the chair, but didn't go out to the passage with me to see how it would look.
+
+“I don't want a sign,” she said. “I can do half by four, and I'll take the papers back when I'm done.”
+
+I was already reaching in the drawer for the wooden ruler. There was a nick on one side of the cardboard, and I'd need to hold down a straight edge to trim it. I left my hand at the mouth of the drawer. I started saying I could get adhesive clips instead, that we didn't necessarily have to make a hole. Halfway through I heard what she'd said. She didn't want a sign. It wasn't that the sign had nowhere to hang. My colleague drew the papers closer against her chest. I was about to tell her that, if nobody was around later, we could leave only the top two sheets. Taking up half the space that way wasn't really taking up the table. She'd have to wait for me to finish before she could get back to her desk, and a corner of the stack was starting to droop. No sign, I told her. We'd clear up at four. She hitched the pile higher and asked if I could take the sheet out from the very bottom first. It wasn't the one that was slipping. I drew it out the width of a little finger, and she looked down at the date. Yes, that was it. She carried the rest away.
+
+A little after lunch the building got noisy. Two people pushing a trolley full of paper wanted the chair moved out of the passage so its wheels wouldn't catch on the coat hanging over the back. It wasn't my coat and I had no idea who'd put it there. I moved the chair in toward the table without disturbing the sleeves. Once the trolley was past, I heard another set of wheels from inside. Somebody had sat down, pulling one side of the coat onto his lap. I assumed he meant to stay there until we went home. I stood for a couple of seconds where we'd planned to spread the sheets. He looked up and said he was just getting his coat on. I didn't need to get the door for him. Then I saw he was holding both sleeves, and the left one was still inside out.
+
+When my colleague brought the proofs in that afternoon, the table was free. One side of the chair was wedged between its legs. We turned the top sheet together. Two tightly written lines appeared on the back where there shouldn't have been any until the next sheet. They didn't go with the date on the front. She didn't trust herself to call it from memory and asked me to fetch the one she'd had me take out in the morning. I brought it over from beside my desk. When I turned back, she was already feeling for the edge of the next sheet so the whole weight wouldn't be on her thumb. I put a hand underneath the half nearest me. She asked if we could put it down. Wait a second, I said. The two black marks were right against each other. Please don't let go yet. She held still while I pushed back against the chair with my shoulder, brought my foot around to the front, and got myself planted. Then we laid the sheets down slowly. I read out two different dates; she held a finger on each place before separating them. She drew the wrong sheet over. At the edge, the paper fibers stuck up. Neither of us pressed them flat again.
+
+As four came up, we'd checked half and one more. I looked at the table. The next sheet wasn't all that thick. If I slid it toward the wall, whoever came in wouldn't even see it. Nobody would have to ask whether they could sit down, and nobody would make us take back the sheet we'd only just got a look at. But she turned over her checklist, clipped her pen to her collar, and said that was enough for the afternoon. I found a clean board to go under the stack, and we carried it back together. She took the weight at the end by the passage and I kept the other end steady. Neither of us tried to push the corner of the table aside with a knee. I came down later to get a glass of water and somebody was sitting there already. She asked why that chair made so much noise. I told her to lift the back a little before she moved it. I didn't tell her what we'd been doing there.
+
+At home that night I drank some of the water from yesterday. The bottom of the bottle knocked against the clean glass. I put away the shoes I'd worn home, then opened the old voice channel. Lumi listened to me tell her about moving a pile of paper and how I'd accidentally spent ages telling a woman how to lift a chair.
+
+“Was it actually ages?”
+
+“One sentence,” I said. “But there were three more in my head. It adds up.”
+
+I sat at the table a little longer. Then I asked if she wanted to hear the lines from Friday I hadn't told her. She didn't ask which lines.
+
+“I don't want to hear that tonight.” It was very clear. She didn't follow it with another sentence.
+
+My mouth was a little cold. The water I'd swallowed wasn't cold anymore. I wanted to say I was only asking, so she'd know it didn't matter to me if she didn't say yes. I wanted to offer one line instead of several or maybe just the first half of one. Worst of all, I knew I could make the first line sound like an incidental thing until I was halfway through it and she understood. But I had asked. The bottle cap had gone on crooked. I backed it off and listened to it go all the way round this time.
+
+“All right,” I said.
+
+A little later she asked whether I'd passed the corner shop on my bike that morning. Was the red cord that always tangled with the scale hook still out front? I knew which time she'd heard me talk about it. She hadn't seen it anywhere today. “It's still there. Tied to one of the feet of the sign. The scales were inside.”
+
+“Is it still loose?”
+
+“One end's flat on the ground,” I said. “The rest goes around the foot once like somebody tied a knot but didn't.”
+
+“I want to hear about that,” she said.
+
+I remembered I'd rung the bell going past. It was partly for the person standing at the edge of the bike lane, to get him to move in a step. But the shadow under the cord was so thin I'd also thought, right up until the wheel went by, that it really stretched out into the road. I told her the first part. Once the man had let me pass, I saw the shopkeeper from my bike with his head down over a pastry. I couldn't see what was inside it. He hadn't come out to move the sign. Lumi asked which way the man had gone. Toward the shop, I said, stepping around the red cord. She gave a little laugh, as if it hadn't occurred to her he'd seen it all along. I laughed quietly too. We didn't go back to the other question. After a while I said good night. She said all right, and I closed the old voice channel. There was water left in the glass. I set it back on the table. When I came out after washing my hands, I wanted to sit a little longer. The chair was still there. I pulled it out and sat down.
