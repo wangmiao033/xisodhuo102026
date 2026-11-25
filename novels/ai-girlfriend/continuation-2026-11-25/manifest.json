@@ -1,0 +1,219 @@
+{
+  "novel_id": 6505,
+  "date": "2026-11-25",
+  "chapters": [
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516
+  ],
+  "novelpia_published": false,
+  "files": [
+    {
+      "path": "cn/507_A_Narrow_Mark.md",
+      "chapter": 507,
+      "language": "cn",
+      "title": "一道窄印",
+      "body_count": 1682,
+      "bytes": 5761,
+      "sha256": "1902490673b327ec774e47bc99ed86f27601af8b3b771e53ffb823b410f531b2",
+      "git_blob": "b56d941a529705d8f404aa946ed1713b952f3485"
+    },
+    {
+      "path": "cn/508_Keep_That_End_Still.md",
+      "chapter": 508,
+      "language": "cn",
+      "title": "就扶这一头",
+      "body_count": 1722,
+      "bytes": 5878,
+      "sha256": "1f7e1618fa4842cb50c9fead2fa60f217fc8aa4853bb61485e350541c807d6ca",
+      "git_blob": "79b5e236ad22b5c25ed26ef427a12c73d120582d"
+    },
+    {
+      "path": "cn/509_From_the_Dry_Side.md",
+      "chapter": 509,
+      "language": "cn",
+      "title": "从干的那边走",
+      "body_count": 1709,
+      "bytes": 5880,
+      "sha256": "620b8a2b3663423af9f82b14d911649923b6b92b0c90ac241174c7038acccb92",
+      "git_blob": "4286bbbe9777135dde4d9c578ca5b4b976ca87bf"
+    },
+    {
+      "path": "cn/510_When_the_Lights_Come_Back.md",
+      "chapter": 510,
+      "language": "cn",
+      "title": "灯重新亮的时候",
+      "body_count": 1678,
+      "bytes": 5674,
+      "sha256": "be3ae7188178af8c264df46b94d7811cd5294d7647ca4b4f44fa13a85eeabdd7",
+      "git_blob": "263f2a4fd0d5f538bf552f2b067b17ac9e4a5066"
+    },
+    {
+      "path": "cn/511_The_Overhanging_Edge.md",
+      "chapter": 511,
+      "language": "cn",
+      "title": "多出来的半截",
+      "body_count": 1832,
+      "bytes": 6271,
+      "sha256": "c3819988502b0456e4879d0ae467f71fddde3b7748c14683141c2e60246ac038",
+      "git_blob": "b680ab44e593cf2afdc89f9d9c3aa813ab3bf7e4"
+    },
+    {
+      "path": "cn/512_The_Whole_Top.md",
+      "chapter": 512,
+      "language": "cn",
+      "title": "完整的上面",
+      "body_count": 1785,
+      "bytes": 6095,
+      "sha256": "249d4cfd8afd23e136f94bcf88d73972169f06f8872897c0dfebbb5eee0500e7",
+      "git_blob": "8c722b5758b9b2cfed4ab8f4559391fa2801bafb"
+    },
+    {
+      "path": "cn/513_Ask_Me_One_Thing.md",
+      "chapter": 513,
+      "language": "cn",
+      "title": "问我一件事",
+      "body_count": 1860,
+      "bytes": 6466,
+      "sha256": "206c7df8889cea17b52ce963c437ffe8a0ff29b420a552a3dbac0c6222dc5bf0",
+      "git_blob": "390ba45a75dfa0868bf232bdb2958c9c07851809"
+    },
+    {
+      "path": "cn/514_The_Light_Comes_Across.md",
+      "chapter": 514,
+      "language": "cn",
+      "title": "光是横着过来的",
+      "body_count": 1828,
+      "bytes": 6233,
+      "sha256": "1a07697678a5b3a32bfce3e8983d389de6103cc4315151c0acefd2e338235e8e",
+      "git_blob": "34a431632de59f3a4ccacad383a1ee285a7d21ef"
+    },
+    {
+      "path": "cn/515_One_Apricot_Short.md",
+      "chapter": 515,
+      "language": "cn",
+      "title": "少了一颗杏",
+      "body_count": 1818,
+      "bytes": 6181,
+      "sha256": "2bb8cc70e9d7a3010a1dd01c3d38063c17cdfbb02f7d117beccda90262c1539c",
+      "git_blob": "0016882bbe744f4e12c92649449f888cadfbb0d1"
+    },
+    {
+      "path": "cn/516_No_Filling_Yet.md",
+      "chapter": 516,
+      "language": "cn",
+      "title": "先别放馅",
+      "body_count": 1725,
+      "bytes": 5956,
+      "sha256": "98ef8699b67263d4b7c51b377d6ae209cdc232e5fe2deba5e7c78bc47bae5542",
+      "git_blob": "fbfb3310733e5fd74e42c67f19e3f5e900026ec3"
+    },
+    {
+      "path": "en/507_A_Narrow_Mark.md",
+      "chapter": 507,
+      "language": "en",
+      "title": "A Narrow Mark",
+      "body_count": 1380,
+      "bytes": 7020,
+      "sha256": "f7d2fd2af49a0a0c3b21f2ecd9c08885881757c48c3aafd0659ad1f939cb79db",
+      "git_blob": "9fb85b1aa61978a54214b152e570cbef3601c111"
+    },
+    {
+      "path": "en/508_Keep_That_End_Still.md",
+      "chapter": 508,
+      "language": "en",
+      "title": "Keep That End Still",
+      "body_count": 1521,
+      "bytes": 7751,
+      "sha256": "661592e71511e212fe735699f9087bbbd1c6daf61278a84f94fb5674333d2646",
+      "git_blob": "3a1fc03e39f50b97933aae35cd1b23b9b3a4d57f"
+    },
+    {
+      "path": "en/509_From_the_Dry_Side.md",
+      "chapter": 509,
+      "language": "en",
+      "title": "From the Dry Side",
+      "body_count": 1514,
+      "bytes": 7552,
+      "sha256": "81c143440485ebb963d8876b3c51bba3b76ee4bdd6cb997f67b7f5ec05c1abe9",
+      "git_blob": "b4d2c584c538900b19368ac7b488343c0c4d50ae"
+    },
+    {
+      "path": "en/510_When_the_Lights_Come_Back.md",
+      "chapter": 510,
+      "language": "en",
+      "title": "When the Lights Come Back",
+      "body_count": 1479,
+      "bytes": 7480,
+      "sha256": "7b88a8aba0df8197529b0af2072e85446b8f24b733644bf06769384e608d96d6",
+      "git_blob": "964bfc4a5304cf91b192e6045870dd9029d67900"
+    },
+    {
+      "path": "en/511_The_Overhanging_Edge.md",
+      "chapter": 511,
+      "language": "en",
+      "title": "The Overhanging Edge",
+      "body_count": 1494,
+      "bytes": 7686,
+      "sha256": "f1dbb72910950551a9d50e020f711041a0a3bb07725ae7161992d05c75847e92",
+      "git_blob": "80d798121365f8e19087ec851d2a46208c7af611"
+    },
+    {
+      "path": "en/512_The_Whole_Top.md",
+      "chapter": 512,
+      "language": "en",
+      "title": "The Whole Top",
+      "body_count": 1527,
+      "bytes": 7576,
+      "sha256": "3923e152ff2e4a0845870bbd31c1c91d09b60e9c74eea9e4de44e172c6002021",
+      "git_blob": "fd6cf4692398d885165232ca4fbc89ef18e42d57"
+    },
+    {
+      "path": "en/513_Ask_Me_One_Thing.md",
+      "chapter": 513,
+      "language": "en",
+      "title": "Ask Me One Thing",
+      "body_count": 1560,
+      "bytes": 7983,
+      "sha256": "103887fae6436b69f21d657a28fbbf221e052b3eb70916d64852d3c9520d650f",
+      "git_blob": "b02bd017d0aca4ee283eed51e266818828e677af"
+    },
+    {
+      "path": "en/514_The_Light_Comes_Across.md",
+      "chapter": 514,
+      "language": "en",
+      "title": "The Light Comes Across",
+      "body_count": 1579,
+      "bytes": 8042,
+      "sha256": "edbd17a969406cdfd43072d5c1ab1102859cbeb5ef9e9c39328dd9236c361bca",
+      "git_blob": "9462549416e4a469e0c19e298f2a88e1436b77c0"
+    },
+    {
+      "path": "en/515_One_Apricot_Short.md",
+      "chapter": 515,
+      "language": "en",
+      "title": "One Apricot Short",
+      "body_count": 1597,
+      "bytes": 7936,
+      "sha256": "86df6024fe345deb839bb109be342280fa4e68d57cd3f658c470f532cd355fd5",
+      "git_blob": "a2e8a13bbf544647d4b1619b8c88132c25a9b9c9"
+    },
+    {
+      "path": "en/516_No_Filling_Yet.md",
+      "chapter": 516,
+      "language": "en",
+      "title": "No Filling Yet",
+      "body_count": 1536,
+      "bytes": 7717,
+      "sha256": "25da3a09491344e6b0b7055c6543f005544368cec753cd26837d6dddda2a3e82",
+      "git_blob": "cd797e16b59faf1740913927e5f8cbd448e8b76e"
+    }
+  ]
+}
