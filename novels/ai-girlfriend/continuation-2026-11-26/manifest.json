@@ -1,0 +1,219 @@
+{
+  "novel_id": 6505,
+  "date": "2026-11-26",
+  "chapters": [
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526
+  ],
+  "novelpia_published": false,
+  "files": [
+    {
+      "path": "cn/517_The_Blank_Page_at_the_Back.md",
+      "chapter": 517,
+      "language": "cn",
+      "title": "后面有张白纸",
+      "body_count": 1662,
+      "bytes": 5581,
+      "sha256": "c8f3933b7f50f27f3a56951652208c7faf3b237cf7314edc4a4354dcac73ff6a",
+      "git_blob": "9fbbe271a7e7ccf4dfd1128d1257496e9c94c577"
+    },
+    {
+      "path": "cn/518_The_Second_Envelope.md",
+      "chapter": 518,
+      "language": "cn",
+      "title": "第二只信封",
+      "body_count": 1660,
+      "bytes": 5605,
+      "sha256": "7513a14df1713385058f162066bdc9a96ad614e38a463c210dca46c3420e5094",
+      "git_blob": "f51cb47665dcb1984162b4b5fd5d2f49225559b7"
+    },
+    {
+      "path": "cn/519_The_One_With_the_Bird.md",
+      "chapter": 519,
+      "language": "cn",
+      "title": "有只鸟的那条",
+      "body_count": 1725,
+      "bytes": 5869,
+      "sha256": "31040ad922b72edf384488479390774d0a81905b1dfab2efaace8f9ed0c01a62",
+      "git_blob": "dff0d4f1b8c629d6f4e52ab9336021edb2a38af1"
+    },
+    {
+      "path": "cn/520_The_Last_Place_Inside.md",
+      "chapter": 520,
+      "language": "cn",
+      "title": "屋里的最后一个位置",
+      "body_count": 1660,
+      "bytes": 5668,
+      "sha256": "8190915b15f94d45ba99200d032b3cb62a1636b86af77ce78e7b4a21ee914441",
+      "git_blob": "be46d6b615b4f04ae00056b8382a019635384d31"
+    },
+    {
+      "path": "cn/521_Room_to_Open.md",
+      "chapter": 521,
+      "language": "cn",
+      "title": "留够翻开的位置",
+      "body_count": 1674,
+      "bytes": 5680,
+      "sha256": "94d73e37e16333a0324debe065677bb2c5d94a74764c10882eb47884b23d62c4",
+      "git_blob": "261a83fa1f885e1ce05c26e918336709aa1ff266"
+    },
+    {
+      "path": "cn/522_Not_at_That_Part.md",
+      "chapter": 522,
+      "language": "cn",
+      "title": "不是笑到那儿",
+      "body_count": 1693,
+      "bytes": 5824,
+      "sha256": "d313a5eea74c48cc3beed16e1e072ae9674aba7609f0c025a34480a64f51f117",
+      "git_blob": "efa2f3f8ec1d72c1c9b058dd407e9f4f19f71152"
+    },
+    {
+      "path": "cn/523_The_Dry_Threshold.md",
+      "chapter": 523,
+      "language": "cn",
+      "title": "门槛要干着",
+      "body_count": 1680,
+      "bytes": 5716,
+      "sha256": "ee487dd65de9c7e5c0cf1e9c8d34425124a4c9d2e1ff7697e52e613d3634409a",
+      "git_blob": "0e555fce4c71afb93d2a30fb14facb9038f2bfca"
+    },
+    {
+      "path": "cn/524_Where_the_Track_Divides.md",
+      "chapter": 524,
+      "language": "cn",
+      "title": "岔路画在哪里",
+      "body_count": 1687,
+      "bytes": 5656,
+      "sha256": "adf36903d6f8a691d6b9d376f6047ab07f888f54b01f66198c21f4dee8d54e26",
+      "git_blob": "983e54d5c954a8dacdc9fb66b0dd8c9f7127716b"
+    },
+    {
+      "path": "cn/525_Two_Left_in_the_Room.md",
+      "chapter": 525,
+      "language": "cn",
+      "title": "屋里还得留两把",
+      "body_count": 1706,
+      "bytes": 5778,
+      "sha256": "6e1be0f9dc97664f0fb146f14873e5e5c9cd95583cd9e2ac2b2467208ee7f125",
+      "git_blob": "93fda0e78f4c0ff74db05908164cfdcb1bbbe59a"
+    },
+    {
+      "path": "cn/526_The_Bad_Impression.md",
+      "chapter": 526,
+      "language": "cn",
+      "title": "学得不像",
+      "body_count": 1699,
+      "bytes": 5798,
+      "sha256": "6bb781ef26bc2879f1cb033b8fc073d594c7a8e1c741d41ea87626fd320a6aef",
+      "git_blob": "4e772ad959a6ff5d4858a65ade6e267abd2fd674"
+    },
+    {
+      "path": "en/517_The_Blank_Page_at_the_Back.md",
+      "chapter": 517,
+      "language": "en",
+      "title": "The Blank Page at the Back",
+      "body_count": 1513,
+      "bytes": 7516,
+      "sha256": "1a4d1b62163beb2e2fc9add14b853c83ddfe75d3a0d2b40f80646858c3a342c2",
+      "git_blob": "1cb2ffc3f0c639b8faa73bc671177bcf6253a586"
+    },
+    {
+      "path": "en/518_The_Second_Envelope.md",
+      "chapter": 518,
+      "language": "en",
+      "title": "The Second Envelope",
+      "body_count": 1407,
+      "bytes": 7119,
+      "sha256": "3d4a4009c873fbdd0be141237849915f3d6b198215e3aefed9da2c422bf08f9c",
+      "git_blob": "10ae937b434044039e2e9a3bb94402dbd1c6babd"
+    },
+    {
+      "path": "en/519_The_One_With_the_Bird.md",
+      "chapter": 519,
+      "language": "en",
+      "title": "The One With the Bird",
+      "body_count": 1512,
+      "bytes": 7543,
+      "sha256": "4bdaf3cf2c00a04d99ba1bfe04d82e36d51aed56e28b8f3647be3edb88c7c0f6",
+      "git_blob": "f51893f1cfe292b57a66f01e9eae7c7f038f5ff6"
+    },
+    {
+      "path": "en/520_The_Last_Place_Inside.md",
+      "chapter": 520,
+      "language": "en",
+      "title": "The Last Place Inside",
+      "body_count": 1451,
+      "bytes": 7267,
+      "sha256": "6ebf6b8cd39c8b272f9eabbb886fbd67442e401cc94ec0bcfe244a6a95a0cfde",
+      "git_blob": "c74a0ed444674f574cb4a06ac2d83db2f4ec95ca"
+    },
+    {
+      "path": "en/521_Room_to_Open.md",
+      "chapter": 521,
+      "language": "en",
+      "title": "Room to Open",
+      "body_count": 1476,
+      "bytes": 7329,
+      "sha256": "b672f34416b15ada6b9f17e14b5e15f5f3eefa42d097237338b22573f38ecebf",
+      "git_blob": "5190de30635d9eb8f7ddd2b932722cc2fec6b6bc"
+    },
+    {
+      "path": "en/522_Not_at_That_Part.md",
+      "chapter": 522,
+      "language": "en",
+      "title": "Not at That Part",
+      "body_count": 1430,
+      "bytes": 7330,
+      "sha256": "373cd51b117204eab8aa9773eb3c172fe3da56e64c11410f3bc276361998bd36",
+      "git_blob": "40914ba88d29149ebae381de3e2ebf0a9f0c7e5e"
+    },
+    {
+      "path": "en/523_The_Dry_Threshold.md",
+      "chapter": 523,
+      "language": "en",
+      "title": "The Dry Threshold",
+      "body_count": 1522,
+      "bytes": 7606,
+      "sha256": "f978808b80a17475856886fc3a66c1e394dd9256e32ee07ca72940ab06e27573",
+      "git_blob": "03d91bc36672ef503b8b31ee8d965a02c7e9ce82"
+    },
+    {
+      "path": "en/524_Where_the_Track_Divides.md",
+      "chapter": 524,
+      "language": "en",
+      "title": "Where the Track Divides",
+      "body_count": 1506,
+      "bytes": 7451,
+      "sha256": "a3d961ffd5e18a3ef05b9ed33d68ea6a08fc39aa0be0f786faf0ff2e2ef6b569",
+      "git_blob": "1fb6d4e90fa1d1d00f0b5f96634196e9036ecc7c"
+    },
+    {
+      "path": "en/525_Two_Left_in_the_Room.md",
+      "chapter": 525,
+      "language": "en",
+      "title": "Two Left in the Room",
+      "body_count": 1432,
+      "bytes": 7291,
+      "sha256": "0fa77685ced45681b46473743eb44630cb5f15b50a5c65b7bb823cf27c3faf3b",
+      "git_blob": "6db592480ea07f3598f061677441eb2216198106"
+    },
+    {
+      "path": "en/526_The_Bad_Impression.md",
+      "chapter": 526,
+      "language": "en",
+      "title": "The Bad Impression",
+      "body_count": 1409,
+      "bytes": 7117,
+      "sha256": "ee76538582f9af9774ef7e9a1466fddfd689030791d08c00490db0e7856d336b",
+      "git_blob": "d5bc5a61e965406a5bc8c0c90b1a41fc2f15af50"
+    }
+  ]
+}
